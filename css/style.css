@@ -977,7 +977,10 @@ button.yl-mfull{margin-top:4px}
 
 /* logo Diaspora Connect */
 .cl-diaspora{background-image:url(../images/logos/cl-diaspora.png);width:150px}
-@media(max-width:620px){.cl-diaspora{width:120px}}
+@media(max-width:620px){.cl-diaspora{width:120px}
+/* Logo presque carre : une boite plus haute et plus etroite, sinon il se tasse
+   a 26 px de large a cote des wordmarks. */
+.cl-fjn{background-image:url(../images/logos/cl-fjn.png);height:40px;width:64px}}
 
 
 /* « comment ils travaillent » : traitement console d'agent */
