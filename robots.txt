@@ -1,0 +1,9 @@
+# Yelema — préversion. Le site n'est pas encore publié sur son domaine.
+# À remplacer par la version ci-dessous le jour de la mise en ligne sur yelema.ai.
+User-agent: *
+Disallow: /
+
+# Version de production, à activer avec le retrait du noindex :
+# User-agent: *
+# Allow: /
+# Sitemap: https://yelema.ai/sitemap.xml
