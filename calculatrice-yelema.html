@@ -99,8 +99,42 @@
 .cl-sc:hover{border-color:var(--violet);color:var(--indigo)}
 .cl-note{font-size:12.5px;color:var(--muted);line-height:1.65;margin:12px 0 0;max-width:80ch}
 [hidden]{display:none !important}
+
+/* ── Les deux familles d'outils, la recherche, la ligne libre ─────────────── */
+.cl-fam{font-family:var(--title);font-weight:700;font-size:12.5px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--bleu);margin:26px 0 12px}
+.cl-add{margin-top:28px;padding-top:24px;border-top:1px dashed var(--line)}
+.cl-rechw{position:relative}
+#cl-rech,.cl-libre input{width:100%;font:inherit;font-size:15px;color:var(--indigo);
+  padding:13px 16px;border:1px solid var(--line);border-radius:14px;background:#fff}
+#cl-rech:focus,.cl-libre input:focus{outline:none;border-color:var(--violet);
+  box-shadow:0 0 0 3px var(--lavp)}
+.cl-sug{position:absolute;left:0;right:0;top:calc(100% + 6px);z-index:20;background:#fff;
+  border:1px solid var(--line);border-radius:16px;overflow:hidden;
+  box-shadow:0 22px 50px -26px rgba(30,16,80,.55);max-height:320px;overflow-y:auto}
+.cl-sug button{display:flex;align-items:center;gap:11px;width:100%;padding:11px 15px;
+  background:none;border:0;border-bottom:1px solid var(--line);font:inherit;text-align:left;
+  cursor:pointer;color:var(--indigo)}
+.cl-sug button:last-child{border-bottom:0}
+.cl-sug button:hover{background:var(--lavp)}
+.cl-sug img{width:22px;height:22px;border-radius:6px;flex:none}
+.cl-sug span{flex:1;font-size:14.5px}
+.cl-sug em{font-style:normal;font-size:13px;color:var(--muted);white-space:nowrap}
+.cl-vide{margin:0;padding:14px 16px;font-size:14px;color:var(--muted);line-height:1.5}
+.cl-libre{display:grid;grid-template-columns:1fr 190px auto;gap:10px}
+.cl-libre button{font:inherit;font-family:var(--title);font-weight:600;font-size:15px;
+  padding:13px 22px;border-radius:14px;border:0;background:var(--indigo);color:#fff;cursor:pointer}
+.cl-libre button:hover{background:var(--bleu)}
+.cl-mlist{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.cl-tag{display:inline-flex;align-items:center;gap:8px;background:var(--lavp);
+  color:var(--indigo);font-size:13.5px;padding:6px 8px 6px 13px;border-radius:30px}
+.cl-tag button{border:0;background:rgba(48,22,103,.12);color:var(--indigo);width:20px;height:20px;
+  border-radius:50%;cursor:pointer;font-size:13px;line-height:1;display:grid;place-items:center}
+.cl-quel{display:grid;place-items:center;background:var(--lavp);color:var(--bleu);
+  font-family:var(--title);font-weight:700;font-size:17px}
 @media(max-width:760px){.cl-r{grid-template-columns:1fr}.cl-pan{padding:22px 20px}
-  .cl-ck{grid-template-columns:1fr}}
+  .cl-ck{grid-template-columns:1fr}
+  .cl-libre{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -226,9 +260,10 @@
   </div>
 
   <div class="cl-pan" id="cl-nb" hidden>
-    <p class="cl-t">Qui tient ce métier chez vous ?</p>
-    <p class="cl-p">Comptez les personnes qui y passent une vraie partie de leur semaine,
-       puis dites à quel niveau elles sont payées.</p>
+    <p class="cl-t">Combien de personnes tiennent ce métier chez vous ?</p>
+    <p class="cl-p">Dans la plupart des entreprises, un métier n'est pas tenu par une seule
+       personne. Comptez toutes celles qui y passent une vraie partie de leur semaine, puis
+       dites à quel niveau elles sont payées. Un expert Yelema tient le périmètre entier.</p>
     <div class="cl-nb">
       <button type="button" id="cl-moins" aria-label="Retirer une personne">&minus;</button>
       <output id="cl-out">1</output>
@@ -246,7 +281,29 @@
     <p class="cl-t">Les outils de ce métier</p>
     <p class="cl-p">Nous cochons une pile cohérente. Décochez ce que vous ne payez pas,
        cochez ce que vous payez en plus. Le total se recalcule.</p>
-    <div class="cl-ck" id="cl-ck"></div>
+
+    <p class="cl-fam">Les comptes d'IA</p>
+    <div class="cl-ck" id="cl-ck-ia"></div>
+
+    <p class="cl-fam">Les logiciels du métier</p>
+    <div class="cl-ck" id="cl-ck-saas"></div>
+
+    <div class="cl-add">
+      <p class="cl-fam" style="margin-top:0">Il vous en manque un ?</p>
+      <div class="cl-rechw">
+        <input type="text" id="cl-rech" autocomplete="off" placeholder="Cherchez un outil : HubSpot, Odoo, Figma…"
+               aria-label="Chercher un outil dans le catalogue">
+        <div class="cl-sug" id="cl-sug" hidden></div>
+      </div>
+      <p class="cl-p" style="margin:14px 0 8px">Ou entrez une ligne que nous n'avons pas,
+         avec ce qu'elle vous coûte par mois.</p>
+      <div class="cl-libre">
+        <input type="text" id="cl-mnom" placeholder="Nom de l'outil ou de la dépense" aria-label="Nom de la dépense">
+        <input type="number" id="cl-mprix" min="0" step="1000" placeholder="F CFA par mois" aria-label="Coût mensuel en F CFA">
+        <button type="button" id="cl-madd">Ajouter</button>
+      </div>
+      <div class="cl-mlist" id="cl-mlist"></div>
+    </div>
   </div>
 
   <div id="cl-res" hidden>
@@ -264,8 +321,9 @@
         <p class="cl-u" id="cl-u2"></p>
         <ul class="cl-det" id="cl-det2"></ul>
         <div class="cl-duo">
-          <span class="ph" id="cl-duoav"></span>
+          <span class="ph" id="cl-duoav1"></span>
           <span class="cl-plus2">+</span>
+          <span class="ph" id="cl-duoav2"></span>
           <p id="cl-duotx"></p>
         </div>
       </div>
@@ -302,7 +360,20 @@
 <a class="cl-sc" href="https://asana.com/pricing" target="_blank" rel="noopener"><img src="images/logos/tools/asana.png" alt="" width="18" height="18" loading="lazy"><span>Asana Starter</span></a>
 <a class="cl-sc" href="https://clickup.com/pricing" target="_blank" rel="noopener"><img src="images/logos/tools/clickup.png" alt="" width="18" height="18" loading="lazy"><span>ClickUp Unlimited</span></a>
 <a class="cl-sc" href="https://trello.com/pricing" target="_blank" rel="noopener"><img src="images/logos/tools/trello.png" alt="" width="18" height="18" loading="lazy"><span>Trello Standard</span></a>
-<a class="cl-sc" href="https://www.dropbox.com/plans" target="_blank" rel="noopener"><img src="images/logos/tools/dropbox.png" alt="" width="18" height="18" loading="lazy"><span>Dropbox Standard</span></a></div>
+<a class="cl-sc" href="https://www.dropbox.com/plans" target="_blank" rel="noopener"><img src="images/logos/tools/dropbox.png" alt="" width="18" height="18" loading="lazy"><span>Dropbox Standard</span></a>
+<a class="cl-sc" href="https://one.google.com/about/plans" target="_blank" rel="noopener"><img src="images/logos/tools/google.png" alt="" width="18" height="18" loading="lazy"><span>Google AI Pro</span></a>
+<a class="cl-sc" href="https://elevenlabs.io/pricing" target="_blank" rel="noopener"><img src="images/logos/tools/elevenlabs.png" alt="" width="18" height="18" loading="lazy"><span>ElevenLabs Creator</span></a>
+<a class="cl-sc" href="https://www.intercom.com/pricing" target="_blank" rel="noopener"><img src="images/logos/tools/intercom.png" alt="" width="18" height="18" loading="lazy"><span>Intercom Essential</span></a>
+<a class="cl-sc" href="https://front.com/pricing" target="_blank" rel="noopener"><img src="images/logos/tools/front.png" alt="" width="18" height="18" loading="lazy"><span>Front Starter</span></a>
+<a class="cl-sc" href="https://sleekflow.io/en-us/pricing" target="_blank" rel="noopener"><img src="images/logos/tools/sleekflow.png" alt="" width="18" height="18" loading="lazy"><span>SleekFlow Pro</span></a>
+<a class="cl-sc" href="https://sproutsocial.com/pricing/" target="_blank" rel="noopener"><img src="images/logos/tools/sproutsocial.png" alt="" width="18" height="18" loading="lazy"><span>Sprout Social Standard</span></a>
+<a class="cl-sc" href="https://www.typeform.com/pricing/" target="_blank" rel="noopener"><img src="images/logos/tools/typeform.png" alt="" width="18" height="18" loading="lazy"><span>Typeform Basic</span></a>
+<a class="cl-sc" href="https://www.zoho.com/books/pricing/" target="_blank" rel="noopener"><img src="images/logos/tools/zoho.png" alt="" width="18" height="18" loading="lazy"><span>Zoho Books Standard</span></a>
+<a class="cl-sc" href="https://www.xero.com/us/pricing-plans/" target="_blank" rel="noopener"><img src="images/logos/tools/xero.png" alt="" width="18" height="18" loading="lazy"><span>Xero Growing</span></a>
+<a class="cl-sc" href="https://www.wrike.com/price/" target="_blank" rel="noopener"><img src="images/logos/tools/wrike.png" alt="" width="18" height="18" loading="lazy"><span>Wrike Team</span></a>
+<a class="cl-sc" href="https://linear.app/pricing" target="_blank" rel="noopener"><img src="images/logos/tools/linear.png" alt="" width="18" height="18" loading="lazy"><span>Linear Basic</span></a>
+<a class="cl-sc" href="https://github.com/pricing" target="_blank" rel="noopener"><img src="images/logos/tools/github.png" alt="" width="18" height="18" loading="lazy"><span>GitHub Team</span></a>
+<a class="cl-sc" href="https://about.gitlab.com/pricing/" target="_blank" rel="noopener"><img src="images/logos/tools/gitlab.png" alt="" width="18" height="18" loading="lazy"><span>GitLab Premium</span></a></div>
     <p class="cl-note">Relevés le 04/09/2026 sur les pages officielles des éditeurs, convertis
        au taux du jour (1 € = 655,957 F CFA, parité fixe BCEAO, 1 $ = 564 F CFA). Les
        fourchettes de salaire sont celles du marché d'Abidjan pour un poste équivalent, à
@@ -354,23 +425,46 @@
    b.setAttribute('aria-expanded',m.classList.contains('open'));});})();
 
 (function(){
- var D={"outils": {"gworkspace": {"affiche": "Google Workspace Business Standard", "editeur": "Google", "plan": "Workspace Business Standard", "unite": "siege", "logo": "google", "source": "https://workspace.google.com/pricing", "reserve": "13 €/utilisateur au mois, hors promotion de première année.", "prix": 8527, "origine": "13 €"}, "claude": {"affiche": "Anthropic Claude Pro", "editeur": "Anthropic", "plan": "Claude Pro", "unite": "siege", "logo": "anthropic", "source": "https://claude.ai/pricing", "reserve": "18 €/mois au paiement mensuel, 15 € avec engagement annuel.", "prix": 11807, "origine": "18 €"}, "chatgpt": {"affiche": "OpenAI ChatGPT Plus", "editeur": "OpenAI", "plan": "ChatGPT Plus", "unite": "siege", "logo": "openai", "source": "https://openai.com/chatgpt/pricing/", "reserve": "20 $/mois, tarif relevé le 31/07/2026, la page résiste au relevé automatique.", "prix": 11288, "origine": "20 $"}, "hubspot": {"affiche": "HubSpot Sales Hub Starter", "editeur": "HubSpot", "plan": "Sales Hub Starter", "unite": "siege", "logo": "hubspot", "source": "https://www.hubspot.com/pricing/sales", "reserve": "20 €/siège au mois, 7 € avec engagement annuel, 100 € pour le plan Professional.", "prix": 13119, "origine": "20 €"}, "zohocrm": {"affiche": "Zoho CRM Standard", "editeur": "Zoho", "plan": "CRM Standard", "unite": "siege", "logo": "zoho", "source": "https://www.zoho.com/crm/zohocrm-pricing.html", "reserve": "14 €/utilisateur au mois.", "prix": 9183, "origine": "14 €"}, "apollo": {"affiche": "Apollo.io Basic", "editeur": "Apollo.io", "plan": "Basic", "unite": "siege", "logo": "apollo", "source": "https://www.apollo.io/pricing", "reserve": "49 $/siège avec engagement annuel, 30 000 crédits par siège et par an.", "prix": 27656, "origine": "49 $"}, "calendly": {"affiche": "Calendly Standard", "editeur": "Calendly", "plan": "Standard", "unite": "siege", "logo": "calendly", "source": "https://calendly.com/pricing", "reserve": "10 $/siège au mois, 16 $ pour le plan Teams.", "prix": 5644, "origine": "10 $"}, "crisp": {"affiche": "Crisp Essentials", "editeur": "Crisp", "plan": "Essentials", "unite": "entreprise", "logo": "crisp", "source": "https://crisp.chat/en/pricing/", "reserve": "95 €/mois, dix agents inclus, 45 € pour quatre agents.", "prix": 62316, "origine": "95 €"}, "freshdesk": {"affiche": "Freshworks Freshdesk, premier palier", "editeur": "Freshworks", "plan": "Freshdesk, premier palier", "unite": "siege", "logo": "freshworks", "source": "https://www.freshworks.com/freshdesk/pricing/", "reserve": "17 €/agent au mois avec engagement annuel.", "prix": 11151, "origine": "17 €"}, "mailchimp": {"affiche": "Mailchimp Standard", "editeur": "Mailchimp", "plan": "Standard", "unite": "entreprise", "logo": "mailchimp", "source": "https://mailchimp.com/pricing/marketing/", "reserve": "à partir de 17,35 €/mois, le tarif monte avec la taille de la base.", "prix": 11381, "origine": "17,35 €"}, "brevo": {"affiche": "Brevo Starter", "editeur": "Brevo", "plan": "Starter", "unite": "entreprise", "logo": "brevo", "source": "https://www.brevo.com/pricing/", "reserve": "à partir de 8,10 €/mois, selon le volume d'envois.", "prix": 5313, "origine": "8,1 €"}, "hootsuite": {"affiche": "Hootsuite Standard", "editeur": "Hootsuite", "plan": "Standard", "unite": "siege", "logo": "hootsuite", "source": "https://www.hootsuite.com/plans", "reserve": "99 €/utilisateur au mois avec engagement annuel.", "prix": 64940, "origine": "99 €"}, "figma": {"affiche": "Figma Professional", "editeur": "Figma", "plan": "Professional", "unite": "siege", "logo": "figma", "source": "https://www.figma.com/pricing/", "reserve": "16 €/mois le siège complet.", "prix": 10495, "origine": "16 €"}, "miro": {"affiche": "Miro Starter", "editeur": "Miro", "plan": "Starter", "unite": "siege", "logo": "miro", "source": "https://miro.com/pricing/", "reserve": "8 €/membre au mois avec engagement annuel.", "prix": 5248, "origine": "8 €"}, "loom": {"affiche": "Loom Business", "editeur": "Loom", "plan": "Business", "unite": "siege", "logo": "loom", "source": "https://www.loom.com/pricing", "reserve": "18 $/utilisateur au mois.", "prix": 10159, "origine": "18 $"}, "powerbi": {"affiche": "Microsoft Power BI Pro", "editeur": "Microsoft", "plan": "Power BI Pro", "unite": "siege", "logo": "microsoft", "source": "https://www.microsoft.com/en-us/power-platform/products/power-bi/pricing", "reserve": "14 $/utilisateur, paiement annuel.", "prix": 7902, "origine": "14 $"}, "metabase": {"affiche": "Metabase Starter", "editeur": "Metabase", "plan": "Starter", "unite": "entreprise", "logo": "metabase", "source": "https://www.metabase.com/pricing/", "reserve": "100 $/mois, cinq utilisateurs inclus.", "prix": 56441, "origine": "100 $"}, "airtable": {"affiche": "Airtable Team", "editeur": "Airtable", "plan": "Team", "unite": "siege", "logo": "airtable", "source": "https://airtable.com/pricing", "reserve": "20 $/siège au mois avec engagement annuel.", "prix": 11288, "origine": "20 $"}, "bamboohr": {"affiche": "BambooHR Core", "editeur": "BambooHR", "plan": "Core", "unite": "entreprise", "logo": "bamboohr", "source": "https://www.bamboohr.com/pricing", "reserve": "10 $ par salarié et par mois, forfait à partir de 250 $/mois jusqu'à vingt-cinq salariés.", "prix": 141102, "origine": "250 $"}, "workable": {"affiche": "Workable Standard", "editeur": "Workable", "plan": "Standard", "unite": "entreprise", "logo": "workable", "source": "https://www.workable.com/pricing", "reserve": "299 $/mois pour une entreprise de un à vingt salariés.", "prix": 168759, "origine": "299 $"}, "quickbooks": {"affiche": "QuickBooks Essentials", "editeur": "QuickBooks", "plan": "Essentials", "unite": "entreprise", "logo": "intuit", "source": "https://quickbooks.intuit.com/pricing/", "reserve": "75 $/mois au tarif catalogue, hors promotion de lancement.", "prix": 42331, "origine": "75 $"}, "odoo": {"affiche": "Odoo Standard", "editeur": "Odoo", "plan": "Standard", "unite": "siege", "logo": "odoo", "source": "https://www.odoo.com/pricing", "reserve": "19,90 €/utilisateur au mois, toutes les applications.", "prix": 13054, "origine": "19,9 €"}, "notion": {"affiche": "Notion Business", "editeur": "Notion", "plan": "Business", "unite": "siege", "logo": "notion", "source": "https://www.notion.com/pricing", "reserve": "19,50 €/membre au mois, 9,50 € pour le plan Plus.", "prix": 12791, "origine": "19,5 €"}, "slack": {"affiche": "Slack Pro", "editeur": "Slack", "plan": "Pro", "unite": "siege", "logo": "slack", "source": "https://slack.com/pricing", "reserve": "8,25 €/utilisateur au mois, 18 € pour Business+.", "prix": 5412, "origine": "8,25 €"}, "monday": {"affiche": "monday.com Standard", "editeur": "monday.com", "plan": "Standard", "unite": "siege", "logo": "monday", "source": "https://monday.com/pricing", "reserve": "12 €/siège au mois avec engagement annuel.", "prix": 7871, "origine": "12 €"}, "asana": {"affiche": "Asana Starter", "editeur": "Asana", "plan": "Starter", "unite": "siege", "logo": "asana", "source": "https://asana.com/pricing", "reserve": "10,99 €/utilisateur au mois avec engagement annuel.", "prix": 7209, "origine": "10,99 €"}, "clickup": {"affiche": "ClickUp Unlimited", "editeur": "ClickUp", "plan": "Unlimited", "unite": "siege", "logo": "clickup", "source": "https://clickup.com/pricing", "reserve": "7 $/utilisateur au mois avec engagement annuel, 10 $ au mois.", "prix": 3951, "origine": "7 $"}, "trello": {"affiche": "Trello Standard", "editeur": "Trello", "plan": "Standard", "unite": "siege", "logo": "trello", "source": "https://trello.com/pricing", "reserve": "5 $/utilisateur au mois avec engagement annuel.", "prix": 2822, "origine": "5 $"}, "dropbox": {"affiche": "Dropbox Standard", "editeur": "Dropbox", "plan": "Standard", "unite": "siege", "logo": "dropbox", "source": "https://www.dropbox.com/plans", "reserve": "12 €/utilisateur au mois.", "prix": 7871, "origine": "12 €"}}, "metiers": [{"slug": "kouassi", "prenom": "Kouassi", "metier": "Commercial et ventes", "taches": ["Relancer chaque piste sans en laisser refroidir une", "Tenir le fichier de prospection à jour", "Qualifier les demandes entrantes", "Caler les rendez-vous et préparer les comptes rendus"], "pile": [{"cle": "hubspot", "defaut": true}, {"cle": "apollo", "defaut": true}, {"cle": "calendly", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "zohocrm", "defaut": false}, {"cle": "monday", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Commercial junior", "junior": 150000, "confirme": 300000}, {"slug": "awa", "prenom": "Awa", "metier": "Support et relation client", "taches": ["Répondre aux clients sur WhatsApp, jour et nuit", "Trier les demandes et escalader ce qui le mérite", "Suivre les réclamations jusqu'à la résolution", "Tenir l'historique de chaque client"], "pile": [{"cle": "crisp", "defaut": true}, {"cle": "slack", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "freshdesk", "defaut": false}, {"cle": "notion", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Chargé de clientèle", "junior": 150000, "confirme": 250000}, {"slug": "fatima", "prenom": "Fatima", "metier": "Marketing et contenu", "taches": ["Écrire et programmer les publications de la semaine", "Préparer et envoyer les campagnes par e-mail", "Décliner les visuels aux formats des réseaux", "Suivre ce qui marche et ce qui ne marche pas"], "pile": [{"cle": "mailchimp", "defaut": true}, {"cle": "hootsuite", "defaut": true}, {"cle": "figma", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "brevo", "defaut": false}, {"cle": "monday", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Community manager", "junior": 150000, "confirme": 250000}, {"slug": "fatou", "prenom": "Fatou", "metier": "RH et paie", "taches": ["Préparer la paie sans faute", "Tenir les dossiers du personnel et les congés", "Suivre les contrats et les échéances", "Répondre aux questions du quotidien des équipes"], "pile": [{"cle": "bamboohr", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "slack", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "notion", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Gestionnaire de paie", "junior": 150000, "confirme": 250000}, {"slug": "mamadou", "prenom": "Mamadou", "metier": "Finance et comptabilité", "taches": ["Tenir les écritures et les rapprochements", "Suivre les factures clients et fournisseurs", "Préparer les états pour la banque", "Alerter sur la trésorerie avant qu'il soit tard"], "pile": [{"cle": "quickbooks", "defaut": true}, {"cle": "odoo", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "dropbox", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Comptable junior", "junior": 200000, "confirme": 350000}, {"slug": "salif", "prenom": "Salif", "metier": "Opérations et administration", "taches": ["Faire tourner les tâches administratives du quotidien", "Suivre les dossiers en cours et leurs échéances", "Tenir les procédures à jour", "Coordonner les demandes entre les équipes"], "pile": [{"cle": "monday", "defaut": true}, {"cle": "notion", "defaut": true}, {"cle": "slack", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "dropbox", "defaut": false}, {"cle": "asana", "defaut": false}, {"cle": "clickup", "defaut": false}, {"cle": "trello", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Assistant administratif", "junior": 150000, "confirme": 250000}, {"slug": "nadia", "prenom": "Nadia", "metier": "Données et analyse", "taches": ["Rassembler les chiffres dispersés dans les outils", "Tenir les tableaux de bord à jour", "Répondre aux questions chiffrées de la direction", "Repérer les écarts avant qu'ils coûtent"], "pile": [{"cle": "powerbi", "defaut": true}, {"cle": "airtable", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "metabase", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Data analyst junior", "junior": 300000, "confirme": 500000}, {"slug": "adjoua", "prenom": "Adjoua", "metier": "Recrutement", "taches": ["Publier les offres et recevoir les candidatures", "Trier les profils et faire les premiers échanges", "Organiser les entretiens", "Tenir le suivi de chaque candidature"], "pile": [{"cle": "workable", "defaut": true}, {"cle": "calendly", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "slack", "defaut": false}, {"cle": "notion", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Chargé de recrutement junior", "junior": 150000, "confirme": 250000}, {"slug": "koffi", "prenom": "Koffi", "metier": "Design et marque", "taches": ["Décliner la marque sur tous les supports", "Préparer les visuels des campagnes", "Tenir la bibliothèque de gabarits", "Livrer les formats attendus par chaque canal"], "pile": [{"cle": "figma", "defaut": true}, {"cle": "miro", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "loom", "defaut": false}, {"cle": "dropbox", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Graphiste junior", "junior": 150000, "confirme": 250000}, {"slug": "chiefofstaff", "prenom": "Djénéba", "metier": "Chief of Staff et direction", "taches": ["Préparer les réunions du dirigeant", "Filtrer et prioriser ses sollicitations", "Suivre les décisions jusqu'à leur exécution", "Tenir la mémoire des dossiers"], "pile": [{"cle": "notion", "defaut": true}, {"cle": "slack", "defaut": true}, {"cle": "calendly", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "monday", "defaut": false}, {"cle": "loom", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Assistant de direction", "junior": 150000, "confirme": 300000}, {"slug": "ibrahim", "prenom": "Ibrahim", "metier": "Juridique et conformité", "taches": ["Relire et cadrer les contrats", "Tenir les registres et les échéances de conformité", "Préparer les dossiers d'appel d'offres", "Alerter sur les risques avant signature"], "pile": [{"cle": "notion", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "dropbox", "defaut": true}, {"cle": "chatgpt", "defaut": false}], "poste": "Juriste junior", "junior": 250000, "confirme": 450000}, {"slug": "alioune", "prenom": "Alioune", "metier": "Investissement", "taches": ["Instruire les dossiers reçus", "Préparer les notes d'analyse", "Suivre les participations et leurs indicateurs", "Tenir le pipeline à jour"], "pile": [{"cle": "airtable", "defaut": true}, {"cle": "notion", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "dropbox", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Analyste junior", "junior": 300000, "confirme": 500000}], "prixExpert": 150000, "prixPoste": 300000, "stage": 100000, "verif": "04/09/2026"}, choisi=null, personnes=1, niveau='junior', exclus={}, ajoutes={};
+ var D={"outils": {"gworkspace": {"affiche": "Google Workspace Business Standard", "editeur": "Google", "plan": "Workspace Business Standard", "unite": "siege", "logo": "google", "source": "https://workspace.google.com/pricing", "reserve": "13 €/utilisateur au mois, hors promotion de première année.", "famille": "saas", "prix": 8527, "origine": "13 €"}, "claude": {"affiche": "Anthropic Claude Pro", "editeur": "Anthropic", "plan": "Claude Pro", "unite": "siege", "logo": "anthropic", "source": "https://claude.ai/pricing", "reserve": "18 €/mois au paiement mensuel, 15 € avec engagement annuel.", "famille": "ia", "prix": 11807, "origine": "18 €"}, "chatgpt": {"affiche": "OpenAI ChatGPT Plus", "editeur": "OpenAI", "plan": "ChatGPT Plus", "unite": "siege", "logo": "openai", "source": "https://openai.com/chatgpt/pricing/", "reserve": "20 $/mois, tarif relevé le 31/07/2026, la page résiste au relevé automatique.", "famille": "ia", "prix": 11288, "origine": "20 $"}, "hubspot": {"affiche": "HubSpot Sales Hub Starter", "editeur": "HubSpot", "plan": "Sales Hub Starter", "unite": "siege", "logo": "hubspot", "source": "https://www.hubspot.com/pricing/sales", "reserve": "20 €/siège au mois, 7 € avec engagement annuel, 100 € pour le plan Professional.", "famille": "saas", "prix": 13119, "origine": "20 €"}, "zohocrm": {"affiche": "Zoho CRM Standard", "editeur": "Zoho", "plan": "CRM Standard", "unite": "siege", "logo": "zoho", "source": "https://www.zoho.com/crm/zohocrm-pricing.html", "reserve": "14 €/utilisateur au mois.", "famille": "saas", "prix": 9183, "origine": "14 €"}, "apollo": {"affiche": "Apollo.io Basic", "editeur": "Apollo.io", "plan": "Basic", "unite": "siege", "logo": "apollo", "source": "https://www.apollo.io/pricing", "reserve": "49 $/siège avec engagement annuel, 30 000 crédits par siège et par an.", "famille": "saas", "prix": 27656, "origine": "49 $"}, "calendly": {"affiche": "Calendly Standard", "editeur": "Calendly", "plan": "Standard", "unite": "siege", "logo": "calendly", "source": "https://calendly.com/pricing", "reserve": "10 $/siège au mois, 16 $ pour le plan Teams.", "famille": "saas", "prix": 5644, "origine": "10 $"}, "crisp": {"affiche": "Crisp Essentials", "editeur": "Crisp", "plan": "Essentials", "unite": "entreprise", "logo": "crisp", "source": "https://crisp.chat/en/pricing/", "reserve": "95 €/mois, dix agents inclus, 45 € pour quatre agents.", "famille": "saas", "prix": 62316, "origine": "95 €"}, "freshdesk": {"affiche": "Freshworks Freshdesk, premier palier", "editeur": "Freshworks", "plan": "Freshdesk, premier palier", "unite": "siege", "logo": "freshworks", "source": "https://www.freshworks.com/freshdesk/pricing/", "reserve": "17 €/agent au mois avec engagement annuel.", "famille": "saas", "prix": 11151, "origine": "17 €"}, "mailchimp": {"affiche": "Mailchimp Standard", "editeur": "Mailchimp", "plan": "Standard", "unite": "entreprise", "logo": "mailchimp", "source": "https://mailchimp.com/pricing/marketing/", "reserve": "à partir de 17,35 €/mois, le tarif monte avec la taille de la base.", "famille": "saas", "prix": 11381, "origine": "17,35 €"}, "brevo": {"affiche": "Brevo Starter", "editeur": "Brevo", "plan": "Starter", "unite": "entreprise", "logo": "brevo", "source": "https://www.brevo.com/pricing/", "reserve": "à partir de 8,10 €/mois, selon le volume d'envois.", "famille": "saas", "prix": 5313, "origine": "8,1 €"}, "hootsuite": {"affiche": "Hootsuite Standard", "editeur": "Hootsuite", "plan": "Standard", "unite": "siege", "logo": "hootsuite", "source": "https://www.hootsuite.com/plans", "reserve": "99 €/utilisateur au mois avec engagement annuel.", "famille": "saas", "prix": 64940, "origine": "99 €"}, "figma": {"affiche": "Figma Professional", "editeur": "Figma", "plan": "Professional", "unite": "siege", "logo": "figma", "source": "https://www.figma.com/pricing/", "reserve": "16 €/mois le siège complet.", "famille": "saas", "prix": 10495, "origine": "16 €"}, "miro": {"affiche": "Miro Starter", "editeur": "Miro", "plan": "Starter", "unite": "siege", "logo": "miro", "source": "https://miro.com/pricing/", "reserve": "8 €/membre au mois avec engagement annuel.", "famille": "saas", "prix": 5248, "origine": "8 €"}, "loom": {"affiche": "Loom Business", "editeur": "Loom", "plan": "Business", "unite": "siege", "logo": "loom", "source": "https://www.loom.com/pricing", "reserve": "18 $/utilisateur au mois.", "famille": "saas", "prix": 10159, "origine": "18 $"}, "powerbi": {"affiche": "Microsoft Power BI Pro", "editeur": "Microsoft", "plan": "Power BI Pro", "unite": "siege", "logo": "microsoft", "source": "https://www.microsoft.com/en-us/power-platform/products/power-bi/pricing", "reserve": "14 $/utilisateur, paiement annuel.", "famille": "saas", "prix": 7902, "origine": "14 $"}, "metabase": {"affiche": "Metabase Starter", "editeur": "Metabase", "plan": "Starter", "unite": "entreprise", "logo": "metabase", "source": "https://www.metabase.com/pricing/", "reserve": "100 $/mois, cinq utilisateurs inclus.", "famille": "saas", "prix": 56441, "origine": "100 $"}, "airtable": {"affiche": "Airtable Team", "editeur": "Airtable", "plan": "Team", "unite": "siege", "logo": "airtable", "source": "https://airtable.com/pricing", "reserve": "20 $/siège au mois avec engagement annuel.", "famille": "saas", "prix": 11288, "origine": "20 $"}, "bamboohr": {"affiche": "BambooHR Core", "editeur": "BambooHR", "plan": "Core", "unite": "entreprise", "logo": "bamboohr", "source": "https://www.bamboohr.com/pricing", "reserve": "10 $ par salarié et par mois, forfait à partir de 250 $/mois jusqu'à vingt-cinq salariés.", "famille": "saas", "prix": 141102, "origine": "250 $"}, "workable": {"affiche": "Workable Standard", "editeur": "Workable", "plan": "Standard", "unite": "entreprise", "logo": "workable", "source": "https://www.workable.com/pricing", "reserve": "299 $/mois pour une entreprise de un à vingt salariés.", "famille": "saas", "prix": 168759, "origine": "299 $"}, "quickbooks": {"affiche": "QuickBooks Essentials", "editeur": "QuickBooks", "plan": "Essentials", "unite": "entreprise", "logo": "intuit", "source": "https://quickbooks.intuit.com/pricing/", "reserve": "75 $/mois au tarif catalogue, hors promotion de lancement.", "famille": "saas", "prix": 42331, "origine": "75 $"}, "odoo": {"affiche": "Odoo Standard", "editeur": "Odoo", "plan": "Standard", "unite": "siege", "logo": "odoo", "source": "https://www.odoo.com/pricing", "reserve": "19,90 €/utilisateur au mois, toutes les applications.", "famille": "saas", "prix": 13054, "origine": "19,9 €"}, "notion": {"affiche": "Notion Business", "editeur": "Notion", "plan": "Business", "unite": "siege", "logo": "notion", "source": "https://www.notion.com/pricing", "reserve": "19,50 €/membre au mois, 9,50 € pour le plan Plus.", "famille": "saas", "prix": 12791, "origine": "19,5 €"}, "slack": {"affiche": "Slack Pro", "editeur": "Slack", "plan": "Pro", "unite": "siege", "logo": "slack", "source": "https://slack.com/pricing", "reserve": "8,25 €/utilisateur au mois, 18 € pour Business+.", "famille": "saas", "prix": 5412, "origine": "8,25 €"}, "monday": {"affiche": "monday.com Standard", "editeur": "monday.com", "plan": "Standard", "unite": "siege", "logo": "monday", "source": "https://monday.com/pricing", "reserve": "12 €/siège au mois avec engagement annuel.", "famille": "saas", "prix": 7871, "origine": "12 €"}, "asana": {"affiche": "Asana Starter", "editeur": "Asana", "plan": "Starter", "unite": "siege", "logo": "asana", "source": "https://asana.com/pricing", "reserve": "10,99 €/utilisateur au mois avec engagement annuel.", "famille": "saas", "prix": 7209, "origine": "10,99 €"}, "clickup": {"affiche": "ClickUp Unlimited", "editeur": "ClickUp", "plan": "Unlimited", "unite": "siege", "logo": "clickup", "source": "https://clickup.com/pricing", "reserve": "7 $/utilisateur au mois avec engagement annuel, 10 $ au mois.", "famille": "saas", "prix": 3951, "origine": "7 $"}, "trello": {"affiche": "Trello Standard", "editeur": "Trello", "plan": "Standard", "unite": "siege", "logo": "trello", "source": "https://trello.com/pricing", "reserve": "5 $/utilisateur au mois avec engagement annuel.", "famille": "saas", "prix": 2822, "origine": "5 $"}, "dropbox": {"affiche": "Dropbox Standard", "editeur": "Dropbox", "plan": "Standard", "unite": "siege", "logo": "dropbox", "source": "https://www.dropbox.com/plans", "reserve": "12 €/utilisateur au mois.", "famille": "saas", "prix": 7871, "origine": "12 €"}, "gemini": {"affiche": "Google AI Pro", "editeur": "Google", "plan": "AI Pro", "unite": "siege", "logo": "google", "source": "https://one.google.com/about/plans", "reserve": "21,99 €/mois, l'offre Google AI Pro avec 5 To de stockage.", "famille": "ia", "prix": 14424, "origine": "21,99 €"}, "elevenlabs": {"affiche": "ElevenLabs Creator", "editeur": "ElevenLabs", "plan": "Creator", "unite": "entreprise", "logo": "elevenlabs", "source": "https://elevenlabs.io/pricing", "reserve": "22 $/mois le plan Creator, 11 $ le plan Starter.", "famille": "ia", "prix": 12417, "origine": "22 $"}, "intercom": {"affiche": "Intercom Essential", "editeur": "Intercom", "plan": "Essential", "unite": "siege", "logo": "intercom", "source": "https://www.intercom.com/pricing", "reserve": "29 $/siège au mois, plus 0,99 $ par résolution de l'agent Fin.", "famille": "saas", "prix": 16368, "origine": "29 $"}, "front": {"affiche": "Front Starter", "editeur": "Front", "plan": "Starter", "unite": "siege", "logo": "front", "source": "https://front.com/pricing", "reserve": "25 $/siège au mois avec engagement annuel, dix sièges au maximum.", "famille": "saas", "prix": 14110, "origine": "25 $"}, "sleekflow": {"affiche": "SleekFlow Pro", "editeur": "SleekFlow", "plan": "Pro", "unite": "entreprise", "logo": "sleekflow", "source": "https://sleekflow.io/en-us/pricing", "reserve": "99 $/mois au paiement mensuel, 79 $ avec engagement annuel.", "famille": "saas", "prix": 55877, "origine": "99 $"}, "sproutsocial": {"affiche": "Sprout Social Standard", "editeur": "Sprout Social", "plan": "Standard", "unite": "siege", "logo": "sproutsocial", "source": "https://sproutsocial.com/pricing/", "reserve": "199 $/siège au mois avec engagement annuel, cinq profils sociaux.", "famille": "saas", "prix": 112318, "origine": "199 $"}, "typeform": {"affiche": "Typeform Basic", "editeur": "Typeform", "plan": "Basic", "unite": "entreprise", "logo": "typeform", "source": "https://www.typeform.com/pricing/", "reserve": "39 $/mois au paiement mensuel, 28 $ avec engagement annuel.", "famille": "saas", "prix": 22012, "origine": "39 $"}, "zohobooks": {"affiche": "Zoho Books Standard", "editeur": "Zoho", "plan": "Books Standard", "unite": "entreprise", "logo": "zoho", "source": "https://www.zoho.com/books/pricing/", "reserve": "12 €/mois par organisation, 10 € avec engagement annuel.", "famille": "saas", "prix": 7871, "origine": "12 €"}, "xero": {"affiche": "Xero Growing", "editeur": "Xero", "plan": "Growing", "unite": "entreprise", "logo": "xero", "source": "https://www.xero.com/us/pricing-plans/", "reserve": "55 $/mois au tarif catalogue, hors promotion des six premiers mois.", "famille": "saas", "prix": 31043, "origine": "55 $"}, "wrike": {"affiche": "Wrike Team", "editeur": "Wrike", "plan": "Team", "unite": "siege", "logo": "wrike", "source": "https://www.wrike.com/price/", "reserve": "10 $/utilisateur au mois, de deux à quinze utilisateurs.", "famille": "saas", "prix": 5644, "origine": "10 $"}, "linear": {"affiche": "Linear Basic", "editeur": "Linear", "plan": "Basic", "unite": "siege", "logo": "linear", "source": "https://linear.app/pricing", "reserve": "10 $/utilisateur au mois, 16 $ pour le plan Business.", "famille": "saas", "prix": 5644, "origine": "10 $"}, "github": {"affiche": "GitHub Team", "editeur": "GitHub", "plan": "Team", "unite": "siege", "logo": "github", "source": "https://github.com/pricing", "reserve": "4 $/utilisateur au mois.", "famille": "saas", "prix": 2258, "origine": "4 $"}, "gitlab": {"affiche": "GitLab Premium", "editeur": "GitLab", "plan": "Premium", "unite": "siege", "logo": "gitlab", "source": "https://about.gitlab.com/pricing/", "reserve": "29 $/utilisateur au mois avec engagement annuel.", "famille": "saas", "prix": 16368, "origine": "29 $"}}, "metiers": [{"slug": "kouassi", "prenom": "Kouassi", "metier": "Commercial et ventes", "taches": ["Relancer chaque piste sans en laisser refroidir une", "Tenir le fichier de prospection à jour", "Qualifier les demandes entrantes", "Caler les rendez-vous et préparer les comptes rendus"], "pile": [{"cle": "hubspot", "defaut": true}, {"cle": "apollo", "defaut": true}, {"cle": "calendly", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "zohocrm", "defaut": false}, {"cle": "monday", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Commercial junior", "junior": 150000, "confirme": 300000}, {"slug": "awa", "prenom": "Awa", "metier": "Support et relation client", "taches": ["Répondre aux clients sur WhatsApp, jour et nuit", "Trier les demandes et escalader ce qui le mérite", "Suivre les réclamations jusqu'à la résolution", "Tenir l'historique de chaque client"], "pile": [{"cle": "crisp", "defaut": true}, {"cle": "slack", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "freshdesk", "defaut": false}, {"cle": "notion", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Chargé de clientèle", "junior": 150000, "confirme": 250000}, {"slug": "fatima", "prenom": "Fatima", "metier": "Marketing et contenu", "taches": ["Écrire et programmer les publications de la semaine", "Préparer et envoyer les campagnes par e-mail", "Décliner les visuels aux formats des réseaux", "Suivre ce qui marche et ce qui ne marche pas"], "pile": [{"cle": "mailchimp", "defaut": true}, {"cle": "hootsuite", "defaut": true}, {"cle": "figma", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "brevo", "defaut": false}, {"cle": "monday", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Community manager", "junior": 150000, "confirme": 250000}, {"slug": "fatou", "prenom": "Fatou", "metier": "RH et paie", "taches": ["Préparer la paie sans faute", "Tenir les dossiers du personnel et les congés", "Suivre les contrats et les échéances", "Répondre aux questions du quotidien des équipes"], "pile": [{"cle": "bamboohr", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "slack", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "notion", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Gestionnaire de paie", "junior": 150000, "confirme": 250000}, {"slug": "mamadou", "prenom": "Mamadou", "metier": "Finance et comptabilité", "taches": ["Tenir les écritures et les rapprochements", "Suivre les factures clients et fournisseurs", "Préparer les états pour la banque", "Alerter sur la trésorerie avant qu'il soit tard"], "pile": [{"cle": "quickbooks", "defaut": true}, {"cle": "odoo", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "dropbox", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Comptable junior", "junior": 200000, "confirme": 350000}, {"slug": "salif", "prenom": "Salif", "metier": "Opérations et administration", "taches": ["Faire tourner les tâches administratives du quotidien", "Suivre les dossiers en cours et leurs échéances", "Tenir les procédures à jour", "Coordonner les demandes entre les équipes"], "pile": [{"cle": "monday", "defaut": true}, {"cle": "notion", "defaut": true}, {"cle": "slack", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "dropbox", "defaut": false}, {"cle": "asana", "defaut": false}, {"cle": "clickup", "defaut": false}, {"cle": "trello", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Assistant administratif", "junior": 150000, "confirme": 250000}, {"slug": "nadia", "prenom": "Nadia", "metier": "Données et analyse", "taches": ["Rassembler les chiffres dispersés dans les outils", "Tenir les tableaux de bord à jour", "Répondre aux questions chiffrées de la direction", "Repérer les écarts avant qu'ils coûtent"], "pile": [{"cle": "powerbi", "defaut": true}, {"cle": "airtable", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "metabase", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Data analyst junior", "junior": 300000, "confirme": 500000}, {"slug": "adjoua", "prenom": "Adjoua", "metier": "Recrutement", "taches": ["Publier les offres et recevoir les candidatures", "Trier les profils et faire les premiers échanges", "Organiser les entretiens", "Tenir le suivi de chaque candidature"], "pile": [{"cle": "workable", "defaut": true}, {"cle": "calendly", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "slack", "defaut": false}, {"cle": "notion", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Chargé de recrutement junior", "junior": 150000, "confirme": 250000}, {"slug": "koffi", "prenom": "Koffi", "metier": "Design et marque", "taches": ["Décliner la marque sur tous les supports", "Préparer les visuels des campagnes", "Tenir la bibliothèque de gabarits", "Livrer les formats attendus par chaque canal"], "pile": [{"cle": "figma", "defaut": true}, {"cle": "miro", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "loom", "defaut": false}, {"cle": "dropbox", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Graphiste junior", "junior": 150000, "confirme": 250000}, {"slug": "chiefofstaff", "prenom": "Djénéba", "metier": "Chief of Staff et direction", "taches": ["Préparer les réunions du dirigeant", "Filtrer et prioriser ses sollicitations", "Suivre les décisions jusqu'à leur exécution", "Tenir la mémoire des dossiers"], "pile": [{"cle": "notion", "defaut": true}, {"cle": "slack", "defaut": true}, {"cle": "calendly", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "monday", "defaut": false}, {"cle": "loom", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Assistant de direction", "junior": 150000, "confirme": 300000}, {"slug": "ibrahim", "prenom": "Ibrahim", "metier": "Juridique et conformité", "taches": ["Relire et cadrer les contrats", "Tenir les registres et les échéances de conformité", "Préparer les dossiers d'appel d'offres", "Alerter sur les risques avant signature"], "pile": [{"cle": "notion", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "dropbox", "defaut": true}, {"cle": "chatgpt", "defaut": false}], "poste": "Juriste junior", "junior": 250000, "confirme": 450000}, {"slug": "alioune", "prenom": "Alioune", "metier": "Investissement", "taches": ["Instruire les dossiers reçus", "Préparer les notes d'analyse", "Suivre les participations et leurs indicateurs", "Tenir le pipeline à jour"], "pile": [{"cle": "airtable", "defaut": true}, {"cle": "notion", "defaut": true}, {"cle": "gworkspace", "defaut": true}, {"cle": "claude", "defaut": true}, {"cle": "dropbox", "defaut": false}, {"cle": "chatgpt", "defaut": false}], "poste": "Analyste junior", "junior": 300000, "confirme": 500000}], "catalogue": [{"cle": "airtable", "affiche": "Airtable Team", "logo": "airtable", "prix": 11288, "unite": "siege", "famille": "saas"}, {"cle": "claude", "affiche": "Anthropic Claude Pro", "logo": "anthropic", "prix": 11807, "unite": "siege", "famille": "ia"}, {"cle": "apollo", "affiche": "Apollo.io Basic", "logo": "apollo", "prix": 27656, "unite": "siege", "famille": "saas"}, {"cle": "asana", "affiche": "Asana Starter", "logo": "asana", "prix": 7209, "unite": "siege", "famille": "saas"}, {"cle": "bamboohr", "affiche": "BambooHR Core", "logo": "bamboohr", "prix": 141102, "unite": "entreprise", "famille": "saas"}, {"cle": "brevo", "affiche": "Brevo Starter", "logo": "brevo", "prix": 5313, "unite": "entreprise", "famille": "saas"}, {"cle": "calendly", "affiche": "Calendly Standard", "logo": "calendly", "prix": 5644, "unite": "siege", "famille": "saas"}, {"cle": "clickup", "affiche": "ClickUp Unlimited", "logo": "clickup", "prix": 3951, "unite": "siege", "famille": "saas"}, {"cle": "crisp", "affiche": "Crisp Essentials", "logo": "crisp", "prix": 62316, "unite": "entreprise", "famille": "saas"}, {"cle": "dropbox", "affiche": "Dropbox Standard", "logo": "dropbox", "prix": 7871, "unite": "siege", "famille": "saas"}, {"cle": "elevenlabs", "affiche": "ElevenLabs Creator", "logo": "elevenlabs", "prix": 12417, "unite": "entreprise", "famille": "ia"}, {"cle": "figma", "affiche": "Figma Professional", "logo": "figma", "prix": 10495, "unite": "siege", "famille": "saas"}, {"cle": "freshdesk", "affiche": "Freshworks Freshdesk, premier palier", "logo": "freshworks", "prix": 11151, "unite": "siege", "famille": "saas"}, {"cle": "front", "affiche": "Front Starter", "logo": "front", "prix": 14110, "unite": "siege", "famille": "saas"}, {"cle": "github", "affiche": "GitHub Team", "logo": "github", "prix": 2258, "unite": "siege", "famille": "saas"}, {"cle": "gitlab", "affiche": "GitLab Premium", "logo": "gitlab", "prix": 16368, "unite": "siege", "famille": "saas"}, {"cle": "gemini", "affiche": "Google AI Pro", "logo": "google", "prix": 14424, "unite": "siege", "famille": "ia"}, {"cle": "gworkspace", "affiche": "Google Workspace Business Standard", "logo": "google", "prix": 8527, "unite": "siege", "famille": "saas"}, {"cle": "hootsuite", "affiche": "Hootsuite Standard", "logo": "hootsuite", "prix": 64940, "unite": "siege", "famille": "saas"}, {"cle": "hubspot", "affiche": "HubSpot Sales Hub Starter", "logo": "hubspot", "prix": 13119, "unite": "siege", "famille": "saas"}, {"cle": "intercom", "affiche": "Intercom Essential", "logo": "intercom", "prix": 16368, "unite": "siege", "famille": "saas"}, {"cle": "linear", "affiche": "Linear Basic", "logo": "linear", "prix": 5644, "unite": "siege", "famille": "saas"}, {"cle": "loom", "affiche": "Loom Business", "logo": "loom", "prix": 10159, "unite": "siege", "famille": "saas"}, {"cle": "mailchimp", "affiche": "Mailchimp Standard", "logo": "mailchimp", "prix": 11381, "unite": "entreprise", "famille": "saas"}, {"cle": "metabase", "affiche": "Metabase Starter", "logo": "metabase", "prix": 56441, "unite": "entreprise", "famille": "saas"}, {"cle": "powerbi", "affiche": "Microsoft Power BI Pro", "logo": "microsoft", "prix": 7902, "unite": "siege", "famille": "saas"}, {"cle": "miro", "affiche": "Miro Starter", "logo": "miro", "prix": 5248, "unite": "siege", "famille": "saas"}, {"cle": "monday", "affiche": "monday.com Standard", "logo": "monday", "prix": 7871, "unite": "siege", "famille": "saas"}, {"cle": "notion", "affiche": "Notion Business", "logo": "notion", "prix": 12791, "unite": "siege", "famille": "saas"}, {"cle": "odoo", "affiche": "Odoo Standard", "logo": "odoo", "prix": 13054, "unite": "siege", "famille": "saas"}, {"cle": "chatgpt", "affiche": "OpenAI ChatGPT Plus", "logo": "openai", "prix": 11288, "unite": "siege", "famille": "ia"}, {"cle": "quickbooks", "affiche": "QuickBooks Essentials", "logo": "intuit", "prix": 42331, "unite": "entreprise", "famille": "saas"}, {"cle": "slack", "affiche": "Slack Pro", "logo": "slack", "prix": 5412, "unite": "siege", "famille": "saas"}, {"cle": "sleekflow", "affiche": "SleekFlow Pro", "logo": "sleekflow", "prix": 55877, "unite": "entreprise", "famille": "saas"}, {"cle": "sproutsocial", "affiche": "Sprout Social Standard", "logo": "sproutsocial", "prix": 112318, "unite": "siege", "famille": "saas"}, {"cle": "trello", "affiche": "Trello Standard", "logo": "trello", "prix": 2822, "unite": "siege", "famille": "saas"}, {"cle": "typeform", "affiche": "Typeform Basic", "logo": "typeform", "prix": 22012, "unite": "entreprise", "famille": "saas"}, {"cle": "workable", "affiche": "Workable Standard", "logo": "workable", "prix": 168759, "unite": "entreprise", "famille": "saas"}, {"cle": "wrike", "affiche": "Wrike Team", "logo": "wrike", "prix": 5644, "unite": "siege", "famille": "saas"}, {"cle": "xero", "affiche": "Xero Growing", "logo": "xero", "prix": 31043, "unite": "entreprise", "famille": "saas"}, {"cle": "zohobooks", "affiche": "Zoho Books Standard", "logo": "zoho", "prix": 7871, "unite": "entreprise", "famille": "saas"}, {"cle": "zohocrm", "affiche": "Zoho CRM Standard", "logo": "zoho", "prix": 9183, "unite": "siege", "famille": "saas"}], "prixExpert": 150000, "prixPoste": 300000, "sal": {"stage": 100000, "junior": 200000, "confirme": 400000}, "defaut": "chiefofstaff", "stage": 100000, "verif": "04/09/2026"}, choisi=null, personnes=1, niveau='junior', exclus={}, ajoutes={}, libres=[];
  var fr=function(n){ return Math.round(n).toString().replace(/\B(?=(\d{3})+(?!\d))/g,'\u202f'); };
  var q=function(s){ return document.querySelector(s); };
  var panM=q('#cl-metier'), panN=q('#cl-nb'), panO=q('#cl-outils'), panR=q('#cl-res');
+ function ech(s){ return String(s).replace(/[&<>"]/g,function(c){
+   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
 
  function metier(){ for(var i=0;i<D.metiers.length;i++){ if(D.metiers[i].slug===choisi) return D.metiers[i]; } }
- function salaire(m){ return niveau==='stage'?D.stage:(niveau==='confirme'?m.confirme:m.junior); }
+ function salaire(){ return D.sal[niveau]; }
  function coche(c,defaut){ if(exclus[c]) return false; if(ajoutes[c]) return true; return defaut; }
 
+ /* La pile affichée : celle du métier, plus tout outil que le visiteur est allé
+    chercher dans le catalogue. Une fois ajouté, il reste visible et décochable. */
+ function visibles(){
+   var m=metier(), vus={}, out=[];
+   m.pile.forEach(function(x){ vus[x.cle]=1; out.push({cle:x.cle, defaut:x.defaut}); });
+   Object.keys(ajoutes).forEach(function(c){
+     if(!vus[c] && D.outils[c]) out.push({cle:c, defaut:true}); });
+   return out;
+ }
+
  function pile(){
-   var m=metier(), total=0, lignes=[];
-   m.pile.forEach(function(x){
+   var total=0, lignes=[];
+   visibles().forEach(function(x){
      if(!coche(x.cle,x.defaut)) return;
      var o=D.outils[x.cle], n=(o.unite==='siege'?personnes:1);
      total+=o.prix*n; lignes.push({nom:o.affiche, n:n, unite:o.unite, somme:o.prix*n});
    });
+   libres.forEach(function(l){
+     total+=l.prix; lignes.push({nom:ech(l.nom), n:1, unite:'entreprise', somme:l.prix}); });
    return {total:total, lignes:lignes};
+ }
+
+ function ligneOutil(x){
+   var o=D.outils[x.cle];
+   return '<label><input type="checkbox" data-o="'+x.cle+'"'+(coche(x.cle,x.defaut)?' checked':'')+'>'
+     +'<img src="images/logos/tools/'+o.logo+'.png" alt="" loading="lazy">'
+     +'<span><b>'+o.affiche+'</b><em>'+fr(o.prix)+'\u202fF\u202fCFA par mois'
+     +(o.unite==='siege'?' et par personne':'')+', soit '+o.origine
+     +(o.unite==='siege'?' le siège':'')+'</em></span></label>';
  }
 
  function rendre(){
@@ -381,23 +475,24 @@
    panN.hidden=false;
    q('#cl-out').value=personnes;
    q('#cl-nbmot').textContent=(personnes>1?'personnes s\'en occupent':'personne s\'en occupe');
-   q('#cl-nivs').innerHTML='<b>Stagiaire</b><em>'+fr(D.stage)+'\u202fF\u202fCFA par mois</em>';
-   q('#cl-nivj').innerHTML='<b>Junior</b><em>'+fr(m.junior)+'\u202fF\u202fCFA par mois</em>';
-   q('#cl-nivc').innerHTML='<b>Confirmé</b><em>'+fr(m.confirme)+'\u202fF\u202fCFA par mois</em>';
+   q('#cl-nivs').innerHTML='<b>Stagiaire</b><em>'+fr(D.sal.stage)+'\u202fF\u202fCFA par mois</em>';
+   q('#cl-nivj').innerHTML='<b>Junior</b><em>'+fr(D.sal.junior)+'\u202fF\u202fCFA par mois</em>';
+   q('#cl-nivc').innerHTML='<b>Confirmé</b><em>'+fr(D.sal.confirme)+'\u202fF\u202fCFA par mois</em>';
    ['stage','junior','confirme'].forEach(function(n){
      var b=q('#cl-niv-'+n); if(b) b.setAttribute('aria-pressed', String(niveau===n)); });
 
    panO.hidden=false;
-   q('#cl-ck').innerHTML=m.pile.map(function(x){
-     var o=D.outils[x.cle];
-     return '<label><input type="checkbox" data-o="'+x.cle+'"'+(coche(x.cle,x.defaut)?' checked':'')+'>'
-       +'<img src="images/logos/tools/'+o.logo+'.png" alt="" loading="lazy">'
-       +'<span><b>'+o.affiche+'</b><em>'+fr(o.prix)+'\u202fF\u202fCFA par mois'
-       +(o.unite==='siege'?' et par personne':'')+', soit '+o.origine
-       +(o.unite==='siege'?' le siège':'')+'</em></span></label>';
+   var vis=visibles();
+   q('#cl-ck-ia').innerHTML=vis.filter(function(x){ return D.outils[x.cle].famille==='ia'; })
+     .map(ligneOutil).join('') || '<p class="cl-p">Aucun compte d\'IA dans cette pile.</p>';
+   q('#cl-ck-saas').innerHTML=vis.filter(function(x){ return D.outils[x.cle].famille!=='ia'; })
+     .map(ligneOutil).join('');
+   q('#cl-mlist').innerHTML=libres.map(function(l,i){
+     return '<span class="cl-tag">'+ech(l.nom)+' \u00b7 '+fr(l.prix)
+       +'\u202fF<button type="button" data-lib="'+i+'" aria-label="Retirer">\u00d7</button></span>';
    }).join('');
 
-   var p=pile(), y=D.prixExpert, sal=salaire(m)*personnes,
+   var p=pile(), y=D.prixExpert, sal=salaire()*personnes,
        total=p.total+sal, ecart=total-y;
    panR.hidden=false;
    q('#cl-somme1').textContent=fr(total)+' F CFA';
@@ -411,12 +506,25 @@
 
    q('#cl-somme2').textContent=fr(y)+' F CFA';
    q('#cl-u2').textContent='par mois, sans congés, sans turnover, jour et nuit';
-   q('#cl-duoav').className='ph av-'+m.slug+'-sq';
-   q('#cl-duotx').innerHTML='<b>'+m.prenom+' plus un second expert</b>'
-     +'Le compte revient à '+fr(D.prixPoste)+'\u202fF\u202fCFA par mois et comprend deux experts. '
-     +'Le second, vous le choisissez parmi les onze autres métiers.';
-   q('#cl-det2').innerHTML='<li><span>'+m.prenom+', '+m.metier.toLowerCase()+'</span><span>'+fr(y)+'</span></li>'
-     +'<li><span>Un second expert, au choix</span><span>'+fr(y)+'</span></li>'
+   /* Djénéba est dans tous les comptes, qu'on la choisisse ou non. Le second visage
+      est donc celui du métier retenu, sauf si c'est elle qu'on a retenue. */
+   var dj=null; for(var k=0;k<D.metiers.length;k++){ if(D.metiers[k].slug===D.defaut) dj=D.metiers[k]; }
+   var estDj=(m.slug===D.defaut);
+   q('#cl-duoav1').className='ph av-'+dj.slug+'-sq';
+   q('#cl-duoav2').className='ph '+(estDj?'cl-quel':'av-'+m.slug+'-sq');
+   q('#cl-duoav2').textContent=estDj?'?':'';
+   q('#cl-duotx').innerHTML=estDj
+     ? '<b>Djénéba plus un second expert</b>Djénéba est dans tous les comptes. Le vôtre revient à '
+       +fr(D.prixPoste)+'\u202fF\u202fCFA par mois et comprend un second expert, que vous choisissez '
+       +'parmi les onze autres métiers.'
+     : '<b>Djénéba plus '+m.prenom+'</b>Djénéba est dans tous les comptes, même quand vous ne la '
+       +'choisissez pas : elle pilote l\'équipe et vous sert d\'interlocutrice. Avec '+m.prenom+', '
+       +'le compte revient à '+fr(D.prixPoste)+'\u202fF\u202fCFA par mois.';
+   q('#cl-det2').innerHTML=(estDj
+     ? '<li><span>Djénéba, '+dj.metier.toLowerCase()+'</span><span>'+fr(y)+'</span></li>'
+       +'<li><span>Un second expert, au choix</span><span>'+fr(y)+'</span></li>'
+     : '<li><span>Djénéba, incluse par défaut</span><span>'+fr(y)+'</span></li>'
+       +'<li><span>'+m.prenom+', '+m.metier.toLowerCase()+'</span><span>'+fr(y)+'</span></li>')
      +'<li><b>Le compte, deux experts</b><b>'+fr(D.prixPoste)+'</b></li>';
 
    var e=q('#cl-ecart');
@@ -425,9 +533,11 @@
        +fr(ecart*12)+'\u202fF\u202fCFA sur l\'année'
        +(personnes>1?', et '+m.prenom+' tient le périmètre des '+personnes+' personnes.':'.');
    } else {
-     e.innerHTML='<b>À ce niveau, votre organisation actuelle coûte moins cher.</b> '
-       +'L\'écart bascule dès que le poste passe en junior, ou dès qu\'une deuxième '
-       +'personne s\'y met.';
+     e.innerHTML='<b>À ce niveau, la ligne est sous le prix d\'un expert.</b> '
+       +'C\'est le seul cas où elle y passe : un stagiaire à '+fr(D.sal.stage)
+       +'\u202fF\u202fCFA ne tient pas un métier seul, il assiste quelqu\'un qui le tient. '
+       +'Passez le curseur sur junior, ou ajoutez la deuxième personne qui s\'en occupe '
+       +'réellement, et l\'écart repart de l\'autre côté.';
    }
    q('#cl-hum').innerHTML='Les logiciels n\'exécutent pas le travail, ils l\'outillent. '
      +'Il faut encore quelqu\'un derrière, et ce quelqu\'un prend ses congés, se forme, '
@@ -439,7 +549,7 @@
    b.addEventListener('click',function(){
      document.querySelectorAll('.cl-c').forEach(function(x){ x.setAttribute('aria-pressed','false'); });
      b.setAttribute('aria-pressed','true');
-     choisi=b.dataset.slug; exclus={}; ajoutes={}; rendre();
+     choisi=b.dataset.slug; exclus={}; ajoutes={}; libres=[]; rendre();
      panM.scrollIntoView({behavior:'smooth',block:'start'});
    });
  });
@@ -448,11 +558,58 @@
  ['stage','junior','confirme'].forEach(function(n){
    q('#cl-niv-'+n).addEventListener('click',function(){ niveau=n; rendre(); });
  });
- q('#cl-ck').addEventListener('change',function(e){
-   var c=e.target.dataset && e.target.dataset.o; if(!c) return;
-   if(e.target.checked){ ajoutes[c]=1; delete exclus[c]; }
-   else { exclus[c]=1; delete ajoutes[c]; }
-   rendre();
+ ['#cl-ck-ia','#cl-ck-saas'].forEach(function(s){
+   q(s).addEventListener('change',function(e){
+     var c=e.target.dataset && e.target.dataset.o; if(!c) return;
+     if(e.target.checked){ ajoutes[c]=1; delete exclus[c]; }
+     else { exclus[c]=1; delete ajoutes[c]; }
+     rendre();
+   });
+ });
+
+ /* La recherche balaie tout le catalogue, y compris les outils absents de la pile du
+    métier : la liste cesse d'être fermée à ce que nous avons prévu. */
+ var rech=q('#cl-rech'), sug=q('#cl-sug');
+ function suggerer(){
+   var v=rech.value.trim().toLowerCase();
+   if(v.length<2){ sug.hidden=true; sug.innerHTML=''; return; }
+   var deja={}; if(choisi) visibles().forEach(function(x){ deja[x.cle]=1; });
+   var r=D.catalogue.filter(function(o){
+     return !deja[o.cle] && o.affiche.toLowerCase().indexOf(v)>=0; }).slice(0,8);
+   if(!r.length){
+     sug.innerHTML='<p class="cl-vide">Rien à ce nom dans notre catalogue. Ajoutez-le à la '
+       +'main juste en dessous, avec ce qu\'il vous coûte par mois.</p>';
+   } else {
+     sug.innerHTML=r.map(function(o){
+       return '<button type="button" data-add="'+o.cle+'">'
+         +'<img src="images/logos/tools/'+o.logo+'.png" alt="" loading="lazy">'
+         +'<span>'+o.affiche+'</span><em>'+fr(o.prix)+'\u202fF</em></button>'; }).join('');
+   }
+   sug.hidden=false;
+ }
+ rech.addEventListener('input',suggerer);
+ sug.addEventListener('click',function(e){
+   var b=e.target.closest && e.target.closest('[data-add]'); if(!b) return;
+   ajoutes[b.dataset.add]=1; delete exclus[b.dataset.add];
+   rech.value=''; sug.hidden=true; sug.innerHTML='';
+   if(choisi) rendre();
+ });
+ document.addEventListener('click',function(e){
+   if(!sug.hidden && !sug.contains(e.target) && e.target!==rech){ sug.hidden=true; } });
+
+ function ajouterLibre(){
+   var n=q('#cl-mnom').value.trim(), v=parseInt(q('#cl-mprix').value,10);
+   if(!n || !(v>0)) return;
+   libres.push({nom:n, prix:v});
+   q('#cl-mnom').value=''; q('#cl-mprix').value='';
+   if(choisi) rendre();
+ }
+ q('#cl-madd').addEventListener('click',ajouterLibre);
+ ['#cl-mnom','#cl-mprix'].forEach(function(s){
+   q(s).addEventListener('keydown',function(e){ if(e.key==='Enter') ajouterLibre(); }); });
+ q('#cl-mlist').addEventListener('click',function(e){
+   var b=e.target.closest && e.target.closest('[data-lib]'); if(!b) return;
+   libres.splice(parseInt(b.dataset.lib,10),1); if(choisi) rendre();
  });
 })();
 
