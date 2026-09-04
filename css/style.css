@@ -245,7 +245,7 @@ footer{position:relative;overflow:hidden;z-index:0}
 .offer ul{list-style:none;margin:18px 0 24px;display:flex;flex-direction:column;gap:11px}
 .offer li{padding-left:26px;position:relative;font-size:15px;color:#443a5e}
 .offer li:before{content:"✓";position:absolute;left:0;color:var(--violet);font-weight:700}
-.offer .btn{margin-top:auto;justify-content:center}
+.offer .btn{margin-top:auto;justify-content:center;width:100%;text-align:center;padding:15px 18px;min-height:52px;line-height:1.25;box-sizing:border-box}
 
 .seg{background:#fff;border:1px solid var(--line);border-radius:26px;padding:38px}
 .seg .badge{display:inline-block;font-family:var(--title);font-weight:600;font-size:13px;padding:6px 14px;border-radius:20px;margin-bottom:16px}
