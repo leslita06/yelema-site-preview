@@ -58,11 +58,12 @@ section.pad{padding:84px 0}
 .catalog-agrid .acard{position:relative;z-index:1}
 .exp-sec{position:relative;overflow:hidden}
 .exp-sec .wrap{position:relative;z-index:1}
-.exp-sec::before{content:"";position:absolute;right:8px;top:34px;width:330px;height:232px;
-  background-image:url(../images/patterns/pattern-escalier.svg);background-size:contain;
+.catalog-agrid::before{content:"";position:absolute;right:-360px;top:560px;
+  width:460px;height:420px;opacity:.34;
+  background-image:url(../images/patterns/pattern-2-violet.svg);background-size:contain;
   background-repeat:no-repeat;z-index:0;pointer-events:none}
-@media(max-width:1240px){.exp-sec::before{width:230px;height:162px;right:6px;top:26px}}
-@media(max-width:980px){.exp-sec::before{display:none}}
+@media(max-width:1200px){.catalog-agrid::before{right:-230px;width:340px;height:310px;top:520px}}
+@media(max-width:900px){.catalog-agrid::before{display:none}}
 @media(max-width:1200px){.catalog-agrid::after{left:-260px;width:340px;height:310px}}
 @media(max-width:900px){.catalog-agrid::after{display:none}}
 .tools-blob{position:relative;overflow:hidden}
@@ -474,7 +475,7 @@ footer .bottom{display:flex;justify-content:space-between;flex-wrap:wrap;gap:10p
 .yl-ftop{display:grid;grid-template-columns:1.25fr .8fr .8fr 1.25fr;gap:38px;
   padding-bottom:30px}
 .yl-fbrand svg{width:150px;height:auto;margin-bottom:14px}
-.yl-fbrand .tag{font-size:16px;margin:0 0 12px}
+.yl-fbrand .tag{font-size:16px;margin:0 0 12px;padding-left:0}
 .yl-fadr{font-size:13.4px;line-height:1.6;opacity:.75;margin:0 0 16px}
 .yl-soc{display:flex;gap:10px}
 .yl-soc a,.yl-soc span{display:block}
@@ -872,6 +873,7 @@ button.yl-mfull{margin-top:4px}
   gap:13px;transition:.2s}
 .pil:hover{border-color:#c9bcf7;box-shadow:0 14px 34px rgba(30,16,80,.07);
   transform:translateY(-2px)}
+.pil-k svg{width:26px;height:20px;display:block}
 .pil-k{position:absolute;top:22px;right:26px;font-size:13px;font-weight:700;
   letter-spacing:.08em;color:#c9bcf7}
 .pil-ic{width:46px;height:46px;border-radius:13px;background:var(--lavp);
