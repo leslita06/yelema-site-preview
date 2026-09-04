@@ -77,7 +77,7 @@ window.addEventListener('hashchange',route);route();
        b=f.querySelector('button[type=submit]');
    d.forEach(function(v,k){ if(String(v).trim()) l.push(k+' : '+v); });
    if(b){ b.disabled=true; b.textContent='Envoi en cours…'; }
-   function rendre(){ if(b){ b.disabled=false; b.textContent='Demander la démonstration'; } }
+   function rendre(){ if(b){ b.disabled=false; b.textContent='Demander une démo'; } }
    ylEnvoyer({_subject:'Demande de démonstration, '+(d.get('societe')||''),
        'Société':d.get('societe')||'', 'Nom':d.get('nom')||'',
        'email':d.get('email')||'', 'Téléphone':d.get('tel')||'',
