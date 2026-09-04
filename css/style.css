@@ -1054,7 +1054,11 @@ button.yl-mfull{margin-top:4px}
 .loc-l{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:12px}
 .loc-l.loc-p{grid-template-columns:repeat(3,minmax(0,1fr))}
 .loc-m{padding:10px 13px;gap:10px;min-height:56px}
-.loc-m img{height:23px;width:46px;object-fit:contain;flex:none;max-width:46px}
+/* Normalisation optique : la fente garde la meme largeur pour que les libelles
+   s'alignent, seule la hauteur change. Un sceau carre a 23 px de haut parait
+   minuscule a cote d'un logotype large, il monte donc a 30 px. */
+.loc-m img{height:21px;width:46px;object-fit:contain;flex:none;max-width:46px}
+.loc-m img.sq{height:30px}
 .loc-m.loc-txt{padding-left:14px}
 .loc-l>.loc-m:nth-child(5):last-child{grid-column:1 / -1}
 .loc-2i{gap:8px}
