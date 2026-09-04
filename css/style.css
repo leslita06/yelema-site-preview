@@ -78,19 +78,19 @@ section.pad{padding:84px 0}
 .hero{position:relative;background:radial-gradient(120% 120% at 15% 0%,#3b1f7a 0%,var(--indigo) 40%,var(--indigo2) 100%);color:#fff;overflow:hidden;padding:96px 0 110px}
 footer{position:relative;overflow:hidden;z-index:0}
 .hero:before{content:"";position:absolute;inset:0;background:radial-gradient(600px 300px at 85% 20%,rgba(141,104,250,.5),transparent),radial-gradient(500px 300px at 10% 90%,rgba(46,78,196,.5),transparent);pointer-events:none}
-.hero-fl{position:absolute;inset:0;overflow:hidden;pointer-events:none;z-index:0}
-.hero-fl i{position:absolute;display:block;border-radius:999px;
-  background:linear-gradient(120deg,rgba(197,196,255,.55),rgba(141,104,250,.22));
-  box-shadow:0 0 70px rgba(141,104,250,.28)}
-.hero-fl i:nth-child(1){width:240px;height:54px;top:13%;right:-46px;
+.cta-fl{position:absolute;inset:0;overflow:hidden;pointer-events:none;z-index:0}
+.cta-fl i{position:absolute;display:block;border-radius:999px;
+  background:linear-gradient(120deg,rgba(255,255,255,.34),rgba(197,196,255,.12));
+  box-shadow:0 0 60px rgba(255,255,255,.22)}
+.cta-fl i:nth-child(1){width:240px;height:54px;top:13%;right:-46px;
   transform:rotate(-18deg);opacity:.5;animation:flotte 11s ease-in-out infinite}
-.hero-fl i:nth-child(2){width:156px;height:36px;bottom:15%;left:-34px;
+.cta-fl i:nth-child(2){width:156px;height:36px;bottom:15%;left:-34px;
   transform:rotate(13deg);opacity:.42;animation:flotte 14s ease-in-out infinite reverse}
-.hero-fl i:nth-child(3){width:98px;height:23px;top:63%;right:20%;
+.cta-fl i:nth-child(3){width:98px;height:23px;top:63%;right:20%;
   transform:rotate(-7deg);opacity:.3;animation:flotte 9s ease-in-out infinite}
 @keyframes flotte{0%,100%{translate:0 0}50%{translate:0 -20px}}
-@media(prefers-reduced-motion:reduce){.hero-fl i{animation:none}}
-@media(max-width:900px){.hero-fl i:nth-child(3){display:none}}
+@media(prefers-reduced-motion:reduce){.cta-fl i{animation:none}}
+@media(max-width:900px){.cta-fl i:nth-child(3){display:none}}
 .hero .wrap{position:relative;z-index:1;display:grid;grid-template-columns:1.05fr .95fr;gap:48px;align-items:start}
 .hero h1{color:#fff;font-size:clamp(34px,5vw,58px);line-height:1.05}
 .hero h1 .hl{background:linear-gradient(120deg,#C5C4FF,#fff);-webkit-background-clip:text;background-clip:text;color:transparent}
@@ -1034,3 +1034,6 @@ button.yl-mfull{margin-top:4px}
 .loc-p .loc-m{padding:10px 16px}
 @media(max-width:900px){.loc-g{grid-template-columns:1fr}}
 @media(max-width:520px){.loc-m{width:100%}}
+.ctaband h2,.ctaband p,.ctaband .btn{position:relative;z-index:1}
+.blob-d::before{left:auto;right:-170px;bottom:-120px;transform:scaleX(-1)}
+@media(max-width:760px){.blob-d::before{right:-90px}}
