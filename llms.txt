@@ -1,0 +1,33 @@
+# Yelema
+
+> Yelema met des experts IA au travail dans les entreprises d'Afrique francophone : chaque expert prend un métier, travaille dans vos outils et reste opéré de bout en bout par nos équipes, depuis Abidjan.
+
+Yelema est basé à Abidjan, en Côte d'Ivoire, et travaille pour les entreprises
+et les administrations d'Afrique francophone. Le service est opéré : Yelema
+branche, configure, surveille et corrige, le client garde la main sur ce que
+l'expert a le droit de faire.
+
+## Les pages qui font autorité
+- [Accueil](https://yelema.ai/) : ce qu'est un expert IA Yelema et à qui il s'adresse.
+- [Les experts](https://yelema.ai/#experts) : les douze métiers disponibles.
+- [Comment ça marche](https://yelema.ai/#fonctionnement) : mise en route, outils branchés, couche qualité.
+- [Offres et tarifs](https://yelema.ai/#offres) : 300 000 F CFA par mois pour un compte de deux experts, puis 200 000 F CFA par expert ajouté, frais d'installation au devis.
+- [Questions fréquentes](https://yelema.ai/#accueil) : données, fiabilité, canaux, réversibilité.
+
+## Les fiches d'experts
+- [Kouassi, commercial](https://yelema.ai/experts/kouassi.html)
+- [Awa, support client](https://yelema.ai/experts/awa.html)
+- [Fatima, marketing](https://yelema.ai/experts/fatima.html)
+- [Fatou, RH et paie](https://yelema.ai/experts/fatou.html)
+- [Mamadou, finance](https://yelema.ai/experts/mamadou.html)
+- [Ibrahim, juridique](https://yelema.ai/experts/ibrahim.html)
+- [Salif, opérations](https://yelema.ai/experts/salif.html)
+- [Nadia, données](https://yelema.ai/experts/nadia.html)
+- [Adjoua, recrutement](https://yelema.ai/experts/adjoua.html)
+- [Koffi, design](https://yelema.ai/experts/koffi.html)
+- [Alioune, investissement](https://yelema.ai/experts/alioune.html)
+- [Djénéba, direction](https://yelema.ai/experts/chiefofstaff.html)
+
+## Contact
+- contact@yelema.ai
+- Ivoire Trade Center, Abidjan, Côte d'Ivoire

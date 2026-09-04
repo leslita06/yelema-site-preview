@@ -45,10 +45,42 @@ window.addEventListener('hashchange',route);route();
  document.getElementById('ylmform').addEventListener('submit',function(e){
    e.preventDefault();
    var d=new FormData(this), l=[];
-   d.forEach(function(v,k){ l.push(k+' : '+v); });
+   d.forEach(function(v,k){ if(String(v).trim()) l.push(k+' : '+v); });
    var corps=encodeURIComponent("Demande de démonstration\n\n"+l.join("\n"));
    window.location.href='mailto:contact@yelema.ai?subject='
      +encodeURIComponent('Demande de démonstration, '+(d.get('societe')||''))
      +'&body='+corps;
+ });
+})();
+
+/* Le metier « Autre » ouvre un champ libre, et sa reponse part avec le reste :
+   sans lui, le formulaire perdait le seul metier qu'on ne propose pas encore. */
+(function(){
+ var s=document.querySelector('#ylmform select[name=metier]'),
+     b=document.getElementById('yl-mautre');
+ if(!s||!b) return;
+ var i=b.querySelector('input');
+ s.addEventListener('change',function(){
+   var ouvert=(s.value==='Autre');
+   b.hidden=!ouvert; i.required=ouvert;
+   if(ouvert){i.focus();}else{i.value='';}
+ });
+})();
+
+/* La lettre d'information n'etait branchee sur rien : le formulaire rechargeait
+   la page et l'adresse etait perdue. Elle part maintenant par courriel. */
+(function(){
+ var f=document.getElementById('yl-news'); if(!f) return;
+ var msg=document.getElementById('yl-news-msg');
+ f.addEventListener('submit',function(e){
+   e.preventDefault();
+   var c=f.querySelector('input[name=email]'), v=(c.value||'').trim();
+   if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(v)){
+     if(msg) msg.textContent='Il manque une adresse valide.'; c.focus(); return; }
+   if(msg) msg.textContent='Merci, votre inscription part par e-mail.';
+   window.location.href='mailto:contact@yelema.ai?subject='
+     +encodeURIComponent('Inscription aux nouveautés Yelema')
+     +'&body='+encodeURIComponent('Merci de m\'inscrire aux nouveautés Yelema.\n\nAdresse : '+v);
+   f.reset();
  });
 })();

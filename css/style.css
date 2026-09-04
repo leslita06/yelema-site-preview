@@ -489,7 +489,7 @@ footer .bottom{display:flex;justify-content:space-between;flex-wrap:wrap;gap:10p
 .yl-fbrand svg{width:150px;height:auto;margin-bottom:14px}
 .yl-fbrand .tag{font-size:16px;margin:0 0 12px;padding-left:0}
 .yl-fadr{font-size:13.4px;line-height:1.6;opacity:.75;margin:0 0 16px}
-.yl-soc{display:flex;gap:10px;justify-content:center}
+.yl-soc{display:flex;gap:10px}
 .yl-soc a,.yl-soc span{display:block}
 .yl-soc i{width:38px;height:38px;border-radius:12px;border:1px solid rgba(255,255,255,.22);
   display:grid;place-items:center;color:#fff;background:rgba(255,255,255,.06);
@@ -760,9 +760,10 @@ button.yl-mfull{margin-top:4px}
   flex-wrap:wrap;margin:-30px 0;padding:26px 30px;border-radius:22px;
   background:linear-gradient(135deg,#301667,#4a2596 62%,#5b2fa8);
   position:relative;overflow:hidden;box-shadow:0 20px 45px -15px rgba(48,22,103,.45)}
-.calc-cta::after{content:"";position:absolute;right:-70px;top:-90px;width:280px;
-  height:280px;border-radius:50%;border:1px solid rgba(255,255,255,.13);
-  box-shadow:0 0 0 34px rgba(255,255,255,.05)}
+/* L'anneau fluorescent rond ne tenait pas dans la direction artistique :
+   ce sont les memes gelules que sur les bandeaux de fin. */
+.calc-cta .cta-fl i:nth-child(1){width:190px;height:42px;top:-8px;right:-40px}
+.calc-cta .cta-fl i:nth-child(2){width:120px;height:28px;bottom:-6px;left:-28px}
 .calc-l{display:flex;align-items:center;gap:18px;position:relative;z-index:1}
 .calc-ic{width:52px;height:52px;flex:0 0 52px;border-radius:16px;display:grid;
   place-items:center;background:rgba(255,255,255,.12);
@@ -1038,3 +1039,41 @@ button.yl-mfull{margin-top:4px}
 @media(max-width:760px){.blob-d::before{right:-90px}}
 .loc-m.loc-txt{padding-left:16px}
 .loc-m.loc-txt b{letter-spacing:.01em}
+
+/* ── 4/09 au soir ────────────────────────────────────────────────────────── */
+
+/* Les cartes « Ancré ici » : le paragraphe s'etirait (flex:1) et poussait les
+   logos tout en bas, ce qui creusait un trou au milieu de la carte la plus
+   courte. Le texte reprend sa hauteur, les marques suivent immediatement. */
+.loc-c p{flex:none}
+.loc-l{margin-top:10px}
+
+/* La phrase que reprennent les moteurs et les modeles, sur chaque page. */
+.yl-fdef{font-size:13.4px;line-height:1.6;opacity:.8;margin:0 0 14px;max-width:44ch}
+
+/* Les trois marques du pied : le glyphe etait cale un cheveu trop haut. */
+.yl-soc svg{transform:translateY(1px)}
+
+/* Zones cliquables a 44 px et petits libelles a 12 px : recommandation
+   d'accessibilite, mesuree a 19 zones sous 36 px et 17 textes sous 12 px. */
+.tag{font-size:12px}
+.pt-id span{font-size:12px}
+.pt-wa{font-size:12px}
+.yl-c .st{font-size:12px}
+.yl-a em{font-size:12px}
+.yl-a .h{font-size:12px}
+.yl-t{font-size:12px}
+.yl-et b{font-size:12px}
+.beta-chip{font-size:12px}
+.acard-badge{font-size:12px}
+@media(max-width:900px){
+  .menu a{min-height:44px;display:flex;align-items:center;font-size:15px}
+  .yl-fcol a{min-height:44px;display:flex;align-items:center;margin-bottom:0}
+  .yl-fbot a{min-height:44px;display:inline-flex;align-items:center}
+  .yl-soc i{width:44px;height:44px}
+}
+
+/* Les trois cartes « on cadre / on developpe / on exploite » n'ont pas d'icone :
+   le marqueur se cale en haut a droite comme sur les piliers, et le titre garde
+   sa largeur pour ne pas passer dessous. */
+.pil>h3:first-child+p,.pil-k+h3{max-width:calc(100% - 46px)}
