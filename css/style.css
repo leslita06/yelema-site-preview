@@ -1068,6 +1068,10 @@ button.yl-mfull{margin-top:4px}
 .acard-badge{font-size:12px}
 @media(max-width:900px){
   .menu a{min-height:44px;display:flex;align-items:center;font-size:15px}
+  .brand{min-height:44px;display:inline-flex;align-items:center}
+  .burger{min-height:44px;min-width:44px}
+  .beta-bar a{min-height:44px;display:inline-flex;align-items:center}
+  .yl-form input,.yl-form button{min-height:46px}
   .yl-fcol a{min-height:44px;display:flex;align-items:center;margin-bottom:0}
   .yl-fbot a{min-height:44px;display:inline-flex;align-items:center}
   .yl-soc i{width:44px;height:44px}
