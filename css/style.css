@@ -52,7 +52,7 @@ section.pad{padding:84px 0}
 .moat-section{position:relative;overflow:hidden}
 
 .moat-section .wrap{position:relative;z-index:1}
-@media(max-width:900px){.moat-section::before{width:220px;height:350px;left:-100px;top:-20px}}
+
 .catalog-agrid{position:relative}
 .catalog-agrid::after{content:"";position:absolute;left:-430px;top:40px;width:460px;height:420px;opacity:.34;background-image:url(../images/patterns/pattern-2.svg);background-size:contain;background-repeat:no-repeat;z-index:0;pointer-events:none}
 .catalog-agrid .acard{position:relative;z-index:1}
