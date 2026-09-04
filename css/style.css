@@ -1121,9 +1121,15 @@ button.yl-mfull{margin-top:4px}
 .anc-i img{height:25px;width:auto;max-width:88px;object-fit:contain;display:block}
 .anc-i img.sq{height:34px}
 .anc-i span{font-size:12px;color:var(--muted);text-align:center;line-height:1.35}
+/* Sous 1200 px, le libelle passe au-dessus : les 200 px qu'il prenait a gauche
+   suffisaient a faire tomber le septieme logo sur une deuxieme ligne. */
+@media(max-width:1200px){
+  .anc-r{grid-template-columns:1fr;gap:14px}
+  .anc-l{gap:20px 22px}
+  .anc-i{width:80px}
+}
 @media(max-width:900px){
   .anc{padding:26px 22px}
-  .anc-r{grid-template-columns:1fr;gap:16px}
-  .anc-l{gap:22px 26px}
-  .anc-i{width:84px}
+  .anc-l{gap:20px 20px}
+  .anc-i{width:78px}
 }
