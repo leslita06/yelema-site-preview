@@ -1116,9 +1116,9 @@ button.yl-mfull{margin-top:4px}
 .anc-r+.anc-r{border-top:1px solid var(--line);padding-top:28px}
 .anc-lab{font-family:var(--title);font-weight:700;font-size:12px;text-transform:uppercase;
   letter-spacing:.14em;color:var(--muted);margin:0;line-height:1.5}
-.anc-l{display:flex;flex-wrap:wrap;align-items:flex-end;gap:26px 40px}
-.anc-i{display:flex;flex-direction:column;align-items:center;gap:9px;width:96px}
-.anc-i img{height:26px;width:auto;max-width:96px;object-fit:contain;display:block}
+.anc-l{display:flex;flex-wrap:wrap;align-items:flex-end;gap:24px 30px}
+.anc-i{display:flex;flex-direction:column;align-items:center;gap:9px;width:88px}
+.anc-i img{height:25px;width:auto;max-width:88px;object-fit:contain;display:block}
 .anc-i img.sq{height:34px}
 .anc-i span{font-size:12px;color:var(--muted);text-align:center;line-height:1.35}
 @media(max-width:900px){
