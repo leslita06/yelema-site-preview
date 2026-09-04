@@ -1133,3 +1133,5 @@ button.yl-mfull{margin-top:4px}
   .anc-l{gap:20px 20px}
   .anc-i{width:78px}
 }
+.yl-mok{grid-column:1/-1;margin:2px 0 0;padding:12px 14px;border-radius:12px;
+  background:var(--lavp);color:var(--indigo);font-size:14px;line-height:1.5}
