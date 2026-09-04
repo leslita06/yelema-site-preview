@@ -46,7 +46,7 @@ header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.86);backdro
 @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 section.pad{padding:84px 0}
 .cta-check{position:relative;overflow:hidden}
-.cta-check::before{content:"";position:absolute;top:-90px;right:-40px;width:280px;height:445px;transform:rotate(90deg);background-image:url(../images/patterns/pattern-1.svg);background-size:contain;background-repeat:no-repeat;z-index:0;pointer-events:none}
+
 .cta-check .wrap{position:relative;z-index:1}
 @media(max-width:900px){.cta-check::before{width:180px;height:286px;top:-50px;right:-30px}}
 .moat-section{position:relative;overflow:hidden}
@@ -1037,3 +1037,5 @@ button.yl-mfull{margin-top:4px}
 .ctaband h2,.ctaband p,.ctaband .btn{position:relative;z-index:1}
 .blob-d::before{left:auto;right:-170px;bottom:-120px;transform:scaleX(-1)}
 @media(max-width:760px){.blob-d::before{right:-90px}}
+.loc-m.loc-txt{padding-left:16px}
+.loc-m.loc-txt b{letter-spacing:.01em}
