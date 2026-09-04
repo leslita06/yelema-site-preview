@@ -341,7 +341,8 @@ footer .bottom{display:flex;justify-content:space-between;flex-wrap:wrap;gap:10p
  .menu.open a{width:100%}
  .hero .wrap{display:flex;flex-direction:column;gap:32px}.hero-img{order:-1;margin:-96px auto 0}
  .split,.contact-grid,.split.rev .txt{grid-template-columns:1fr;order:0}
- .g3,.g4,.agrid,.steps,.offers,.agent-grid,.skillist,.usecase,.facts{grid-template-columns:1fr}
+ .g3,.g4,.steps,.offers,.agent-grid,.skillist,.usecase,.facts{grid-template-columns:1fr}
+ .agrid{grid-template-columns:1fr 1fr;gap:12px}
  .usecase .phone{margin-top:24px}
  .g2{grid-template-columns:1fr}
  .agent-top{flex-direction:column;text-align:center}
@@ -1135,3 +1136,35 @@ button.yl-mfull{margin-top:4px}
 }
 .yl-mok{grid-column:1/-1;margin:2px 0 0;padding:12px 14px;border-radius:12px;
   background:var(--lavp);color:var(--indigo);font-size:14px;line-height:1.5}
+
+/* ---- Telephone : cartes experts compactes (annuaire a deux colonnes) ---- */
+@media(max-width:900px){
+  .acard{border-radius:18px}
+  .acard-av{height:212px}
+  .acard-b{padding:12px 13px 13px}
+  .acard-b h3{font-size:17px;line-height:1.15}
+  .acard-b .role{font-size:11.5px;margin:1px 0 0;line-height:1.25}
+  .acard-b .tl,.acard-link{display:none}
+  .acard-badge{top:9px;left:9px}
+}
+@media(max-width:430px){
+  .acard-av{height:190px}
+  .acard-b h3{font-size:15.5px}
+  .acard-b .role{font-size:11px}
+  .acard-badge{font-size:8px;padding:4px 8px 4px 7px;letter-spacing:.02em}
+  .acard-badge svg{width:10px;height:10px}
+}
+@media(max-width:360px){
+  .agrid{gap:9px}
+  .acard-av{height:168px}
+}
+/* ---- Telephone : respiration verticale resserree ---- */
+@media(max-width:760px){
+  section.pad{padding:54px 0}
+  .section-h{margin-bottom:32px}
+  .section-h p{font-size:16px;margin-top:10px}
+}
+/* ---- Telephone : liens de texte cliquables au doigt ---- */
+@media(max-width:760px){
+  .yl-ct a[href^="mailto"],.yl-ct a[href^="tel"]{display:inline-block;padding:6px 0}
+}
