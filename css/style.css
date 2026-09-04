@@ -954,3 +954,19 @@ button.yl-mfull{margin-top:4px}
 .ag-sec .ag-num .yl-n .k{color:#a58cf7;font-variant-numeric:tabular-nums}
 .ag-sec .ag-num .yl-n h3{color:#fff}
 .ag-sec .ag-num .yl-n p{color:#c4b9e6}
+
+
+/* Les anciens titres de niveau 1 des vues sont passés en niveau 2 pour qu'il
+   n'y en ait qu'un par document. Ils gardent exactement leur apparence. */
+.section-h h2.h1x,.agent-hero h2.h1x{font-size:clamp(28px,4vw,42px);
+  font-family:var(--title);font-weight:600;line-height:1.12;
+  letter-spacing:-.01em;color:var(--indigo);margin:0}
+.agent-top h2.h1x{font-size:clamp(30px,4.4vw,46px)}
+.fiches{margin-top:34px;padding-top:26px;border-top:1px solid var(--line)}
+.fiches h2{font-size:18px;margin:0 0 14px}
+.fiches ul{list-style:none;padding:0;margin:0;display:grid;
+  grid-template-columns:repeat(3,1fr);gap:9px 22px}
+.fiches a{font-size:14.5px;color:#5b4f7d}
+.fiches a:hover{color:var(--violet)}
+@media(max-width:820px){.fiches ul{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:520px){.fiches ul{grid-template-columns:1fr}}

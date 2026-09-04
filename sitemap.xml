@@ -2,5 +2,26 @@
 <!-- Prêt pour la mise en ligne. Sans effet tant que les pages sont en noindex. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://yelema.ai/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://yelema.ai/calculatrice-yelema.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://yelema.ai/experts/kouassi.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yelema.ai/experts/awa.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yelema.ai/experts/fatima.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yelema.ai/experts/fatou.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yelema.ai/experts/mamadou.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yelema.ai/experts/ibrahim.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yelema.ai/experts/salif.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yelema.ai/experts/nadia.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yelema.ai/experts/adjoua.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yelema.ai/experts/koffi.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yelema.ai/experts/chiefofstaff.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yelema.ai/experts/alioune.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yelema.ai/a-propos.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://yelema.ai/catalogue.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://yelema.ai/solutions.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://yelema.ai/tarifs.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://yelema.ai/ressources.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://yelema.ai/confiance.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://yelema.ai/contact.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://yelema.ai/etudes-de-cas.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://yelema.ai/comment-ca-marche.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://yelema.ai/calculatrice-yelema.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
