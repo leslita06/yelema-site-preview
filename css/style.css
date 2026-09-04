@@ -1173,3 +1173,8 @@ button.yl-mfull{margin-top:4px}
 @media(max-width:760px){
   .yl-ct a[href^="mailto"],.yl-ct a[href^="tel"]{display:inline-block;padding:6px 0}
 }
+
+/* Un element porteur de l'attribut `hidden` doit disparaitre, quelle que soit
+   la regle d'affichage qui le vise par ailleurs. Sans ce !important, une
+   regle de composant plus specifique le laisse a l'ecran. */
+[hidden]{display:none !important}
