@@ -1104,3 +1104,26 @@ button.yl-mfull{margin-top:4px}
 /* barre du bas du pied : la mention legale et l'adresse a droite, ensemble. */
 .yl-fbl{display:flex;align-items:center;gap:20px;flex-wrap:wrap}
 @media(max-width:640px){.yl-fbl{gap:12px}}
+
+/* ── « Ancré ici » : un seul panneau, deux rangées de logos ───────────────────
+   Les deux cartes bordées, chacune avec son titre, son paragraphe et ses
+   pastilles, faisaient un pavé lourd et irrégulier. Ici : un panneau unique, un
+   libellé court par rangée, et les logos à hauteur optique constante. */
+.anc{background:#fff;border:1px solid var(--line);border-radius:24px;
+  padding:34px 38px;display:grid;gap:28px;
+  box-shadow:0 18px 44px -34px rgba(30,16,80,.5)}
+.anc-r{display:grid;grid-template-columns:172px minmax(0,1fr);gap:28px;align-items:center}
+.anc-r+.anc-r{border-top:1px solid var(--line);padding-top:28px}
+.anc-lab{font-family:var(--title);font-weight:700;font-size:12px;text-transform:uppercase;
+  letter-spacing:.14em;color:var(--muted);margin:0;line-height:1.5}
+.anc-l{display:flex;flex-wrap:wrap;align-items:flex-end;gap:26px 40px}
+.anc-i{display:flex;flex-direction:column;align-items:center;gap:9px;width:96px}
+.anc-i img{height:26px;width:auto;max-width:96px;object-fit:contain;display:block}
+.anc-i img.sq{height:34px}
+.anc-i span{font-size:12px;color:var(--muted);text-align:center;line-height:1.35}
+@media(max-width:900px){
+  .anc{padding:26px 22px}
+  .anc-r{grid-template-columns:1fr;gap:16px}
+  .anc-l{gap:22px 26px}
+  .anc-i{width:84px}
+}
