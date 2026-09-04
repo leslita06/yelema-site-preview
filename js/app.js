@@ -1,16 +1,27 @@
 
-/* Point de collecte des formulaires (Apps Script). Tant qu'il est vide, les
-   formulaires retombent sur un e-mail : rien ne casse, rien ne se perd. */
+/* Envoi des formulaires vers contact@yelema.ai, sans serveur a tenir.
+   YL_COLLECTE reste vide tant qu'aucun classeur n'est branche : le jour ou il
+   l'est, la meme charge part AUSSI dans le classeur, sans rien changer ici.
+   ylEnvoyer ne dit jamais « c'est parti » avant la reponse du service : un
+   accuse de reception affiche trop tot serait un mensonge a la visiteuse. */
+var YL_MAIL="https://formsubmit.co/ajax/contact@yelema.ai";
 var YL_COLLECTE="";
-function ylEnvoyer(charge){
-  if(!YL_COLLECTE) return false;
+function ylEnvoyer(charge,fait,rate){
   charge.Page=location.pathname.split('/').pop()||'index.html';
-  try{
-    fetch(YL_COLLECTE,{method:'POST',mode:'no-cors',
+  if(YL_COLLECTE){
+    try{ fetch(YL_COLLECTE,{method:'POST',mode:'no-cors',
       headers:{'Content-Type':'text/plain;charset=utf-8'},
-      body:JSON.stringify(charge)});
-    return true;
-  }catch(e){ return false; }
+      body:JSON.stringify(charge)}); }catch(e){}
+  }
+  var m={},k;
+  for(k in charge){ if(charge.hasOwnProperty(k)&&String(charge[k]).trim()) m[k]=charge[k]; }
+  m._captcha='false'; m._template='table';
+  fetch(YL_MAIL,{method:'POST',
+      headers:{'Content-Type':'application/json','Accept':'application/json'},
+      body:JSON.stringify(m)})
+    .then(function(r){ return r.json(); })
+    .then(function(d){ if(d&&String(d.success)==='true'){ fait(); } else { rate(); } })
+    .catch(function(){ rate(); });
 }
 
 const menu=document.getElementById('menu'),burger=document.getElementById('burger');
@@ -61,21 +72,23 @@ window.addEventListener('hashchange',route);route();
  document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!m.hidden) fermer(); });
  document.getElementById('ylmform').addEventListener('submit',function(e){
    e.preventDefault();
-   var d=new FormData(this), l=[], f=this;
+   var d=new FormData(this), l=[], f=this,
+       z=document.getElementById('ylm-ok'),
+       b=f.querySelector('button[type=submit]');
    d.forEach(function(v,k){ if(String(v).trim()) l.push(k+' : '+v); });
-   if(ylEnvoyer({_form:'demo',
+   if(b){ b.disabled=true; b.textContent='Envoi en cours…'; }
+   function rendre(){ if(b){ b.disabled=false; b.textContent='Demander la démonstration'; } }
+   ylEnvoyer({_subject:'Demande de démonstration, '+(d.get('societe')||''),
        'Société':d.get('societe')||'', 'Nom':d.get('nom')||'',
-       'Email':d.get('email')||'', 'Téléphone':d.get('tel')||'',
+       'email':d.get('email')||'', 'Téléphone':d.get('tel')||'',
        'Métier':d.get('metier')||'', 'Métier (autre)':d.get('metier_autre')||'',
-       'Effectif':d.get('effectif')||'', 'Message':d.get('message')||''})){
-     var z=document.getElementById('ylm-ok');
-     if(z){ z.hidden=false; }
-     f.reset(); return;
-   }
-   var corps=encodeURIComponent("Demande de démonstration\n\n"+l.join("\n"));
-   window.location.href='mailto:contact@yelema.ai?subject='
-     +encodeURIComponent('Demande de démonstration, '+(d.get('societe')||''))
-     +'&body='+corps;
+       'Effectif':d.get('effectif')||'', 'Message':d.get('message')||''},
+     function(){ if(z){ z.hidden=false; } f.reset(); rendre(); },
+     function(){ rendre();
+       var corps=encodeURIComponent("Demande de démonstration\n\n"+l.join("\n"));
+       window.location.href='mailto:contact@yelema.ai?subject='
+         +encodeURIComponent('Demande de démonstration, '+(d.get('societe')||''))
+         +'&body='+corps; });
  });
 })();
 
@@ -103,14 +116,15 @@ window.addEventListener('hashchange',route);route();
    var c=f.querySelector('input[name=email]'), v=(c.value||'').trim();
    if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(v)){
      if(msg) msg.textContent='Il manque une adresse valide.'; c.focus(); return; }
-   if(ylEnvoyer({_form:'nouveautes',Email:v,Source:'pied de page'})){
-     if(msg) msg.textContent='Merci, vous êtes inscrit aux nouveautés.';
-     f.reset(); return;
-   }
-   if(msg) msg.textContent='Merci, votre inscription part par e-mail.';
-   window.location.href='mailto:contact@yelema.ai?subject='
-     +encodeURIComponent('Inscription aux nouveautés Yelema')
-     +'&body='+encodeURIComponent('Merci de m\'inscrire aux nouveautés Yelema.\n\nAdresse : '+v);
-   f.reset();
+   if(msg) msg.textContent='Envoi en cours…';
+   ylEnvoyer({_subject:'Inscription aux nouveautés Yelema',
+       email:v, Demande:'Rester au courant des nouveautés', Source:'pied de page'},
+     function(){ if(msg) msg.textContent='Merci, votre adresse est bien enregistrée.'; f.reset(); },
+     function(){
+       if(msg) msg.textContent='Merci, votre inscription part par e-mail.';
+       window.location.href='mailto:contact@yelema.ai?subject='
+         +encodeURIComponent('Inscription aux nouveautés Yelema')
+         +'&body='+encodeURIComponent('Merci de m\'inscrire aux nouveautés Yelema.\n\nAdresse : '+v);
+       f.reset(); });
  });
 })();
