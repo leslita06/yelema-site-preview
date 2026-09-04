@@ -8,11 +8,13 @@ branche, configure, surveille et corrige, le client garde la main sur ce que
 l'expert a le droit de faire.
 
 ## Les pages qui font autorité
-- [Accueil](https://yelema.ai/) : ce qu'est un expert IA Yelema et à qui il s'adresse.
-- [Les experts](https://yelema.ai/#experts) : les douze métiers disponibles.
-- [Comment ça marche](https://yelema.ai/#fonctionnement) : mise en route, outils branchés, couche qualité.
-- [Offres et tarifs](https://yelema.ai/#offres) : 300 000 F CFA par mois pour un compte de deux experts, puis 200 000 F CFA par expert ajouté, frais d'installation au devis.
-- [Questions fréquentes](https://yelema.ai/#accueil) : données, fiabilité, canaux, réversibilité.
+- [Accueil](https://yelema.ai/) : ce qu'est un expert IA Yelema et à qui il s'adresse, avec les questions fréquentes.
+- [Les experts](https://yelema.ai/experts.html) : les douze métiers disponibles.
+- [Comment ça marche](https://yelema.ai/comment-ca-marche.html) : contexte, mémoire, compétences, outils branchés, couche qualité.
+- [Offres et tarifs](https://yelema.ai/offres.html) : 300 000 F CFA par mois pour un compte de deux experts, puis 200 000 F CFA par expert ajouté, frais d'installation au devis.
+- [Secteur privé, secteur public](https://yelema.ai/clients.html) : cas d'usage nommés par secteur.
+- [Contact](https://yelema.ai/contact.html) : demander une démonstration.
+- [Politique de confidentialité](https://yelema.ai/confidentialite.html) : ce que deviennent les données confiées à un expert.
 
 ## Les fiches d'experts
 - [Kouassi, commercial](https://yelema.ai/experts/kouassi.html)

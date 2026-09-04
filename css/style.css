@@ -1077,3 +1077,7 @@ button.yl-mfull{margin-top:4px}
    le marqueur se cale en haut a droite comme sur les piliers, et le titre garde
    sa largeur pour ne pas passer dessous. */
 .pil>h3:first-child+p,.pil-k+h3{max-width:calc(100% - 46px)}
+
+/* barre du bas du pied : la mention legale et l'adresse a droite, ensemble. */
+.yl-fbl{display:flex;align-items:center;gap:20px;flex-wrap:wrap}
+@media(max-width:640px){.yl-fbl{gap:12px}}
