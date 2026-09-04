@@ -80,8 +80,8 @@ footer{position:relative;overflow:hidden;z-index:0}
 .hero:before{content:"";position:absolute;inset:0;background:radial-gradient(600px 300px at 85% 20%,rgba(141,104,250,.5),transparent),radial-gradient(500px 300px at 10% 90%,rgba(46,78,196,.5),transparent);pointer-events:none}
 .cta-fl{position:absolute;inset:0;overflow:hidden;pointer-events:none;z-index:0}
 .cta-fl i{position:absolute;display:block;border-radius:999px;
-  background:linear-gradient(120deg,rgba(255,255,255,.34),rgba(197,196,255,.12));
-  box-shadow:0 0 60px rgba(255,255,255,.22)}
+  background:linear-gradient(120deg,rgba(255,255,255,.46),rgba(197,196,255,.16));
+  box-shadow:0 0 74px rgba(255,255,255,.34)}
 .cta-fl i:nth-child(1){width:240px;height:54px;top:13%;right:-46px;
   transform:rotate(-18deg);opacity:.5;animation:flotte 11s ease-in-out infinite}
 .cta-fl i:nth-child(2){width:156px;height:36px;bottom:15%;left:-34px;
