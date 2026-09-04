@@ -763,6 +763,12 @@ button.yl-mfull{margin-top:4px}
   padding:15px 26px;border-radius:14px;border:0;white-space:nowrap;
   transition:transform .16s,box-shadow .16s}
 .calc-b:hover{transform:translateY(-2px);box-shadow:0 12px 28px rgba(20,6,50,.3)}
+.calc-bs{display:flex;gap:12px;flex-wrap:wrap;position:relative;z-index:1}
+.calc-b2{display:inline-flex;align-items:center;background:transparent;color:#fff;
+  font-weight:600;font-size:15.4px;padding:15px 26px;border-radius:14px;
+  border:1.5px solid rgba(255,255,255,.5);white-space:nowrap;transition:.18s}
+.calc-b2:hover{background:rgba(255,255,255,.12);border-color:#fff}
+@media(max-width:720px){.calc-bs{width:100%}.calc-b2{width:100%;justify-content:center}}
 .calc-fl{display:block;width:19px;height:19px}
 .calc-fl svg{width:19px;height:19px;display:block}
 @media(max-width:720px){
