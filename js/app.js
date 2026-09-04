@@ -4,6 +4,8 @@ burger.addEventListener('click',()=>{menu.classList.toggle('open');burger.classL
 function topRoute(id){return id.startsWith('expert-')?'experts':id;}
 function route(){
  let id=(location.hash.replace('#','')||'accueil');
+ /* #demo ouvre le formulaire par-dessus la page contact, depuis n'importe quelle page. */
+ if(id==='demo') id='contact';
  if(!document.getElementById('view-'+id)) id='accueil';
  document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
  document.getElementById('view-'+id).classList.add('active');
@@ -35,11 +37,12 @@ window.addEventListener('hashchange',route);route();
    var p=m.querySelector('input'); if(p) p.focus(); }
  function fermer(){ m.hidden=true; document.body.style.overflow='';
    if(dernier&&dernier.focus) dernier.focus(); }
- document.querySelectorAll('a[href="#contact"],[data-demo]').forEach(function(a){
-   var t=(a.textContent||'').toLowerCase();
-   if(t.indexOf('démo')>=0||t.indexOf('demo')>=0||a.hasAttribute('data-demo'))
-     a.addEventListener('click',ouvrir);
+ document.querySelectorAll('a[href="#demo"],[data-demo]').forEach(function(a){
+   a.addEventListener('click',ouvrir);
  });
+ /* Arrivee directe sur #demo (lien depuis une page autonome ou lien partage). */
+ function surHash(){ if(location.hash==='#demo'&&m.hidden) ouvrir(); }
+ window.addEventListener('hashchange',surHash); surHash();
  m.querySelectorAll('[data-close]').forEach(function(b){b.addEventListener('click',fermer);});
  document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!m.hidden) fermer(); });
  document.getElementById('ylmform').addEventListener('submit',function(e){
