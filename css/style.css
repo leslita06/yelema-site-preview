@@ -1310,3 +1310,32 @@ button.yl-mfull{margin-top:4px}
   .llm-p{font-size:14px;padding:9px 16px 9px 11px;gap:8px}
   .llm-p i{width:21px;height:21px}
 }
+
+
+/* ── Revue mobile du 5/9. Quatre correctifs, aucun changement de contenu. ────
+   1. « Demander une démo » disparaissait sous 900 px, menu ouvert compris :
+      la même action revient dans le panneau du menu.
+   2. Le métier sur les cartes du catalogue tombait à 11 px et le badge à 8 :
+      remontés à une taille lisible sur un écran de téléphone.
+   3. Les deux boutons de la page d'accueil n'avaient pas la même largeur une
+      fois empilés : ils prennent toute la colonne.
+   4. Le retour « Tous les experts » faisait 18 px de haut : cible tactile. */
+.menu-demo{display:none}
+@media(max-width:900px){
+  .menu.open .menu-demo{display:inline-flex;width:100%;margin-top:10px;
+    justify-content:center}
+  .acard-b .role{font-size:12.5px}
+}
+@media(max-width:430px){
+  .acard-b .role{font-size:12px}
+  .acard-badge{font-size:10px;padding:3px 9px 3px 8px}
+  .acard-badge svg{width:10.5px;height:10.5px}
+}
+@media(max-width:620px){
+  .hero-cta{flex-direction:column;align-items:stretch}
+  .hero-cta .btn{width:100%;justify-content:center;box-sizing:border-box}
+  /* le bouton clair porte une bordure, le violet non : sans ce liseré
+     transparent les deux empilés ne font pas la même hauteur. */
+  .hero-cta .btn-primary{border:1.5px solid transparent}
+}
+.back{display:inline-flex;align-items:center;min-height:44px;padding:4px 0}
