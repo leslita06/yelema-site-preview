@@ -30,6 +30,9 @@ l'expert a le droit de faire.
 - [Alioune, investissement](https://yelema.ai/experts/alioune.html)
 - [Djénéba, direction](https://yelema.ai/experts/chiefofstaff.html)
 
+## Le contenu complet
+- [llms-full.txt](https://yelema.ai/llms-full.txt) : tout le texte du site en un fichier, questions fréquentes et fiches d'Experts comprises.
+
 ## Contact
 - contact@yelema.ai
 - Ivoire Trade Center, Abidjan, Côte d'Ivoire
