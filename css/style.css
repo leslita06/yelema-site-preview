@@ -66,7 +66,7 @@ section.pad{padding:84px 0}
 @media(max-width:1200px){.catalog-agrid::after{left:-260px;width:340px;height:310px;top:1604px}}
 @media(max-width:900px){.catalog-agrid::after{display:none}}
 .tools-blob{position:relative;overflow:hidden}
-.tools-blob::before{content:"";position:absolute;bottom:-130px;left:-150px;width:560px;height:500px;background-image:url(../images/patterns/pattern-3.svg);background-size:contain;background-repeat:no-repeat;z-index:0}
+.tools-blob::before{content:"";position:absolute;bottom:-130px;left:-260px;width:560px;height:500px;background-image:url(../images/patterns/pattern-3.svg);background-size:contain;background-repeat:no-repeat;z-index:0}
 .tools-blob .wrap{position:relative;z-index:1}
 @keyframes blobSpin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
 @media(max-width:760px){.tools-blob::before{width:340px;height:305px;bottom:-80px;left:-90px}}
@@ -931,9 +931,14 @@ button.yl-mfull{margin-top:4px}
 .cnx-l span{display:flex;align-items:center;gap:9px;font-size:14.5px;
   color:#443a5e}
 .cnx-l .chip-lg{width:19px;height:19px}
-.cnx-note{margin:26px auto 0;text-align:center;color:var(--ink);font-size:16.5px;
-  line-height:1.55;max-width:720px;background:var(--lavp);border-radius:18px;
-  padding:18px 26px}
+.cnx-note{margin:18px auto 0;text-align:center;color:var(--muted);font-size:14.5px;
+  line-height:1.55;max-width:640px}
+/* La fleur du coin bas gauche ne doit jamais passer sous le texte : plus l'écran
+   est étroit, plus la note prend de largeur, donc c'est la fleur qui recule,
+   puis disparaît quand il n'y a plus de place pour elle. */
+@media(max-width:1300px){.tools-blob::before{width:380px;height:340px;
+  left:-280px;bottom:-90px}}
+@media(max-width:810px){.tools-blob::before{display:none}}
 .cnx-note b{color:var(--indigo)}
 @media(max-width:980px){.cnx{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:560px){.cnx{grid-template-columns:1fr}}
