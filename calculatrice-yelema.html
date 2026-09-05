@@ -533,7 +533,7 @@
        n=(o.unite==='siege'?Math.max(1,effectif()):1);
    return '<div class="cl-l'+(on?'':' cl-off')+'" data-l="'+x.cle+'">'
      +'<label class="cl-lck"><input type="checkbox" data-o="'+x.cle+'"'+(on?' checked':'')+'>'
-     +'<img src="images/logos/tools/'+o.logo+'.png" alt="" loading="lazy">'
+     +'<img src="images/logos/tools/'+o.logo+'.png" alt="Logo '+ech(o.affiche)+'" loading="lazy">'
      +'<b>'+ech(o.affiche)+'</b></label>'
      +'<span class="cl-lp">'
      +'<input type="number" min="0" step="500" inputmode="numeric" data-po="'+x.cle+'"'
@@ -714,7 +714,7 @@
      return x || a.affiche.localeCompare(b2.affiche); });
    var h=r.slice(0,8).map(function(o){
      return '<button type="button" data-add="'+o.cle+'">'
-       +'<img src="images/logos/tools/'+o.logo+'.png" alt="" loading="lazy">'
+       +'<img src="images/logos/tools/'+o.logo+'.png" alt="Logo '+ech(o.affiche)+'" loading="lazy">'
        +'<span>'+ech(o.affiche)+'</span><em>'
        +(o.sansPrix?'prix à saisir':fr(o.prix)+'\u202fF')+'</em></button>'; }).join('');
    h+='<button type="button" data-neuf="1" class="cl-neuf">'
