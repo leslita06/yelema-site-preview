@@ -1200,8 +1200,10 @@
       <label>Votre nom<input name="nom" required autocomplete="name"></label>
       <label>Votre entreprise<input name="societe" required autocomplete="organization"></label>
       <label>Votre e-mail<input name="email" type="email" required autocomplete="email"></label>
-      <label>Votre téléphone<input name="tel" type="tel" autocomplete="tel"
-             placeholder="+225 ..."></label>
+      <label>Votre téléphone<span class="yl-tel">
+             <select name="indicatif" aria-label="Indicatif du pays"><option value="+225" selected>+225 Côte d'Ivoire</option><option value="+221">+221 Sénégal</option><option value="+229">+229 Bénin</option><option value="+226">+226 Burkina Faso</option><option value="+223">+223 Mali</option><option value="+227">+227 Niger</option><option value="+228">+228 Togo</option><option value="+245">+245 Guinée-Bissau</option><option value="+237">+237 Cameroun</option><option value="+224">+224 Guinée</option><option value="+233">+233 Ghana</option><option value="+212">+212 Maroc</option><option value="+241">+241 Gabon</option><option value="+242">+242 Congo</option><option value="+33">+33 France</option><option value="+32">+32 Belgique</option><option value="+1">+1 Canada et États-Unis</option></select>
+             <input name="tel" type="tel" autocomplete="tel"
+                    placeholder="07 00 00 00 00"></span></label>
       <label class="yl-mfull">Le métier qui vous intéresse
         <select name="metier">
           <option value="" selected>Choisissez un métier</option>

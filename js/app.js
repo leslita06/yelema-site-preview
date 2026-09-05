@@ -80,7 +80,9 @@ window.addEventListener('hashchange',route);route();
    function rendre(){ if(b){ b.disabled=false; b.textContent='Demander une démo'; } }
    ylEnvoyer({_subject:'Demande de démonstration, '+(d.get('societe')||''),
        'Société':d.get('societe')||'', 'Nom':d.get('nom')||'',
-       'email':d.get('email')||'', 'Téléphone':d.get('tel')||'',
+       'email':d.get('email')||'',
+       'Téléphone':String(d.get('tel')||'').trim()
+         ? (d.get('indicatif')||'')+' '+String(d.get('tel')).trim() : '',
        'Métier':d.get('metier')||'', 'Métier (autre)':d.get('metier_autre')||'',
        'Effectif':d.get('effectif')||'', 'Message':d.get('message')||''},
      function(){ if(z){ z.hidden=false; } f.reset(); rendre(); },
