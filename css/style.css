@@ -977,10 +977,7 @@ button.yl-mfull{margin-top:4px}
 
 /* logo Diaspora Connect */
 .cl-diaspora{background-image:url(../images/logos/cl-diaspora.png);width:150px}
-@media(max-width:620px){.cl-diaspora{width:120px}
-/* Logo presque carre : une boite plus haute et plus etroite, sinon il se tasse
-   a 26 px de large a cote des wordmarks. */
-.cl-fjn{background-image:url(../images/logos/cl-fjn.png);height:40px;width:64px}}
+@media(max-width:620px){.cl-diaspora{width:120px}}
 
 
 /* « comment ils travaillent » : traitement console d'agent */
@@ -1181,3 +1178,34 @@ button.yl-mfull{margin-top:4px}
    la regle d'affichage qui le vise par ailleurs. Sans ce !important, une
    regle de composant plus specifique le laisse a l'ecran. */
 [hidden]{display:none !important}
+
+
+/* ── bandeau clients : la boite de chaque logo se calcule, elle ne s'invente pas
+   ───────────────────────────────────────────────────────────────────────────
+   Tous les logos partagent la meme hauteur de reference (42 px) et leur boite
+   fait exactement la largeur que l'image occupe a cette hauteur, soit
+   42 x (largeur native / hauteur native). C'est ce qui donne les valeurs
+   ci-dessous : Mstudio 3,81 -> 160, PFO 2,75 -> 116, Mafa 3,57 -> 150,
+   Ministere 3,72 -> 156, Diaspora 3,67 -> 154.
+
+   Un logo CARRE fait exception. A hauteur egale il n'occupe que 42 px de large
+   quand un wordmark en prend 160 : l'oeil le lit comme un logo minuscule, pas
+   comme un logo etroit. On le remonte donc a 58 px de cote, ce qui lui rend la
+   meme SURFACE apparente que ses voisins.
+
+   Pour ajouter un logo : mesurer son ratio, poser height x ratio en largeur,
+   et passer par la regle carree si le ratio est sous 1,5. */
+.cl{height:42px;background-position:center center;background-size:contain;
+  opacity:1;filter:none}
+.cl-mstudio{width:160px}
+.cl-pfo{width:116px}
+.cl-mafa{width:150px}
+.cl-ministere{width:156px}
+.cl-diaspora{width:154px}
+.cl-fjn{background-image:url(../images/logos/cl-fjn.png);height:58px;width:81px}
+@media(max-width:620px){
+  .cl{height:34px}
+  .cl-mstudio{width:130px}.cl-pfo{width:94px}.cl-mafa{width:121px}
+  .cl-ministere{width:126px}.cl-diaspora{width:125px}
+  .cl-fjn{height:47px;width:65px}
+}
