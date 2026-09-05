@@ -1341,3 +1341,21 @@ button.yl-mfull{margin-top:4px}
   .hero-cta .btn-primary{border:1.5px solid transparent}
 }
 .back{display:inline-flex;align-items:center;min-height:44px;padding:4px 0}
+
+
+/* ── Suite de la revue mobile du 5/9, deuxième passe. ────────────────────────
+   Le minuteur du vocal était à 11,5 px, sous le seuil de lisibilité. Et les
+   adresses écrites en pleine phrase (« Écrivez-nous », l'adresse e-mail du
+   bloc contact) faisaient une vingtaine de pixels de haut, trop peu pour un
+   pouce. Elles gardent leur taille et leur place dans la phrase : c'est la
+   zone tactile qui s'agrandit sous elles, par un calque invisible. */
+.vf-voice em{font-size:12.5px}
+p.center a[href^="mailto:"],
+p.center a[href^="tel:"],
+.cline a[href^="mailto:"],
+.cline a[href^="tel:"]{position:relative;display:inline-block}
+p.center a[href^="mailto:"]::after,
+p.center a[href^="tel:"]::after,
+.cline a[href^="mailto:"]::after,
+.cline a[href^="tel:"]::after{content:"";position:absolute;left:0;right:0;
+  top:50%;transform:translateY(-50%);height:44px}
