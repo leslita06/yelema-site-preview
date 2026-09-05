@@ -1252,3 +1252,31 @@ button.yl-mfull{margin-top:4px}
 .uc-n em{order:-1}
 @media(max-width:900px){.uc-h{grid-template-columns:auto 1fr;row-gap:12px}
   .uc-logo{grid-column:2;justify-self:start;object-position:left center}}
+
+/* Voice first : la demonstration, dans « Comment ca marche » */
+.vf-sec .vf-w{display:grid;grid-template-columns:1.02fr .98fr;gap:52px;align-items:center}
+.vf-txt h2{margin-bottom:16px}
+.vf-txt p{margin-bottom:14px}
+.vf-l{list-style:none;margin-top:22px;display:flex;flex-direction:column;gap:11px}
+.vf-l li{display:flex;align-items:flex-start;gap:11px;font-size:15.5px;line-height:1.5;color:var(--ink)}
+.vf-tick{flex:none;width:20px;height:20px;margin-top:2px;border-radius:50%;background:var(--grad);position:relative}
+.vf-tick::after{content:"";position:absolute;left:6px;top:5px;width:5px;height:9px;border:solid #fff;border-width:0 2px 2px 0;transform:rotate(42deg)}
+.vf-sec .phone{max-width:320px;margin:0 auto}
+.vf-voice{max-width:94%}
+.vf-row{display:flex;align-items:center;gap:9px}
+.vf-play{flex:none;width:26px;height:26px;border-radius:50%;background:var(--grad);color:#fff;display:flex;align-items:center;justify-content:center}
+.vf-play svg{width:12px;height:12px;margin-left:1px}
+.vf-wave{flex:1;display:flex;align-items:center;gap:2px;height:22px}
+.vf-wave i{flex:1;background:var(--lav);border-radius:2px;height:30%}
+.vf-wave i:nth-child(3n){height:64%}
+.vf-wave i:nth-child(4n){height:92%}
+.vf-wave i:nth-child(5n){height:46%}
+.vf-wave i:nth-child(-n+9){background:var(--violet)}
+.vf-voice em{flex:none;font-style:normal;font-size:11.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.vf-tr{margin:9px 0 0;padding-top:9px;border-top:1px solid #efeaf8;font-size:12.5px;line-height:1.5;color:var(--muted)}
+.vf-mic{width:30px;height:30px;border-radius:50%;background:var(--grad);color:#fff;display:flex;align-items:center;justify-content:center;font-style:normal}
+.vf-mic svg{width:15px;height:15px}
+@media(max-width:900px){
+  .vf-sec .vf-w{grid-template-columns:1fr;gap:34px}
+  .vf-sec .phone{max-width:300px}
+}
