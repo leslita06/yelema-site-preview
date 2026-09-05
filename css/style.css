@@ -1202,10 +1202,31 @@ button.yl-mfull{margin-top:4px}
 .cl-mafa{width:150px}
 .cl-ministere{width:156px}
 .cl-diaspora{width:154px}
-.cl-fjn{background-image:url(../images/logos/cl-fjn.png);height:58px;width:81px}
+.cl-fjn{background-image:url(../images/logos/cl-fjn.png?v=2);height:58px;width:81px}
 @media(max-width:620px){
   .cl{height:34px}
   .cl-mstudio{width:130px}.cl-pfo{width:94px}.cl-mafa{width:121px}
   .cl-ministere{width:126px}.cl-diaspora{width:125px}
   .cl-fjn{height:47px;width:65px}
 }
+
+
+/* ── cas d'usage : ce que l'Expert prend en charge, sans nommer le client ────
+   Deux cartes de meme hauteur (le pied est colle en bas par margin-top:auto),
+   pour que les portraits tombent sur la meme ligne quel que soit le texte. */
+.uc-g{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.uc-c{background:#fff;border:1px solid var(--line);border-radius:22px;
+  padding:30px;display:flex;flex-direction:column}
+.uc-tag{font-family:var(--title);text-transform:uppercase;letter-spacing:.16em;
+  font-size:11.5px;font-weight:700;color:var(--violet);margin:0 0 14px}
+.uc-c h3{font-size:21px;line-height:1.25;margin:0 0 12px}
+.uc-r{color:var(--muted);font-size:15.5px;margin:0 0 24px}
+.uc-f{display:flex;align-items:center;gap:12px;margin-top:auto;padding-top:20px;
+  border-top:1px solid var(--line)}
+.uc-av{width:46px;height:46px;border-radius:50%;overflow:hidden;flex:none;
+  background:var(--lavp)}
+.uc-n{display:flex;flex-direction:column;line-height:1.3}
+.uc-n b{font-family:var(--title);font-size:15.5px;color:var(--indigo)}
+.uc-n em{font-style:normal;font-size:13.5px;color:var(--muted)}
+@media(max-width:760px){.uc-g{grid-template-columns:1fr}.uc-c{padding:26px}
+  .uc-c h3{font-size:19px}}
