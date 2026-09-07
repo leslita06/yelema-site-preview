@@ -22,9 +22,9 @@ Ils nous font confiance
 
 Opérationnels cette semaine
 
-### Rencontrez vos futurs experts
+### Rencontrez vos futurs Experts
 
-Chacun a un métier, une fonction et des compétences précises. Vous composez votre équipe selon vos besoins, de 2 experts à une équipe complète. Celui que vous choisissez commence cette semaine.
+Chacun a un métier, une fonction et des compétences précises. Vous composez votre équipe selon vos besoins, de 2 Experts à une équipe complète. Celui que vous choisissez commence cette semaine.
 
 Incluse par défaut
 
@@ -124,7 +124,7 @@ Il instruit vos dossiers d'investissement, du sourcing au suivi de participation
 
 Voir sa fiche →
 
-Voir tous les experts en détail →
+Voir tous les Experts en détail →
 
 ### Sans l'IA, les petites structures restent petites.
 
@@ -150,9 +150,9 @@ Ce que fait un Expert IA
 
 ### Il prend en charge un métier, du début à la fin.
 
-Vous confiez un métier à un expert qui comprend votre entreprise, s'en souvient, et agit dans vos outils, sous votre contrôle.
+Vous confiez un métier à un Expert qui comprend votre entreprise, s'en souvient, et agit dans vos outils, sous votre contrôle.
 
-Un chatbot Un copilote Un expert Yelema
+Un chatbot Un copilote Un Expert Yelema
 
 Ce que c'est Répond à des questions Vous assiste pendant que vous travaillez Prend en charge un métier, de bout en bout
 
@@ -196,11 +196,11 @@ Pas de projet informatique de six mois. Vous choisissez, on branche,
 
 ils travaillent.
 
-1 Vous choisissez un métier Parmi une dizaine d'experts, ou deux pour commencer. 2 On le branche sur votre activité Vos produits, vos règles, vos outils. 3 Il travaille Sur vos canaux, dès la première semaine.
+1 Vous choisissez un métier Parmi une dizaine d'Experts, ou deux pour commencer. 2 On le branche sur votre activité Vos produits, vos règles, vos outils. 3 Il travaille Sur vos canaux, dès la première semaine.
 
 Ancré localement
 
-### Un expert qui connaît le terrain, pas seulement le métier
+### Un Expert qui connaît le terrain, pas seulement le métier
 
 Le droit, les règles bancaires et les moyens de paiement de la zone font partie de son cadre de travail. Ce n'est pas un réglage ajouté après coup.
 
@@ -260,7 +260,7 @@ Oui. Nos Experts travaillent dans les huit pays de l'UEMOA, le Bénin, le Burkin
 
 Combien ça coûte, et qu'est-ce qui est compris?
 
-300 000 F CFA par mois pour un compte de deux experts, puis 200 000 F CFA par expert ajouté. L'accompagnement, la couche qualité et le suivi sont compris. S'y ajoutent des frais d'installation, chiffrés au devis selon le périmètre. Ne sont pas compris le coût des modèles d'intelligence artificielle que vos Experts consomment, ni les abonnements aux outils tiers qu'ils utilisent pour vous, votre messagerie ou votre logiciel de gestion par exemple.
+300 000 F CFA par mois pour un compte de deux Experts, puis 200 000 F CFA par Expert ajouté. L'accompagnement, la couche qualité et le suivi sont compris. S'y ajoutent des frais d'installation, chiffrés au devis selon le périmètre. Ne sont pas compris le coût des modèles d'intelligence artificielle que vos Experts consomment, ni les abonnements aux outils tiers qu'ils utilisent pour vous, votre messagerie ou votre logiciel de gestion par exemple.
 
 Et s'il se trompe?
 
@@ -274,9 +274,9 @@ Si j'arrête, qu'est-ce que je récupère?
 
 Tout. Vos données vous sont rendues dans un format lisible, et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
 
-### Votre premier expert peut commencer cette semaine.
+### Votre premier Expert peut commencer cette semaine.
 
-Vous décrivez le métier, on branche l'expert sur votre activité, il travaille avec vous. Sans recrutement, sans projet informatique.
+Vous décrivez le métier, on branche l'Expert sur votre activité, il travaille avec vous. Sans recrutement, sans projet informatique.
 
 Parler à l'équipe Yelema
 
@@ -286,7 +286,7 @@ Comment ça marche
 
 ### Trois piliers: contexte, mémoire, compétences
 
-C'est la signature de Yelema. Un expert n'est utile que s'il comprend votre entreprise, s'en souvient, et sait agir. Nos experts font les trois.
+C'est la signature de Yelema. Un Expert n'est utile que s'il comprend votre entreprise, s'en souvient, et sait agir. Nos Experts font les trois.
 
 **Contexte**
 
@@ -310,13 +310,13 @@ s'accumule et reste, même quand les personnes changent.
 
 Il agit. Répondre, relancer, rédiger, classer, alerter, préparer un
 
-dossier: chaque expert tient un métier concret et le rend, jour après jour,
+dossier: chaque Expert tient un métier concret et le rend, jour après jour,
 
 dans vos outils et sur vos canaux, avec votre validation sur les actes sensibles.
 
 ### Connectés à vos outils
 
-Chaque expert se branche à vos applications, avec plus de 3 000 intégrations prêtes.
+Chaque Expert se branche à vos applications, avec plus de 3 000 intégrations prêtes.
 
 **Messagerie**
 
@@ -406,13 +406,13 @@ Un parcours simple, opéré avec vous. Pas un logiciel qu'on vous laisse sur les
 
 **On écoute**
 
-On cartographie vos tâches et on repère là où un expert crée le plus de valeur, vite.
+On cartographie vos tâches et on repère là où un Expert crée le plus de valeur, vite.
 
 2
 
 **On configure**
 
-On nourrit vos experts de votre contexte et on branche vos outils.
+On nourrit vos Experts de votre contexte et on branche vos outils.
 
 3
 
@@ -424,7 +424,7 @@ On lance en conditions réelles, on ajuste avec vos équipes, on mesure les rés
 
 **On étend**
 
-Expert après expert, votre force de travail IA grandit avec votre confiance.
+Expert après Expert, votre force de travail IA grandit avec votre confiance.
 
 Comment ils travaillent
 
@@ -470,7 +470,7 @@ Notre différence
 
 ### La couche qualité que les autres n'ont pas
 
-Un expert autonome sans contrôle, c'est un risque. Yelema encadre chaque expert par un système qualité: des juges indépendants vérifient les réponses, des jeux de tests mesurent la fiabilité, et chaque action sensible passe par une validation humaine.
+Un Expert autonome sans contrôle, c'est un risque. Yelema encadre chaque Expert par un système qualité: des juges indépendants vérifient les réponses, des jeux de tests mesurent la fiabilité, et chaque action sensible passe par une validation humaine.
 
 Résultat: l'efficacité de l'autonomie, sans le danger de l'autonomie aveugle.
 
@@ -492,17 +492,17 @@ Nos offres
 
 ### Vous ne payez pas un logiciel, vous payez des résultats.
 
-Un tarif simple, affiché. Un compte démarre avec deux experts, puis vous ajoutez un métier quand vous en avez besoin. Le déploiement et l'accompagnement sont compris: Yelema est un service opéré, pas un abonnement logiciel.
+Un tarif simple, affiché. Un compte démarre avec deux Experts, puis vous ajoutez un métier quand vous en avez besoin. Le déploiement et l'accompagnement sont compris: Yelema est un service opéré, pas un abonnement logiciel.
 
 **Votre équipe de départ**
 
-Tout démarre ici, avec deux experts.
+Tout démarre ici, avec deux Experts.
 
-300 000 FCFA par mois deux experts inclus
+300 000 FCFA par mois deux Experts inclus
 
 - Djénéba, Chief of Staff incluse par défaut
 
-- Un expert de votre choix, sur le métier que vous voulez
+- Un Expert de votre choix, sur le métier que vous voulez
 
 - Tous vos canaux et vos outils, branchés: Telegram, WhatsApp, e-mail, espace web, et vos logiciels internes
 
@@ -510,13 +510,13 @@ Tout démarre ici, avec deux experts.
 
 - Couche qualité, accompagnement et suivi compris Frais d'installation en sus, chiffrés au devis
 
-Démarrer avec deux experts
+Démarrer avec deux Experts
 
-**Un expert de plus**
+**Un Expert de plus**
 
 Le même service, sur un métier de plus.
 
-+ 200 000 FCFA par mois par expert supplémentaire
++ 200 000 FCFA par mois par Expert supplémentaire
 
 - Tout ce qui précède, sur un métier de plus
 
@@ -526,15 +526,15 @@ Le même service, sur un métier de plus.
 
 - Il travaille avec les autres, coordonné par Djénéba Frais d'installation en sus, chiffrés au devis
 
-Ajouter un expert
+Ajouter un Expert
 
 **Votre équipe complète**
 
-À partir de dix experts: grands groupes, groupes multi-pays et secteur public.
+À partir de dix Experts: grands groupes, groupes multi-pays et secteur public.
 
 Sur devis selon le périmètre architecture dédiée
 
-- Équipe d'experts coordonnée sur plusieurs métiers
+- Équipe d'Experts coordonnée sur plusieurs métiers
 
 - Intégrations à vos systèmes internes
 
@@ -546,7 +546,7 @@ Sur devis selon le périmètre architecture dédiée
 
 Combien vous coûte ce métier aujourd'hui?
 
-La calculatrice additionne tout ce qu'un métier consomme déjà chez vous et met le total en face d'un expert Yelema.
+La calculatrice additionne tout ce qu'un métier consomme déjà chez vous et met le total en face d'un Expert Yelema.
 
 Ouvrir la calculatrice Demander une démo
 
@@ -576,7 +576,7 @@ Une question précise de votre direction des systèmes d'information ou de votre
 
 on répond au cas par cas.
 
-Au-delà des experts
+Au-delà des Experts
 
 ### Vos cas d'usage, développés de bout en bout
 
@@ -608,7 +608,7 @@ Pour qui
 
 ### Des entreprises aux États
 
-Le même socle, des experts qui comprennent le terrain, au service de deux mondes qui en ont besoin.
+Le même socle, des Experts qui comprennent le terrain, au service de deux mondes qui en ont besoin.
 
 Secteur privé
 
@@ -650,7 +650,7 @@ Le droit OHADA, les usages bancaires de la zone, les langues et les manières de
 
 **Opéré, pas livré**
 
-On ne vous laisse pas un logiciel. On opère vos experts avec vous et on répond des résultats.
+On ne vous laisse pas un logiciel. On opère vos Experts avec vous et on répond des résultats.
 
 **Sous contrôle**
 
@@ -670,7 +670,7 @@ Basée à Abidjan, qui connaît vos interlocuteurs, vos contraintes, et se dépl
 
 Ancré localement
 
-### Un expert qui connaît le terrain, pas seulement le métier
+### Un Expert qui connaît le terrain, pas seulement le métier
 
 Le droit, les règles bancaires et les moyens de paiement de la zone font partie de son cadre de travail. Ce n'est pas un réglage ajouté après coup.
 
@@ -686,7 +686,7 @@ Orange Money MTN MoMo Wave Moov Money Djamo Visa Mastercard
 
 Équipe complète sur plusieurs métiers, intégration à vos systèmes internes,
 
-hébergement souverain, engagements de service: à partir de dix experts,
+hébergement souverain, engagements de service: à partir de dix Experts,
 
 nous construisons le périmètre avec vous et nous l'opérons.
 
@@ -698,9 +698,9 @@ Voir la grille tarifaire
 
 Le catalogue
 
-### Les experts Yelema
+### Les Experts Yelema
 
-Chaque expert tient un métier, avec des compétences précises et les outils qui vont avec. Ouvrez une fiche pour voir ce qu'il fait au quotidien, ce sur quoi il s'appuie, et un cas concret.
+Chaque Expert tient un métier, avec des compétences précises et les outils qui vont avec. Ouvrez une fiche pour voir ce qu'il fait au quotidien, ce sur quoi il s'appuie, et un cas concret.
 
 Incluse par défaut
 
@@ -802,11 +802,11 @@ Voir sa fiche →
 
 De nouveaux métiers sortent régulièrement, et un métier qui manque à votre activité peut être construit pour vous.
 
-### Un expert seul, c'est utile. Une équipe coordonnée, c'est un changement d'échelle.
+### Un Expert seul, c'est utile. Une équipe coordonnée, c'est un changement d'échelle.
 
-Chaque compte reçoit Djénéba, sa Chief of Staff, sans supplément. Elle a un prénom, une adresse e-mail et une place dans votre équipe: elle reçoit vos demandes, les répartit entre vos experts, fait circuler l'information et vous rend compte.
+Chaque compte reçoit Djénéba, sa Chief of Staff, sans supplément. Elle a un prénom, une adresse e-mail et une place dans votre équipe: elle reçoit vos demandes, les répartit entre vos Experts, fait circuler l'information et vous rend compte.
 
-Vous commencez avec 2 ou 3 experts sur vos priorités, puis vous étendez à mesure que la confiance s'installe.
+Vous commencez avec 2 ou 3 Experts sur vos priorités, puis vous étendez à mesure que la confiance s'installe.
 
 Comment ça marche →
 
@@ -816,7 +816,7 @@ Comme à une collaboratrice, sur vos canaux ou à son adresse e-mail.
 
 **Elle répartit et coordonne**
 
-Chaque demande arrive au bon expert, avec le bon contexte.
+Chaque demande arrive au bon Expert, avec le bon contexte.
 
 **Vous validez, elle exécute**
 
@@ -826,9 +826,9 @@ Les actions sensibles attendent votre feu vert.
 
 Contact
 
-### Composons votre équipe d'experts
+### Composons votre équipe d'Experts
 
-Dites-nous votre métier et vos priorités. On revient avec une première équipe d'experts et un plan de déploiement.
+Dites-nous votre métier et vos priorités. On revient avec une première équipe d'Experts et un plan de déploiement.
 
 **Parler à l'équipe Yelema**
 
@@ -840,7 +840,7 @@ E-mail contact@yelema.ai
 
 WhatsApp Écrivez-nous, on vous rappelle et on vous montre le
 
-travail d'un expert sur un de vos cas
+travail d'un Expert sur un de vos cas
 
 Abidjan Ivoire Trade Center, rez-de-chaussée de la tour D
 
@@ -850,7 +850,7 @@ Demander une démo
 
 **Ce qu'on vous prépare**
 
-- Une sélection d'experts adaptés à votre activité
+- Une sélection d'Experts adaptés à votre activité
 
 - Un exemple concret sur l'un de vos cas réels
 
@@ -858,11 +858,11 @@ Demander une démo
 
 - Les garanties: validation humaine, qualité, traçabilité
 
-- Ce que ça coûte, chiffré sur votre périmètre Sans engagement, et sans jargon. On vous dit aussi ce qui, chez vous, ne se prête pas encore à un expert IA.
+- Ce que ça coûte, chiffré sur votre périmètre Sans engagement, et sans jargon. On vous dit aussi ce qui, chez vous, ne se prête pas encore à un Expert IA.
 
 l'IA pour l'Afrique.
 
-Yelema déploie des experts IA dans les entreprises d'Afrique francophone.
+Yelema déploie des Experts IA dans les entreprises d'Afrique francophone.
 
 Ivoire Trade Center, rez-de-chaussée de la tour D
 
@@ -870,7 +870,7 @@ Abidjan, Côte d'Ivoire
 
 Naviguer
 
-Accueil Les experts
+Accueil Les Experts
 
 Comment ça marche Offres et tarifs Calculatrice de coût
 
@@ -878,9 +878,9 @@ Clients
 
 Carrières
 
-Les experts Ventes Support Marketing RH et paie Finance Juridique
+Les Experts Ventes Support Marketing RH et paie Finance Juridique
 
-Voir tous les experts
+Voir tous les Experts
 
 Recevoir les actualités
 
@@ -994,7 +994,7 @@ Tout. Vos données vous sont rendues dans un format lisible, et les nôtres sont
 
 ### Kouassi, commercial
 
-← Tous les experts
+← Tous les Experts
 
 Expert IA Yelema
 
@@ -1082,7 +1082,7 @@ Parfait, ça vous place sur notre grille grossiste. Je prépare le devis et je v
 
 Une affaire se gagne au bon suivi, au bon moment. C'est exactement ce qu'un humain débordé laisse filer, et ce que Kouassi ne rate jamais.
 
-### Les autres experts
+### Les autres Experts
 
 Djénéba
 
@@ -1110,7 +1110,7 @@ Composer mon équipe →
 
 ### Awa, support client
 
-← Tous les experts
+← Tous les Experts
 
 Expert IA Yelema
 
@@ -1194,7 +1194,7 @@ Voici le lien de suivi 📦. J'ai noté votre message pour l'équipe. Autre chos
 
 Vos clients écrivent sur WhatsApp, à toute heure. Sans réponse rapide, ils vont voir ailleurs. Awa ne dort jamais et parle leur langue.
 
-### Les autres experts
+### Les autres Experts
 
 Djénéba
 
@@ -1222,7 +1222,7 @@ Composer mon équipe →
 
 ### Fatima, marketing
 
-← Tous les experts
+← Tous les Experts
 
 Expert IA Yelema
 
@@ -1312,7 +1312,7 @@ Voici les 5 posts + visuels, programmés lun→ven. Tu relis et je publie ✅
 
 Une marque qui se tait disparaît. Fatima la fait vivre régulièrement, sans mobiliser une agence à plein temps.
 
-### Les autres experts
+### Les autres Experts
 
 Djénéba
 
@@ -1340,7 +1340,7 @@ Composer mon équipe →
 
 ### Fatou, RH et paie
 
-← Tous les experts
+← Tous les Experts
 
 Expert IA Yelema
 
@@ -1428,7 +1428,7 @@ Voici la décomposition 📄. Si tu recrutes, je passe la main à Ibrahim pour l
 
 La paie et l'OHADA sont un casse-tête chronophage. Fatou les maîtrise et fiabilise chaque échéance sociale.
 
-### Les autres experts
+### Les autres Experts
 
 Djénéba
 
@@ -1456,7 +1456,7 @@ Composer mon équipe →
 
 ### Mamadou, finance
 
-← Tous les experts
+← Tous les Experts
 
 Expert IA Yelema
 
@@ -1538,7 +1538,7 @@ Voici le prévisionnel 3 ans (compte de résultat, trésorerie, plan de rembours
 
 Peu de PME ont un DAF. Mamadou structure les comptes, tient la trésorerie et monte les dossiers que la banque attend.
 
-### Les autres experts
+### Les autres Experts
 
 Djénéba
 
@@ -1566,7 +1566,7 @@ Composer mon équipe →
 
 ### Ibrahim, juridique
 
-← Tous les experts
+← Tous les Experts
 
 Expert IA Yelema
 
@@ -1652,7 +1652,7 @@ Voici le contrat (objet, durée, prix, résiliation, confidentialité) prêt à 
 
 Le conseil juridique coûte cher et l'à-peu-près se paie, surtout face à une administration. Ibrahim couvre le quotidien et sécurise chaque acte.
 
-### Les autres experts
+### Les autres Experts
 
 Djénéba
 
@@ -1680,7 +1680,7 @@ Composer mon équipe →
 
 ### Salif, opérations
 
-← Tous les experts
+← Tous les Experts
 
 Expert IA Yelema
 
@@ -1766,7 +1766,7 @@ Oui
 
 La trésorerie meurt des impayés et des ruptures de stock: les deux fuites que personne n'a le temps de surveiller. Salif veille en continu.
 
-### Les autres experts
+### Les autres Experts
 
 Djénéba
 
@@ -1794,7 +1794,7 @@ Composer mon équipe →
 
 ### Nadia, données
 
-← Tous les experts
+← Tous les Experts
 
 Expert IA Yelema
 
@@ -1878,7 +1878,7 @@ Ces 3 PDV baissent de plus de 20 %. J'ai préparé un tableau de bord partageabl
 
 Les données existent mais dorment dans des fichiers. Nadia les fait parler et met le pilotage à portée de tous.
 
-### Les autres experts
+### Les autres Experts
 
 Djénéba
 
@@ -1906,7 +1906,7 @@ Composer mon équipe →
 
 ### Adjoua, recrutement
 
-← Tous les experts
+← Tous les Experts
 
 Expert IA Yelema
 
@@ -1996,7 +1996,7 @@ Voici 5 profils notés sur l'expérience et l'adéquation, avec un message d'app
 
 Recruter bien prend un temps fou et une erreur coûte cher. Adjoua fait le tri sérieux et accélère chaque étape.
 
-### Les autres experts
+### Les autres Experts
 
 Djénéba
 
@@ -2024,7 +2024,7 @@ Composer mon équipe →
 
 ### Koffi, design
 
-← Tous les experts
+← Tous les Experts
 
 Expert IA Yelema
 
@@ -2112,7 +2112,7 @@ Voici l'affiche (format story + A3 imprimable) 🖼. Je te la décline en post I
 
 Une PME n'a pas de studio créatif, et une image bricolée décrédibilise. Koffi tient une marque nette et cohérente, partout.
 
-### Les autres experts
+### Les autres Experts
 
 Djénéba
 
@@ -2140,7 +2140,7 @@ Composer mon équipe →
 
 ### Alioune, investissement
 
-← Tous les experts
+← Tous les Experts
 
 Expert IA Yelema
 
@@ -2246,7 +2246,7 @@ Note de comité prête, avec les écarts signalés, les scénarios de valorisati
 
 Peu de fonds ont une équipe dédiée à l'instruction. Alioune absorbe le travail répétitif de tri et de vérification, pour que l'équipe d'investissement concentre son temps sur le jugement et la relation avec les fondateurs.
 
-### Les autres experts
+### Les autres Experts
 
 Djénéba
 
@@ -2274,7 +2274,7 @@ Composer mon équipe →
 
 ### Djénéba, direction
 
-← Tous les experts
+← Tous les Experts
 
 Expert IA Yelema
 
@@ -2416,7 +2416,7 @@ des comptes. Ce qui se perd en premier, ce sont les décisions prises en
 
 réunion et les promesses faites à un tiers. Djénéba tient ce fil.
 
-### Les autres experts
+### Les autres Experts
 
 Kouassi
 
