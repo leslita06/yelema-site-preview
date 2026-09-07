@@ -10,7 +10,7 @@ L'IA au travail dans l'entreprise africaine
 
 ### Offrez-vous les compétences qui vous manquent.
 
-Un Expert IA Yelema tient un poste dans votre entreprise : commercial, support client, comptabilité, RH, juridique. Il travaille dans vos outils, vous lui parlez sur WhatsApp, et il est opérationnel cette semaine.
+Un Expert IA Yelema tient un poste dans votre entreprise: commercial, support client, comptabilité, RH, juridique. Il travaille dans vos outils, vous lui parlez sur WhatsApp, et il est opérationnel cette semaine.
 
 Renforcer mon équipe
 
@@ -20,81 +20,11 @@ Conversationnel, sur vos canaux Voice first Open source et interopérable Donné
 
 Ils nous font confiance
 
-### Sans l'IA, les petites structures restent petites.
-
-Ce n'est ni une question de volonté ni de talent. Les tâches répétitives mangent les journées, les outils venus d'ailleurs coûtent cher et s'ignorent entre eux, l'expertise se paie au prix fort, et le savoir part avec ceux qui s'en vont. L'intelligence artificielle est ce qui permet de sauter une étape, à condition que quelqu'un l'opère pour vous.
-
-**Trop de tâches répétitives**
-
-Relances, saisies, réponses, classements: le travail à faible valeur mange le temps de vos équipes.
-
-**L'expertise coûte cher**
-
-Chaque expertise supplémentaire est un coût fixe lourd, long à former et à encadrer.
-
-**Des outils qui ignorent votre contexte**
-
-Pensés pour d'autres marchés, fermés, incapables de communiquer entre eux ni avec vos données.
-
-**La mémoire se perd**
-
-Quand quelqu'un part, le savoir part avec. Rien n'est capitalisé.
-
-Ce que fait un Expert IA
-
-### Il prend en charge un métier, du début à la fin.
-
-Vous confiez un métier à un expert qui comprend votre entreprise, s'en souvient, et agit dans vos outils, sous votre contrôle.
-
-Un chatbot Un copilote Un expert Yelema
-
-Ce que c'est Répond à des questions Vous assiste pendant que vous travaillez Prend en charge un métier, de bout en bout
-
-Mémoire Oublie tout d'une fois à l'autre Se souvient de la session en cours Garde la mémoire de votre entreprise
-
-Agit dans vos outils Non Un peu, si vous pilotez Oui, via 3 000+ intégrations prêtes
-
-Là où vous travaillez Sur une page web Dans un logiciel Telegram, WhatsApp, e-mail vos canaux
-
-Qui garde le contrôle Vous, à chaque question Vous, en continu Lui exécute, vous validez les actions sensibles
-
-Concrètement
-
-### Branchés à vos outils, joignables partout, opérationnels en quelques minutes
-
-3 000+
-
-**outils connectés**
-
-Vos Experts lisent, écrivent et agissent dans ce que vous utilisez déjà.
-
-Vous autorisez, vous révoquez quand vous voulez.
-
-HubSpot Zoom Sage Odoo Figma GitHub Notion Drive Excel
-
-24h/24
-
-**7 jours sur 7**
-
-Pas de pause, pas de congé, pas de rappel à faire. Ils vous parlent sur vos
-
-canaux, et parlent à vos clients sur les leurs.
-
-Telegram WhatsApp Gmail Espace web Slack Teams
-
-5 minutes
-
-**pour démarrer**
-
-Pas de projet informatique de six mois. Vous choisissez, on branche,
-
-ils travaillent.
-
-1 Vous choisissez un métier Parmi une dizaine d'experts, ou deux pour commencer. 2 On le branche sur votre activité Vos produits, vos règles, vos outils. 3 Il travaille Sur vos canaux, dès la première semaine.
+Opérationnels cette semaine
 
 ### Rencontrez vos futurs experts
 
-Chacun a un métier, une fonction et des compétences précises. Vous composez votre équipe selon vos besoins, de 2 experts à une équipe complète.
+Chacun a un métier, une fonction et des compétences précises. Vous composez votre équipe selon vos besoins, de 2 experts à une équipe complète. Celui que vous choisissez commence cette semaine.
 
 Incluse par défaut
 
@@ -195,6 +125,78 @@ Il instruit vos dossiers d'investissement, du sourcing au suivi de participation
 Voir sa fiche →
 
 Voir tous les experts en détail →
+
+### Sans l'IA, les petites structures restent petites.
+
+Ce n'est ni une question de volonté ni de talent. Les tâches répétitives mangent les journées, les outils venus d'ailleurs coûtent cher et s'ignorent entre eux, l'expertise se paie au prix fort, et le savoir part avec ceux qui s'en vont. L'intelligence artificielle est ce qui permet de sauter une étape, à condition que quelqu'un l'opère pour vous.
+
+**Trop de tâches répétitives**
+
+Relances, saisies, réponses, classements: le travail à faible valeur mange le temps de vos équipes.
+
+**L'expertise coûte cher**
+
+Chaque expertise supplémentaire est un coût fixe lourd, long à former et à encadrer.
+
+**Des outils qui ignorent votre contexte**
+
+Pensés pour d'autres marchés, fermés, incapables de communiquer entre eux ni avec vos données.
+
+**La mémoire se perd**
+
+Quand quelqu'un part, le savoir part avec. Rien n'est capitalisé.
+
+Ce que fait un Expert IA
+
+### Il prend en charge un métier, du début à la fin.
+
+Vous confiez un métier à un expert qui comprend votre entreprise, s'en souvient, et agit dans vos outils, sous votre contrôle.
+
+Un chatbot Un copilote Un expert Yelema
+
+Ce que c'est Répond à des questions Vous assiste pendant que vous travaillez Prend en charge un métier, de bout en bout
+
+Mémoire Oublie tout d'une fois à l'autre Se souvient de la session en cours Garde la mémoire de votre entreprise
+
+Agit dans vos outils Non Un peu, si vous pilotez Oui, via 3 000+ intégrations prêtes
+
+Là où vous travaillez Sur une page web Dans un logiciel Telegram, WhatsApp, e-mail vos canaux
+
+Qui garde le contrôle Vous, à chaque question Vous, en continu Lui exécute, vous validez les actions sensibles
+
+Concrètement
+
+### Branchés à vos outils, joignables partout, opérationnels en quelques minutes
+
+3 000+
+
+**outils connectés**
+
+Vos Experts lisent, écrivent et agissent dans ce que vous utilisez déjà.
+
+Vous autorisez, vous révoquez quand vous voulez.
+
+HubSpot Zoom Sage Odoo Figma GitHub Notion Drive Excel
+
+24h/24
+
+**7 jours sur 7**
+
+Pas de pause, pas de congé, pas de rappel à faire. Ils vous parlent sur vos
+
+canaux, et parlent à vos clients sur les leurs.
+
+Telegram WhatsApp Gmail Espace web Slack Teams
+
+5 minutes
+
+**pour démarrer**
+
+Pas de projet informatique de six mois. Vous choisissez, on branche,
+
+ils travaillent.
+
+1 Vous choisissez un métier Parmi une dizaine d'experts, ou deux pour commencer. 2 On le branche sur votre activité Vos produits, vos règles, vos outils. 3 Il travaille Sur vos canaux, dès la première semaine.
 
 Ancré localement
 
@@ -1002,6 +1004,8 @@ Commercial & Ventes
 
 Il ne laisse jamais une opportunité refroidir.
 
+Opérationnel cette semaine
+
 Telegram WhatsApp E-mail Espace web
 
 ### Sa fonction
@@ -1116,6 +1120,8 @@ Support & Relation client
 
 Elle répond à vos clients, jour et nuit, sur WhatsApp.
 
+Opérationnelle cette semaine
+
 Telegram WhatsApp E-mail Espace web
 
 ### Sa fonction
@@ -1225,6 +1231,8 @@ Expert IA Yelema
 Marketing & Contenu
 
 Elle fait vivre votre marque, chaque semaine.
+
+Opérationnelle cette semaine
 
 Telegram WhatsApp E-mail Espace web
 
@@ -1342,6 +1350,8 @@ RH & Paie
 
 Elle tient la paie sans faute et veille sur le quotidien de vos équipes.
 
+Opérationnelle cette semaine
+
 Telegram WhatsApp E-mail Espace web
 
 ### Sa fonction
@@ -1456,6 +1466,8 @@ Finance & Comptabilité
 
 Il garde vos comptes clairs et vos dossiers bancables.
 
+Opérationnel cette semaine
+
 Telegram WhatsApp E-mail Espace web
 
 ### Sa fonction
@@ -1563,6 +1575,8 @@ Expert IA Yelema
 Juridique & Conformité
 
 Il tient le juridique carré, pour le privé comme pour le public.
+
+Opérationnel cette semaine
 
 Telegram WhatsApp E-mail Espace web
 
@@ -1676,6 +1690,8 @@ Opérations & Admin
 
 Il fait tourner l'administratif et la trésorerie du quotidien.
 
+Opérationnel cette semaine
+
 Telegram WhatsApp E-mail Espace web
 
 ### Sa fonction
@@ -1788,6 +1804,8 @@ Data & Analytics
 
 Elle transforme vos chiffres en décisions.
 
+Opérationnelle cette semaine
+
 Telegram WhatsApp E-mail Espace web
 
 ### Sa fonction
@@ -1897,6 +1915,8 @@ Expert IA Yelema
 Recrutement
 
 Elle trouve et évalue les bons profils.
+
+Opérationnelle cette semaine
 
 Telegram WhatsApp E-mail Espace web
 
@@ -2014,6 +2034,8 @@ Design & Brand
 
 Il habille votre marque, du logo au site.
 
+Opérationnel cette semaine
+
 Telegram WhatsApp E-mail Espace web
 
 ### Sa fonction
@@ -2127,6 +2149,8 @@ Expert IA Yelema
 Investissement
 
 Il instruit vos dossiers d'investissement, du sourcing au suivi de participation.
+
+Opérationnel cette semaine
 
 Telegram WhatsApp E-mail Espace web
 
@@ -2259,6 +2283,8 @@ Expert IA Yelema
 Chief of Staff & Direction
 
 Bras droit du dirigeant: prépare ses réunions, filtre ses sollicitations, tient le relevé des décisions et suit les engagements pris.
+
+Opérationnelle cette semaine
 
 Telegram WhatsApp E-mail Espace web
 
