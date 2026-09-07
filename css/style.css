@@ -1359,3 +1359,9 @@ p.center a[href^="tel:"]::after,
 .cline a[href^="mailto:"]::after,
 .cline a[href^="tel:"]::after{content:"";position:absolute;left:0;right:0;
   top:50%;transform:translateY(-50%);height:44px}
+
+/* pastille de disponibilité, ajoutée le 7/09/26 */
+.badge.dispo{display:inline-flex;align-items:center;gap:7px;background:#e6f7ef;color:#0d7a4f}
+.badge.dispo svg{width:15px;height:15px;flex:none}
+.agent-top .badge.dispo{margin:10px 0 0}
+.section-h .badge.dispo{margin-bottom:14px}
