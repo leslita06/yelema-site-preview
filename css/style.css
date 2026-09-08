@@ -1773,3 +1773,13 @@ p.center a[href^="tel:"]::after,
 @media(max-width:900px){.kpi{grid-template-columns:repeat(2,1fr)}
   .repart{grid-template-columns:1fr}}
 @media(max-width:520px){.kpi{grid-template-columns:1fr}.kpi-c b{font-size:23px}}
+
+/* Les deux colonnes de la répartition portent un visage et un picto, 8/09/26. Le
+   recadrage à 200 % est celui mesuré pour l'ancienne bande : le portrait carré cadre à
+   la taille, donc le visage disparaît en dessous de 50 pixels sans ce zoom. */
+.repart-c h3{display:flex;align-items:center;gap:11px}
+.rp-ph{width:34px;height:34px;border-radius:50%;flex:none;border:2px solid #fff;
+  box-shadow:0 2px 8px rgba(30,16,80,.18);background-size:200%;background-position:48% 0}
+.rp-ic{width:34px;height:34px;border-radius:50%;flex:none;display:grid;place-items:center;
+  background:#efeaff;color:var(--violet)}
+.rp-ic svg{width:19px;height:19px}
