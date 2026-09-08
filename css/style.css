@@ -1778,8 +1778,20 @@ p.center a[href^="tel:"]::after,
    recadrage à 200 % est celui mesuré pour l'ancienne bande : le portrait carré cadre à
    la taille, donc le visage disparaît en dessous de 50 pixels sans ce zoom. */
 .repart-c h3{display:flex;align-items:center;gap:11px}
-.rp-ph{width:34px;height:34px;border-radius:50%;flex:none;border:2px solid #fff;
+.rp-ph{width:44px;height:44px;border-radius:50%;flex:none;border:2px solid #fff;
   box-shadow:0 2px 8px rgba(30,16,80,.18);background-size:200%;background-position:48% 0}
-.rp-ic{width:34px;height:34px;border-radius:50%;flex:none;display:grid;place-items:center;
+.rp-ic{width:44px;height:44px;border-radius:50%;flex:none;display:grid;place-items:center;
   background:#efeaff;color:var(--violet)}
-.rp-ic svg{width:19px;height:19px}
+.rp-ic svg{width:24px;height:24px}
+
+/* Les quatre familles de la colonne Kouassi, 8/09/26. Treize puces à plat ne se lisent
+   plus : le titre de famille rend l'étendue visible sans qu'on ait à compter. */
+.rp-g{margin-top:17px}
+.rp-g:first-child{margin-top:0}
+.rp-g b{display:block;font-family:var(--title);text-transform:uppercase;
+  letter-spacing:.12em;font-size:11px;font-weight:700;color:var(--violet);
+  margin-bottom:9px}
+.rp-g .ticks{gap:10px}
+.rp-g .ticks li{font-size:15px;padding-left:28px}
+.rp-g .ticks li:before{width:16px;height:16px;border-radius:5px;top:6px}
+.rp-g .ticks li:after{left:3.5px;top:4px;font-size:11px}
