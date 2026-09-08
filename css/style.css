@@ -1549,6 +1549,7 @@ p.center a[href^="tel:"]::after,
 .ancm-c .ref{font-size:12.5px;padding:4px 11px 4px 6px;gap:6px;background:#fff;
   border-color:#e6e0fb}
 .ancm-c .ref i{width:18px;height:18px}
+.lg-fdfp{background-image:url(../images/logos/lg-fdfp.png)}
 .lg-gim{background-image:url(../images/logos/lg-gim.png)}
 .lg-visa{background-image:url(../images/logos/lg-visa.png)}
 .lg-mastercard{background-image:url(../images/logos/lg-mastercard.png)}
@@ -1590,3 +1591,33 @@ p.center a[href^="tel:"]::after,
 @media(max-width:520px){.jour-q{width:100%}
   .jour-h{margin-left:0}.jour-t{padding-left:0}}
 @media(max-width:520px){.sits{grid-template-columns:1fr}}
+
+/* Cohérence des puces, 8/09/26. Deux langages visuels disaient la même chose sur la
+   même fiche : `.ref` (terrain) et `.chip` (outils). `.ref` s'aligne sur `.chip`, qui
+   est le composant du site. Et une puce BLANCHE sur un panneau BLANC ne se voit pas :
+   sur fond blanc elle prend le lavande du site, sur une carte teintée elle reste
+   blanche. */
+.ref{font-family:var(--title);font-weight:500;font-size:13px;background:#f3effe;
+  border-color:#e7e0fb;color:var(--indigo);padding:6px 13px 6px 9px;gap:8px}
+.ref.txt{padding-left:13px;color:var(--muted)}
+.ref i{width:16px;height:16px}
+.ancm-c .ref{background:#fff;border-color:#e6e0fb;font-size:12.5px;
+  padding:5px 12px 5px 7px}
+.ancm-c .ref i{width:17px;height:17px}
+
+/* La journée du commercial : une barre segmentée contre une barre continue */
+.jour-q{width:158px}
+.jour-h,.jour-lg{margin-left:176px}
+.jour-f.tj,.jour-lg .k.tj{background:#cdc5f0}
+.jour-f.rv,.jour-lg .k.rv{background:#8f74ee}
+.jour-f.dv,.jour-lg .k.dv{background:#b7a6f4}
+.jour-f{border-radius:6px}
+.jour-f.exp{border-radius:8px}
+.jour-lg{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:12px;margin-right:254px;
+  font-size:12px;color:var(--muted)}
+.jour-lg span{display:inline-flex;align-items:center;gap:7px}
+.jour-lg .k{width:11px;height:11px;border-radius:3px;flex:none}
+@media(max-width:820px){.jour-lg{margin-right:0}.jour-t{padding-left:176px}}
+@media(max-width:620px){.jour-q{width:132px}.jour-h,.jour-lg{margin-left:150px}
+  .jour-t{padding-left:132px}}
+@media(max-width:520px){.jour-q{width:100%}.jour-h,.jour-lg{margin-left:0}}
