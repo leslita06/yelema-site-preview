@@ -1756,3 +1756,20 @@ p.center a[href^="tel:"]::after,
    (la légende des couleurs, elle, ne parle que des blocs du commercial). */
 @media(max-width:1040px){.jour-lg{display:flex}.jour-f.exp b{display:block;font-size:11.5px}}
 @media(max-width:520px){.jour-lg{margin-left:0}.jour-f.exp b{font-size:10.5px}}
+
+/* Le compteur et la répartition, 8/09/26. Ils remplacent les deux barres de 24 heures :
+   mettre un humain et un Expert IA côte à côte sur la même journée se lisait comme un
+   duel, alors que l'argument est une répartition. */
+.kpi{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:26px 0 22px}
+.kpi-c{background:#f7f5ff;border-radius:16px;padding:18px 18px 20px}
+.kpi-c b{display:block;font-family:var(--title);font-weight:600;font-size:26px;
+  line-height:1.15;color:var(--indigo);margin-bottom:7px}
+.kpi-c span{display:block;font-size:14px;line-height:1.45;color:#5b5273}
+.repart{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.repart-c{background:#fff;border:1px solid #ece7fb;border-radius:18px;padding:20px 22px 22px}
+.repart-c.hum{background:#f7f5ff;border-color:#e7e0fb}
+.repart-c h3{margin:0 0 12px;font-size:17px;color:var(--indigo)}
+.repart-c .ticks{margin:0}
+@media(max-width:900px){.kpi{grid-template-columns:repeat(2,1fr)}
+  .repart{grid-template-columns:1fr}}
+@media(max-width:520px){.kpi{grid-template-columns:1fr}.kpi-c b{font-size:23px}}
