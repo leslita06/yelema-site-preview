@@ -6,25 +6,31 @@ Ce fichier porte le contenu complet du site, pour les moteurs qui répondent san
 
 ## Yelema en une page
 
-L'IA au travail dans l'entreprise africaine
+L'IA qui crée de la valeur dans l'entreprise africaine
 
 ### Donnez à votre entreprise les moyens de ses ambitions.
 
-Ventes, support client, comptabilité, RH, juridique, marketing: un Expert IA Yelema tient le poste en entier. Il travaille dans vos outils, avec vos règles, et produit des résultats dès la première semaine.
+Ventes, support client, comptabilité, RH, juridique, marketing: votre Expert IA Yelema décuple les efforts de chaque fonction. Il travaille dans vos outils, avec vos règles, et produit des résultats dès la première semaine.
 
-Accueillir mon premier Expert IA
+Recruter mon premier Expert IA
 
 Demander une démo
 
-Conversationnel, sur vos canaux Voice first Open source et interopérable Données sécurisées Mobile & web 24h/24 · 7j/7 Adapté aux secteurs privé et public
+Fatou RH & Paie
+
+Ibrahim Juridique
+
+Fatima Marketing
+
+Conversationnel, sur vos canaux Commande vocale Open source et interopérable Données sécurisées Mobile & web 24h/24 · 7j/7 Adapté aux secteurs privé et public
 
 Ils nous font confiance
 
-Opérationnels cette semaine
+Prêts à l'emploi
 
 ### Rencontrez vos futurs Experts
 
-Chacun a un métier, une fonction et des compétences précises. Vous composez votre équipe selon vos besoins, de 2 Experts à une équipe complète. Celui que vous choisissez commence cette semaine.
+Chacun a un métier, une fonction et des compétences précises. Vous composez votre équipe selon vos besoins, de 2 Experts à une équipe complète. Celui que vous choisissez commence dès demain.
 
 Incluse par défaut
 
@@ -126,33 +132,33 @@ Voir sa fiche →
 
 Voir tous les Experts en détail →
 
-### Sans l'IA, les petites structures restent petites.
+### Vos process actuels plafonnent votre potentiel.
 
-Ce n'est ni une question de volonté ni de talent. Les tâches répétitives mangent les journées, les outils venus d'ailleurs coûtent cher et s'ignorent entre eux, l'expertise se paie au prix fort, et le savoir part avec ceux qui s'en vont. L'intelligence artificielle est ce qui permet de sauter une étape, à condition que quelqu'un l'opère pour vous.
+Ce n'est ni une question de volonté ni de talent. Les tâches répétitives mangent les journées, l'information se perd entre les services, et le savoir de la maison repart avec ceux qui s'en vont. Pendant ce temps, vos équipes pourraient créer bien plus de valeur. L'intelligence artificielle est ce qui permet de sauter une étape, à condition que quelqu'un l'opère pour vous.
 
 **Trop de tâches répétitives**
 
 Relances, saisies, réponses, classements: le travail à faible valeur mange le temps de vos équipes.
 
-**L'expertise coûte cher**
+**Vos équipes pourraient créer bien plus de valeur**
 
-Chaque expertise supplémentaire est un coût fixe lourd, long à former et à encadrer.
+À effectif constant, chacun pourrait suivre plus de clients, sortir plus de dossiers, ouvrir plus de marchés.
 
-**Des outils qui ignorent votre contexte**
+**Les données se perdent d'un département à l'autre**
 
-Pensés pour d'autres marchés, fermés, incapables de communiquer entre eux ni avec vos données.
+Chaque service a ses fichiers et ses outils. L'information se retrouve à la main, quand elle se retrouve.
 
-**La mémoire se perd**
+**Le savoir part avec ceux qui s'en vont**
 
-Quand quelqu'un part, le savoir part avec. Rien n'est capitalisé.
+Ce que la maison sait vit dans la tête de quelques personnes, jamais dans ses outils.
 
-Ce que fait un Expert IA
+La question qui revient
 
-### Il prend en charge un métier, du début à la fin.
+### Pourquoi un Expert Yelema plutôt que ChatGPT ou Claude
 
 Vous confiez un métier à un Expert qui comprend votre entreprise, s'en souvient, et agit dans vos outils, sous votre contrôle.
 
-Un chatbot Un copilote Un Expert Yelema
+ChatGPT, Claude Un copilote dans un logiciel Un Expert Yelema
 
 Ce que c'est Répond à des questions Vous assiste pendant que vous travaillez Prend en charge un métier, de bout en bout
 
@@ -163,6 +169,12 @@ Agit dans vos outils Non Un peu, si vous pilotez Oui, via 3 000+ intégrations p
 Là où vous travaillez Sur une page web Dans un logiciel Telegram, WhatsApp, e-mail vos canaux
 
 Qui garde le contrôle Vous, à chaque question Vous, en continu Lui exécute, vous validez les actions sensibles
+
+Le modèle d'IA Celui de l'éditeur, pour tout Celui de l'éditeur Le meilleur modèle pour chaque tâche
+
+Sa place chez vous Un onglet de plus Un bouton dans un logiciel Un prénom, une adresse e-mail, une place dans l'équipe
+
+Le terrain Pensé ailleurs Pensé ailleurs Le droit OHADA, les paiements et les usages d'ici font partie de son cadre
 
 Concrètement
 
@@ -197,20 +209,6 @@ Pas de projet informatique de six mois. Vous choisissez, on branche,
 ils travaillent.
 
 1 Vous choisissez un métier Parmi les douze métiers, ou deux pour commencer. 2 On le branche sur votre activité Vos produits, vos règles, vos outils. 3 Il travaille Sur vos canaux, dès la première semaine.
-
-Ancré localement
-
-### Un Expert qui connaît le terrain, pas seulement le métier
-
-Le droit, les règles bancaires et les moyens de paiement de la zone font partie de son cadre de travail. Ce n'est pas un réglage ajouté après coup.
-
-Le cadre de la zone
-
-OHADA BCEAO ONECI CEPICI GIM-UEMOA
-
-Les paiements d'ici
-
-Orange Money MTN MoMo Wave Moov Money Djamo Visa Mastercard
 
 Ils s'en servent déjà
 
@@ -274,7 +272,7 @@ Si j'arrête, qu'est-ce que je récupère?
 
 Tout. Vos données vous sont rendues dans un format lisible, et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
 
-### Votre premier Expert peut commencer cette semaine.
+### Votre premier Expert peut commencer dès demain.
 
 Vous décrivez le métier, on branche l'Expert sur votre activité, il travaille avec vous. Sans recrutement, sans projet informatique.
 
@@ -544,12 +542,6 @@ Sur devis selon le périmètre architecture dédiée
 
 - Accompagnement dédié Demander une proposition
 
-Combien vous coûte ce métier aujourd'hui?
-
-La calculatrice additionne tout ce qu'un métier consomme déjà chez vous et met le total en face d'un Expert Yelema.
-
-Ouvrir la calculatrice Demander une démo
-
 Sécurité et données
 
 ### Ce que nous garantissons, et que vous pouvez vérifier
@@ -641,32 +633,6 @@ Rapprochez l'administration des citoyens et fluidifiez les services, avec les ga
 - Traçabilité: journal auditable, validation humaine
 
 - Hébergement souverain en option
-
-### Pourquoi Yelema, et pas un outil importé
-
-**Pensé pour ici**
-
-Le droit OHADA, les usages bancaires de la zone, les langues et les manières de faire du terrain. Une intelligence artificielle construite pour votre marché, pas adaptée après coup.
-
-**Opéré, pas livré**
-
-On ne vous laisse pas un logiciel. On opère vos Experts avec vous et on répond des résultats.
-
-**Sous contrôle**
-
-Validation humaine, juges qualité, journal auditable. L'autonomie encadrée.
-
-**Prêt pour le souverain**
-
-Hébergement dédié et exigences du secteur public assumées dès le départ.
-
-**La mémoire reste**
-
-Le savoir s'accumule dans l'entreprise ou l'institution, pas dans la tête d'une personne.
-
-**Une équipe sur place**
-
-Basée à Abidjan, qui connaît vos interlocuteurs, vos contraintes, et se déplace quand il le faut.
 
 Ancré localement
 
@@ -802,9 +768,11 @@ Voir sa fiche →
 
 De nouveaux métiers sortent régulièrement, et un métier qui manque à votre activité peut être construit pour vous.
 
-### Un Expert seul, c'est utile. Une équipe coordonnée, c'est un changement d'échelle.
+### Djénéba, incluse par défaut dans chaque compte.
 
-Chaque compte reçoit Djénéba, sa Chief of Staff, sans supplément. Elle a un prénom, une adresse e-mail et une place dans votre équipe: elle reçoit vos demandes, les répartit entre vos Experts, fait circuler l'information et vous rend compte.
+Djénéba djeneba@votre-entreprise.com
+
+C'est votre super assistante, et c'est elle qui gère le reste de votre équipe. Vous lui écrivez, elle répartit le travail entre vos Experts, fait circuler l'information et vous rend compte. Elle a un prénom, une adresse e-mail et une place dans votre équipe.
 
 Vous commencez avec 2 ou 3 Experts sur vos priorités, puis vous étendez à mesure que la confiance s'installe.
 
@@ -872,7 +840,7 @@ Naviguer
 
 Accueil Les Experts
 
-Comment ça marche Offres et tarifs Calculatrice de coût
+Comment ça marche Offres et tarifs
 
 Clients
 
@@ -1004,23 +972,39 @@ Commercial & Ventes
 
 Il ne laisse jamais une opportunité refroidir.
 
-Opérationnel cette semaine
+Prêt à l'emploi
 
 Telegram WhatsApp E-mail Espace web
+
+En action Un devis envoyé il y a 5 jours reste sans réponse. Kouassi relance avec un message personnalisé, propose un appel, et prévient le commercial que le prospect a rouvert le devis deux fois. L'affaire repart.
+
+Sa valeur ajoutée Un pipeline toujours à jour et des relances jamais oubliées: mécaniquement, plus d'affaires signées, sans alourdir votre équipe commerciale.
+
+Kouassi WhatsApp 21h38
+
+Devis relancé chez Sotra Distribution. Le client l'a rouvert deux fois ce soir, j'ai prévenu le commercial.
+
+Relance envoyée
+
+Kouassi en ligne
+
+Telegram
+
+Bonjour, j'ai vu votre offre. Vous faites des tarifs grossistes?
+
+Bonjour 👋 Oui, à partir de 50 unités. C'est pour quel volume mensuel?
+
+Environ 300 par mois, on est un supermarché
+
+Parfait, ça vous place sur notre grille grossiste. Je prépare le devis et je vous propose demain 10h avec notre commercial. Ça vous va?
+
+PDF Devis_Sotra_Distribution.pdf 212 Ko
+
+Écrivez un message… ➤
 
 ### Sa fonction
 
 Le développement commercial de bout en bout: trouver les bons prospects, les relancer au bon moment, préparer les devis et garder le pipeline vivant, du premier message à la signature.
-
-### Son environnement technique
-
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
-
-WhatsApp Gmail LinkedIn Google Sheets Calendly HubSpot
-
-Joignable là où vous êtes déjà:
-
-Telegram WhatsApp E-mail Espace web
 
 ### Ce qu'il fait au quotidien
 
@@ -1031,6 +1015,16 @@ Telegram WhatsApp E-mail Espace web
 - Prend les rendez-vous et prépare les fiches commerciales
 
 - Signale au dirigeant les affaires chaudes et celles qui coincent
+
+### Ses outils métiers
+
+Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+WhatsApp Gmail LinkedIn Google Sheets Calendly HubSpot
+
+Joignable là où vous êtes déjà:
+
+Telegram WhatsApp E-mail Espace web
 
 ### Ses compétences
 
@@ -1053,30 +1047,6 @@ Pricing local (FCFA) Recommande une grille de prix avec benchmark régional UEMO
 Playbook de vente Construit l'argumentaire et le pitch, pour le B2B formel comme informel.
 
 Analytics des ventes Teste les messages et suit le tunnel de conversion étape par étape.
-
-En action Un devis envoyé il y a 5 jours reste sans réponse. Kouassi relance avec un message personnalisé, propose un appel, et prévient le commercial que le prospect a rouvert le devis deux fois. L'affaire repart.
-
-Sa valeur ajoutée Un pipeline toujours à jour et des relances jamais oubliées: mécaniquement, plus d'affaires signées, sans alourdir votre équipe commerciale.
-
-Kouassi WhatsApp 21h38
-
-Devis relancé chez Sotra Distribution. Le client l'a rouvert deux fois ce soir, j'ai prévenu le commercial.
-
-Relance envoyée
-
-Kouassi en ligne
-
-WhatsApp
-
-Bonjour, j'ai vu votre offre. Vous faites des tarifs grossistes?
-
-Bonjour 👋 Oui, à partir de 50 unités. C'est pour quel volume mensuel?
-
-Environ 300 par mois, on est un supermarché
-
-Parfait, ça vous place sur notre grille grossiste. Je prépare le devis et je vous propose demain 10h avec notre commercial. Ça vous va?
-
-Écrivez un message… ➤
 
 ### Pourquoi il est pertinent pour une entreprise d'ici
 
@@ -1120,23 +1090,39 @@ Support & Relation client
 
 Elle répond à vos clients, jour et nuit, sur WhatsApp.
 
-Opérationnelle cette semaine
+Prête à l'emploi
 
 Telegram WhatsApp E-mail Espace web
+
+En action Un client écrit à 22h « ma livraison n'est pas arrivée ». Awa retrouve la commande, explique le statut, propose un créneau de rappel, et laisse une note pour l'équipe du matin. Le client a une réponse tout de suite; l'équipe garde le contrôle.
+
+Sa valeur ajoutée Zéro message client sans réponse, et un temps de réponse divisé par plusieurs, sans monter une équipe de nuit.
+
+Awa WhatsApp 03h47
+
+Douze demandes clients traitées cette nuit. Deux escaladées à l'équipe pour ce matin.
+
+12 traitées, 2 escaladées
+
+Awa en ligne
+
+Telegram
+
+Bonjour, je n'ai pas reçu ma commande #4820
+
+Bonjour 👋 Je vérifie… Votre colis est en livraison, arrivée prévue aujourd'hui avant 18h. Je vous envoie le suivi?
+
+Oui merci
+
+Voici le lien de suivi 📦. J'ai noté votre message pour l'équipe. Autre chose?
+
+PDF Recapitulatif_commande_4820.pdf 96 Ko
+
+Écrivez un message… ➤
 
 ### Sa fonction
 
 Le guichet client de l'entreprise, ouvert 24h/24, qui absorbe les demandes entrantes, y répond, et n'en laisse aucune sans suite.
-
-### Son environnement technique
-
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
-
-Telegram WhatsApp Gmail Google Sheets Notion Zendesk
-
-Joignable là où vous êtes déjà:
-
-Telegram WhatsApp E-mail Espace web
 
 ### Ce qu'elle fait au quotidien
 
@@ -1147,6 +1133,16 @@ Telegram WhatsApp E-mail Espace web
 - Trie les demandes: ce qu'elle traite seule vs. ce qu'elle escalade
 
 - Détecte les clients mécontents ou silencieux et prévient un responsable
+
+### Ses outils métiers
+
+Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+Telegram WhatsApp Gmail Google Sheets Notion Zendesk
+
+Joignable là où vous êtes déjà:
+
+Telegram WhatsApp E-mail Espace web
 
 ### Ses compétences
 
@@ -1165,30 +1161,6 @@ Score de santé client Note chaque client selon usage, paiements et tickets pour
 Suivi d'onboarding Accompagne les nouveaux clients sur leurs 30 premiers jours et détecte les décrochages.
 
 Rétention / anti-churn Déclenche une séquence de sauvetage dès qu'un client montre des signes de départ.
-
-En action Un client écrit à 22h « ma livraison n'est pas arrivée ». Awa retrouve la commande, explique le statut, propose un créneau de rappel, et laisse une note pour l'équipe du matin. Le client a une réponse tout de suite; l'équipe garde le contrôle.
-
-Sa valeur ajoutée Zéro message client sans réponse, et un temps de réponse divisé par plusieurs, sans monter une équipe de nuit.
-
-Awa WhatsApp 03h47
-
-Douze demandes clients traitées cette nuit. Deux escaladées à l'équipe pour ce matin.
-
-12 traitées, 2 escaladées
-
-Awa en ligne
-
-WhatsApp
-
-Bonjour, je n'ai pas reçu ma commande #4820
-
-Bonjour 👋 Je vérifie… Votre colis est en livraison, arrivée prévue aujourd'hui avant 18h. Je vous envoie le suivi?
-
-Oui merci
-
-Voici le lien de suivi 📦. J'ai noté votre message pour l'équipe. Autre chose?
-
-Écrivez un message… ➤
 
 ### Pourquoi elle est pertinente pour une entreprise d'ici
 
@@ -1232,23 +1204,39 @@ Marketing & Contenu
 
 Elle fait vivre votre marque, chaque semaine.
 
-Opérationnelle cette semaine
+Prête à l'emploi
 
 Telegram WhatsApp E-mail Espace web
+
+En action Pour le lancement d'une offre, Fatima propose un plan de 6 posts, rédige les textes, prépare les visuels, programme la semaine et livre une newsletter prête à valider. Le fondateur relit et publie en un clic.
+
+Sa valeur ajoutée Un calendrier éditorial tenu sans effort et une marque toujours présente. La régularité que personne n'a le temps d'assurer.
+
+Fatima Telegram 05h12
+
+Le calendrier éditorial de septembre est prêt: dix-huit publications, visuels compris.
+
+Prêt à valider
+
+Fatima en ligne
+
+Telegram
+
+Il me faut 5 posts pour la promo de fin de mois
+
+C'est parti 🎨 Je propose: teasing J-3, l'offre, un témoignage client, compte à rebours, dernier jour. Je rédige et je brande?
+
+Oui vas-y
+
+Voici les 5 posts + visuels, programmés lun→ven. Tu relis et je publie ✅
+
+XLSX Calendrier_editorial_fin_de_mois.xlsx 84 Ko
+
+Écrivez un message… ➤
 
 ### Sa fonction
 
 La présence de marque complète: stratégie, production et programmation des contenus, animation des réseaux et relation presse, dans votre voix.
-
-### Son environnement technique
-
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
-
-Instagram Facebook LinkedIn WhatsApp Buffer Canva
-
-Joignable là où vous êtes déjà:
-
-Telegram WhatsApp E-mail Espace web
 
 ### Ce qu'elle fait au quotidien
 
@@ -1259,6 +1247,16 @@ Telegram WhatsApp E-mail Espace web
 - Trie et répond aux commentaires et messages privés
 
 - Suit ce qui marche et ajuste le calendrier éditorial
+
+### Ses outils métiers
+
+Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+Instagram Facebook LinkedIn WhatsApp Buffer Canva
+
+Joignable là où vous êtes déjà:
+
+Telegram WhatsApp E-mail Espace web
 
 ### Ses compétences
 
@@ -1283,30 +1281,6 @@ Publicité payante Décide où, combien et comment investir avant la première c
 Relations presse Sourcing de médias, communiqués et préparation des prises de parole.
 
 Emailing & newsletters Rédige relances et newsletters engageantes.
-
-En action Pour le lancement d'une offre, Fatima propose un plan de 6 posts, rédige les textes, prépare les visuels, programme la semaine et livre une newsletter prête à valider. Le fondateur relit et publie en un clic.
-
-Sa valeur ajoutée Un calendrier éditorial tenu sans effort et une marque toujours présente. La régularité que personne n'a le temps d'assurer.
-
-Fatima Telegram 05h12
-
-Le calendrier éditorial de septembre est prêt: dix-huit publications, visuels compris.
-
-Prêt à valider
-
-Fatima en ligne
-
-WhatsApp
-
-Il me faut 5 posts pour la promo de fin de mois
-
-C'est parti 🎨 Je propose: teasing J-3, l'offre, un témoignage client, compte à rebours, dernier jour. Je rédige et je brande?
-
-Oui vas-y
-
-Voici les 5 posts + visuels, programmés lun→ven. Tu relis et je publie ✅
-
-Écrivez un message… ➤
 
 ### Pourquoi elle est pertinente pour une entreprise d'ici
 
@@ -1350,23 +1324,39 @@ RH & Paie
 
 Elle tient la paie sans faute et veille sur le quotidien de vos équipes.
 
-Opérationnelle cette semaine
+Prête à l'emploi
 
 Telegram WhatsApp E-mail Espace web
+
+En action Un salarié demande son solde de congés et une attestation. Fatou répond avec le solde exact, génère l'attestation, la fait valider par la RH, et l'envoie, en dix minutes au lieu de deux jours.
+
+Sa valeur ajoutée Les demandes RH traitées en minutes, une paie juste et plus aucune échéance sociale oubliée, sans DRH à plein temps.
+
+Fatou E-mail 06h20
+
+Les trente-quatre bulletins de paie du mois sont générés. Deux écarts d'heures signalés.
+
+34 bulletins
+
+Fatou en ligne
+
+Telegram
+
+Combien coûte un commercial payé 400 000 net?
+
+Je te calcule ça: à 400 000 net, compte environ 590 000 à 620 000 FCFA de coût total employeur (brut + charges CNPS/IGR). Je te sors le détail ligne par ligne?
+
+Oui stp
+
+Voici la décomposition 📄. Si tu recrutes, je passe la main à Ibrahim pour le contrat de travail.
+
+XLSX Cout_employeur_commercial.xlsx 62 Ko
+
+Écrivez un message… ➤
 
 ### Sa fonction
 
 L'administration RH du quotidien, conforme OHADA: paie, congés, contrats, questions des salariés, évaluations. De quoi libérer le temps humain.
-
-### Son environnement technique
-
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
-
-Google Workspace Notion WhatsApp Slack Gmail Google Sheets
-
-Joignable là où vous êtes déjà:
-
-Telegram WhatsApp E-mail Espace web
 
 ### Ce qu'elle fait au quotidien
 
@@ -1377,6 +1367,16 @@ Telegram WhatsApp E-mail Espace web
 - Suit les échéances: fins de contrat, renouvellements, entretiens
 
 - Onboarde les nouveaux: parcours, documents, premiers repères
+
+### Ses outils métiers
+
+Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+Google Workspace Notion WhatsApp Slack Gmail Google Sheets
+
+Joignable là où vous êtes déjà:
+
+Telegram WhatsApp E-mail Espace web
 
 ### Ses compétences
 
@@ -1399,30 +1399,6 @@ Offboarding & solde de tout compte Orchestre les départs et calcule le solde de
 Campagnes d'évaluation Prépare les entretiens: objectifs SMART/OKR, auto-évaluation et évaluation manager.
 
 Tableau de bord RH Effectifs, turnover, parité, coût par recrutement: les chiffres RH d'un coup d'œil.
-
-En action Un salarié demande son solde de congés et une attestation. Fatou répond avec le solde exact, génère l'attestation, la fait valider par la RH, et l'envoie, en dix minutes au lieu de deux jours.
-
-Sa valeur ajoutée Les demandes RH traitées en minutes, une paie juste et plus aucune échéance sociale oubliée, sans DRH à plein temps.
-
-Fatou E-mail 06h20
-
-Les trente-quatre bulletins de paie du mois sont générés. Deux écarts d'heures signalés.
-
-34 bulletins
-
-Fatou en ligne
-
-WhatsApp
-
-Combien coûte un commercial payé 400 000 net?
-
-Je te calcule ça: à 400 000 net, compte environ 590 000 à 620 000 FCFA de coût total employeur (brut + charges CNPS/IGR). Je te sors le détail ligne par ligne?
-
-Oui stp
-
-Voici la décomposition 📄. Si tu recrutes, je passe la main à Ibrahim pour le contrat de travail.
-
-Écrivez un message… ➤
 
 ### Pourquoi elle est pertinente pour une entreprise d'ici
 
@@ -1466,23 +1442,39 @@ Finance & Comptabilité
 
 Il garde vos comptes clairs et vos dossiers bancables.
 
-Opérationnel cette semaine
+Prêt à l'emploi
 
 Telegram WhatsApp E-mail Espace web
+
+En action Avant un rendez-vous bancaire, Mamadou reconstitue le prévisionnel à 3 ans, prépare le plan de remboursement, repère les points faibles du dossier et livre un PDF propre. Le dirigeant arrive préparé.
+
+Sa valeur ajoutée Des comptes carrés, une trésorerie sous contrôle et un business plan bancable, à la demande, sans directeur financier.
+
+Mamadou E-mail 05h55
+
+Rapprochement bancaire du mois bouclé. Trois écarts à valider avant la clôture.
+
+Rapprochement bouclé
+
+Mamadou en ligne
+
+Telegram
+
+Prépare le prévisionnel pour ma demande de crédit
+
+Ok. Il me faut 3 infos: chiffre d'affaires des 12 derniers mois, montant du crédit et durée. Tu me donnes ça?
+
+CA 45M, crédit 15M sur 3 ans
+
+Voici le prévisionnel 3 ans (compte de résultat, trésorerie, plan de remboursement) prêt pour la banque. Je te le mets en PDF?
+
+PDF Previsionnel_3_ans_credit.pdf 512 Ko
+
+Écrivez un message… ➤
 
 ### Sa fonction
 
 Le pilotage financier de la PME: comptabilité OHADA, contrôle de gestion, business plan et prévisionnel. De quoi décider sur des chiffres justes et obtenir des financements.
-
-### Son environnement technique
-
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
-
-Google Sheets Excel Sage QuickBooks Gmail Banques
-
-Joignable là où vous êtes déjà:
-
-Telegram WhatsApp E-mail Espace web
 
 ### Ce qu'il fait au quotidien
 
@@ -1493,6 +1485,16 @@ Telegram WhatsApp E-mail Espace web
 - Monte les dossiers de financement (prêt, subvention)
 
 - Alerte le dirigeant dès qu'un chiffre sort des clous
+
+### Ses outils métiers
+
+Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+Google Sheets Excel Sage QuickBooks Gmail Banques
+
+Joignable là où vous êtes déjà:
+
+Telegram WhatsApp E-mail Espace web
 
 ### Ses compétences
 
@@ -1509,30 +1511,6 @@ Modélisation financière Bâtit le prévisionnel et les projections à 3 ans.
 Dimensionnement de marché Chiffre la taille du marché visé, pour étayer un business plan devant une banque ou un bailleur.
 
 Veille des prix Suit les prix pratiqués dans votre secteur, pour situer vos marges.
-
-En action Avant un rendez-vous bancaire, Mamadou reconstitue le prévisionnel à 3 ans, prépare le plan de remboursement, repère les points faibles du dossier et livre un PDF propre. Le dirigeant arrive préparé.
-
-Sa valeur ajoutée Des comptes carrés, une trésorerie sous contrôle et un business plan bancable, à la demande, sans directeur financier.
-
-Mamadou E-mail 05h55
-
-Rapprochement bancaire du mois bouclé. Trois écarts à valider avant la clôture.
-
-Rapprochement bouclé
-
-Mamadou en ligne
-
-WhatsApp
-
-Prépare le prévisionnel pour ma demande de crédit
-
-Ok. Il me faut 3 infos: chiffre d'affaires des 12 derniers mois, montant du crédit et durée. Tu me donnes ça?
-
-CA 45M, crédit 15M sur 3 ans
-
-Voici le prévisionnel 3 ans (compte de résultat, trésorerie, plan de remboursement) prêt pour la banque. Je te le mets en PDF?
-
-Écrivez un message… ➤
 
 ### Pourquoi il est pertinent pour une entreprise d'ici
 
@@ -1576,23 +1554,39 @@ Juridique & Conformité
 
 Il tient le juridique carré, pour le privé comme pour le public.
 
-Opérationnel cette semaine
+Prêt à l'emploi
 
 Telegram WhatsApp E-mail Espace web
+
+En action Un partenaire envoie un contrat à signer. Ibrahim le relit, pointe deux clauses à risque, propose une reformulation, et attend la validation du dirigeant avant tout retour. Rien ne s'engage sans accord humain.
+
+Sa valeur ajoutée Le réflexe juridique et la conformité OHADA à portée de main. Des contrats propres, sans passer par un cabinet à chaque fois.
+
+Ibrahim E-mail 23h05
+
+Contrat de prestation relu: deux clauses à risque signalées, avec la formulation de remplacement.
+
+2 clauses signalées
+
+Ibrahim en ligne
+
+Telegram
+
+Fais-moi un contrat de prestation pour un client
+
+Bien sûr. Objet de la prestation, durée et montant? Je le rédige conforme OHADA.
+
+Community management, 6 mois, 300 000/mois
+
+Voici le contrat (objet, durée, prix, résiliation, confidentialité) prêt à signer ✍. Je l'envoie en signature électronique?
+
+PDF Contrat_prestation_CM_6_mois.pdf 318 Ko
+
+Écrivez un message… ➤
 
 ### Sa fonction
 
 Le réflexe juridique du quotidien: contrats OHADA, revue de documents, conformité et veille réglementaire. De quoi agir vite sans se mettre en risque.
-
-### Son environnement technique
-
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
-
-DocuSign Google Drive Gmail Notion Google Sheets
-
-Joignable là où vous êtes déjà:
-
-Telegram WhatsApp E-mail Espace web
 
 ### Ce qu'il fait au quotidien
 
@@ -1603,6 +1597,16 @@ Telegram WhatsApp E-mail Espace web
 - Suit les échéances contractuelles et réglementaires
 
 - Prépare les pièces pour l'administration
+
+### Ses outils métiers
+
+Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+DocuSign Google Drive Gmail Notion Google Sheets
+
+Joignable là où vous êtes déjà:
+
+Telegram WhatsApp E-mail Espace web
 
 ### Ses compétences
 
@@ -1623,30 +1627,6 @@ Risques réglementaires Cartographie les risques réglementaires par activité e
 Veille réglementaire Suit la réglementation (fintech UEMOA et secteurs régulés).
 
 Création de société Accompagne l'incorporation en Côte d'Ivoire et à l'international.
-
-En action Un partenaire envoie un contrat à signer. Ibrahim le relit, pointe deux clauses à risque, propose une reformulation, et attend la validation du dirigeant avant tout retour. Rien ne s'engage sans accord humain.
-
-Sa valeur ajoutée Le réflexe juridique et la conformité OHADA à portée de main. Des contrats propres, sans passer par un cabinet à chaque fois.
-
-Ibrahim E-mail 23h05
-
-Contrat de prestation relu: deux clauses à risque signalées, avec la formulation de remplacement.
-
-2 clauses signalées
-
-Ibrahim en ligne
-
-WhatsApp
-
-Fais-moi un contrat de prestation pour un client
-
-Bien sûr. Objet de la prestation, durée et montant? Je le rédige conforme OHADA.
-
-Community management, 6 mois, 300 000/mois
-
-Voici le contrat (objet, durée, prix, résiliation, confidentialité) prêt à signer ✍. Je l'envoie en signature électronique?
-
-Écrivez un message… ➤
 
 ### Pourquoi il est pertinent pour une entreprise d'ici
 
@@ -1690,23 +1670,41 @@ Opérations & Admin
 
 Il fait tourner l'administratif et la trésorerie du quotidien.
 
-Opérationnel cette semaine
+Prêt à l'emploi
 
 Telegram WhatsApp E-mail Espace web
+
+En action En fin de mois, Salif repère les impayés, lance des relances graduées, signale deux produits en rupture imminente et met à jour le tableau de bord. Le dirigeant voit tout d'un coup d'œil.
+
+Sa valeur ajoutée Facturation, relances et stock sous contrôle, en pilote automatique. La rigueur d'un directeur d'exploitation, sans le poste.
+
+Salif WhatsApp 06h40
+
+Les factures fournisseurs de la semaine sont saisies et classées. Une échéance tombe vendredi.
+
+Échéance vendredi
+
+Salif en ligne
+
+Telegram
+
+0:09
+
+« Relance tous les clients qui n'ont pas payé leur facture de mai »
+
+J'ai trouvé 7 factures impayées (total 2,3M FCFA). J'envoie une relance personnalisée à chacun et je programme un rappel dans 5 jours?
+
+Oui
+
+7 relances envoyées ✅. 2 clients ont déjà répondu, je te les remonte. Rappel programmé pour les autres.
+
+XLSX Relances_impayees_septembre.xlsx 78 Ko
+
+Écrivez un message… ➤
 
 ### Sa fonction
 
 Le moteur opérationnel: facturation, relances, stock et approvisionnements, suivi des tâches. Pour que rien ne file entre les mailles.
-
-### Son environnement technique
-
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
-
-Google Sheets Notion WhatsApp QuickBooks Wave Odoo Gmail
-
-Joignable là où vous êtes déjà:
-
-Telegram WhatsApp E-mail Espace web
 
 ### Ce qu'il fait au quotidien
 
@@ -1717,6 +1715,16 @@ Telegram WhatsApp E-mail Espace web
 - Transforme réunions et échanges en tâches suivies
 
 - Produit les indicateurs clés de la semaine
+
+### Ses outils métiers
+
+Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+Google Sheets Notion WhatsApp QuickBooks Wave Odoo Gmail
+
+Joignable là où vous êtes déjà:
+
+Telegram WhatsApp E-mail Espace web
 
 ### Ses compétences
 
@@ -1735,32 +1743,6 @@ Point d'exploitation Fait chaque semaine le point sur les factures, les stocks e
 Suivi des tâches Transforme réunions et échanges en tâches suivies (Notion + e-mail).
 
 Suivi fournisseurs Tient la liste des fournisseurs, les commandes en cours et les échéances de règlement.
-
-En action En fin de mois, Salif repère les impayés, lance des relances graduées, signale deux produits en rupture imminente et met à jour le tableau de bord. Le dirigeant voit tout d'un coup d'œil.
-
-Sa valeur ajoutée Facturation, relances et stock sous contrôle, en pilote automatique. La rigueur d'un directeur d'exploitation, sans le poste.
-
-Salif WhatsApp 06h40
-
-Les factures fournisseurs de la semaine sont saisies et classées. Une échéance tombe vendredi.
-
-Échéance vendredi
-
-Salif en ligne
-
-WhatsApp
-
-0:09
-
-« Relance tous les clients qui n'ont pas payé leur facture de mai »
-
-J'ai trouvé 7 factures impayées (total 2,3M FCFA). J'envoie une relance personnalisée à chacun et je programme un rappel dans 5 jours?
-
-Oui
-
-7 relances envoyées ✅. 2 clients ont déjà répondu, je te les remonte. Rappel programmé pour les autres.
-
-Écrivez un message… ➤
 
 ### Pourquoi il est pertinent pour une entreprise d'ici
 
@@ -1804,23 +1786,41 @@ Data & Analytics
 
 Elle transforme vos chiffres en décisions.
 
-Opérationnelle cette semaine
+Prête à l'emploi
 
 Telegram WhatsApp E-mail Espace web
+
+En action Chaque lundi, Nadia envoie le tableau de bord de la semaine, met en avant les 3 alertes qui comptent et prévoit la trésorerie à 30 jours. Le comité de direction démarre sur des faits.
+
+Sa valeur ajoutée Vos données en tableaux de bord clairs et en prévisions fiables, sans recruter un data analyst.
+
+Nadia Espace web 07h00
+
+Tableau de bord du mois à jour. Le panier moyen a baissé de 6 % à Yopougon, la cause est isolée.
+
+Alerte remontée
+
+Nadia en ligne
+
+Telegram
+
+0:07
+
+« Quels sont mes 10 meilleurs points de vente ce mois? »
+
+Voici le top 10 par chiffre d'affaires 📈 (avec évolution vs mois dernier). 3 points de vente décrochent: je te les signale?
+
+Oui montre
+
+Ces 3 PDV baissent de plus de 20 %. J'ai préparé un tableau de bord partageable et une alerte hebdo automatique.
+
+XLSX Tableau_de_bord_points_de_vente.xlsx 1,4 Mo
+
+Écrivez un message… ➤
 
 ### Sa fonction
 
 L'intelligence des données de l'entreprise: tableaux de bord, rapports, prévisions et scoring. De quoi piloter sur du concret plutôt qu'au feeling.
-
-### Son environnement technique
-
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
-
-Google Sheets Looker Notion Fireflies Gmail
-
-Joignable là où vous êtes déjà:
-
-Telegram WhatsApp E-mail Espace web
 
 ### Ce qu'elle fait au quotidien
 
@@ -1831,6 +1831,16 @@ Telegram WhatsApp E-mail Espace web
 - Signale les écarts et les points de vente qui décrochent
 
 - Prépare des synthèses de réunion actionnables
+
+### Ses outils métiers
+
+Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+Google Sheets Looker Notion Fireflies Gmail
+
+Joignable là où vous êtes déjà:
+
+Telegram WhatsApp E-mail Espace web
 
 ### Ses compétences
 
@@ -1847,32 +1857,6 @@ Prévision de trésorerie Projette les besoins de cash à J+7 / J+14 / J+30.
 Scoring de performance Note et classe vos points de vente ou distributeurs (haut / moyen / faible).
 
 Synthèse de réunions Analyse les comptes-rendus et en extrait décisions et tâches.
-
-En action Chaque lundi, Nadia envoie le tableau de bord de la semaine, met en avant les 3 alertes qui comptent et prévoit la trésorerie à 30 jours. Le comité de direction démarre sur des faits.
-
-Sa valeur ajoutée Vos données en tableaux de bord clairs et en prévisions fiables, sans recruter un data analyst.
-
-Nadia Espace web 07h00
-
-Tableau de bord du mois à jour. Le panier moyen a baissé de 6 % à Yopougon, la cause est isolée.
-
-Alerte remontée
-
-Nadia en ligne
-
-WhatsApp
-
-0:07
-
-« Quels sont mes 10 meilleurs points de vente ce mois? »
-
-Voici le top 10 par chiffre d'affaires 📈 (avec évolution vs mois dernier). 3 points de vente décrochent: je te les signale?
-
-Oui montre
-
-Ces 3 PDV baissent de plus de 20 %. J'ai préparé un tableau de bord partageable et une alerte hebdo automatique.
-
-Écrivez un message… ➤
 
 ### Pourquoi elle est pertinente pour une entreprise d'ici
 
@@ -1916,23 +1900,39 @@ Recrutement
 
 Elle trouve et évalue les bons profils.
 
-Opérationnelle cette semaine
+Prête à l'emploi
 
 Telegram WhatsApp E-mail Espace web
+
+En action Pour un poste de comptable, Adjoua rédige la fiche, source 15 profils, en présélectionne 5 notés, prépare le guide d'entretien et programme les rendez-vous. Le dirigeant n'a plus qu'à rencontrer les meilleurs.
+
+Sa valeur ajoutée Du sourcing à la lettre d'offre, un recrutement carré et rapide, sans cabinet ni des semaines perdues.
+
+Adjoua WhatsApp 22h50
+
+Quarante-et-une candidatures triées pour le poste de caissière. Six profils à recevoir.
+
+6 à recevoir
+
+Adjoua en ligne
+
+Telegram
+
+Trouve-moi 5 comptables à Abidjan
+
+Je lance le sourcing 🔎 Junior ou confirmé, et quel budget?
+
+Confirmé, 500 à 700k
+
+Voici 5 profils notés sur l'expérience et l'adéquation, avec un message d'approche prêt pour chacun. J'en contacte combien?
+
+PDF 5_profils_comptables_Abidjan.pdf 486 Ko
+
+Écrivez un message… ➤
 
 ### Sa fonction
 
 Le recrutement de bout en bout: de la fiche de poste au sourcing, à l'évaluation et à la lettre d'offre. Pour embaucher juste et vite.
-
-### Son environnement technique
-
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
-
-LinkedIn Gmail Google Sheets Calendly Notion
-
-Joignable là où vous êtes déjà:
-
-Telegram WhatsApp E-mail Espace web
 
 ### Ce qu'elle fait au quotidien
 
@@ -1943,6 +1943,16 @@ Telegram WhatsApp E-mail Espace web
 - Prépare les entretiens et les grilles de notation
 
 - Suit chaque candidat dans le pipeline, relances comprises
+
+### Ses outils métiers
+
+Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+LinkedIn Gmail Google Sheets Calendly Notion
+
+Joignable là où vous êtes déjà:
+
+Telegram WhatsApp E-mail Espace web
 
 ### Ses compétences
 
@@ -1967,30 +1977,6 @@ Suivi du pipeline (ATS) Suit chaque candidat étape par étape, relances et éch
 Lettre d'offre Rédige la lettre d'offre conforme OHADA, et passe la main à Ibrahim pour le contrat de travail.
 
 Benchmark rémunération Compare salaire et avantages au marché.
-
-En action Pour un poste de comptable, Adjoua rédige la fiche, source 15 profils, en présélectionne 5 notés, prépare le guide d'entretien et programme les rendez-vous. Le dirigeant n'a plus qu'à rencontrer les meilleurs.
-
-Sa valeur ajoutée Du sourcing à la lettre d'offre, un recrutement carré et rapide, sans cabinet ni des semaines perdues.
-
-Adjoua WhatsApp 22h50
-
-Quarante-et-une candidatures triées pour le poste de caissière. Six profils à recevoir.
-
-6 à recevoir
-
-Adjoua en ligne
-
-WhatsApp
-
-Trouve-moi 5 comptables à Abidjan
-
-Je lance le sourcing 🔎 Junior ou confirmé, et quel budget?
-
-Confirmé, 500 à 700k
-
-Voici 5 profils notés sur l'expérience et l'adéquation, avec un message d'approche prêt pour chacun. J'en contacte combien?
-
-Écrivez un message… ➤
 
 ### Pourquoi elle est pertinente pour une entreprise d'ici
 
@@ -2034,23 +2020,41 @@ Design & Brand
 
 Il habille votre marque, du logo au site.
 
-Opérationnel cette semaine
+Prêt à l'emploi
 
 Telegram WhatsApp E-mail Espace web
+
+En action Pour l'ouverture d'une boutique, Koffi produit l'affiche dans la charte, la décline en story, post et statut WhatsApp, vérifie la cohérence et livre le tout imprimable. La communication est prête en une heure.
+
+Sa valeur ajoutée Un studio de design de marque à la demande. Des visuels pros et cohérents, sans agence ni graphiste à plein temps.
+
+Koffi Telegram 01h15
+
+Les cinq visuels de la campagne sont prêts, aux couleurs de la marque, aux bons formats.
+
+5 visuels livrés
+
+Koffi en ligne
+
+Telegram
+
+0:08
+
+« Il me faut une affiche pour l'ouverture de ma 2e boutique »
+
+Avec plaisir 🎨 Date, adresse et une promo d'ouverture? Je la fais dans ta charte.
+
+Samedi, Cocody, -20%
+
+Voici l'affiche (format story + A3 imprimable) 🖼. Je te la décline en post Instagram et WhatsApp?
+
+PDF Affiche_ouverture_Cocody_A3.pdf 4,1 Mo
+
+Écrivez un message… ➤
 
 ### Sa fonction
 
 Le studio de design de la marque: identité, visuels, affiches, landing pages et vidéos. Pour une image pro et cohérente partout.
-
-### Son environnement technique
-
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
-
-Canva Figma Google Drive Instagram Gmail
-
-Joignable là où vous êtes déjà:
-
-Telegram WhatsApp E-mail Espace web
 
 ### Ce qu'il fait au quotidien
 
@@ -2061,6 +2065,16 @@ Telegram WhatsApp E-mail Espace web
 - Décline une création en plusieurs formats (print, story, web)
 
 - Vérifie chaque visuel avant publication
+
+### Ses outils métiers
+
+Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+Canva Figma Google Drive Instagram Gmail
+
+Joignable là où vous êtes déjà:
+
+Telegram WhatsApp E-mail Espace web
 
 ### Ses compétences
 
@@ -2081,32 +2095,6 @@ Goodies & print Prépare les goodies et supports print-ready.
 Contrôle qualité visuel Vérifie chaque visuel avant publication: charte et tabous.
 
 Vidéo de marque Génère des contenus vidéo courts brandés.
-
-En action Pour l'ouverture d'une boutique, Koffi produit l'affiche dans la charte, la décline en story, post et statut WhatsApp, vérifie la cohérence et livre le tout imprimable. La communication est prête en une heure.
-
-Sa valeur ajoutée Un studio de design de marque à la demande. Des visuels pros et cohérents, sans agence ni graphiste à plein temps.
-
-Koffi Telegram 01h15
-
-Les cinq visuels de la campagne sont prêts, aux couleurs de la marque, aux bons formats.
-
-5 visuels livrés
-
-Koffi en ligne
-
-WhatsApp
-
-0:08
-
-« Il me faut une affiche pour l'ouverture de ma 2e boutique »
-
-Avec plaisir 🎨 Date, adresse et une promo d'ouverture? Je la fais dans ta charte.
-
-Samedi, Cocody, -20%
-
-Voici l'affiche (format story + A3 imprimable) 🖼. Je te la décline en post Instagram et WhatsApp?
-
-Écrivez un message… ➤
 
 ### Pourquoi il est pertinent pour une entreprise d'ici
 
@@ -2150,9 +2138,39 @@ Investissement
 
 Il instruit vos dossiers d'investissement, du sourcing au suivi de participation.
 
-Opérationnel cette semaine
+Prêt à l'emploi
 
 Telegram WhatsApp E-mail Espace web
+
+En action Un dossier Série A arrive pour le comité de vendredi. Alioune vérifie la thèse du fonds, inventorie la data room, repère deux chiffres de revenus qui se contredisent, prépare les questions au fondateur et livre la note de comité avec les scénarios de valorisation.
+
+Sa valeur ajoutée Un comité qui statue sur un dossier instruit à fond, pas sur un résumé de dix minutes: moins de dossiers mal jugés, plus de temps pour la décision.
+
+Alioune WhatsApp 10h24
+
+Inventaire terminé: trois pièces manquent et deux chiffres de revenus se contredisent. Questions au fondateur prêtes.
+
+Dossier instruit
+
+Alioune en ligne
+
+Telegram
+
+Analyse ce dossier pour le comité de vendredi
+
+Je commence par la thèse du fonds, le type d'opération et l'inventaire de la data room. Quel est le ticket visé?
+
+Série A, 1,5 M€
+
+Inventaire terminé: trois pièces manquent et deux chiffres de revenus se contredisent. Je prépare les questions au fondateur avant la note.
+
+Fais la note avec ce que nous avons
+
+Note de comité prête, avec les écarts signalés, les scénarios de valorisation et les points bloquants marqués à confirmer.
+
+PDF Note_de_comite_Serie_A.pdf 1,2 Mo
+
+Écrivez un message… ➤
 
 ### Sa fonction
 
@@ -2180,7 +2198,7 @@ Ces actions nécessitent votre validation explicite avant exécution.
 
 - Suit les participations, la trésorerie et les alertes convenues
 
-### Son environnement technique
+### Ses outils métiers
 
 Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
 
@@ -2213,34 +2231,6 @@ Comparables Recherche les transactions et valorisations comparables sur le secte
 Suivi de participation Suit la performance, la trésorerie et les alertes convenues après investissement.
 
 Reporting souscripteurs Prépare le reporting périodique destiné aux souscripteurs du fonds.
-
-En action Un dossier Série A arrive pour le comité de vendredi. Alioune vérifie la thèse du fonds, inventorie la data room, repère deux chiffres de revenus qui se contredisent, prépare les questions au fondateur et livre la note de comité avec les scénarios de valorisation.
-
-Sa valeur ajoutée Un comité qui statue sur un dossier instruit à fond, pas sur un résumé de dix minutes: moins de dossiers mal jugés, plus de temps pour la décision.
-
-Alioune WhatsApp 10h24
-
-Inventaire terminé: trois pièces manquent et deux chiffres de revenus se contredisent. Questions au fondateur prêtes.
-
-Dossier instruit
-
-Alioune en ligne
-
-WhatsApp
-
-Analyse ce dossier pour le comité de vendredi
-
-Je commence par la thèse du fonds, le type d'opération et l'inventaire de la data room. Quel est le ticket visé?
-
-Série A, 1,5 M€
-
-Inventaire terminé: trois pièces manquent et deux chiffres de revenus se contredisent. Je prépare les questions au fondateur avant la note.
-
-Fais la note avec ce que nous avons
-
-Note de comité prête, avec les écarts signalés, les scénarios de valorisation et les points bloquants marqués à confirmer.
-
-Écrivez un message… ➤
 
 ### Pourquoi il est pertinent pour un fonds d'ici
 
@@ -2284,9 +2274,61 @@ Chief of Staff & Direction
 
 Bras droit du dirigeant: prépare ses réunions, filtre ses sollicitations, tient le relevé des décisions et suit les engagements pris.
 
-Opérationnelle cette semaine
+Prête à l'emploi
 
 Telegram WhatsApp E-mail Espace web
+
+En action
+
+Le dirigeant enchaîne cinq rendez-vous. Djénéba prépare un brief par
+
+réunion avec l'historique et l'objectif, écarte trois sollicitations qui
+
+pouvaient attendre, consigne les décisions prises et relance deux
+
+engagements de la semaine précédente restés sans suite.
+
+Sa valeur ajoutée
+
+Plus rien ne se perd entre deux réunions, et le dirigeant arrive préparé
+
+partout, sans y passer ses soirées.
+
+Djénéba
+
+WhatsApp
+
+07h10
+
+Deux engagements pris la semaine dernière sont en retard. J'ai relancé,
+
+et je vous remonte les réponses ce soir.
+
+2 relancés
+
+Djénéba en ligne
+
+Telegram
+
+0:04
+
+« J'ai quoi de prévu demain? »
+
+Trois rendez-vous 📅 Le conseil à 9h, un point équipe à
+
+14h, et un partenaire à 16h. Je vous ai préparé un brief pour chacun.
+
+Le partenaire de 16h, on en est où?
+
+Dernier échange il y a trois semaines: ils attendaient
+
+notre proposition tarifaire. Elle est partie mardi, sans réponse depuis.
+
+Je le mets dans le brief.
+
+PDF Brief_conseil_9h.pdf 240 Ko
+
+Écrivez un message… ➤
 
 ### Sa mission
 
@@ -2326,7 +2368,11 @@ Ces actions nécessitent votre validation explicite avant exécution.
 
 - Engagement pris auprès d'un tiers
 
-### Son environnement technique
+### Ce qu'elle produit
+
+Briefs de rendez-vous, ordres du jour, relevés de décisions, tableau des engagements en cours, notes de cadrage.
+
+### Ses outils métiers
 
 Branchée à vos outils, avec plus de 3 000 intégrations prêtes.
 
@@ -2335,10 +2381,6 @@ Agenda Gmail WhatsApp Notion Google Drive Slack
 Joignable là où vous êtes déjà:
 
 Telegram WhatsApp E-mail Espace web
-
-### Ce qu'elle produit
-
-Briefs de rendez-vous, ordres du jour, relevés de décisions, tableau des engagements en cours, notes de cadrage.
 
 ### Ses compétences
 
@@ -2355,56 +2397,6 @@ Suivi des engagements Tient le tableau des engagements pris et relance automatiq
 Filtre & priorisation Trie les sollicitations entrantes et ne remonte que ce qui mérite votre attention directe.
 
 Point hebdomadaire Produit chaque semaine un point synthétique sur ce qui est en attente ou en retard.
-
-En action
-
-Le dirigeant enchaîne cinq rendez-vous. Djénéba prépare un brief par
-
-réunion avec l'historique et l'objectif, écarte trois sollicitations qui
-
-pouvaient attendre, consigne les décisions prises et relance deux
-
-engagements de la semaine précédente restés sans suite.
-
-Sa valeur ajoutée
-
-Plus rien ne se perd entre deux réunions, et le dirigeant arrive préparé
-
-partout, sans y passer ses soirées.
-
-Djénéba
-
-WhatsApp
-
-07h10
-
-Deux engagements pris la semaine dernière sont en retard. J'ai relancé,
-
-et je vous remonte les réponses ce soir.
-
-2 relancés
-
-Djénéba en ligne
-
-WhatsApp
-
-0:04
-
-« J'ai quoi de prévu demain? »
-
-Trois rendez-vous 📅 Le conseil à 9h, un point équipe à
-
-14h, et un partenaire à 16h. Je vous ai préparé un brief pour chacun.
-
-Le partenaire de 16h, on en est où?
-
-Dernier échange il y a trois semaines: ils attendaient
-
-notre proposition tarifaire. Elle est partie mardi, sans réponse depuis.
-
-Je le mets dans le brief.
-
-Écrivez un message… ➤
 
 ### Pourquoi elle est pertinente pour
 
