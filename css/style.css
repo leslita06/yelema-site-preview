@@ -1728,3 +1728,19 @@ p.center a[href^="tel:"]::after,
 @media(max-width:520px){.jour-q{width:100%}.jour-h,.jour-lg{margin-left:0}
   .jour-t{padding-left:0}
   .jour-m{grid-template-columns:1fr 1fr}}
+
+/* La bande allégée, 8/09/26. La colonne de légendes à droite redisait les libellés des
+   blocs, la rangée des moments datés et la légende des couleurs ajoutaient deux étages
+   pour un message qui tient dans le dessin des deux barres. Tout ça part ; la légende
+   des couleurs revient seulement quand les blocs sont trop courts pour un mot. */
+.jour-l{margin-bottom:12px}
+.jour-h{margin-right:0}
+.jour-lg{display:none;margin-right:0}
+/* 🪲 Les libellés héritaient de l'italique du <i> qui les porte. */
+.jour-f b{font-style:normal}
+.jour-f.exp b{color:#fff;font-size:12.5px}
+/* La barre de Kouassi garde son libellé à toutes les largeurs : elle est pleine, donc
+   le texte y tient toujours, et sans lui sa ligne ne dirait plus rien sur un téléphone
+   (la légende des couleurs, elle, ne parle que des blocs du commercial). */
+@media(max-width:1040px){.jour-lg{display:flex}.jour-f.exp b{display:block;font-size:11.5px}}
+@media(max-width:520px){.jour-lg{margin-left:0}.jour-f.exp b{font-size:10.5px}}
