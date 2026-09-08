@@ -1796,18 +1796,9 @@ p.center a[href^="tel:"]::after,
 .rp-g .ticks li:before{width:16px;height:16px;border-radius:5px;top:6px}
 .rp-g .ticks li:after{left:3.5px;top:4px;font-size:11px}
 
-/* Les pastilles de la répartition, 8/09/26. Treize puces en phrases faisaient treize
-   cents pixels de haut : « visuellement ça prend trop de place ». En deux ou trois mots,
-   la même liste tient en quatre lignes, et la densité montre l'écart mieux qu'une
-   énumération. */
-.chips{display:flex;flex-wrap:wrap;gap:8px}
-.chip{display:inline-flex;align-items:center;gap:7px;font-size:13.5px;
-  line-height:1.3;color:#3b3161;background:#f3effe;border:1px solid #e7e0fb;
-  border-radius:999px;padding:7px 13px 7px 11px}
-.repart-c.hum .chip{background:#fff;border-color:#e2daf8}
-@media(max-width:900px){.chip{font-size:13px;padding:6px 11px}}
-
-/* L'icône de pastille, 8/09/26. `flex:none` est ce qui l'empêche d'être écrasée par un
-   libellé long quand la ligne se serre. */
-.chip-ic{display:grid;place-items:center;flex:none;color:var(--violet)}
-.chip-ic svg{width:14px;height:14px}
+/* Les pastilles de tâche de la répartition, 8/09/26. Elles reprennent le `.chip` du site
+   et n'ajoutent que l'alignement de l'icône, comme le font `.chip.chan` et `.chip.intg`.
+   ⚠️ Les passes v16 et v17 avaient redéfini `.chip` et `.chip-ic` eux-mêmes, ce qui
+   changeait la mise en forme des trente-huit autres bandes du site. */
+.chip.tache{display:inline-flex;align-items:center;gap:7px;padding-left:11px}
+.repart-c.hum .chip.tache{background:#fff;border-color:#e2daf8}
