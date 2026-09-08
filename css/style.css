@@ -1531,14 +1531,21 @@ p.center a[href^="tel:"]::after,
 @media(max-width:980px){.ancm{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:540px){.ancm{grid-template-columns:1fr}}
 
-/* Ancré localement : une carte par métier, la commerciale plus large, 8/09/26 */
-.ancm{grid-template-columns:repeat(3,1fr)}
-.ancm-c.large{grid-column:span 2}
+/* Ancré localement : cinq cartes de même taille, rangée du bas centrée, 8/09/26 */
+/* Six colonnes pour cinq cartes de deux colonnes : c'est le seul découpage qui donne
+   des cases égales ET une rangée du bas centrée. Le décalage des cartes 4 et 5 se lit
+   dans les `nth-child`, il n'y a pas de cellule vide dans le balisage. */
+.ancm{grid-template-columns:repeat(6,1fr)}
+.ancm-c{grid-column:span 2}
+.ancm-c:nth-child(4){grid-column:2/span 2}
+.ancm-c:nth-child(5){grid-column:4/span 2}
 .lg-gim{background-image:url(../images/logos/lg-gim.png)}
 .lg-visa{background-image:url(../images/logos/lg-visa.png)}
 .lg-mastercard{background-image:url(../images/logos/lg-mastercard.png)}
-@media(max-width:980px){.ancm-c.large{grid-column:span 2}}
-@media(max-width:540px){.ancm-c.large{grid-column:span 1}}
+@media(max-width:980px){.ancm{grid-template-columns:repeat(4,1fr)}
+  .ancm-c,.ancm-c:nth-child(4),.ancm-c:nth-child(5){grid-column:span 2}}
+@media(max-width:540px){.ancm{grid-template-columns:1fr}
+  .ancm-c,.ancm-c:nth-child(4),.ancm-c:nth-child(5){grid-column:span 1}}
 
 /* « Un Expert n'a pas de journée de travail » : la bande des 24 heures, 8/09/26 */
 .jour{background:#fff;border:1px solid var(--line);border-radius:18px;
