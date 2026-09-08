@@ -1765,7 +1765,7 @@ p.center a[href^="tel:"]::after,
 .kpi-c b{display:block;font-family:var(--title);font-weight:600;font-size:26px;
   line-height:1.15;color:var(--indigo);margin-bottom:7px}
 .kpi-c span{display:block;font-size:14px;line-height:1.45;color:#5b5273}
-.repart{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.repart{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:start}
 .repart-c{background:#fff;border:1px solid #ece7fb;border-radius:18px;padding:20px 22px 22px}
 .repart-c.hum{background:#f7f5ff;border-color:#e7e0fb}
 .repart-c h3{margin:0 0 12px;font-size:17px;color:var(--indigo)}
