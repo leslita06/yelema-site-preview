@@ -1802,3 +1802,18 @@ p.center a[href^="tel:"]::after,
    changeait la mise en forme des trente-huit autres bandes du site. */
 .chip.tache{display:inline-flex;align-items:center;gap:7px;padding-left:11px}
 .repart-c.hum .chip.tache{background:#fff;border-color:#e2daf8}
+
+/* Les exemples de livrables des fiches Expert, 9/09/26. Une tuile par spécimen. Elle
+   devient un lien le jour où un exemplaire public existe : `a.spec` et `div.spec`
+   partagent exactement le même dessin, seuls le curseur, le survol et la flèche
+   changent. Tant qu'aucune URL n'est renseignée, la tuile reste un bloc, jamais un
+   lien mort. Classes neuves (`spec-*`), aucune redéfinition d'un composant du site. */
+.spec-g{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:16px}
+.spec{display:block;background:#faf9fe;border:1px solid #ece7fa;border-radius:14px;padding:16px 17px}
+a.spec{transition:.18s}
+a.spec:hover{background:#f3effe;border-color:#dcd2f7}
+.spec-t{display:inline-block;font-family:var(--title);font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--violet);margin-bottom:9px}
+.spec-n{display:block;font-family:var(--title);font-size:15.5px;font-weight:600;color:var(--indigo);line-height:1.25;margin-bottom:6px}
+.spec-d{display:block;font-size:14px;line-height:1.5;color:var(--muted)}
+a.spec .spec-n:after{content:"\2197";font-size:12.5px;margin-left:6px;color:var(--violet)}
+@media(max-width:900px){.spec-g{grid-template-columns:1fr}}
