@@ -218,7 +218,7 @@ Ils tiennent des postes et produisent des résultats. Deux dirigeantes racontent
 
 Florence Tahiri Fadika Fondation Jeunesse Numérique
 
-J'ouvrais un poste de responsable des partenariats et de la recherche de financement, sans service RH pour le tenir. Adjoua a repris ma fiche de poste, préparé les guides d'entretien et leur grille de notation, situé les salaires du marché et sorti des profils. Je suis arrivée aux entretiens avec un cadre, pas avec une pile de CV, et la personne que je cherchais est aujourd'hui recrutée.
+Avec Adjoua, j'ai recruté mon responsable projet. Pour le poste des partenariats, elle a corrigé ma fiche de poste et m'a rendu une analyse : un senior ou un junior, avec les coûts de chaque option, ou me faire aider par un cabinet spécialisé.
 
 Experte au travail Adjoua, Recrutement
 
@@ -240,6 +240,10 @@ Nous utilisons déjà ChatGPT, pourquoi prendre un Expert IA?
 
 ChatGPT est un outil que chacun ouvre dans son coin. Il ne connaît pas votre entreprise, ne garde rien d'une fois sur l'autre, et n'agit dans aucun de vos outils: il faut lui réexpliquer le contexte à chaque fois, puis recopier le résultat à la main. Un Expert IA tient un poste. Il garde la mémoire de votre activité, travaille dans vos outils et sur WhatsApp, et c'est nous qui l'opérons. Nous nous appuyons d'ailleurs sur plusieurs modèles, ChatGPT compris, en choisissant celui qui tient le mieux chaque tâche.
 
+Pourquoi ne pas demander à une agence tech de me construire un agent?
+
+Parce que les gens qui construisent connaissent rarement votre métier, et qu'un agent sans le contexte et les règles de votre maison déçoit dès qu'il compte pour de vrai. Chaque Expert est écrit avec les gens du métier, puis testé par eux jusqu'à ce que le résultat vaille celui de la personne qui faisait le travail avant.
+
 Sur quels canaux mes équipes lui parlent-elles?
 
 Telegram, WhatsApp, e-mail, espace web, Slack, Microsoft Teams. Là où vos équipes travaillent déjà, sans leur demander d'apprendre un outil de plus.
@@ -251,6 +255,14 @@ Quelques minutes pour la mise en route, et une première semaine de travail rée
 Faut-il une équipe informatique de mon côté?
 
 Non. Yelema est un service opéré: nous branchons, nous configurons, nous surveillons. Vous décidez ce que l'Expert a le droit de faire, et vous le révoquez quand vous voulez.
+
+Est-ce qu'il agit à ma place?
+
+Vous décidez, outil par outil. Il peut préparer les cinquante réponses du lundi matin et vous laisser relire, ou envoyer seul ce qui ne porte aucun enjeu. Le droit d'agir se donne action par action, et il se retire aussi vite qu'il se donne. La décision qui engage l'entreprise reste chez vous.
+
+Est-ce que je remplace mes employés?
+
+Non. Un Expert reprend ce qui, dans un poste, se répète et s'écrit: le tri, la saisie, la relance, la mise en forme. La personne qui recrutait chez nous recrute toujours ; elle ne lit plus deux cents CV, elle reçoit des profils déjà notés et garde l'entretien. La décision et la relation restent humaines.
 
 Est-ce que vous déployez en dehors de la Côte d'Ivoire?
 
@@ -264,13 +276,25 @@ Et s'il se trompe?
 
 Chaque Expert est encadré par une couche qualité: des juges indépendants vérifient les réponses, des jeux de tests mesurent la fiabilité, et tout acte sensible (un envoi au nom de l'entreprise, un engagement, un paiement) s'arrête sur votre validation.
 
+Et si le fournisseur du modèle tombe en panne?
+
+Vos Experts ne dépendent d'aucun modèle unique: écrire un texte, lire un contrat ou trier des candidatures ne demandent pas le même moteur, et nous en changeons quand un meilleur sort ou qu'un autre tombe. Vous ne changez rien de votre côté: le même prénom, le même WhatsApp, la même mémoire de votre entreprise.
+
 Est-ce que mes données servent à entraîner un modèle?
 
 Non. Jamais. Ce qui passe par vos Experts sert à votre entreprise et à rien d'autre: ni pour améliorer notre service, ni pour celui d'un fournisseur. Chaque entreprise est cloisonnée.
 
+Qu'est-ce qu'il voit de mes données?
+
+Ce que vous lui ouvrez, et rien d'autre. Fonction par fonction, vous choisissez les outils et les dossiers accessibles, le reste lui est invisible. Un dossier finance peut rester fermé à tout le monde sauf à la direction financière, et ce qui suffit en lecture seule se donne en lecture seule.
+
 Si j'arrête, qu'est-ce que je récupère?
 
 Tout. Vos données vous sont rendues dans un format lisible, et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
+
+Par quoi commencer?
+
+Par la fonction qui vous coûte le plus cher, en temps ou en argent, et par la tâche qui y revient tous les jours. Puis un état des lieux de vos données et de vos outils, parce qu'il faudra les connecter. Puis une mesure de l'avant, relevée pendant deux semaines, pour que l'après se voie.
 
 ### Votre premier Expert peut commencer dès demain.
 
@@ -926,6 +950,10 @@ Ce n'est ni un robot de discussion, autrement dit un chatbot, ni un logiciel de 
 
 ChatGPT est un outil que chacun ouvre dans son coin. Il ne connaît pas votre entreprise, ne garde rien d'une fois sur l'autre, et n'agit dans aucun de vos outils : il faut lui réexpliquer le contexte à chaque fois, puis recopier le résultat à la main. Un Expert IA tient un poste. Il garde la mémoire de votre activité, travaille dans vos outils et sur WhatsApp, et c'est nous qui l'opérons. Nous nous appuyons d'ailleurs sur plusieurs modèles, ChatGPT compris, en choisissant celui qui tient le mieux chaque tâche.
 
+### Pourquoi ne pas demander à une agence tech de me construire un agent ?
+
+Parce que les gens qui construisent connaissent rarement votre métier, et qu'un agent sans le contexte et les règles de votre maison déçoit dès qu'il compte pour de vrai. Chaque Expert est écrit avec les gens du métier, puis testé par eux jusqu'à ce que le résultat vaille celui de la personne qui faisait le travail avant.
+
 ### Sur quels canaux mes équipes lui parlent-elles ?
 
 Telegram, WhatsApp, e-mail, espace web, Slack, Microsoft Teams. Là où vos équipes travaillent déjà, sans leur demander d'apprendre un outil de plus.
@@ -937,6 +965,14 @@ Quelques minutes pour la mise en route, et une première semaine de travail rée
 ### Faut-il une équipe informatique de mon côté ?
 
 Non. Yelema est un service opéré : nous branchons, nous configurons, nous surveillons. Vous décidez ce que l'Expert a le droit de faire, et vous le révoquez quand vous voulez.
+
+### Est-ce qu'il agit à ma place ?
+
+Vous décidez, outil par outil. Il peut préparer les cinquante réponses du lundi matin et vous laisser relire, ou envoyer seul ce qui ne porte aucun enjeu. Le droit d'agir se donne action par action, et il se retire aussi vite qu'il se donne. La décision qui engage l'entreprise reste chez vous.
+
+### Est-ce que je remplace mes employés ?
+
+Non. Un Expert reprend ce qui, dans un poste, se répète et s'écrit : le tri, la saisie, la relance, la mise en forme. La personne qui recrutait chez nous recrute toujours ; elle ne lit plus deux cents CV, elle reçoit des profils déjà notés et garde l'entretien. La décision et la relation restent humaines.
 
 ### Est-ce que vous déployez en dehors de la Côte d'Ivoire ?
 
@@ -950,13 +986,25 @@ Oui. Nos Experts travaillent dans les huit pays de l'UEMOA, le Bénin, le Burkin
 
 Chaque Expert est encadré par une couche qualité : des juges indépendants vérifient les réponses, des jeux de tests mesurent la fiabilité, et tout acte sensible (un envoi au nom de l'entreprise, un engagement, un paiement) s'arrête sur votre validation.
 
+### Et si le fournisseur du modèle tombe en panne ?
+
+Vos Experts ne dépendent d'aucun modèle unique : écrire un texte, lire un contrat ou trier des candidatures ne demandent pas le même moteur, et nous en changeons quand un meilleur sort ou qu'un autre tombe. Vous ne changez rien de votre côté : le même prénom, le même WhatsApp, la même mémoire de votre entreprise.
+
 ### Est-ce que mes données servent à entraîner un modèle ?
 
 Non. Jamais. Ce qui passe par vos Experts sert à votre entreprise et à rien d'autre : ni pour améliorer notre service, ni pour celui d'un fournisseur. Chaque entreprise est cloisonnée.
 
+### Qu'est-ce qu'il voit de mes données ?
+
+Ce que vous lui ouvrez, et rien d'autre. Fonction par fonction, vous choisissez les outils et les dossiers accessibles, le reste lui est invisible. Un dossier finance peut rester fermé à tout le monde sauf à la direction financière, et ce qui suffit en lecture seule se donne en lecture seule.
+
 ### Si j'arrête, qu'est-ce que je récupère ?
 
 Tout. Vos données vous sont rendues dans un format lisible, et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
+
+### Par quoi commencer ?
+
+Par la fonction qui vous coûte le plus cher, en temps ou en argent, et par la tâche qui y revient tous les jours. Puis un état des lieux de vos données et de vos outils, parce qu'il faudra les connecter. Puis une mesure de l'avant, relevée pendant deux semaines, pour que l'après se voie.
 
 ## Les fiches d'Experts
 
