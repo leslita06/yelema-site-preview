@@ -1817,3 +1817,30 @@ a.spec:hover{background:#f3effe;border-color:#dcd2f7}
 .spec-d{display:block;font-size:14px;line-height:1.5;color:var(--muted)}
 a.spec .spec-n:after{content:"\2197";font-size:12.5px;margin-left:6px;color:var(--violet)}
 @media(max-width:900px){.spec-g{grid-template-columns:1fr}}
+
+/* offres, refonte du 21/09/26 : une offre Experts IA (compteur) + développements sur mesure */
+.offers.two{grid-template-columns:1.3fr 1fr;max-width:1060px;margin:0 auto}
+@media(max-width:900px){.offers.two{grid-template-columns:1fr}}
+.price-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:12px 0 12px}
+.price-grid .pc{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.16);border-radius:16px;padding:14px 16px}
+.price-grid .pc b{display:block;font-family:var(--title);font-size:24px;color:#fff;line-height:1.15;letter-spacing:-.01em}
+.price-grid .pc b small{font-family:var(--body);font-size:13px;font-weight:600;color:#c9c1ee;margin-left:3px}
+.price-grid .pc span{display:block;font-size:13px;color:#c9c1ee;margin-top:4px}
+@media(max-width:480px){.price-grid{grid-template-columns:1fr}}
+.calc{margin:6px 0 4px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.16);border-radius:16px;padding:14px 16px;display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px}
+.calc .cl{font-size:13px;color:#c9c1ee;flex:1 1 100%}
+.calc .calc-step{display:inline-flex;align-items:center;border:1px solid rgba(255,255,255,.3);border-radius:999px;overflow:hidden}
+.calc .calc-step button{appearance:none;background:transparent;border:0;color:#fff;font:700 20px/1 var(--title);width:40px;height:38px;cursor:pointer}
+.calc .calc-step button:hover{background:rgba(255,255,255,.14)}
+.calc .calc-step output{min-width:36px;text-align:center;font:700 17px/1 var(--title);color:#fff}
+.calc .res{margin-left:auto;text-align:right}
+.calc .res b{display:block;font-family:var(--title);font-size:21px;color:#fff;line-height:1.1;letter-spacing:-.01em}
+.calc .res span{display:block;font-size:12.5px;color:#c9c1ee;margin-top:3px}
+@media(max-width:480px){.calc .res{margin-left:0;text-align:left;flex:1 1 100%}}
+.offers.two .offer ul{margin-top:14px}
+.offers.two .team-pick{flex-direction:row;flex-wrap:wrap;align-items:center;gap:10px 16px}
+.offers.two .team-pick .tp-plus{align-self:center}
+.ex{margin:0 0 22px;padding:16px 18px;border:1px dashed #d9d0f5;border-radius:16px;display:flex;flex-direction:column;gap:8px}
+.ex b{font-family:var(--title);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--violet)}
+.ex span{font-size:14px;color:#5f5880;padding-left:16px;position:relative}
+.ex span:before{content:"";position:absolute;left:0;top:.55em;width:6px;height:6px;border-radius:50%;background:#c3b5f2}
