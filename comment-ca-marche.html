@@ -210,6 +210,8 @@
      </div>
      <div class="gap-esc" aria-hidden="true"></div>
    </div>
+ 
+   <div class="symb-band"><p class="symb-h">Ce qui fait un Expert IA</p><div class="symb-row"><div class="symb"><span class="sy-w"><svg viewBox="0 0 100 100" aria-hidden="true"><g fill="#6B4BE8"><rect x="0" y="37" width="100" height="26" rx="13"/><rect x="0" y="37" width="100" height="26" rx="13" transform="rotate(60 50 50)"/><rect x="0" y="37" width="100" height="26" rx="13" transform="rotate(120 50 50)"/></g></svg><b>Un métier,<br>pas qu'une tâche</b></span></div><div class="symb"><span class="sy-w"><svg viewBox="0 0 100 100" aria-hidden="true"><path d="M34 20 L68 50 L34 80" fill="none" stroke="#8D68FA" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/></svg><b>Travail continu</b></span></div><div class="symb"><span class="sy-w"><svg viewBox="0 0 100 100" aria-hidden="true"><g fill="none" stroke="#8D68FA" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"><path d="M14 50 H70"/><path d="M52 30 L74 50 L52 70"/></g></svg><b>Droit au but</b></span></div><div class="symb"><span class="sy-w"><svg viewBox="0 0 100 100" aria-hidden="true"><g fill="#8D68FA"><rect x="4" y="24" width="92" height="17" rx="8.5"/><rect x="4" y="46" width="92" height="17" rx="8.5"/><rect x="4" y="68" width="92" height="17" rx="8.5"/></g></svg><b>Contexte, mémoire,<br>compétence</b></span></div><div class="symb"><span class="sy-w"><svg viewBox="0 0 100 100" aria-hidden="true"><g fill="#8D68FA"><rect x="17" y="14" width="20" height="72" rx="10"/><rect x="40" y="14" width="20" height="72" rx="10"/><rect x="63" y="14" width="20" height="72" rx="10"/></g></svg><b>Ancrage local</b></span></div></div></div>
  </div></section>
 
  <section class="pad soft llm-sec"><div class="wrap">
@@ -300,5 +302,17 @@
 if(!m||!b)return;b.addEventListener('click',function(){m.classList.toggle('open');
 b.classList.toggle('open');b.setAttribute('aria-expanded',m.classList.contains('open'));});})();
 </script>
+<script>(function(){
+  /* La bande des symboles s'anime quand elle entre dans l'écran. Sans
+     IntersectionObserver, elle s'affiche simplement, jamais invisible. */
+  var b=document.querySelectorAll('.symb-band'); if(!b.length) return;
+  if(!('IntersectionObserver' in window)){
+    b.forEach(function(x){x.classList.add('vu');}); return; }
+  var o=new IntersectionObserver(function(es){
+    es.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('vu');
+      o.unobserve(e.target); } });
+  },{threshold:.25});
+  b.forEach(function(x){o.observe(x);});
+})();</script>
 </body>
 </html>

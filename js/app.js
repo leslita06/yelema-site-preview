@@ -130,3 +130,47 @@ window.addEventListener('hashchange',route);route();
        f.reset(); });
  });
 })();
+
+
+/* 22/09/2026 : la fenêtre des projets sur mesure. Même mécanique que celle de la
+   démonstration, un champ de description en plus. Un projet spécifique ne se traite
+   pas avec le formulaire de démonstration : ni les mêmes questions, ni le même suivi. */
+(function(){
+ var m=document.getElementById('ylprojet');
+ if(!m) return;
+ var dernier=null;
+ function ouvrir(e){ if(e) e.preventDefault(); dernier=document.activeElement;
+   m.hidden=false; document.body.style.overflow='hidden';
+   var p=m.querySelector('textarea'); if(p) p.focus(); }
+ function fermer(){ m.hidden=true; document.body.style.overflow='';
+   if(dernier&&dernier.focus) dernier.focus(); }
+ document.querySelectorAll('a[href="#projet"],[data-projet]').forEach(function(a){
+   a.addEventListener('click',ouvrir);
+ });
+ function surHash(){ if(location.hash==='#projet'&&m.hidden) ouvrir(); }
+ window.addEventListener('hashchange',surHash); surHash();
+ m.querySelectorAll('[data-close]').forEach(function(b){b.addEventListener('click',fermer);});
+ document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!m.hidden) fermer(); });
+ document.getElementById('ylpform').addEventListener('submit',function(e){
+   e.preventDefault();
+   var d=new FormData(this), l=[], f=this,
+       z=document.getElementById('ylp-ok'),
+       b=f.querySelector('button[type=submit]');
+   d.forEach(function(v,k){ if(String(v).trim()) l.push(k+' : '+v); });
+   if(b){ b.disabled=true; b.textContent='Envoi en cours…'; }
+   function rendre(){ if(b){ b.disabled=false; b.textContent='Envoyer mon projet'; } }
+   ylEnvoyer({_subject:'Projet sur mesure, '+(d.get('societe')||''),
+       'Société':d.get('societe')||'', 'Nom':d.get('nom')||'',
+       'email':d.get('email')||'',
+       'Téléphone':String(d.get('tel')||'').trim()
+         ? (d.get('indicatif')||'')+' '+String(d.get('tel')).trim() : '',
+       'Secteur':d.get('secteur')||'', 'Échéance':d.get('echeance')||'',
+       'Projet':d.get('projet')||''},
+     function(){ if(z){ z.hidden=false; } f.reset(); rendre(); },
+     function(){ rendre();
+       var corps=encodeURIComponent("Projet sur mesure\n\n"+l.join("\n"));
+       window.location.href='mailto:contact@yelema.ai?subject='
+         +encodeURIComponent('Projet sur mesure, '+(d.get('societe')||''))
+         +'&body='+corps; });
+ });
+})();
