@@ -1436,26 +1436,26 @@ p.center a[href^="tel:"]::after,
 .dj-inbox{padding:6px 0}
 .dj-mail{display:flex;align-items:center;gap:10px;padding:10px 14px;
   border-bottom:1px solid #f5f2fe;opacity:0;transform:translateY(6px);
-  animation:djIn 12s infinite}
+  animation:djIn 18s infinite}
 .dj-mail .dj-from{font-weight:600;color:var(--indigo);white-space:nowrap}
 .dj-mail .dj-obj{color:var(--muted);flex:1;overflow:hidden;text-overflow:ellipsis;
   white-space:nowrap}
 .dj-tag{font-style:normal;font-size:11px;font-weight:600;white-space:nowrap;
   background:#eafaf1;color:#12904c;border-radius:999px;padding:3px 9px}
 .dj-tag.wait{background:#fdf1e9;color:#c05a1f}
-.dj-mail.m1{animation-delay:.2s}
+.dj-mail.m1{animation-delay:.4s}
 .dj-mail.m2{animation-delay:1.1s}
 .dj-mail.m3{animation-delay:2s}
 .dj-compose{display:flex;align-items:center;gap:10px;margin:10px 14px 14px;
   padding:9px 10px 9px 13px;border:1px solid var(--lavp);border-radius:999px;
-  background:#faf9ff;opacity:0;animation:djIn 12s infinite;animation-delay:3.1s}
+  background:#faf9ff;opacity:0;animation:djIn 18s infinite;animation-delay:3.1s}
 .dj-typed{flex:1;color:var(--ink);overflow:hidden;white-space:nowrap;
   border-right:2px solid var(--violet);width:0;
-  animation:djTape 12s infinite steps(52),djCurseur 12s infinite}
+  animation:djTape 18s infinite steps(52),djCurseur 18s infinite}
 .dj-typed{animation-delay:3.4s}
 .dj-send{width:30px;height:30px;flex:none;border-radius:50%;background:var(--grad);
   color:#fff;display:flex;align-items:center;justify-content:center;
-  animation:djEnvoi 12s infinite;animation-delay:6.3s}
+  animation:djEnvoi 18s infinite;animation-delay:6.9s}
 .dj-send svg{width:15px;height:15px}
 .dj-cal{border-top:1px solid var(--line);background:#faf9ff;padding:12px 14px 14px}
 .dj-day{display:block;font-family:var(--title);font-weight:700;color:var(--indigo);
@@ -1463,26 +1463,28 @@ p.center a[href^="tel:"]::after,
 .dj-slot{display:flex;align-items:center;gap:10px;background:#fff;
   border:1px solid var(--line);border-left:3px solid var(--violet);
   border-radius:9px;padding:8px 11px;margin-bottom:7px;opacity:0;
-  transform:translateX(-8px);animation:djIn 12s infinite}
+  transform:translateX(-8px);animation:djIn 18s infinite}
 .dj-slot:last-child{margin-bottom:0}
 .dj-slot em{font-style:normal;font-weight:700;color:var(--indigo);
   font-variant-numeric:tabular-nums}
 .dj-slot span{flex:1;color:var(--ink)}
 .dj-slot b{font-size:11px;font-weight:600;color:var(--violet);background:#f3effe;
   border-radius:999px;padding:3px 9px;white-space:nowrap}
-.dj-slot.c1{animation-delay:7.1s}
-.dj-slot.c2{animation-delay:7.7s}
-.dj-slot.c3{animation-delay:8.3s}
+.dj-slot.c1{animation-delay:10.2s}
+.dj-slot.c2{animation-delay:10.8s}
+.dj-slot.c3{animation-delay:11.4s}
 @keyframes djIn{0%,1%{opacity:0;transform:translateY(6px)}
   6%,92%{opacity:1;transform:none}100%{opacity:1;transform:none}}
-@keyframes djTape{0%,2%{width:0}22%,100%{width:100%}}
-@keyframes djCurseur{0%,52%{border-right-color:var(--violet)}
-  53%,100%{border-right-color:transparent}}
-@keyframes djEnvoi{0%,52%{transform:scale(1)}55%{transform:scale(.86)}
-  60%{transform:scale(1.06)}66%,100%{transform:scale(1)}}
+@keyframes djTape{0%,2%{width:0}18%,100%{width:100%}}
+@keyframes djCurseur{0%,40%{border-right-color:var(--violet)}
+  41%,100%{border-right-color:transparent}}
+@keyframes djEnvoi{0%,2%{transform:scale(1)}5%{transform:scale(.86)}
+  8%{transform:scale(1.06)}12%,100%{transform:scale(1)}}
 @media(prefers-reduced-motion:reduce){
-  .dj-mail,.dj-compose,.dj-slot,.dj-typed,.dj-send{animation:none;opacity:1;
-    transform:none;width:auto;border-right-color:transparent}}
+  .dj-mail,.dj-compose,.dj-slot,.dj-typed,.dj-send,.dj-etat,.dj-envoi{animation:none;opacity:1;
+    transform:none;width:auto;border-right-color:transparent}
+  .dj-app.e1,.dj-app.e2{animation:none}
+  .dj-app.e2{display:none}}
 @media(max-width:760px){.dj-app{font-size:12px}
   .dj-mail{flex-wrap:wrap;gap:4px 8px}.dj-mail .dj-obj{flex:1 0 100%;order:3}}
 
@@ -1911,3 +1913,47 @@ a.spec .spec-n:after{content:"\2197";font-size:12.5px;margin-left:6px;color:var(
 .loc-sec .ancm-c:before{content:"";position:absolute;left:0;right:0;top:0;height:3px;
   background:linear-gradient(90deg,var(--violet),var(--corail))}
 .loc-sec .ancm-c .refs{margin-top:14px}
+
+/* ── 22/09/2026 · les cinq symboles de la charte, en tête du catalogue ──────── */
+/* Repris de la planche 10 du Branding Basics v4 : mêmes formes, mêmes libellés. */
+.symb-band{background:var(--lavp);border-radius:26px;padding:26px 24px 28px;margin:4px 0 36px}
+.symb-h{font-family:var(--title);font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--bleu);text-align:center;margin:0 0 22px;opacity:.85}
+.symb-row{display:grid;grid-template-columns:repeat(5,1fr);gap:18px;align-items:start}
+.symb{text-align:center}
+.symb svg{height:54px;width:54px;display:block;margin:0 auto 14px}
+.symb b{display:block;font-family:var(--title);font-size:13.5px;line-height:1.38;color:var(--bleu)}
+@media(max-width:900px){.symb-row{grid-template-columns:repeat(3,1fr);row-gap:26px}
+  .symb-row .symb:last-child{grid-column:2}}
+@media(max-width:560px){.symb-row{grid-template-columns:repeat(2,1fr)}
+  .symb-row .symb:last-child{grid-column:1/-1}}
+
+/* ── 22/09/2026 · Djénéba en deux écrans qui se relaient ────────────────────── */
+/* Les deux fenêtres se superposent dans la même case de grille : le conteneur prend
+   la hauteur de la plus haute, sans positionnement absolu, donc rien ne déborde. */
+.dj-duo{display:grid}
+.dj-duo>.dj-app{grid-area:1/1}
+.dj-app.e1{animation:djEcranA 18s infinite}
+.dj-app.e2{animation:djEcranB 18s infinite}
+@keyframes djEcranA{0%,44%{opacity:1;transform:none}
+  49%,95%{opacity:0;transform:translateX(-24px)}100%{opacity:1;transform:none}}
+@keyframes djEcranB{0%,44%{opacity:0;transform:translateX(24px)}
+  49%,95%{opacity:1;transform:none}100%{opacity:0;transform:translateX(24px)}}
+.dj-etat,.dj-envoi{display:flex;align-items:center;gap:8px;font-size:12px;
+  color:#12904c;opacity:0;animation:djIn 18s infinite}
+.dj-etat{margin:0 14px 14px}
+.dj-envoi{margin:0;padding:11px 14px;border-top:1px solid var(--line);background:#fff}
+.dj-etat i,.dj-envoi i{width:18px;height:18px;border-radius:50%;background:#eafaf1;
+  display:flex;align-items:center;justify-content:center;font-style:normal;font-size:11px;flex:none}
+.dj-etat{animation-delay:7.4s}
+.dj-envoi{animation-delay:12.4s}
+.dj-brand{display:flex;align-items:center;gap:11px;padding:13px 14px;
+  background:linear-gradient(135deg,var(--indigo),var(--bleu));color:#fff}
+.dj-logo{width:34px;height:34px;border-radius:9px;background:rgba(255,255,255,.17);
+  display:flex;align-items:center;justify-content:center;flex:none}
+.dj-logo svg{width:18px;height:18px}
+.dj-ent{display:flex;flex-direction:column;line-height:1.32;flex:1;min-width:0}
+.dj-ent b{font-family:var(--title);font-size:14px}
+.dj-ent em{font-style:normal;font-size:11.5px;opacity:.86}
+.dj-h{font-size:11.5px;opacity:.82;font-variant-numeric:tabular-nums}
+.dj-app.e2 .dj-cal{border-top:0}
