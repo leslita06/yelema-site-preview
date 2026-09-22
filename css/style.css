@@ -1844,3 +1844,46 @@ a.spec .spec-n:after{content:"\2197";font-size:12.5px;margin-left:6px;color:var(
 .ex b{font-family:var(--title);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--violet)}
 .ex span{font-size:14px;color:#5f5880;padding-left:16px;position:relative}
 .ex span:before{content:"";position:absolute;left:0;top:.55em;width:6px;height:6px;border-radius:50%;background:#c3b5f2}
+
+/* page Offres, refonte du 22/09/26 : une seule offre, le sur-mesure en bande */
+.off28-main{max-width:760px;margin:0 auto}
+.off28-main .calc{margin:0 0 14px}
+.off28-regle{font-size:15px;line-height:1.5;color:var(--ink);margin:0 0 6px}
+.off28-cols{display:grid;grid-template-columns:1fr 1fr;gap:26px;margin:18px 0 4px}
+.off28-cols ul{margin:8px 0 0;padding:0;list-style:none}
+.off28-cols li{position:relative;padding:0 0 0 24px;margin:0 0 9px;font-size:14.5px;line-height:1.5}
+.off28-cols li:before{content:"";position:absolute;left:0;top:6px;width:13px;height:9px;border-left:2px solid var(--violet);border-bottom:2px solid var(--violet);transform:rotate(-45deg)}
+.off28-cols .off28-out li:before{border:0;width:11px;height:2px;background:var(--muted);top:10px;transform:none}
+.off28-t{font-family:var(--title);font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.accent-offer .off28-regle,.accent-offer .off28-t{color:var(--lav)}
+.off28-main .offer-setup{align-items:flex-start}
+.off28-main .offer-setup i{margin-top:7px}
+.accent-offer .off28-out li:before{background:var(--lav)}
+.off28-sec{list-style:none;margin:0;padding:0;max-width:820px}
+.off28-sec li{position:relative;padding:0 0 0 26px;margin:0 0 14px;font-size:16px;line-height:1.55}
+.off28-sec li:before{content:"";position:absolute;left:0;top:8px;width:10px;height:10px;border-radius:50%;background:var(--grad)}
+.off28-lien{margin:18px 0 0}
+.off28-lien a{font-weight:600;color:var(--bleu)}
+/* ── 22/09/2026 · les symboles du Branding Basics v4 (page 10) ───────────── */
+/* l'astérisque « un métier, pas qu'une tâche », en filigrane derrière le hero */
+.hero:after{content:"";position:absolute;left:-118px;bottom:-146px;width:390px;
+  height:390px;background:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22%23E4765A%22%20stroke-width%3D%224.8%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20aria-hidden%3D%22true%22%3E%3Cline%20x1%3D%222.80%22%20y1%3D%2212.00%22%20x2%3D%2221.20%22%20y2%3D%2212.00%22%2F%3E%3Cline%20x1%3D%227.40%22%20y1%3D%224.03%22%20x2%3D%2216.60%22%20y2%3D%2219.97%22%2F%3E%3Cline%20x1%3D%2216.60%22%20y1%3D%224.03%22%20x2%3D%227.40%22%20y2%3D%2219.97%22%2F%3E%3C%2Fsvg%3E") center/contain no-repeat;opacity:.16;
+  pointer-events:none;z-index:0}
+/* les trois barres « contexte, mémoire, compétence », en séparateur de section */
+.ymk-sep{display:flex;justify-content:center;padding:6px 0 2px}
+.ymk-sep svg{width:42px;height:42px;color:var(--violet);opacity:.5}
+/* la flèche « droit au but », dans le bouton principal */
+.btn .ymk-fl{width:16px;height:16px;vertical-align:-3px}
+/* le bouton porte déjà un gap de 8px : une marge en plus poussait le second
+   bouton du hero à la ligne suivante (548 px de colonne pour 555 px de boutons) */
+.hero-cta{gap:10px}
+/* entre la bascule en colonne (900px) et le grand écran, la colonne de gauche
+   du hero descend à ~487px : on resserre les deux boutons pour qu'ils tiennent
+   quand même sur une seule ligne */
+@media(min-width:861px) and (max-width:1130px){
+  .hero-cta{gap:8px}
+  .hero-cta .btn{padding:12px 15px;font-size:13.5px}
+  .hero-cta .btn .ymk-fl{width:14px;height:14px}
+}
+@media(max-width:860px){.hero:after{width:230px;height:230px;left:-80px;
+  bottom:-90px;opacity:.13}}
