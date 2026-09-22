@@ -1887,3 +1887,25 @@ a.spec .spec-n:after{content:"\2197";font-size:12.5px;margin-left:6px;color:var(
 }
 @media(max-width:860px){.hero:after{width:230px;height:230px;left:-80px;
   bottom:-90px;opacity:.13}}
+
+/* ── 22/09/2026 · les quatre cas sectoriels de la bande « sur devis » ───────── */
+.sm-ex{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:26px 0 32px;
+  position:relative;text-align:left}
+.sm-c{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.22);
+  border-radius:18px;padding:18px 18px 20px}
+.sm-ic{width:30px;height:30px;color:#fff;opacity:.94;margin-bottom:11px}
+.sm-c b{display:block;font-family:var(--title);font-size:12.5px;letter-spacing:.08em;
+  text-transform:uppercase;color:#E6DFFF;margin-bottom:7px}
+.sm-c span{display:block;color:#fff;font-size:14.5px;line-height:1.52}
+@media(max-width:1000px){.sm-ex{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.sm-ex{grid-template-columns:1fr}.sm-c{padding:16px}}
+
+/* ── 22/09/2026 · la bande « Ancré localement » respire ────────────────────── */
+/* Cinq références par métier (posées dans le HTML), donc des cartes de même densité ;
+   le panneau perd son ombre et son gros rembourrage, les cartes prennent le liseré
+   de marque en tête. */
+.loc-sec .anc{box-shadow:none;padding:22px;background:#FBFAFF;border-color:#EDE8FB}
+.loc-sec .ancm-c{position:relative;overflow:hidden;padding-top:19px}
+.loc-sec .ancm-c:before{content:"";position:absolute;left:0;right:0;top:0;height:3px;
+  background:linear-gradient(90deg,var(--violet),var(--corail))}
+.loc-sec .ancm-c .refs{margin-top:14px}
