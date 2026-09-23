@@ -2141,3 +2141,18 @@ a.spec .spec-n:after{content:"\2197";font-size:12.5px;margin-left:6px;color:var(
 .beta-bar a{border:0;padding:0;border-radius:0;text-decoration:underline;
   text-underline-offset:3px;text-decoration-thickness:1.5px}
 .beta-bar a:hover{background:none;color:#fff;text-decoration-thickness:2.5px}
+
+
+/* retours de Myriel, 23/09/26 */
+/* le pied violet se prolonge dans la zone de rebond de Safari, au lieu d'une bande blanche */
+html{background:var(--indigo2)}
+/* logos en PNG officiels : Safari ne peignait pas le dégradé du symbole SVG */
+.brand .yl-logo{height:30px;width:auto;display:block}
+.yl-fbrand .yl-logo{width:150px;height:auto;display:block;margin-bottom:14px}
+/* la tagline en bloc, calée à gauche sous le logo (elle se plaçait à côté, en décalé) */
+.yl-fbrand .tag{display:block;text-align:left}
+@media(max-width:760px){
+  /* les portraits juste sous le bandeau, puis le titre */
+  .hero{padding-top:22px}
+  .hero-img{order:-1;margin:0 auto;max-width:320px}
+}
