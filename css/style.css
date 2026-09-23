@@ -2080,3 +2080,17 @@ a.spec .spec-n:after{content:"\2197";font-size:12.5px;margin-left:6px;color:var(
 .sy-t svg{width:100%;height:100%;display:block}
 .section-h.ag-h .sy-t,.section-h .sy-t{margin-bottom:12px}
 @media(max-width:820px){.sy-t{width:28px;height:28px;margin-bottom:10px}}
+
+/* ── 23/09/2026 · le numéro de téléphone ne tient plus dans une demi-colonne ──
+   Mesuré au rendu : indicatif 120 px, numéro 113 px, gabarit coupé à l'affichage.
+   L'e-mail et le téléphone prennent la ligne entière, l'indicatif se resserre. */
+.yl-tel select{max-width:104px}
+.yl-tel input{min-width:180px}
+
+/* ── 23/09/2026 · la promesse devient un bandeau comme les autres ─────────────
+   Elle tranche : « que ce bandeau ressemble plus aux autres bandeaux ». Il reprend
+   donc .ctaband tel quel, et n'ajoute que le surtitre en blanc et la seconde ligne
+   du titre en lavande. */
+.eyebrow-w{color:rgba(255,255,255,.72);position:relative;z-index:1;margin-bottom:10px}
+.ctaband h2 em{display:block;font-style:normal;color:var(--lav)}
+.ctaband p:last-child{margin-bottom:0;max-width:790px}  /* 790 et non 640 : à 640 la phrase tombait sur trois lignes et laissait « à y penser. » seul en bas (mesuré au rendu) */
