@@ -2094,3 +2094,37 @@ a.spec .spec-n:after{content:"\2197";font-size:12.5px;margin-left:6px;color:var(
 .eyebrow-w{color:rgba(255,255,255,.72);position:relative;z-index:1;margin-bottom:10px}
 .ctaband h2 em{display:block;font-style:normal;color:var(--lav)}
 .ctaband p:last-child{margin-bottom:0;max-width:790px}  /* 790 et non 640 : à 640 la phrase tombait sur trois lignes et laissait « à y penser. » seul en bas (mesuré au rendu) */
+
+
+/* premier écran du téléphone, 23/09/26 */
+/* Avant : bandeau bêta 155 px, titre à 652 px, premier bouton à 993 px sur 390x844.
+   Les portraits gardaient order:-1 depuis la première version, quand le hero n'avait
+   pas encore de bandeau au-dessus. */
+@media(max-width:760px){
+  .beta-bar{padding:8px 14px;gap:9px;font-size:12.5px;line-height:1.4}
+  .beta-chip{padding:4px 10px;font-size:9.5px;letter-spacing:.12em}
+  .beta-bar a{font-size:12.5px;padding:5px 13px}
+  .hero{padding:38px 0 64px}
+  .hero .wrap{gap:22px}
+  .hero p.sub{font-size:16.5px;margin:16px 0 22px}
+  /* les portraits suivent le texte, et prennent toute la largeur disponible :
+     leurs étiquettes sont dimensionnées en cqw, les rétrécir les rendrait illisibles */
+  .hero-img{order:1;margin:6px auto 0;max-width:100%}
+}
+
+
+/* plancher de lisibilité sur téléphone, 23/09/26 */
+@media(max-width:760px){
+  /* le sélecteur réel est `.acard-b .role` (0,2,0) : un `.role` seul (0,1,0)
+     ne l'emporte pas, même posé plus bas dans la feuille */
+  .acard-b .role{font-size:13px;line-height:1.3}
+  .eyebrow{font-size:12.8px}
+  .yl-cl-t{font-size:13px}
+  .hero-tag b{font-size:max(13.5px,4cqw)}
+  .hero-tag span{font-size:max(13px,3.5cqw)}
+}
+
+
+/* le métier sur un fond, comme le prénom, 23/09/26 */
+.hero-tag span{background:rgba(41,28,84,.92);border-radius:2px;
+  padding:.16em .34em;align-self:flex-start;text-shadow:none}
