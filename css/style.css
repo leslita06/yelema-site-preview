@@ -2128,3 +2128,16 @@ a.spec .spec-n:after{content:"\2197";font-size:12.5px;margin-left:6px;color:var(
 /* le métier sur un fond, comme le prénom, 23/09/26 */
 .hero-tag span{background:rgba(41,28,84,.92);border-radius:2px;
   padding:.16em .34em;align-self:flex-start;text-shadow:none}
+
+
+/* un seul verbe principal, 23/09/26 */
+/* Le bouton plein est réservé à l'action principale. Dans le menu mobile de l'accueil, la
+   démo reste en lien texte sous le bouton ; le bandeau bêta perd sa pilule. */
+.nav-cta .btn{white-space:nowrap}
+.menu-demo-l{display:none}
+@media(max-width:900px){
+  .menu.open .menu-demo-l{display:flex;justify-content:center;font-weight:600;color:var(--indigo)}
+}
+.beta-bar a{border:0;padding:0;border-radius:0;text-decoration:underline;
+  text-underline-offset:3px;text-decoration-thickness:1.5px}
+.beta-bar a:hover{background:none;color:#fff;text-decoration-thickness:2.5px}
