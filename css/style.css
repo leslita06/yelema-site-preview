@@ -2156,3 +2156,6 @@ html{background:var(--indigo2)}
   .hero{padding-top:22px}
   .hero-img{order:-1;margin:0 auto;max-width:320px}
 }
+/* frais d'installation sur plusieurs lignes, 24/09/26 */
+.offer-setup{align-items:flex-start}
+.offer-setup i{margin-top:calc(.7em - 3px)}

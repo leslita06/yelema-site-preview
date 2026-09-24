@@ -270,7 +270,7 @@ Oui. Nos Experts travaillent dans les huit pays de l'UEMOA, le Bénin, le Burkin
 
 Combien ça coûte, et qu'est-ce qui est compris?
 
-300 000 F CFA par mois pour un compte de deux Experts, puis 200 000 F CFA par Expert ajouté. L'accompagnement, la couche qualité et le suivi sont compris. S'y ajoutent 200 000 F CFA de frais d'installation, une fois. Ne sont pas compris le coût des modèles d'intelligence artificielle que vos Experts consomment, ni les abonnements aux outils tiers qu'ils utilisent pour vous, votre messagerie ou votre logiciel de gestion par exemple.
+300 000 F CFA par mois pour un compte de deux Experts, puis 200 000 F CFA par Expert ajouté. L'accompagnement, la couche qualité et le suivi sont compris. S'y ajoutent des frais d'installation, réglés au démarrage : 100 000 F CFA pour une PME, 1 000 000 F CFA pour une entreprise de plus de 100 salariés. Ne sont pas compris le coût des modèles d'intelligence artificielle que vos Experts consomment, ni les abonnements aux outils tiers qu'ils utilisent pour vous, votre messagerie ou votre logiciel de gestion par exemple.
 
 Et s'il se trompe?
 
@@ -520,7 +520,7 @@ Une seule offre, affichée: vos Experts IA, dès deux Experts, Djénéba incluse
 
 Une équipe d'Experts qui travaille avec la vôtre, dès deux Experts, Djénéba incluse.
 
-300 000 FCFA par mois pour les deux premiers Experts, puis 200 000 FCFA par mois par Expert de plus, sans limite. Frais d'installation: 200 000 FCFA, une fois. Exemples: deux Experts, 300 000 FCFA par mois; trois Experts, 500 000; cinq Experts, 900 000.
+300 000 FCFA par mois pour les deux premiers Experts, puis 200 000 FCFA par mois par Expert de plus, sans limite. Frais d'installation au démarrage: 100 000 FCFA pour une PME, 1 000 000 FCFA au-delà de 100 salariés. Exemples: deux Experts, 300 000 FCFA par mois; trois Experts, 500 000; cinq Experts, 900 000.
 
 - Djénéba, Chief of Staff incluse par défaut
 
@@ -970,7 +970,7 @@ Oui. Nos Experts travaillent dans les huit pays de l'UEMOA, le Bénin, le Burkin
 
 ### Combien ça coûte, et qu'est-ce qui est compris ?
 
-300 000 F CFA par mois pour un compte de deux experts, puis 200 000 F CFA par expert ajouté. L'accompagnement, la couche qualité et le suivi sont compris. S'y ajoutent 200 000 F CFA de frais d'installation, une fois. Ne sont pas compris le coût des modèles d'intelligence artificielle que vos Experts consomment, ni les abonnements aux outils tiers qu'ils utilisent pour vous, votre messagerie ou votre logiciel de gestion par exemple.
+300 000 F CFA par mois pour un compte de deux experts, puis 200 000 F CFA par expert ajouté. L'accompagnement, la couche qualité et le suivi sont compris. S'y ajoutent des frais d'installation, réglés au démarrage : 100 000 F CFA pour une PME, 1 000 000 F CFA pour une entreprise de plus de 100 salariés. Ne sont pas compris le coût des modèles d'intelligence artificielle que vos Experts consomment, ni les abonnements aux outils tiers qu'ils utilisent pour vous, votre messagerie ou votre logiciel de gestion par exemple.
 
 ### Et s'il se trompe ?
 
