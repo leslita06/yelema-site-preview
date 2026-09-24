@@ -1054,6 +1054,23 @@ Le développement commercial de bout en bout: trouver les bons prospects, les re
 
 - Signale au dirigeant les affaires chaudes et celles qui coincent
 
+### Ce qu'il fait sans qu'on le demande
+
+- Envoie le point de fin de journée (chaque jour ouvré)
+
+- Envoie le rapport d'activité de la semaine (chaque semaine)
+
+- Relance un livrable remis resté sans retour depuis trois jours (deux fois par semaine)
+
+- Revient sur une question restée sans réponse depuis 48 heures (chaque jour ouvré)
+
+- Vérifie que chacun de ses accès répond (chaque jour)
+
+### Ses modèles de livrable
+
+Compte rendu de visite, Dossier de soumission, Fiche de conditions revendeur, Fiche de risque client, Plan de tournée, Point commercial hebdomadaire, Proposition commerciale et devis
+
+
 ### Ses outils métiers
 
 Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
@@ -1172,6 +1189,23 @@ Le guichet client de l'entreprise, ouvert 24h/24, qui absorbe les demandes entra
 
 - Détecte les clients mécontents ou silencieux et prévient un responsable
 
+### Ce qu'elle fait sans qu'on le demande
+
+- Envoie le point de fin de journée (chaque jour ouvré)
+
+- Envoie le rapport d'activité de la semaine (chaque semaine)
+
+- Relance un livrable remis resté sans retour depuis trois jours (deux fois par semaine)
+
+- Revient sur une question restée sans réponse depuis 48 heures (chaque jour ouvré)
+
+- Vérifie que chacun de ses accès répond (chaque jour)
+
+### Ses modèles de livrable
+
+Bilan de satisfaction, Engagement de service et chemin d'escalade, Fiche de prise en charge après-vente, Fiche de réclamation, Fiche réponse type, Note de causes récurrentes, Réponse au client
+
+
 ### Ses outils métiers
 
 Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
@@ -1285,6 +1319,23 @@ La présence de marque complète: stratégie, production et programmation des co
 - Trie et répond aux commentaires et messages privés
 
 - Suit ce qui marche et ajuste le calendrier éditorial
+
+### Ce qu'elle fait sans qu'on le demande
+
+- Rappelle les échéances de production et de diffusion des campagnes (chaque jour ouvré)
+
+- Produit le point de la semaine sur la présence de l'entreprise (chaque semaine)
+
+- Fait la veille de la communication des concurrents (chaque mois)
+
+- Produit le bilan marketing du mois pour la direction (chaque mois)
+
+- Envoie le point de fin de journée (chaque jour ouvré)
+
+### Ses modèles de livrable
+
+Bilan de campagne, Calendrier éditorial, Communiqué de presse, Plan de campagne, Publication pour les réseaux, Script de spot radio ou télévision, Texte d'une page de site
+
 
 ### Ses outils métiers
 
@@ -1406,6 +1457,23 @@ L'administration RH du quotidien, conforme OHADA: paie, congés, contrats, quest
 
 - Onboarde les nouveaux: parcours, documents, premiers repères
 
+### Ce qu'elle fait sans qu'on le demande
+
+- Lance la collecte des variables de paie du mois (chaque mois)
+
+- Signale les échéances du personnel où il reste une action à mener (chaque semaine)
+
+- Repère les dossiers du personnel incomplets et ce qui se répare (chaque semaine)
+
+- Fait le point du jour sur les non-permanents (chaque jour)
+
+- Envoie le point de fin de journée (chaque jour ouvré)
+
+### Ses modèles de livrable
+
+Checklist de départ et solde de tout compte à préparer, Dossier d'embauche et fiche de formalités, Feuille de pointage et état de paiement des journaliers, Journal des variables et fiche de contrôle avant paiement, Note de qualification des faits et compte rendu d'entretien, Note de service et registre de diffusion, Support et compte rendu d'entretien annuel
+
+
 ### Ses outils métiers
 
 Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
@@ -1524,6 +1592,25 @@ Le pilotage financier de la PME: comptabilité OHADA, contrôle de gestion, busi
 
 - Alerte le dirigeant dès qu'un chiffre sort des clous
 
+### Ce qu'il fait sans qu'on le demande
+
+- Rappelle les échéances fiscales et sociales (chaque jour ouvré)
+
+- Produit le point de trésorerie avant les décaissements de la semaine (chaque semaine)
+
+- Ouvre la clôture du mois et prépare la liasse (chaque mois)
+
+- Prépare les relances clients à partir de la balance âgée (chaque semaine)
+
+- Produit le suivi budgétaire du mois (chaque mois)
+
+- Envoie le point de fin de journée (chaque jour ouvré)
+
+### Ses modèles de livrable
+
+Budget et suivi budgétaire, Devis et facture, Dossier pour la banque, Liasse de reporting mensuel, Note financière d'arbitrage, Prévisionnel de trésorerie, Relance d'impayé
+
+
 ### Ses outils métiers
 
 Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
@@ -1635,6 +1722,23 @@ Le réflexe juridique du quotidien: contrats OHADA, revue de documents, conformi
 - Suit les échéances contractuelles et réglementaires
 
 - Prépare les pièces pour l'administration
+
+### Ce qu'il fait sans qu'on le demande
+
+- Fait le point des échéances juridiques des quatre semaines à venir (chaque semaine)
+
+- Suit les créances en recouvrement (deux fois par semaine)
+
+- Signale ce qui change dans la réglementation qui touche l'entreprise (chaque semaine)
+
+- Relit le portefeuille de contrats et signale ce qui a dérivé (chaque mois)
+
+- Envoie le point de fin de journée (chaque jour ouvré)
+
+### Ses modèles de livrable
+
+Calendrier des obligations et projet de procès-verbal, Carte des risques et des couvertures d'assurance, Dossier de créance et projet de mise en demeure, Fiche des signes et dossier de dépôt, Note de lecture et tableau des demandes de modification, Note de situation et dossier de preuves, Projet de contrat et note d'accompagnement
+
 
 ### Ses outils métiers
 
@@ -1754,6 +1858,23 @@ Le moteur opérationnel: facturation, relances, stock et approvisionnements, sui
 
 - Produit les indicateurs clés de la semaine
 
+### Ce qu'il fait sans qu'on le demande
+
+- Signale les références qui vont manquer, avant la rupture (chaque jour ouvré)
+
+- Sort les opérations d'entretien de la semaine et les retards (chaque semaine)
+
+- Sort le stock qui dort et ce qui va périmer (chaque mois)
+
+- Contrôle les réceptions du jour, tant qu'une réserve est possible (chaque jour)
+
+- Envoie le point de fin de journée (chaque jour ouvré)
+
+### Ses modèles de livrable
+
+Cahier de consultation et tableau comparatif des offres, Calcul du coût de tournée et du coût par livraison, Feuille de route et bordereau de livraison, Fiche de réception et procès-verbal de réserves, Inventaire des équipements et plan d'entretien, Mode opératoire et registre des procédures, Plan d'inventaire tournant et note d'analyse des écarts
+
+
 ### Ses outils métiers
 
 Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
@@ -1870,6 +1991,23 @@ L'intelligence des données de l'entreprise: tableaux de bord, rapports, prévis
 
 - Prépare des synthèses de réunion actionnables
 
+### Ce qu'elle fait sans qu'on le demande
+
+- Envoie le point de fin de journée (chaque jour ouvré)
+
+- Envoie le rapport d'activité de la semaine (chaque semaine)
+
+- Relance un livrable remis resté sans retour depuis trois jours (deux fois par semaine)
+
+- Revient sur une question restée sans réponse depuis 48 heures (chaque jour ouvré)
+
+- Vérifie que chacun de ses accès répond (chaque jour)
+
+### Ses modèles de livrable
+
+Fiche d'indicateur, Fiche et protocole de collecte, Note d'analyse, Rapport de qualité des données, Rapport mensuel de direction, Tableau de bord, État de rapprochement et note d'écarts
+
+
 ### Ses outils métiers
 
 Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
@@ -1981,6 +2119,23 @@ Le recrutement de bout en bout: de la fiche de poste au sourcing, à l'évaluati
 - Prépare les entretiens et les grilles de notation
 
 - Suit chaque candidat dans le pipeline, relances comprises
+
+### Ce qu'elle fait sans qu'on le demande
+
+- Fait le point sur le marché de l'emploi pour les postes ouverts (chaque semaine)
+
+- Produit le point hebdomadaire du recrutement (chaque semaine)
+
+- Repère les candidats et évaluateurs qui attendent, et prépare les messages (chaque jour)
+
+- Envoie le point de fin de journée (chaque jour ouvré)
+
+- Envoie le rapport d'activité de la semaine (chaque semaine)
+
+### Ses modèles de livrable
+
+Business case d'un recrutement, Compte rendu d'entretien, Fiche de poste, Guide d'entretien, Liste de candidats : longue liste et liste courte, Modèles de messages : recrutement
+
 
 ### Ses outils métiers
 
@@ -2103,6 +2258,23 @@ Le studio de design de la marque: identité, visuels, affiches, landing pages et
 - Décline une création en plusieurs formats (print, story, web)
 
 - Vérifie chaque visuel avant publication
+
+### Ce qu'il fait sans qu'on le demande
+
+- Fait la veille de l'identité visuelle du secteur et des concurrents (chaque mois)
+
+- Signale les productions dont la livraison approche (chaque jour ouvré)
+
+- Produit le point des productions en cours (chaque semaine)
+
+- Passe en revue les supports de l'entreprise et signale ce qui a dérivé (chaque mois)
+
+- Envoie le point de fin de journée (chaque jour ouvré)
+
+### Ses modèles de livrable
+
+Brief créatif, Charte graphique, Dossier prêt pour impression, Jeu de déclinaisons, Note typographique, Plan de signalétique, Planche d'inspiration, Rapport d'audit d'interface, Rapport de contrôle visuel, Spécification d'écran, Système de design
+
 
 ### Ses outils métiers
 
@@ -2235,6 +2407,25 @@ Ces actions nécessitent votre validation explicite avant exécution.
 - Audite les modèles financiers et prépare les questions à la direction
 
 - Suit les participations, la trésorerie et les alertes convenues
+
+### Ce qu'il fait sans qu'on le demande
+
+- Fait la veille des secteurs et des pays couverts par la thèse du fonds (chaque semaine)
+
+- Produit le point hebdomadaire du pipeline (chaque semaine)
+
+- Surveille les participations et déclenche les alertes convenues (chaque jour ouvré)
+
+- Repère les dossiers bloqués et prépare les relances (chaque semaine)
+
+- Prépare la séance de comité (chaque semaine)
+
+- Envoie le point de fin de journée (chaque jour ouvré)
+
+### Ses modèles de livrable
+
+Analyse de plan d'affaires, Mémo d'investissement, Note de vérification préalable, Questions à la direction de l'entreprise, Relevé de comité d'investissement, Structure de salle de données
+
 
 ### Ses outils métiers
 
@@ -2409,6 +2600,25 @@ Ces actions nécessitent votre validation explicite avant exécution.
 ### Ce qu'elle produit
 
 Briefs de rendez-vous, ordres du jour, relevés de décisions, tableau des engagements en cours, notes de cadrage.
+
+### Ce qu'elle fait sans qu'on le demande
+
+- Prépare la journée du dirigeant (chaque jour ouvré)
+
+- Fait la veille du secteur de l'entreprise (chaque semaine)
+
+- Trie la boîte mail de direction et prépare les réponses (chaque jour ouvré)
+
+- Fait le point sur les engagements pris et prépare les relances (deux fois par semaine)
+
+- Refait le tri de la boîte mail de direction à la mi-journée (chaque jour ouvré)
+
+- Envoie le point de fin de journée (chaque jour ouvré)
+
+### Ses modèles de livrable
+
+Bloc de signature, Brief de réunion, Courrier officiel, Modèles de messages : direction, Relevé de décisions et synthèse de réunion, Tableau kanban, Tracker de tâches
+
 
 ### Ses outils métiers
 

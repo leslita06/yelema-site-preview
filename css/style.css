@@ -2159,3 +2159,4 @@ html{background:var(--indigo2)}
 /* frais d'installation sur plusieurs lignes, 24/09/26 */
 .offer-setup{align-items:flex-start}
 .offer-setup i{margin-top:calc(.7em - 3px)}
+.auto-when{display:block;font-size:13px;color:var(--muted);margin-top:3px;font-family:var(--title)}
