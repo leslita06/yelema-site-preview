@@ -2160,3 +2160,16 @@ html{background:var(--indigo2)}
 .offer-setup{align-items:flex-start}
 .offer-setup i{margin-top:calc(.7em - 3px)}
 .auto-when{display:block;font-size:13px;color:var(--muted);margin-top:3px;font-family:var(--title)}
+
+/* Bloc prix unique des deux offres (retours de Myriel, 25/09/26) */
+.offers.two .offer .who{min-height:88px}
+.calc.prix-bloc{margin:0 0 16px}
+.calc.prix-bloc .res b{font-size:26px}
+.calc.prix-bloc .mention{flex:1 1 100%;font-size:12.5px;line-height:1.5;color:#c9c1ee}
+.offer:not(.accent-offer) .calc.prix-bloc{background:#f6f3ff;border-color:var(--line)}
+.offer:not(.accent-offer) .calc.prix-bloc .res b{color:var(--indigo)}
+.offer:not(.accent-offer) .calc.prix-bloc .mention{color:var(--muted)}
+.calc.prix-devis .res{margin-left:0;text-align:left;flex:1 1 100%}
+@media(max-width:720px){.offers.two .offer .who{min-height:0}}
+.calc.prix-bloc .res b{white-space:nowrap}
+@media(max-width:480px){.calc.prix-bloc .res b{font-size:22px}}
