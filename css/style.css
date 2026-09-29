@@ -2188,3 +2188,6 @@ html{background:var(--indigo2)}
 
 /* patch85 : bloc « Ses livrables » */
 .liv-mod{margin:22px 0 10px;font-family:var(--title);font-size:14px;font-weight:600;color:var(--indigo)}
+
+/* patch87 : astérisque des frais d'installation dans la carte violette */
+.inst-foot{margin:16px 0 0;font-size:12px;line-height:1.5;color:#b9b0e0}
