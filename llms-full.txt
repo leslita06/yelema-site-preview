@@ -532,7 +532,7 @@ Une équipe d'Experts IA en abonnement mensuel. Le forfait démarre à 2 Experts
 
 - Hébergement dédié, en Côte d'Ivoire si vous l'exigez
 
-- Engagement de service (SLA)
+- Engagement de service : 99,9 % de disponibilité visée
 
 - Couche qualité, accompagnement et suivi compris
 
