@@ -2185,3 +2185,6 @@ html{background:var(--indigo2)}
 .inst-note b{color:#301667}
 @media (max-width:900px){.inst-g{grid-template-columns:repeat(2,1fr)}}
 @media (max-width:560px){.inst-g{grid-template-columns:1fr}}
+
+/* patch85 : bloc « Ses livrables » */
+.liv-mod{margin:22px 0 10px;font-family:var(--title);font-size:14px;font-weight:600;color:var(--indigo)}
