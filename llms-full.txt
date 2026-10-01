@@ -360,35 +360,22 @@ Plus de 3 000 autres outils par connecteurs ouverts. Vous autorisez, vous révoq
 
 Ce que nous prenons en charge
 
-### L'IA opérée, ouverte, et qui vous appartient
+### On construit, on fait tourner, et vos Experts restent à vous
 
-Les modèles d'intelligence artificielle changent tous les mois, les compétences se périment, les
+Build, Operate, Transfer. Vous n'achetez pas un abonnement à un logiciel. Vous constituez une équipe d'Experts qui devient un actif de votre entreprise.
 
-branchements cassent. C'est notre métier de suivre ça, pas le vôtre.
+**Nous construisons (Build)**
 
-**Nous opérons, vous utilisez**
+Vos Experts sont installés sur des briques ouvertes, branchés à vos outils, nourris de vos données et de vos façons de faire.
 
-Le choix des modèles, les compétences à charger, les mises à jour, la
+**Nous opérons (Operate)**
 
-surveillance et la qualité: tout est chez nous. Vous n'avez ni modèle à
+Modèles, compétences, mises à jour, surveillance et qualité : tout est chez nous. Vous n'avez rien à régler, vous utilisez.
 
-choisir, ni instruction à écrire, ni version à suivre.
+**Vous gardez (Transfer)**
 
-**Construit sur de l'open source**
+Vos Experts vous appartiennent, avec leur mémoire et leurs compétences. Dans six mois ou dans un an, vous pouvez continuer sans nous.
 
-Nous bâtissons sur des briques ouvertes et interopérables, pour suivre les
-
-avancées de l'IA au lieu de les subir. Pas d'enfermement dans le logiciel
-
-d'un seul éditeur, ni pour nous, ni pour vous.
-
-**Votre instance est à vous**
-
-Chaque client a la sienne, avec ses données et sa mémoire d'entreprise.
-
-Elle vous appartient: vous partez quand vous voulez, et vous partez avec
-
-tout.
 
 Donnez à votre équipe les moyens des grandes entreprises.
 
