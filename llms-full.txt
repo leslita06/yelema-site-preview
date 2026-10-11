@@ -174,6 +174,17 @@ Un Expert Yelema
 - Il fait, vous validez : il agit dans vos outils, avec votre accord pour les actions sensibles.
 - Pensé pour ici : le meilleur modèle pour chaque tâche, le droit OHADA et les paiements d'ici.
 
+Un vrai collègue
+
+### Il a son ordinateur, son numéro, son e-mail et ses accès.
+
+Comme un collègue qui arrive dans l'équipe. Vous décidez de ce qu'il peut ouvrir.
+
+- Son ordinateur : il navigue sur le web, ouvre vos tableurs et remplit vos outils.
+- Son numéro : vous l'appelez, il vous répond de vive voix.
+- Son e-mail : il a sa propre adresse, il écrit, répond et relance.
+- Ses accès : vous les ouvrez et les fermez vous-même.
+
 Concrètement
 
 ### Branchés à vos outils, joignables partout, opérationnels en quelques minutes
@@ -777,7 +788,7 @@ De nouveaux métiers sortent régulièrement, et un métier qui manque à votre 
 
 Djénéba djeneba@votre-entreprise.com
 
-C'est votre super assistante, et c'est elle qui gère le reste de votre équipe. Vous lui écrivez, elle répartit le travail entre vos Experts, fait circuler l'information et vous rend compte. Elle a un prénom, une adresse e-mail et une place dans votre équipe.
+C'est votre super assistante, et c'est elle qui gère le reste de votre équipe. Vous lui écrivez une seule fois : elle répartit le travail entre vos Experts, suit chaque tâche et vous rend un résultat complet.
 
 Vous commencez avec 2 ou 3 Experts sur vos priorités, puis vous étendez à mesure que la confiance s'installe.
 
