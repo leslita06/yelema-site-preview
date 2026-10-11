@@ -669,7 +669,7 @@ Le catalogue
 
 ### Les Experts Yelema
 
-Chaque Expert tient un métier, avec des compétences précises et les outils qui vont avec. Ouvrez une fiche pour voir ce qu'il fait au quotidien, ce sur quoi il s'appuie, et un cas concret.
+Chaque Expert tient un métier, avec des compétences précises et les outils qui vont avec. Ouvrez une fiche pour voir ce qu'il fait au quotidien, ce sur quoi il s'appuie, et un cas concret. Commencez par le poste où un Expert vous fera gagner le plus de temps.
 
 Incluse par défaut
 
