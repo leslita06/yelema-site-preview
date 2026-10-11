@@ -154,27 +154,25 @@ Ce que la maison sait vit dans la tête de quelques personnes, jamais dans ses o
 
 La question qui revient
 
-### Pourquoi un Expert Yelema plutôt que ChatGPT ou Claude
+### ChatGPT vous répond. Un Expert IA fait le travail.
 
-Vous confiez un métier à un Expert qui comprend votre entreprise, s'en souvient, et agit dans vos outils, sous votre contrôle.
+ChatGPT, Copilot…
 
-ChatGPT, Claude Un copilote dans un logiciel Un Expert Yelema
+- Attend qu'on lui écrive : il répond quand on lui pose une question.
+- Un outil pour une personne : il aide chacun à faire son travail.
+- Oublie d'une fois à l'autre : il faut tout lui réexpliquer à chaque fois.
+- Une fenêtre de chat : dans un onglet, ou dans un seul logiciel.
+- Vous faites tout : vous copiez, vous collez, vous envoyez.
+- Pensé ailleurs : un seul modèle, et des usages venus d'ailleurs.
 
-Ce que c'est Répond à des questions Vous assiste pendant que vous travaillez Prend en charge un métier, de bout en bout
+Un Expert Yelema
 
-Mémoire Oublie tout d'une fois à l'autre Se souvient de la session en cours Garde la mémoire de votre entreprise
-
-Agit dans vos outils Non Un peu, si vous pilotez Oui, via 3 000+ intégrations prêtes
-
-Là où vous travaillez Sur une page web Dans un logiciel Telegram, WhatsApp, e-mail vos canaux
-
-Qui garde le contrôle Vous, à chaque question Vous, en continu Lui exécute, vous validez les actions sensibles
-
-Le modèle d'IA Celui de l'éditeur, pour tout Celui de l'éditeur Le meilleur modèle pour chaque tâche
-
-Sa place chez vous Un onglet de plus Un bouton dans un logiciel Un prénom, une adresse e-mail, une place dans l'équipe
-
-Le terrain Pensé ailleurs Pensé ailleurs Le droit OHADA, les paiements et les usages d'ici font partie de son cadre
+- Prend les devants : il relance, prépare et vous rend compte.
+- Tient un métier : de bout en bout, pour toute l'équipe.
+- Connaît votre entreprise : il garde la mémoire de vos clients, vos prix, votre historique.
+- Là où vous travaillez : Telegram, WhatsApp, e-mail, et plus de 3 000 outils branchés.
+- Il fait, vous validez : il agit dans vos outils, avec votre accord pour les actions sensibles.
+- Pensé pour ici : le meilleur modèle pour chaque tâche, le droit OHADA et les paiements d'ici.
 
 Concrètement
 

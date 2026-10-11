@@ -2191,3 +2191,20 @@ html{background:var(--indigo2)}
 
 /* patch87 : astérisque des frais d'installation dans la carte violette */
 .inst-foot{margin:16px 0 0;font-size:12px;line-height:1.5;color:#b9b0e0}
+/* comparatif ChatGPT façon deck (patch99) */
+.vs-wrap{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:34px;align-items:stretch}
+.vs-card{border-radius:26px;padding:30px 32px 18px;border:1px solid var(--line);background:#fff}
+.vs-card.vs-y{background:linear-gradient(160deg,#301667 0%,#3a1d7c 70%,#4a2a9a 100%);border:none;color:#fff;box-shadow:0 24px 60px -28px rgba(48,22,103,.55)}
+.vs-hd{display:flex;align-items:center;gap:12px;padding-bottom:18px;border-bottom:1px solid var(--line);font:600 22px var(--title);color:#5d5675}
+.vs-y .vs-hd{border-color:rgba(255,255,255,.14);color:#fff}
+.vs-hd .vs-lg{width:28px;height:28px;background-size:contain;background-repeat:no-repeat;background-position:center;display:inline-block}
+.vs-hd .vs-ic{width:46px;height:46px;border-radius:12px}
+.vs-hd .vs-av{margin-left:auto;display:flex}.vs-hd .vs-av img{width:34px;height:34px;border-radius:50%;border:2px solid #fff;margin-left:-10px;object-fit:cover}
+.vs-row{display:flex;gap:16px;padding:16px 0;border-bottom:1px solid var(--line)}
+.vs-y .vs-row{border-color:rgba(255,255,255,.12)}.vs-row:last-child{border:none}
+.vs-mk{flex:0 0 34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;margin-top:2px}
+.vs-no{background:#E5484D}.vs-ok{background:#22A45D}.vs-mk svg{width:18px;height:18px}
+.vs-t{font:600 13.5px var(--title);letter-spacing:1.4px;text-transform:uppercase;color:#7a738f;margin-bottom:4px}
+.vs-y .vs-t{color:#C5C4FF}
+.vs-d{font:400 17px/1.4 var(--body);color:var(--ink)}.vs-y .vs-d{color:#fff}.vs-d b{font-weight:600}
+@media(max-width:820px){.vs-wrap{grid-template-columns:1fr}.vs-card{padding:22px 20px 10px}.vs-hd{font-size:19px}.vs-hd .vs-av img{width:28px;height:28px}}
