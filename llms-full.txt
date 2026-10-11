@@ -202,13 +202,11 @@ Telegram WhatsApp Gmail Espace web Slack Teams
 
 5 minutes
 
-**pour démarrer**
+**pour vous inscrire**
 
-Pas de projet informatique de six mois. Vous choisissez, on branche,
+Créer votre compte, choisir vos métiers et nous dire comment vous travaillez. Votre espace a sa propre adresse, votre-entreprise.yelema.ai. L'installation, c'est nous : vos Experts sont au travail en quelques jours.
 
-ils travaillent.
-
-1 Vous choisissez un métier Parmi les douze métiers, ou deux pour commencer. 2 On le branche sur votre activité Vos produits, vos règles, vos outils. 3 Il travaille Sur vos canaux, dès la première semaine.
+1 Vous choisissez un métier Parmi nos métiers, ou deux pour commencer. 2 On le branche sur votre activité Vos produits, vos règles, vos outils. 3 Il travaille Sur vos canaux, dès la première semaine.
 
 Ils s'en servent déjà
 
@@ -266,7 +264,7 @@ Non. Un Expert reprend ce qui, dans un poste, se répète et s'écrit: le tri, l
 
 Est-ce que vous déployez en dehors de la Côte d'Ivoire?
 
-Oui. Nos Experts travaillent dans les huit pays de l'UEMOA, le Bénin, le Burkina Faso, la Côte d'Ivoire, la Guinée-Bissau, le Mali, le Niger, le Sénégal et le Togo. Il n'y a rien à installer sur place: ils se branchent sur WhatsApp et sur vos outils, où que soient vos équipes. Le droit OHADA et les règles bancaires de la zone font déjà partie de leur cadre de travail, et l'équipe qui les opère est à Abidjan.
+Oui. Nous déployons en Afrique francophone, en commençant par les huit pays de l'UEMOA : le Bénin, le Burkina Faso, la Côte d'Ivoire, la Guinée-Bissau, le Mali, le Niger, le Sénégal et le Togo. Il n'y a rien à installer sur place: ils se branchent sur WhatsApp et sur vos outils, où que soient vos équipes. Le droit OHADA et les règles bancaires de la zone font déjà partie de leur cadre de travail, et l'équipe qui les opère est à Abidjan.
 
 Combien ça coûte, et qu'est-ce qui est compris?
 
@@ -292,6 +290,14 @@ Si j'arrête, qu'est-ce que je récupère?
 
 Tout. Vos données vous sont rendues dans un format lisible, et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
 
+À qui appartiennent mes Experts et ce qu'ils apprennent?
+
+À vous. Vos Experts, leur mémoire et leurs compétences restent un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Ce qu'ils apprennent chez vous ne sert qu'à vous, n'entraîne aucun modèle et n'est jamais partagé avec un autre client.
+
+Mes collègues voient-ils mes conversations avec mes Experts?
+
+Non. Chaque personne a son propre espace : personne ne voit les conversations ni les fichiers d'un collègue, direction comprise, sauf ce que vous partagez. Vos Experts, eux, partagent la mémoire de l'entreprise, chacun avec les seuls accès que vous lui avez ouverts.
+
 Par quoi commencer?
 
 Par la fonction qui vous coûte le plus cher, en temps ou en argent, et par la tâche qui y revient tous les jours. Puis un état des lieux de vos données et de vos outils, parce qu'il faudra les connecter. Puis une mesure de l'avant, relevée pendant deux semaines, pour que l'après se voie.
@@ -308,7 +314,7 @@ Comment ça marche
 
 ### Trois piliers: contexte, mémoire, compétences
 
-C'est la signature de Yelema. Un Expert n'est utile que s'il comprend votre entreprise, s'en souvient, et sait agir. Nos Experts font les trois.
+C'est la signature de Yelema : le Y de notre logo dessine trois branches qui se rejoignent, le contexte, la mémoire et les compétences. Un Expert n'est utile que s'il comprend votre entreprise, s'en souvient, et sait agir. Chacun de nos Experts réunit les trois.
 
 **Contexte**
 
@@ -403,7 +409,7 @@ et le prix.
 
 Claude ChatGPT Gemini Mistral DeepSeek Qwen
 
-Aucun fournisseur imposé, et le conseil se révise quand un
+Aucun fournisseur imposé, et le choix se révise quand un
 
 meilleur modèle arrive.
 
@@ -516,10 +522,6 @@ Une équipe d'Experts IA en abonnement mensuel. Le forfait démarre à 2 Experts
 - Vos canaux branchés: Telegram, WhatsApp, e-mail, espace web
 
 - Configuration sur votre activité, mémoire d'entreprise partagée entre vos Experts
-
-- Hébergement dédié, en Côte d'Ivoire si vous l'exigez
-
-- Engagement de service : 99,9 % de disponibilité visée
 
 - Couche qualité, accompagnement et suivi compris
 
@@ -953,7 +955,7 @@ Non. Un Expert reprend ce qui, dans un poste, se répète et s'écrit : le tri, 
 
 ### Est-ce que vous déployez en dehors de la Côte d'Ivoire ?
 
-Oui. Nos Experts travaillent dans les huit pays de l'UEMOA, le Bénin, le Burkina Faso, la Côte d'Ivoire, la Guinée-Bissau, le Mali, le Niger, le Sénégal et le Togo. Il n'y a rien à installer sur place : ils se branchent sur WhatsApp et sur vos outils, où que soient vos équipes. Le droit OHADA et les règles bancaires de la zone font déjà partie de leur cadre de travail, et l'équipe qui les opère est à Abidjan.
+Oui. Nous déployons en Afrique francophone, en commençant par les huit pays de l'UEMOA : le Bénin, le Burkina Faso, la Côte d'Ivoire, la Guinée-Bissau, le Mali, le Niger, le Sénégal et le Togo. Il n'y a rien à installer sur place : ils se branchent sur WhatsApp et sur vos outils, où que soient vos équipes. Le droit OHADA et les règles bancaires de la zone font déjà partie de leur cadre de travail, et l'équipe qui les opère est à Abidjan.
 
 ### Combien ça coûte, et qu'est-ce qui est compris ?
 
@@ -978,6 +980,14 @@ Ce que vous lui ouvrez, et rien d'autre. Fonction par fonction, vous choisissez 
 ### Si j'arrête, qu'est-ce que je récupère ?
 
 Tout. Vos données vous sont rendues dans un format lisible, et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
+
+À qui appartiennent mes Experts et ce qu'ils apprennent?
+
+À vous. Vos Experts, leur mémoire et leurs compétences restent un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Ce qu'ils apprennent chez vous ne sert qu'à vous, n'entraîne aucun modèle et n'est jamais partagé avec un autre client.
+
+Mes collègues voient-ils mes conversations avec mes Experts?
+
+Non. Chaque personne a son propre espace : personne ne voit les conversations ni les fichiers d'un collègue, direction comprise, sauf ce que vous partagez. Vos Experts, eux, partagent la mémoire de l'entreprise, chacun avec les seuls accès que vous lui avez ouverts.
 
 ### Par quoi commencer ?
 

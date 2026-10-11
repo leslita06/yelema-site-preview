@@ -9,7 +9,7 @@ l'expert a le droit de faire.
 
 ## Les pages qui font autorité
 - [Accueil](https://yelema.ai/) : ce qu'est un expert IA Yelema et à qui il s'adresse, avec les questions fréquentes.
-- [Les experts](https://yelema.ai/experts.html) : les douze métiers disponibles.
+- [Les experts](https://yelema.ai/experts.html) : les métiers disponibles.
 - [Comment ça marche](https://yelema.ai/comment-ca-marche.html) : contexte, mémoire, compétences, outils branchés, couche qualité.
 - [Offres et tarifs](https://yelema.ai/offres.html) : 300 000 F CFA par mois pour un compte de deux experts, puis 200 000 F CFA par expert ajouté, installation 1 000 000 F CFA au démarrage.
 - [Secteur privé, secteur public](https://yelema.ai/clients.html) : cas d'usage nommés par secteur.
