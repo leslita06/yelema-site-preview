@@ -241,79 +241,47 @@ Questions fréquentes
 
 Un Expert Yelema, c'est quoi exactement?
 
-Ce n'est ni un robot de discussion, autrement dit un chatbot, ni un logiciel de plus. C'est une force de travail qui prend en charge un métier entier: elle comprend votre activité, garde la mémoire de votre entreprise, et agit dans vos outils. Vous lui donnez un objectif, pas une consigne. Techniquement, c'est un agent IA, ce que le marché appelle de l'IA agentique, mais un agent opéré par nous et rattaché à une fonction de votre entreprise.
+C'est une force de travail qui prend en charge un métier entier : elle comprend votre activité, garde la mémoire de votre entreprise et agit dans vos outils. Vous lui donnez un objectif à atteindre. Techniquement, c'est un agent IA, ce que le marché appelle de l'IA agentique, mais un agent opéré par nous et rattaché à une fonction de votre entreprise.
 
-Nous utilisons déjà ChatGPT, pourquoi prendre un Expert IA?
+Nous utilisons déjà ChatGPT, Claude ou Copilot. Pourquoi un Expert IA?
 
-ChatGPT est un outil que chacun ouvre dans son coin. Il ne connaît pas votre entreprise, ne garde rien d'une fois sur l'autre, et n'agit dans aucun de vos outils: il faut lui réexpliquer le contexte à chaque fois, puis recopier le résultat à la main. Un Expert IA tient un poste. Il garde la mémoire de votre activité, travaille dans vos outils et sur WhatsApp, et c'est nous qui l'opérons. Nous nous appuyons d'ailleurs sur plusieurs modèles, ChatGPT compris, en choisissant celui qui tient le mieux chaque tâche.
+Ce sont des outils que chacun ouvre dans son coin. Ils ne connaissent pas votre entreprise, oublient le contexte d'une fois sur l'autre et n'agissent dans aucun de vos outils : il faut tout réexpliquer, puis recopier le résultat à la main. Un Expert IA tient un poste : il garde la mémoire de votre activité, travaille dans vos outils et sur vos canaux, et c'est nous qui l'opérons. Nous nous appuyons d'ailleurs sur plusieurs de ces modèles, en choisissant celui qui tient le mieux chaque tâche.
 
 Et les agents d'OpenAI, de Meta et de xAI (Dots, Muse, Grok Bot)?
 
 Dots (OpenAI), Muse (Meta) et Grok Bot (xAI) sont des assistants que chaque personne crée et règle seule, pour elle-même. Muse vise la vie personnelle et les petits commerces d'Instagram et de Facebook, et il n'est ouvert qu'aux États-Unis et au Canada. Dots vit dans ChatGPT, Slack et Teams, et ses premiers testeurs le trouvent générique tant qu'on ne lui a pas donné le contexte de l'entreprise. Grok Bot permet de monter sa propre équipe d'agents, mais il faut la composer soi-même, en anglais, et la facture grimpe dès qu'on s'en sert tous les jours. Un Expert Yelema arrive déjà formé à son métier et à votre entreprise, travaille pour toute l'équipe sur Telegram, WhatsApp, par e-mail, sur Slack, Teams, au téléphone et sur le web, en français, et notre équipe le suit au quotidien.
 
-Pourquoi ne pas demander à une agence tech de me construire un agent?
+Pourquoi ne pas faire construire un agent par une agence tech?
 
-Parce que les gens qui construisent connaissent rarement votre métier, et qu'un agent sans le contexte et les règles de votre maison déçoit dès qu'il compte pour de vrai. Chaque Expert est écrit avec les gens du métier, puis testé par eux jusqu'à ce que le résultat vaille celui de la personne qui faisait le travail avant.
+Parce que les gens qui construisent connaissent rarement votre métier, et qu'un agent sans le contexte et les règles de votre maison déçoit dès qu'il compte pour de vrai. Chaque Expert est écrit avec les gens du métier, puis testé par eux jusqu'à ce que son travail vaille celui de la personne qui le faisait avant.
 
-Sur quels canaux mes équipes lui parlent-elles?
+Comment se passe la mise en route?
 
-Telegram, WhatsApp, e-mail, Slack, Microsoft Teams et le téléphone. Là où vos équipes travaillent déjà, sans leur demander d'apprendre un outil de plus.
-
-Combien de temps avant qu'il soit opérationnel?
-
-Quelques minutes pour la mise en route, et une première semaine de travail réel pendant laquelle on ajuste avec vos équipes. Pas de projet informatique de six mois.
-
-Faut-il une équipe informatique de mon côté?
-
-Non. Yelema est un service opéré: nous branchons, nous configurons, nous surveillons. Vous décidez ce que l'Expert a le droit de faire, et vous le révoquez quand vous voulez.
-
-Est-ce qu'il agit à ma place?
-
-Vous décidez, outil par outil. Il peut préparer les cinquante réponses du lundi matin et vous laisser relire, ou envoyer seul ce qui ne porte aucun enjeu. Le droit d'agir se donne action par action, et il se retire aussi vite qu'il se donne. La décision qui engage l'entreprise reste chez vous.
-
-Est-ce que je remplace mes employés?
-
-Non. Un Expert reprend ce qui, dans un poste, se répète et s'écrit: le tri, la saisie, la relance, la mise en forme. Un recruteur qui travaille avec Adjoua recrute toujours : il ne lit plus deux cents CV, il reçoit des profils déjà notés et garde l'entretien. La décision et la relation restent humaines.
+Vous créez votre compte en cinq minutes et vous choisissez vos métiers, en commençant par la fonction qui vous coûte le plus cher, en temps ou en argent. Nous branchons vos outils et réglons vos Experts sur votre activité : ils sont au travail en quelques jours. Rien à installer, aucune équipe informatique à mobiliser. Vos équipes leur parlent sur Telegram, WhatsApp, par e-mail, sur Slack, Microsoft Teams ou au téléphone, et un espace web garde tout ce qu'ils produisent.
 
 Est-ce que vous déployez en dehors de la Côte d'Ivoire?
 
-Oui. Nous déployons en Afrique francophone, en commençant par les huit pays de l'UEMOA : le Bénin, le Burkina Faso, la Côte d'Ivoire, la Guinée-Bissau, le Mali, le Niger, le Sénégal et le Togo. Il n'y a rien à installer sur place: ils se branchent sur WhatsApp et sur vos outils, où que soient vos équipes. Le droit OHADA et les règles bancaires de la zone font déjà partie de leur cadre de travail, et l'équipe qui les opère est à Abidjan.
+Oui. Nous déployons en Afrique francophone, en commençant par les huit pays de l'UEMOA : le Bénin, le Burkina Faso, la Côte d'Ivoire, la Guinée-Bissau, le Mali, le Niger, le Sénégal et le Togo. Le droit OHADA et les règles bancaires de la zone font déjà partie de leur cadre de travail, et l'équipe qui les opère est à Abidjan.
+
+Est-ce qu'il agit à ma place, ou remplace mes employés?
+
+Ni l'un ni l'autre. Vous décidez, outil par outil, ce qu'il prépare et ce qu'il envoie seul, et ce droit se retire aussi vite qu'il se donne. Il reprend ce qui, dans un poste, se répète et s'écrit : le tri, la saisie, la relance, la mise en forme. Un recruteur qui travaille avec Adjoua ne lit plus deux cents CV, il reçoit des profils déjà notés et garde l'entretien. La décision et la relation restent humaines.
+
+Et s'il se trompe, ou si un modèle tombe en panne?
+
+Chaque Expert est encadré par une couche qualité : des juges indépendants vérifient ses réponses, des jeux de tests mesurent sa fiabilité, et tout acte sensible (un envoi au nom de l'entreprise, un engagement, un paiement) attend votre validation. Il ne dépend d'aucun modèle unique : nous en changeons quand un meilleur sort ou qu'un autre tombe, sans rien changer de votre côté, ni son prénom, ni ses canaux, ni sa mémoire.
 
 Combien ça coûte, et qu'est-ce qui est compris?
 
-300 000 F CFA par mois pour un compte de deux Experts, puis 200 000 F CFA par Expert ajouté. L'accompagnement, la couche qualité et le suivi sont compris. S'y ajoutent des frais d'installation, 1 000 000 F CFA, réglés une seule fois au démarrage. Ne sont pas compris le coût des modèles d'intelligence artificielle que vos Experts consomment, ni les abonnements aux outils tiers qu'ils utilisent pour vous, votre messagerie ou votre logiciel de gestion par exemple.
+300 000 F CFA par mois pour un compte de deux Experts, puis 200 000 F CFA par Expert ajouté. L'accompagnement, la couche qualité et le suivi sont compris. S'y ajoutent des frais d'installation, 1 000 000 F CFA, réglés une seule fois au démarrage. Ne sont pas compris le coût des modèles d'intelligence artificielle que vos Experts consomment, ni les abonnements aux outils tiers qu'ils utilisent pour vous.
 
-Et s'il se trompe?
+Mes données sont-elles protégées?
 
-Chaque Expert est encadré par une couche qualité: des juges indépendants vérifient les réponses, des jeux de tests mesurent la fiabilité, et tout acte sensible (un envoi au nom de l'entreprise, un engagement, un paiement) s'arrête sur votre validation.
+Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et ce qui suffit en lecture seule se donne en lecture seule. Vos données ne servent à entraîner aucun modèle, ni le nôtre ni celui d'un fournisseur, et chaque entreprise est cloisonnée. Entre collègues aussi : personne ne voit les conversations ni les fichiers d'un autre, direction comprise, sauf ce qu'il partage.
 
-Et si le fournisseur du modèle tombe en panne?
+À qui appartient ce que mes Experts apprennent, et si j'arrête?
 
-Vos Experts ne dépendent d'aucun modèle unique: écrire un texte, lire un contrat ou trier des candidatures ne demandent pas le même moteur, et nous en changeons quand un meilleur sort ou qu'un autre tombe. Vous ne changez rien de votre côté: le même prénom, le même WhatsApp, la même mémoire de votre entreprise.
-
-Est-ce que mes données servent à entraîner un modèle?
-
-Non. Jamais. Ce qui passe par vos Experts sert à votre entreprise et à rien d'autre: ni pour améliorer notre service, ni pour celui d'un fournisseur. Chaque entreprise est cloisonnée.
-
-Qu'est-ce qu'il voit de mes données?
-
-Ce que vous lui ouvrez, et rien d'autre. Fonction par fonction, vous choisissez les outils et les dossiers accessibles, le reste lui est invisible. Un dossier finance peut rester fermé à tout le monde sauf à la direction financière, et ce qui suffit en lecture seule se donne en lecture seule.
-
-Si j'arrête, qu'est-ce que je récupère?
-
-Tout. Vos données vous sont rendues dans un format lisible, et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
-
-À qui appartiennent mes Experts et ce qu'ils apprennent?
-
-À vous. Vos Experts, leur mémoire et leurs compétences restent un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Ce qu'ils apprennent chez vous ne sert qu'à vous, n'entraîne aucun modèle et n'est jamais partagé avec un autre client.
-
-Mes collègues voient-ils mes conversations avec mes Experts?
-
-Non. Chaque personne a son propre espace : personne ne voit les conversations ni les fichiers d'un collègue, direction comprise, sauf ce que vous partagez. Vos Experts, eux, partagent la mémoire de l'entreprise, chacun avec les seuls accès que vous lui avez ouverts.
-
-Par quoi commencer?
-
-Par la fonction qui vous coûte le plus cher, en temps ou en argent, et par la tâche qui y revient tous les jours. Puis un état des lieux de vos données et de vos outils, parce qu'il faudra les connecter. Puis une mesure de l'avant, relevée pendant deux semaines, pour que l'après se voie.
+À vous. Vos Experts, leur mémoire et leurs compétences restent un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Si vous arrêtez, vos données vous sont rendues dans un format lisible et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
 
 ### Votre premier Expert peut commencer dès demain.
 
@@ -936,79 +904,47 @@ Aucune inscription à une liste sans votre accord.
 
 ### Un Expert Yelema, c'est quoi exactement ?
 
-Ce n'est ni un robot de discussion, autrement dit un chatbot, ni un logiciel de plus. C'est une force de travail qui prend en charge un métier entier : elle comprend votre activité, garde la mémoire de votre entreprise, et agit dans vos outils. Vous lui donnez un objectif, pas une consigne. Techniquement, c'est un agent IA, ce que le marché appelle de l'IA agentique, mais un agent opéré par nous et rattaché à une fonction de votre entreprise.
+C'est une force de travail qui prend en charge un métier entier : elle comprend votre activité, garde la mémoire de votre entreprise et agit dans vos outils. Vous lui donnez un objectif à atteindre. Techniquement, c'est un agent IA, ce que le marché appelle de l'IA agentique, mais un agent opéré par nous et rattaché à une fonction de votre entreprise.
 
-### Nous utilisons déjà ChatGPT, pourquoi prendre un Expert IA ?
+### Nous utilisons déjà ChatGPT, Claude ou Copilot. Pourquoi un Expert IA ?
 
-ChatGPT est un outil que chacun ouvre dans son coin. Il ne connaît pas votre entreprise, ne garde rien d'une fois sur l'autre, et n'agit dans aucun de vos outils : il faut lui réexpliquer le contexte à chaque fois, puis recopier le résultat à la main. Un Expert IA tient un poste. Il garde la mémoire de votre activité, travaille dans vos outils et sur WhatsApp, et c'est nous qui l'opérons. Nous nous appuyons d'ailleurs sur plusieurs modèles, ChatGPT compris, en choisissant celui qui tient le mieux chaque tâche.
+Ce sont des outils que chacun ouvre dans son coin. Ils ne connaissent pas votre entreprise, oublient le contexte d'une fois sur l'autre et n'agissent dans aucun de vos outils : il faut tout réexpliquer, puis recopier le résultat à la main. Un Expert IA tient un poste : il garde la mémoire de votre activité, travaille dans vos outils et sur vos canaux, et c'est nous qui l'opérons. Nous nous appuyons d'ailleurs sur plusieurs de ces modèles, en choisissant celui qui tient le mieux chaque tâche.
 
 ### Et les agents d'OpenAI, de Meta et de xAI (Dots, Muse, Grok Bot) ?
 
 Dots (OpenAI), Muse (Meta) et Grok Bot (xAI) sont des assistants que chaque personne crée et règle seule, pour elle-même. Muse vise la vie personnelle et les petits commerces d'Instagram et de Facebook, et il n'est ouvert qu'aux États-Unis et au Canada. Dots vit dans ChatGPT, Slack et Teams, et ses premiers testeurs le trouvent générique tant qu'on ne lui a pas donné le contexte de l'entreprise. Grok Bot permet de monter sa propre équipe d'agents, mais il faut la composer soi-même, en anglais, et la facture grimpe dès qu'on s'en sert tous les jours. Un Expert Yelema arrive déjà formé à son métier et à votre entreprise, travaille pour toute l'équipe sur Telegram, WhatsApp, par e-mail, sur Slack, Teams, au téléphone et sur le web, en français, et notre équipe le suit au quotidien.
 
-### Pourquoi ne pas demander à une agence tech de me construire un agent ?
+### Pourquoi ne pas faire construire un agent par une agence tech ?
 
-Parce que les gens qui construisent connaissent rarement votre métier, et qu'un agent sans le contexte et les règles de votre maison déçoit dès qu'il compte pour de vrai. Chaque Expert est écrit avec les gens du métier, puis testé par eux jusqu'à ce que le résultat vaille celui de la personne qui faisait le travail avant.
+Parce que les gens qui construisent connaissent rarement votre métier, et qu'un agent sans le contexte et les règles de votre maison déçoit dès qu'il compte pour de vrai. Chaque Expert est écrit avec les gens du métier, puis testé par eux jusqu'à ce que son travail vaille celui de la personne qui le faisait avant.
 
-### Sur quels canaux mes équipes lui parlent-elles ?
+### Comment se passe la mise en route ?
 
-Telegram, WhatsApp, e-mail, Slack, Microsoft Teams et le téléphone. Là où vos équipes travaillent déjà, sans leur demander d'apprendre un outil de plus.
-
-### Combien de temps avant qu'il soit opérationnel ?
-
-Quelques minutes pour la mise en route, et une première semaine de travail réel pendant laquelle on ajuste avec vos équipes. Pas de projet informatique de six mois.
-
-### Faut-il une équipe informatique de mon côté ?
-
-Non. Yelema est un service opéré : nous branchons, nous configurons, nous surveillons. Vous décidez ce que l'Expert a le droit de faire, et vous le révoquez quand vous voulez.
-
-### Est-ce qu'il agit à ma place ?
-
-Vous décidez, outil par outil. Il peut préparer les cinquante réponses du lundi matin et vous laisser relire, ou envoyer seul ce qui ne porte aucun enjeu. Le droit d'agir se donne action par action, et il se retire aussi vite qu'il se donne. La décision qui engage l'entreprise reste chez vous.
-
-### Est-ce que je remplace mes employés ?
-
-Non. Un Expert reprend ce qui, dans un poste, se répète et s'écrit : le tri, la saisie, la relance, la mise en forme. Un recruteur qui travaille avec Adjoua recrute toujours : il ne lit plus deux cents CV, il reçoit des profils déjà notés et garde l'entretien. La décision et la relation restent humaines.
+Vous créez votre compte en cinq minutes et vous choisissez vos métiers, en commençant par la fonction qui vous coûte le plus cher, en temps ou en argent. Nous branchons vos outils et réglons vos Experts sur votre activité : ils sont au travail en quelques jours. Rien à installer, aucune équipe informatique à mobiliser. Vos équipes leur parlent sur Telegram, WhatsApp, par e-mail, sur Slack, Microsoft Teams ou au téléphone, et un espace web garde tout ce qu'ils produisent.
 
 ### Est-ce que vous déployez en dehors de la Côte d'Ivoire ?
 
-Oui. Nous déployons en Afrique francophone, en commençant par les huit pays de l'UEMOA : le Bénin, le Burkina Faso, la Côte d'Ivoire, la Guinée-Bissau, le Mali, le Niger, le Sénégal et le Togo. Il n'y a rien à installer sur place : ils se branchent sur WhatsApp et sur vos outils, où que soient vos équipes. Le droit OHADA et les règles bancaires de la zone font déjà partie de leur cadre de travail, et l'équipe qui les opère est à Abidjan.
+Oui. Nous déployons en Afrique francophone, en commençant par les huit pays de l'UEMOA : le Bénin, le Burkina Faso, la Côte d'Ivoire, la Guinée-Bissau, le Mali, le Niger, le Sénégal et le Togo. Le droit OHADA et les règles bancaires de la zone font déjà partie de leur cadre de travail, et l'équipe qui les opère est à Abidjan.
+
+### Est-ce qu'il agit à ma place, ou remplace mes employés ?
+
+Ni l'un ni l'autre. Vous décidez, outil par outil, ce qu'il prépare et ce qu'il envoie seul, et ce droit se retire aussi vite qu'il se donne. Il reprend ce qui, dans un poste, se répète et s'écrit : le tri, la saisie, la relance, la mise en forme. Un recruteur qui travaille avec Adjoua ne lit plus deux cents CV, il reçoit des profils déjà notés et garde l'entretien. La décision et la relation restent humaines.
+
+### Et s'il se trompe, ou si un modèle tombe en panne ?
+
+Chaque Expert est encadré par une couche qualité : des juges indépendants vérifient ses réponses, des jeux de tests mesurent sa fiabilité, et tout acte sensible (un envoi au nom de l'entreprise, un engagement, un paiement) attend votre validation. Il ne dépend d'aucun modèle unique : nous en changeons quand un meilleur sort ou qu'un autre tombe, sans rien changer de votre côté, ni son prénom, ni ses canaux, ni sa mémoire.
 
 ### Combien ça coûte, et qu'est-ce qui est compris ?
 
-300 000 F CFA par mois pour un compte de deux experts, puis 200 000 F CFA par expert ajouté. L'accompagnement, la couche qualité et le suivi sont compris. S'y ajoutent des frais d'installation, 1 000 000 F CFA, réglés une seule fois au démarrage. Ne sont pas compris le coût des modèles d'intelligence artificielle que vos Experts consomment, ni les abonnements aux outils tiers qu'ils utilisent pour vous, votre messagerie ou votre logiciel de gestion par exemple.
+300 000 F CFA par mois pour un compte de deux Experts, puis 200 000 F CFA par Expert ajouté. L'accompagnement, la couche qualité et le suivi sont compris. S'y ajoutent des frais d'installation, 1 000 000 F CFA, réglés une seule fois au démarrage. Ne sont pas compris le coût des modèles d'intelligence artificielle que vos Experts consomment, ni les abonnements aux outils tiers qu'ils utilisent pour vous.
 
-### Et s'il se trompe ?
+### Mes données sont-elles protégées ?
 
-Chaque Expert est encadré par une couche qualité : des juges indépendants vérifient les réponses, des jeux de tests mesurent la fiabilité, et tout acte sensible (un envoi au nom de l'entreprise, un engagement, un paiement) s'arrête sur votre validation.
+Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et ce qui suffit en lecture seule se donne en lecture seule. Vos données ne servent à entraîner aucun modèle, ni le nôtre ni celui d'un fournisseur, et chaque entreprise est cloisonnée. Entre collègues aussi : personne ne voit les conversations ni les fichiers d'un autre, direction comprise, sauf ce qu'il partage.
 
-### Et si le fournisseur du modèle tombe en panne ?
+### À qui appartient ce que mes Experts apprennent, et si j'arrête ?
 
-Vos Experts ne dépendent d'aucun modèle unique : écrire un texte, lire un contrat ou trier des candidatures ne demandent pas le même moteur, et nous en changeons quand un meilleur sort ou qu'un autre tombe. Vous ne changez rien de votre côté : le même prénom, le même WhatsApp, la même mémoire de votre entreprise.
-
-### Est-ce que mes données servent à entraîner un modèle ?
-
-Non. Jamais. Ce qui passe par vos Experts sert à votre entreprise et à rien d'autre : ni pour améliorer notre service, ni pour celui d'un fournisseur. Chaque entreprise est cloisonnée.
-
-### Qu'est-ce qu'il voit de mes données ?
-
-Ce que vous lui ouvrez, et rien d'autre. Fonction par fonction, vous choisissez les outils et les dossiers accessibles, le reste lui est invisible. Un dossier finance peut rester fermé à tout le monde sauf à la direction financière, et ce qui suffit en lecture seule se donne en lecture seule.
-
-### Si j'arrête, qu'est-ce que je récupère ?
-
-Tout. Vos données vous sont rendues dans un format lisible, et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
-
-À qui appartiennent mes Experts et ce qu'ils apprennent?
-
-À vous. Vos Experts, leur mémoire et leurs compétences restent un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Ce qu'ils apprennent chez vous ne sert qu'à vous, n'entraîne aucun modèle et n'est jamais partagé avec un autre client.
-
-Mes collègues voient-ils mes conversations avec mes Experts?
-
-Non. Chaque personne a son propre espace : personne ne voit les conversations ni les fichiers d'un collègue, direction comprise, sauf ce que vous partagez. Vos Experts, eux, partagent la mémoire de l'entreprise, chacun avec les seuls accès que vous lui avez ouverts.
-
-### Par quoi commencer ?
-
-Par la fonction qui vous coûte le plus cher, en temps ou en argent, et par la tâche qui y revient tous les jours. Puis un état des lieux de vos données et de vos outils, parce qu'il faudra les connecter. Puis une mesure de l'avant, relevée pendant deux semaines, pour que l'après se voie.
+À vous. Vos Experts, leur mémoire et leurs compétences restent un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Si vous arrêtez, vos données vous sont rendues dans un format lisible et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
 
 ## Les fiches d'Experts
 
