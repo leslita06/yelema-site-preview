@@ -132,7 +132,7 @@ Voir sa fiche →
 
 Voir tous les Experts en détail →
 
-### Vos process actuels plafonnent votre potentiel.
+### Vos processus actuels plafonnent votre potentiel.
 
 Vos équipes valent mieux que leurs tâches répétitives. L'IA est le levier qui décuple ce qu'elles font déjà de mieux, et nous l'opérons pour vous.
 
@@ -590,7 +590,7 @@ Secteur privé
 
 **PME, startups et grands groupes**
 
-Absorbez la charge, professionnalisez vos process et capitalisez votre savoir, sans alourdir votre masse salariale.
+Absorbez la charge, professionnalisez vos processus et capitalisez votre savoir, sans alourdir votre masse salariale.
 
 - Service client qui répond jour et nuit, sur vos canaux
 
