@@ -2467,3 +2467,41 @@ html{background:var(--indigo2)}
 .dpf-kick{font:700 18px var(--title);color:var(--indigo);margin:0 0 16px}
 .dpf-note{font:400 12.5px var(--body);color:#6b6580;margin:16px 0 0}
 @media(max-width:980px){.dpf-v1 .dpf-card{grid-template-columns:1fr;padding:14px;gap:18px}.dpf-v1 .dpf-side{padding:0 6px 8px}.dpf-note{display:none}}
+/* Djénéba façon Delos (12/10, msg 49720) : grand portrait sur fond, bulles de coordination, carte d'aperçu */
+.ds-acc{color:#8D68FA}
+.ds-intro{text-align:center;max-width:640px;margin:-8px auto 30px;color:var(--muted);font-size:16px;line-height:1.55}
+.ds-foot{text-align:center;color:var(--muted);font-size:15px;margin:26px auto 14px;max-width:640px}
+.ds-stage{--dsbg:#C5C4FF;position:relative;display:grid;grid-template-columns:1.1fr 1fr;align-items:center;gap:20px;background:radial-gradient(circle at 30% 40%,rgba(255,255,255,.45),transparent 60%),var(--dsbg);border-radius:30px;min-height:520px;padding:0 34px 0 0;overflow:hidden;max-width:1100px;margin:0 auto;transition:background-color .35s}
+.ds-left{position:relative;align-self:end;height:520px}
+.ds-big{position:absolute;bottom:0;left:50%;transform:translateX(-50%);height:500px;width:500px;object-fit:contain;object-position:bottom;filter:drop-shadow(0 20px 30px rgba(48,22,103,.25));transition:opacity .25s}
+.ds-photo .ds-big{height:340px;width:340px;bottom:90px;object-fit:cover;border-radius:50%;border:6px solid #fff}
+.ds-bub{position:absolute;background:#fff;color:#241a3a;border-radius:16px;padding:10px 13px;font:500 13.5px/1.4 var(--body);box-shadow:0 16px 34px -16px rgba(48,22,103,.45);max-width:250px}
+.ds-bub small{display:block;font:600 11px var(--title);color:#6b6580;margin-bottom:2px}
+.ds-you{top:34px;left:26px;border-radius:16px 16px 16px 5px}
+.ds-back{bottom:30px;right:0;border-radius:16px 16px 5px 16px}
+.ds-back small{color:#6b58fb}
+.ds-team{display:flex;align-items:center;margin-top:7px}.ds-team img{width:24px;height:24px;border-radius:50%;border:2px solid #fff;margin-right:-6px;object-fit:cover}
+.ds-team em{margin-left:14px;font:700 11px var(--title);font-style:normal;color:#1f9d63}
+.ds-card{background:rgba(255,255,255,.94);backdrop-filter:blur(8px);border-radius:22px;padding:24px 24px 22px;box-shadow:0 26px 50px -30px rgba(48,22,103,.5)}
+.ds-card h3{font:700 22px/1.2 var(--title);color:var(--indigo);margin:0 0 8px}
+.ds-card>p:not(.ds-lab){font:400 14px/1.5 var(--body);color:#5d5675;margin:0 0 16px}
+.ds-lab{font:700 10.5px var(--title);letter-spacing:.09em;text-transform:uppercase;color:#8a84a0;margin:0 0 7px}
+.ds-row{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px;align-items:center}
+.ds-f{width:46px;height:46px;border-radius:50%;padding:2px;border:2px solid transparent;background:#fff;cursor:pointer;flex:none}
+.ds-f img{width:100%;height:100%;border-radius:50%;object-fit:cover;object-position:top;background:#E9E6FA;display:block;filter:grayscale(.9);opacity:.7;transition:filter .2s,opacity .2s}
+.ds-f:hover img,.ds-f[aria-pressed=true] img{filter:none;opacity:1}
+.ds-f[aria-pressed=true]{border-color:#8D68FA;box-shadow:0 0 0 3px rgba(141,104,250,.18)}
+.ds-t{border:1px solid #e3def7;background:#fff;border-radius:999px;padding:7px 14px;font:600 12.5px var(--title);color:var(--indigo);cursor:pointer}
+.ds-t[aria-pressed=true]{background:var(--indigo);color:#fff;border-color:var(--indigo)}
+.ds-autre .ds-t{opacity:.35;pointer-events:none}
+.ds-c{width:30px;height:30px;border-radius:50%;border:3px solid #fff;box-shadow:0 0 0 1px #e3def7;cursor:pointer;padding:0;flex:none}
+.ds-c[aria-pressed=true]{box-shadow:0 0 0 2px var(--indigo)}
+.ds-plus{position:relative;display:inline-flex;align-items:center;justify-content:center;width:46px;height:46px;flex:none;border:2px dashed #c9c1ec;border-radius:50%;color:#8D68FA;font:600 20px/1 var(--title);cursor:pointer;background:#fff}
+.ds-plus-c{width:30px;height:30px;font-size:16px}
+.ds-plus input{position:absolute;inset:0;opacity:0;cursor:pointer;width:100%;height:100%}
+.ds-name{width:100%;box-sizing:border-box;border:1px solid #e3def7;border-radius:12px;padding:10px 13px;font:600 15px var(--body);color:var(--indigo);background:#F8F7FD}
+.ds-panel .ds-stage{margin-top:16px;min-height:470px}.ds-panel .ds-left{height:470px}.ds-panel .ds-big{height:450px;width:450px}
+@media(max-width:980px){.ds-stage{grid-template-columns:1fr;padding:0;min-height:0}.ds-left{height:400px}.ds-big{height:390px;width:390px}
+ .ds-you{top:18px;left:14px;max-width:190px;font-size:12.5px}.ds-back{right:12px;bottom:18px;max-width:210px;font-size:12.5px}
+ .ds-card{margin:0 12px 12px;padding:18px}.ds-panel .ds-left{height:400px}.ds-panel .ds-big{height:390px;width:390px}
+ .ds-row{gap:5px}.ds-f,.ds-plus{width:40px;height:40px}.ds-plus-c{width:30px;height:30px}}
