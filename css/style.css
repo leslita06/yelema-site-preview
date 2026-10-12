@@ -2365,3 +2365,30 @@ html{background:var(--indigo2)}
 
 /* signature Y : sans les bandes violettes du motif sur le fond violet (msg 49163, validé 49170) */
 .yv-y::before{display:none}
+
+
+/* Version mobile resserrée (12/10/26, msg 49073 « améliore la version mobile ») */
+@media(max-width:620px){
+  section.pad{padding:40px 0}
+  .section-h{margin-bottom:22px}
+  /* portraits de l'accueil : le métier tient sur deux lignes au plus */
+  .hero-tag{width:27cqw}
+  .hero-tag span{font-size:11px;line-height:1.22}
+  /* catalogue de l'accueil : une rangée qui défile au doigt, au lieu de six rangées */
+  #view-accueil .catalog-agrid{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:12px;
+    margin:0 -16px;padding:0 16px 10px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+  #view-accueil .catalog-agrid::-webkit-scrollbar{display:none}
+  #view-accueil .catalog-agrid .acard{flex:0 0 44%;scroll-snap-align:start}
+  /* les quatre constats : icône et titre sur la même ligne */
+  .bento-cell{padding:20px 20px;display:grid;grid-template-columns:38px 1fr;column-gap:14px;row-gap:6px;align-items:center}
+  .bento-cell .ic{width:38px;height:38px}
+  .bento-cell .ic svg{width:19px;height:19px}
+  .bento-cell h3{font-size:17px}
+  .bento-cell p{grid-column:1/-1;font-size:14.5px}
+  /* pied de page : les deux colonnes de liens côte à côte */
+  .yl-ftop{grid-template-columns:1fr 1fr;gap:26px 18px}
+  .yl-fbrand,.yl-fnews{grid-column:1/-1}
+  /* les trois chiffres (3 000+, 24h/24, 5 minutes) : cartes moins hautes */
+  .yl-3 .yl-c{padding:20px 20px}
+  .yl-3 .yl-big{font-size:31px}
+}
