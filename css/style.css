@@ -2362,3 +2362,6 @@ html{background:var(--indigo2)}
 .an2-i i{width:100%;max-width:96px;height:58px;border-radius:14px;background:#fff center/contain no-repeat;background-origin:content-box;padding:10px 12px;box-sizing:border-box;border:1px solid #ece8fa;box-shadow:0 4px 12px -8px rgba(30,16,80,.35)}
 @media(max-width:980px){.an2{grid-template-columns:1fr}.an2-l{grid-template-columns:repeat(6,1fr)}}
 @media(max-width:560px){.an2-l{grid-template-columns:repeat(3,1fr)}.an2-c{padding:22px 18px}}
+
+/* signature Y : sans les bandes violettes du motif sur le fond violet (msg 49163, validé 49170) */
+.yv-y::before{display:none}
