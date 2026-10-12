@@ -528,11 +528,17 @@ Parler de mon projet
 
 Sécurité et données
 
-### Ce que nous garantissons, et que vous pouvez vérifier
+### Vos données vous appartiennent.
 
-Une force de travail qui touche à vos données ne se juge pas sur des sigles.
+Vos données restent les vôtres, protégées, et chaque garantie est écrite dans votre contrat.
 
-Ce sur quoi nous nous engageons, par contrat.
+Conforme aux exigences de l'ARTCI. Instances certifiées SOC 2. Surveillance 24h/24. On-premise possible.
+
+Sauvegardes quotidiennes Votre espace est sauvegardé chaque nuit.
+
+Chacun son espace Personne ne voit les conversations d'un collègue.
+
+Vos interlocuteurs à Abidjan Une équipe qui répond, dans votre fuseau.
 
 Vos données n'entraînent aucun modèle Ce qui passe par vos Experts sert à votre entreprise, à rien d'autre. Jamais à entraîner un modèle.
 
