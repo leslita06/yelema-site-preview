@@ -160,7 +160,7 @@ ChatGPT, Copilot…
 
 - Attend qu'on lui écrive : il répond quand on lui pose une question.
 - Un outil pour une personne : il aide chacun à faire son travail.
-- Oublie d'une fois à l'autre : il faut tout lui réexpliquer à chaque fois.
+- Ne connaît pas votre entreprise : il faut lui réexpliquer vos clients, vos prix, votre contexte.
 - Une fenêtre de chat : dans un onglet, ou dans un seul logiciel.
 - Vous faites tout : vous copiez, vous collez, vous envoyez.
 - Pensé ailleurs : un seul modèle, et des usages venus d'ailleurs.
@@ -170,7 +170,7 @@ Un Expert Yelema
 - Prend les devants : il relance, prépare et vous rend compte.
 - Tient un métier : de bout en bout, pour toute l'équipe.
 - Connaît votre entreprise : il garde la mémoire de vos clients, vos prix, votre historique.
-- Là où vous travaillez : Telegram, WhatsApp, e-mail, et plus de 3 000 outils branchés.
+- Là où vous travaillez : Telegram, WhatsApp, e-mail, à la voix, et plus de 3 000 outils branchés.
 - Il fait, vous validez : il agit dans vos outils, avec votre accord pour les actions sensibles.
 - Pensé pour ici : le meilleur modèle pour chaque tâche, le droit OHADA et les paiements d'ici.
 
