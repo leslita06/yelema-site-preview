@@ -2396,3 +2396,5 @@ html{background:var(--indigo2)}
 /* logo du Ministere lisible (49270 F) : son texte tient sur deux lignes, il lui faut plus de hauteur que les wordmarks */
 .cl-ministere{height:74px;width:276px}
 @media(max-width:620px){.cl-ministere{height:54px;width:200px}}
+
+.section-h h2 .sh-acc{color:#E4765A}
