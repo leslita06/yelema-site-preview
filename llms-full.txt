@@ -1,6 +1,6 @@
 # Yelema, des experts IA au travail dans les entreprises africaines
 
-> Yelema met des experts IA au travail dans votre entreprise (support, ventes, RH, finance, juridique) : des agents d'intelligence artificielle opérés, qui travaillent dans vos outils et sur WhatsApp. Abidjan, Côte d'Ivoire, UEMOA.
+> Faites de l'IA le plus grand levier de votre entreprise. Des Experts IA formés à vos métiers décuplent ce que vos équipes font déjà de mieux.
 
 Ce fichier porte le contenu complet du site, pour les moteurs qui répondent sans visiter les pages. Le sommaire des adresses est dans llms.txt.
 
@@ -1720,7 +1720,7 @@ Création de société Accompagne l'incorporation en Côte d'Ivoire et à l'inte
 
 ### Pourquoi il est pertinent pour une entreprise d'ici
 
-Le conseil juridique coûte cher et l'à-peu-près se paie, surtout face à une administration. Ibrahim couvre le quotidien et sécurise chaque acte.
+Un contrat mal rédigé finit toujours par coûter. Ibrahim couvre le quotidien et sécurise chaque acte.
 
 ### Les autres Experts
 
