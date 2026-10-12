@@ -30,7 +30,7 @@ Prêts à l'emploi
 
 ### Rencontrez vos futurs Experts
 
-Chaque Expert maîtrise un métier et est prêt à l'emploi. Composez votre équipe à partir de deux Experts: ils commencent dès demain.
+Chaque Expert maîtrise un métier et est prêt à l'emploi. Composez votre équipe à partir de deux Experts: ils commencent dès aujourd'hui.
 
 Incluse par défaut
 
@@ -187,7 +187,7 @@ Comme un collègue qui arrive dans l'équipe. Vous décidez de ce qu'il peut ouv
 
 Concrètement
 
-### Branchés à vos outils, joignables partout, au travail dès demain
+### Branchés à vos outils, joignables partout, au travail dès aujourd'hui
 
 3 000+
 
@@ -215,7 +215,7 @@ Telegram WhatsApp Gmail Espace web Slack Teams
 
 Créer votre compte, choisir vos métiers et nous dire comment vous travaillez. Votre espace a sa propre adresse, votre-entreprise.yelema.ai.
 
-1 Vous choisissez un métier Parmi nos métiers, ou deux pour commencer. 2 On le branche sur votre activité Vos produits, vos règles, vos outils. 3 Il travaille Sur vos canaux, dès demain.
+1 Vous choisissez un métier Parmi nos métiers, ou deux pour commencer. 2 On le branche sur votre activité Vos produits, vos règles, vos outils. 3 Il travaille Sur vos canaux, dès aujourd'hui.
 
 Ils s'en servent déjà
 
@@ -283,7 +283,7 @@ Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et 
 
 À vous. Vos Experts, leur mémoire et leurs compétences restent un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Si vous arrêtez, vos données vous sont rendues dans un format lisible et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
 
-### Votre premier Expert peut commencer dès demain.
+### Votre premier Expert peut commencer dès aujourd'hui.
 
 Vous décrivez le métier, on branche l'Expert sur votre activité, il travaille avec vous. Sans recrutement, sans projet informatique.
 
@@ -534,11 +534,11 @@ Une force de travail qui touche à vos données ne se juge pas sur des sigles.
 
 Ce sur quoi nous nous engageons, par contrat.
 
-Vos données n'entraînent aucun modèle Ce qui passe par vos Experts sert à votre entreprise, à rien d'autre. Jamais à améliorer un modèle, ni le nôtre ni celui d'un fournisseur.
+Vos données n'entraînent aucun modèle Ce qui passe par vos Experts sert à votre entreprise, à rien d'autre. Jamais à entraîner un modèle.
 
 Chaque entreprise est cloisonnée Vos documents, votre mémoire et vos accès vivent dans un espace qui n'est partagé avec aucun autre client.
 
-Chiffrement de bout en bout En circulation comme au repos. Les accès à vos outils passent par des autorisations que vous accordez, et que vous retirez quand vous voulez.
+Chiffrées en transit et au repos Vos échanges comme vos fichiers stockés. Les accès à vos outils passent par des autorisations que vous accordez, et que vous retirez quand vous voulez.
 
 Chaque action est tracée Journal auditable complet: qui a fait quoi, quand, à la demande de qui. Et une validation humaine obligatoire sur tout acte sensible.
 
