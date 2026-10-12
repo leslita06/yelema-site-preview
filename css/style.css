@@ -2426,3 +2426,44 @@ html{background:var(--indigo2)}
 .c5e-t{position:relative;left:auto;top:auto;width:100%;max-width:380px;animation:none}
 .c5e-t:nth-of-type(n+8){display:none}
 }
+
+/* Djénéba fusionnée : coordination + personnalisation (idée 8 Delos, 12/10) */
+.dpf-intro{text-align:center;max-width:700px;margin:-8px auto 30px;color:var(--muted);font-size:16px;line-height:1.55}
+.dpf-foot{text-align:center;color:var(--muted);font-size:15px;margin:26px auto 14px;max-width:640px}
+.dpf-ctl .dpf-lab{font:700 11px var(--title);letter-spacing:.09em;text-transform:uppercase;color:#6b6580;margin:0 0 9px}
+.dpf-faces{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap}
+.dpf-face{width:52px;height:52px;border-radius:50%;padding:3px;border:2px solid transparent;background:#fff;cursor:pointer;transition:border-color .2s,box-shadow .2s;flex:none}
+.dpf-face img{width:100%;height:100%;border-radius:50%;object-fit:cover;display:block}
+.dpf-face[aria-pressed=true]{border-color:var(--dpa,#8D68FA);box-shadow:0 0 0 4px rgba(141,104,250,.15)}
+.dpf-acc{color:#8D68FA}
+.dpf-face img{filter:grayscale(.9);opacity:.7;transition:filter .25s,opacity .25s}.dpf-face:hover img,.dpf-face[aria-pressed=true] img{filter:none;opacity:1}
+.dpf-cols{display:flex;gap:10px;margin-bottom:20px}
+.dpf-col{width:34px;height:34px;border-radius:50%;border:3px solid #fff;box-shadow:0 0 0 1px #e3def7;cursor:pointer;padding:0;flex:none}
+.dpf-col[aria-pressed=true]{box-shadow:0 0 0 2px var(--indigo)}
+.dpf-save{margin-top:20px;width:100%;border:0;border-radius:12px;padding:12px;font:700 14px var(--title);color:#fff;background:var(--indigo);cursor:pointer;transition:background .2s}
+.dpf-save.ok{background:#1f9d63}
+[data-dpf] .d5-sc{background:linear-gradient(150deg,var(--dp1,#301667) 0%,var(--dp2,#4f2fa6) 100%);transition:background .4s}
+[data-dpf] .d5-dj img{border-color:var(--dpa,rgba(255,255,255,.25))}
+.dpf-big{background:linear-gradient(135deg,var(--dpa,#8D68FA),#C5C4FF)}
+.dpf-msg b{color:var(--dpa,#8D68FA)}
+[data-dpf] .d5-back small{color:var(--dpa,#6b58fb)}
+.dpf-name{width:100%;box-sizing:border-box;border:1px solid #e3def7;border-radius:12px;padding:11px 14px;font:600 15px var(--body);color:var(--indigo);margin:0 0 20px;background:#F8F7FD}
+.dpf-name:focus{outline:2px solid #8D68FA;outline-offset:1px}
+.dpf-tones{display:flex;gap:8px;flex-wrap:wrap}
+.dpf-tone{border:1px solid #e3def7;background:#fff;border-radius:999px;padding:8px 15px;font:600 13px var(--title);color:var(--indigo);cursor:pointer}
+.dpf-tone[aria-pressed=true]{background:var(--indigo);color:#fff;border-color:var(--indigo)}
+.dpf-pcard{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:18px}
+.dpf-prev{background:radial-gradient(circle at 50% 30%,#fff,#F4F2FB 60%,#ECE8FB);border-radius:20px;padding:24px 20px;display:flex;flex-direction:column;align-items:center;text-align:center}
+.dpf-big{width:120px;height:120px;border-radius:50%;padding:4px;background:linear-gradient(135deg,#8D68FA,#C5C4FF)}
+.dpf-big img{width:100%;height:100%;border-radius:50%;object-fit:cover;border:4px solid #fff;box-sizing:border-box;display:block}
+.dpf-pn{font:700 20px var(--title);color:var(--indigo);margin-top:12px}
+.dpf-pr{font:500 12.5px var(--body);color:#6b6580}
+.dpf-msg{margin-top:14px;align-self:stretch;background:#fff;border-radius:4px 16px 16px 16px;padding:12px 14px;text-align:left;font:400 14px/1.45 var(--body);color:#241a3a;box-shadow:0 10px 24px -14px rgba(48,22,103,.35)}
+.dpf-msg b{display:block;font:700 12px var(--title);color:#8D68FA;margin-bottom:4px}
+@media(max-width:980px){.dpf-pcard{grid-template-columns:1fr;gap:20px}.dpf-face{width:48px;height:48px}.dpf-faces{gap:6px}}
+
+.dpf-v1 .dpf-card{display:grid;grid-template-columns:1.35fr 1fr;gap:30px;align-items:center;background:#fff;border:1px solid #ece8f8;border-radius:30px;padding:22px;box-shadow:0 30px 60px -36px rgba(48,22,103,.4);max-width:1040px;margin:0 auto}
+.dpf-v1 .dpf-side{padding:6px 14px 6px 0}
+.dpf-kick{font:700 18px var(--title);color:var(--indigo);margin:0 0 16px}
+.dpf-note{font:400 12.5px var(--body);color:#6b6580;margin:16px 0 0}
+@media(max-width:980px){.dpf-v1 .dpf-card{grid-template-columns:1fr;padding:14px;gap:18px}.dpf-v1 .dpf-side{padding:0 6px 8px}.dpf-note{display:none}}
