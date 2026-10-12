@@ -277,7 +277,7 @@ Combien ça coûte, et qu'est-ce qui est compris?
 
 Mes données sont-elles protégées?
 
-Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et ce qui suffit en lecture seule se donne en lecture seule. Vos données ne servent à entraîner aucun modèle, ni le nôtre ni celui d'un fournisseur, et chaque entreprise est cloisonnée. Entre collègues aussi : personne ne voit les conversations ni les fichiers d'un autre, direction comprise, sauf ce qu'il partage.
+Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et ce qui suffit en lecture seule se donne en lecture seule. Vos données ne servent à entraîner aucun modèle, ni le nôtre ni celui d'un fournisseur, et chaque entreprise est cloisonnée. Entre collègues aussi : personne ne voit les conversations ni les fichiers d'un autre, direction comprise, sauf ce qu'il partage. Et si vous le souhaitez, un déploiement entièrement on-premise est possible pour garder vos données chez vous.
 
 À qui appartient ce que mes Experts apprennent, et si j'arrête?
 
@@ -938,7 +938,7 @@ Chaque Expert est encadré par une couche qualité : des juges indépendants vé
 
 ### Mes données sont-elles protégées ?
 
-Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et ce qui suffit en lecture seule se donne en lecture seule. Vos données ne servent à entraîner aucun modèle, ni le nôtre ni celui d'un fournisseur, et chaque entreprise est cloisonnée. Entre collègues aussi : personne ne voit les conversations ni les fichiers d'un autre, direction comprise, sauf ce qu'il partage.
+Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et ce qui suffit en lecture seule se donne en lecture seule. Vos données ne servent à entraîner aucun modèle, ni le nôtre ni celui d'un fournisseur, et chaque entreprise est cloisonnée. Entre collègues aussi : personne ne voit les conversations ni les fichiers d'un autre, direction comprise, sauf ce qu'il partage. Et si vous le souhaitez, un déploiement entièrement on-premise est possible pour garder vos données chez vous.
 
 ### À qui appartient ce que mes Experts apprennent, et si j'arrête ?
 

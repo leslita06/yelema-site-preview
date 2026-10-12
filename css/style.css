@@ -2398,3 +2398,31 @@ html{background:var(--indigo2)}
 @media(max-width:620px){.cl-ministere{height:54px;width:200px}}
 
 .section-h h2 .sh-acc{color:#E4765A}
+
+/* section Un vrai collègue : Kouassi au centre, ses tâches du jour (variante E, 12/10) */
+.c5e{position:relative;height:500px;border-radius:32px;background:radial-gradient(circle at 50% 48%,#fff 0%,#F4F2FB 45%,#ECE8FB 100%);overflow:hidden;border:1px solid #ece8f8}
+.c5e-core{position:absolute;left:calc(50% - 118px);top:130px;width:236px;height:236px;border-radius:50%;padding:5px;background:linear-gradient(135deg,#8D68FA,#C5C4FF);box-shadow:0 30px 60px -20px rgba(48,22,103,.45)}
+.c5e-core img{width:100%;height:100%;border-radius:50%;object-fit:cover;border:5px solid #fff}
+.c5e-name{position:absolute;left:50%;top:382px;transform:translateX(-50%);text-align:center;white-space:nowrap}
+.c5e-name b{display:block;font:700 19px var(--title);color:var(--indigo)}
+.c5e-name span{font:500 12.5px var(--body);color:#6b6580;display:inline-flex;align-items:center;gap:6px}
+.c5e-name span:before{content:"";width:8px;height:8px;border-radius:50%;background:#22A45D;box-shadow:0 0 0 3px rgba(34,164,93,.18)}
+.c5e-t{position:absolute;left:var(--x);top:var(--y);display:flex;align-items:center;gap:10px;background:#fff;border-radius:14px;padding:9px 14px 9px 9px;box-shadow:0 14px 30px -14px rgba(48,22,103,.35);border:1px solid #f0edf9;white-space:nowrap}
+.c5e-t p{margin:0}
+.c5e-i{flex:none;width:32px;height:32px;border-radius:9px;display:flex;align-items:center;justify-content:center}
+.c5e-il{background:#fff;border:1px solid #eee9fb}
+.c5e-i svg{width:17px;height:17px}.c5e-i img{width:18px;height:18px;object-fit:contain}
+.c5e-t b{display:block;font:700 12.5px var(--title);color:var(--indigo)}
+.c5e-t small{font:400 11px var(--body);color:#6b6580}
+.c5e-f1{animation:c5ef 3.2s ease-in-out infinite}
+.c5e-f2{animation:c5ef 4.1s ease-in-out infinite .6s}
+.c5e-f3{animation:c5ef 3.6s ease-in-out infinite 1.2s}
+@keyframes c5ef{0%,100%{translate:0 0}50%{translate:0 -10px}}
+@media(prefers-reduced-motion:reduce){.c5e-f1,.c5e-f2,.c5e-f3{animation:none}}
+@media(max-width:980px){
+.c5e{height:auto;padding:28px 16px;display:flex;flex-direction:column;align-items:center;gap:10px}
+.c5e-core{position:relative;left:auto;top:auto;width:170px;height:170px}
+.c5e-name{position:relative;left:auto;top:auto;transform:none;margin:4px 0 8px}
+.c5e-t{position:relative;left:auto;top:auto;width:100%;max-width:380px;animation:none}
+.c5e-t:nth-of-type(n+8){display:none}
+}
