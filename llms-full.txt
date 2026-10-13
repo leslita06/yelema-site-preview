@@ -255,9 +255,9 @@ Pourquoi ne pas passer par une agence tech?
 
 Une agence livre un outil, puis passe au projet suivant. Or un agent ne vaut que par ce qu'il sait de votre métier et de vos règles. Chaque Expert Yelema est écrit avec des gens du métier et testé par eux jusqu'à ce que son travail vaille celui de la personne qui le faisait avant. Ensuite, notre équipe continue de le suivre et de l'améliorer.
 
-Comment se passe la mise en route?
+Comment se passe le déploiement?
 
-Vous créez votre espace en cinq minutes et vous choisissez vos Experts, en commençant par la fonction qui vous coûte le plus, en temps ou en argent. Nous branchons vos outils et réglons vos Experts sur votre activité : ils sont au travail dès le premier jour. Rien à installer de votre côté, aucune équipe informatique à mobiliser. Vos équipes leur parlent sur Telegram, WhatsApp, par e-mail, sur Slack, Microsoft Teams ou au téléphone, et un espace web garde tout ce qu'ils produisent.
+Vous créez votre espace en cinq minutes et vous choisissez vos Experts, en commençant par la fonction qui vous coûte le plus, en temps ou en argent. Nous branchons vos outils et réglons vos Experts sur votre activité : ils sont au travail dès le premier jour. Rien à installer de votre côté, aucune équipe informatique à mobiliser. Vos équipes leur parlent sur Telegram, Slack, Teams ou par e-mail, et votre espace web garde tout ce qu'ils produisent.
 
 Est-ce que vous déployez en dehors de la Côte d'Ivoire?
 
@@ -450,25 +450,25 @@ Journal des livrables Complet
 
 Nos offres
 
-### Vous ne payez pas un logiciel, vous payez des résultats.
+### Une offre simple, des Experts au travail
 
-Une seule offre, affichée: vos Experts IA, dès deux Experts, Djénéba incluse, et autant d'Experts que vous voulez ensuite. À côté, des développements IA sur mesure, chiffrés après un premier échange. Le déploiement et l'accompagnement sont compris: Yelema est un service opéré, pas un abonnement logiciel.
+Vos Experts IA en abonnement mensuel, dès deux Experts, Djénéba incluse. À côté, des développements IA sur mesure, chiffrés après un premier échange.
 
 **Vos Experts IA, en abonnement**
 
 Une équipe d'Experts IA en abonnement mensuel. Le forfait démarre à 2 Experts: Djénéba, votre Chief of Staff, incluse d'office, plus 1 Expert métier de votre choix.
 
-300 000 FCFA par mois pour les deux premiers Experts, puis 200 000 FCFA par mois par Expert de plus, sans limite. Installation : 1 000 000 FCFA au démarrage. Exemples: deux Experts, 300 000 FCFA par mois; trois Experts, 500 000; cinq Experts, 900 000.
+300 000 FCFA par mois pour les deux premiers Experts, puis 200 000 FCFA par mois par Expert de plus, sans limite. Installation : 1 000 000 FCFA par compte entreprise, au démarrage. Exemples: deux Experts, 300 000 FCFA par mois; trois Experts, 500 000; cinq Experts, 900 000.
 
-- Djénéba, votre Chief of Staff, orchestre la collaboration entre tous vos Experts
+- Djénéba, votre Chief of Staff incluse, orchestre la collaboration entre tous vos Experts
 
 - Les Experts de votre choix, sur les métiers que vous voulez, ajoutés à tout moment
 
-- Vos canaux branchés: Telegram, WhatsApp, e-mail, Slack, Teams, téléphone et espace web
+- Vos canaux branchés: Telegram, Slack, Teams, e-mail et votre espace web
 
 - Configuration sur votre activité, mémoire d'entreprise partagée entre vos Experts
 
-- Couche qualité, accompagnement et suivi compris
+- Contrôle qualité, accompagnement et suivi compris
 
 Démarrer avec deux Experts
 
@@ -886,9 +886,9 @@ Ce sont des assistants personnels : chacun crée le sien et le règle seul, pour
 
 Une agence livre un outil, puis passe au projet suivant. Or un agent ne vaut que par ce qu'il sait de votre métier et de vos règles. Chaque Expert Yelema est écrit avec des gens du métier et testé par eux jusqu'à ce que son travail vaille celui de la personne qui le faisait avant. Ensuite, notre équipe continue de le suivre et de l'améliorer.
 
-### Comment se passe la mise en route ?
+### Comment se passe le déploiement ?
 
-Vous créez votre espace en cinq minutes et vous choisissez vos Experts, en commençant par la fonction qui vous coûte le plus, en temps ou en argent. Nous branchons vos outils et réglons vos Experts sur votre activité : ils sont au travail dès le premier jour. Rien à installer de votre côté, aucune équipe informatique à mobiliser. Vos équipes leur parlent sur Telegram, WhatsApp, par e-mail, sur Slack, Microsoft Teams ou au téléphone, et un espace web garde tout ce qu'ils produisent.
+Vous créez votre espace en cinq minutes et vous choisissez vos Experts, en commençant par la fonction qui vous coûte le plus, en temps ou en argent. Nous branchons vos outils et réglons vos Experts sur votre activité : ils sont au travail dès le premier jour. Rien à installer de votre côté, aucune équipe informatique à mobiliser. Vos équipes leur parlent sur Telegram, Slack, Teams ou par e-mail, et votre espace web garde tout ce qu'ils produisent.
 
 ### Est-ce que vous déployez en dehors de la Côte d'Ivoire ?
 
