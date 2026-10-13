@@ -2671,3 +2671,26 @@ html{background:var(--indigo2)}
  .yvs-c p{font-size:13.5px}
  .yvs-hd{font-size:14px;padding:16px 8px 14px}
 }
+
+/* p185 : audit du 13/10 */
+@media(max-width:900px){.offers.two{grid-template-columns:minmax(0,1fr)}.offers.two .offer{min-width:0}}
+@media(max-width:620px){.offers.two .team-pick{flex-wrap:wrap!important;justify-content:flex-start}.offers.two .team-pick .tp-e em{white-space:normal!important}}
+.wrap.agent-grid{width:calc(100% - 48px);max-width:1092px}
+.yl-cl-track{max-width:1092px;margin-left:auto;margin-right:auto;gap:28px 40px;justify-content:center}
+.yl-cl-track .cl{flex:0 1 auto}
+.agent-role,.agent-hero .eyebrow,a.back,.uc-go,p.center>a,.ex>b,.menu a.on{color:#6a4be0}
+.pil-k{color:#9a8fd0}
+@media(max-width:620px){.ds-perso .ds-big{width:100%;height:auto}
+ .ds-grp-t .ds-row{flex-wrap:nowrap;gap:6px}.ds-perso .ds-t{padding:0 10px;font-size:12.5px}
+ .beta-chip,.ds-x span,.ds-lab,.acard-badge,.hero-tag span,.vp-t,.ds-bub small,.fx-lab,.fx-th,.fx-tx small,.tb-h{font-size:12px}
+ .ds-c{min-width:40px;min-height:40px}.ds-t{min-height:40px}.sec-t{min-height:40px}
+ .ctaband a.cta-alt,#view-contact a[href^="mailto:"]{display:inline-flex;align-items:center;min-height:40px}}
+.bub.doc span{min-width:0}.bub.doc b{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.phone-bar i svg{display:block}
+.contact-grid{align-items:start}
+footer .yl-f5 a{white-space:nowrap}
+.yvs-more a{display:inline-flex;align-items:center;gap:8px}
+.yvs-mlogo{width:18px;height:18px;flex:none;background:center/contain no-repeat;display:inline-block}
+.yvs-llms-k{display:block;margin-top:8px;font-size:12px;color:var(--muted)}
+.yvs-ctaic{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:12px;background:#FDEEE9;color:#E4765A;margin-bottom:12px}
+.yvs-ctaic svg{width:22px;height:22px}

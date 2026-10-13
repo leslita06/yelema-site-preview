@@ -1,4 +1,4 @@
-# Yelema, des experts IA au travail dans les entreprises africaines
+# Yelema, des Experts IA au travail dans les entreprises africaines
 
 > Faites de l'IA le plus grand levier de votre entreprise. Des Experts IA formés à vos métiers décuplent ce que vos équipes font déjà de mieux.
 
@@ -6,33 +6,17 @@ Ce fichier porte le contenu complet du site, pour les moteurs qui répondent san
 
 ## Yelema en une page
 
-L'IA qui crée de la valeur dans l'entreprise africaine
+Votre entreprise, décuplée par l'IA.
 
 ### Chaque métier dont vous avez besoin a son Expert IA.
 
-Ventes, support, finance, RH, juridique: votre Expert IA décuple chaque fonction, dans vos outils et dès le premier jour.
-
-Recruter mon premier Expert IA
-
-Demander une démo
-
-Fatou RH & Paie
-
-Ibrahim Juridique
-
-Fatima Marketing
-
-Conversationnel, sur vos canaux Commande vocale Multi-LLM Open source Données sécurisées Mobile & web 24h/24, 7j/7 Adapté aux secteurs privé et public
+Ventes, support, finance, RH, juridique : votre Expert IA décuple chaque fonction, dans vos outils et dès le premier jour.
 
 Ils nous font confiance
 
-Prêts à l'emploi
-
 ### Rencontrez vos futurs Experts
 
-Chaque Expert maîtrise un métier et est prêt à l'emploi. Composez votre équipe à partir de deux Experts: ils commencent dès aujourd'hui.
-
-Incluse par défaut
+Chaque Expert maîtrise un métier et est prêt à l'emploi. Composez votre équipe à partir de deux Experts : ils commencent dès aujourd'hui.
 
 **Djénéba**
 
@@ -40,15 +24,11 @@ Chief of Staff & Direction
 
 Elle orchestre l'équipe IA, aligne les priorités et libère votre agenda.
 
-Voir sa fiche →
-
 **Kouassi**
 
 Commercial & Ventes
 
 Il ne laisse jamais une opportunité refroidir.
-
-Voir sa fiche →
 
 **Awa**
 
@@ -56,15 +36,11 @@ Support & Relation client
 
 Elle répond à vos clients, jour et nuit, sur vos canaux.
 
-Voir sa fiche →
-
 **Mamadou**
 
 Finance & Comptabilité
 
 Il garde vos comptes clairs et vos dossiers bancables.
-
-Voir sa fiche →
 
 **Nadia**
 
@@ -72,15 +48,11 @@ Data & Analytics
 
 Elle transforme vos chiffres en décisions.
 
-Voir sa fiche →
-
 **Ibrahim**
 
 Juridique & Conformité
 
 Il tient le juridique carré, pour le privé comme pour le public.
-
-Voir sa fiche →
 
 **Fatima**
 
@@ -88,15 +60,11 @@ Marketing & Contenu
 
 Elle fait vivre votre marque, chaque semaine.
 
-Voir sa fiche →
-
 **Salif**
 
-Opérations & Admin
+Opérations & Logistique
 
-Il fait tourner l'administratif et la trésorerie du quotidien.
-
-Voir sa fiche →
+Il fait tourner les stocks, les achats et les livraisons du quotidien.
 
 **Adjoua**
 
@@ -104,15 +72,11 @@ Recrutement
 
 Elle trouve et évalue les bons profils.
 
-Voir sa fiche →
-
 **Koffi**
 
 Design & Brand
 
 Il habille votre marque, du logo au site.
-
-Voir sa fiche →
 
 **Fatou**
 
@@ -120,25 +84,19 @@ RH & Paie
 
 Elle tient la paie sans faute et veille sur le quotidien de vos équipes.
 
-Voir sa fiche →
-
 **Alioune**
 
 Investissement
 
 Il instruit vos dossiers d'investissement, du sourcing au suivi de participation.
 
-Voir sa fiche →
-
-Voir tous les Experts en détail →
-
-### Vos processus actuels plafonnent votre potentiel.
+### Vos équipes passent trop de temps sur ce qui se répète.
 
 Vos équipes valent mieux que leurs tâches répétitives. L'IA est le levier qui décuple ce qu'elles font déjà de mieux, et nous l'opérons pour vous.
 
 **Trop de tâches répétitives**
 
-Relances, saisies, réponses, classements: le travail à faible valeur mange le temps de vos équipes.
+Relances, saisies, réponses, classements : le travail à faible valeur mange le temps de vos équipes.
 
 **Vos équipes pourraient créer bien plus de valeur**
 
@@ -156,66 +114,37 @@ La question qui revient
 
 ### ChatGPT vous répond. Un Expert IA fait le travail.
 
-ChatGPT, Copilot…
-
-- Attend qu'on lui écrive : il répond quand on lui pose une question.
-- Un outil pour une personne : il aide chacun à faire son travail.
-- Ne connaît pas votre entreprise : il faut lui réexpliquer vos clients, vos prix, votre contexte.
-- Une fenêtre de chat : dans un onglet, ou dans un seul logiciel.
-- Vous faites tout : vous copiez, vous collez, vous envoyez.
-- Pensé ailleurs : un seul modèle, et des usages venus d'ailleurs.
-
-Un Expert Yelema
-
-- Prend les devants : il relance, prépare et vous rend compte.
-- Tient un métier : de bout en bout, pour toute l'équipe.
-- Connaît votre entreprise : il garde la mémoire de vos clients, vos prix, votre historique.
-- Là où vous travaillez : Telegram, WhatsApp, e-mail, à la voix, et plus de 3 000 outils branchés.
-- Il fait, vous validez : il agit dans vos outils, avec votre accord pour les actions sensibles.
-- Pensé pour ici : le meilleur modèle pour chaque tâche, le droit OHADA et les paiements d'ici.
-
 Un vrai collègue
 
-### Il a son ordinateur, son numéro, son e-mail et ses accès.
+### Il a son ordinateur, son adresse e-mail et ses accès.
 
 Comme un collègue qui arrive dans l'équipe. Vous décidez de ce qu'il peut ouvrir.
 
-- Son ordinateur : il navigue sur le web, ouvre vos tableurs et remplit vos outils.
-- Son numéro : vous l'appelez, il vous répond de vive voix.
-- Son e-mail : il a sa propre adresse, il écrit, répond et relance.
-- Ses accès : vous les ouvrez et les fermez vous-même.
+Son ordinateur Il navigue sur le web, ouvre vos tableurs et remplit vos outils.
+
+Sa voix Vous lui laissez un message vocal, il vous répond par écrit ou à l'oral.
+
+Son e-mail Il a sa propre adresse : il écrit, répond et relance.
+
+Ses accès Vous les ouvrez et les fermez vous-même.
 
 Concrètement
 
 ### Branchés à vos outils, joignables partout, au travail dès aujourd'hui
 
-3 000+
+Ils travaillent dans vos outils, vous répondent sur vos canaux, et votre espace se crée en cinq minutes.
 
 **outils connectés**
 
-Vos Experts lisent, écrivent et agissent dans ce que vous utilisez déjà.
-
-Vous autorisez, vous révoquez quand vous voulez.
-
-HubSpot Zoom Sage Odoo Figma GitHub Notion Drive Excel
-
-24h/24
+Vos Experts lisent, écrivent et agissent dans ce que vous utilisez déjà. Vous autorisez, vous révoquez quand vous voulez.
 
 **7 jours sur 7**
 
-Pas de pause, pas de congé, pas de rappel à faire. Ils vous parlent sur vos
+Pas de pause, pas de congé, pas de rappel à faire. Ils vous parlent sur vos canaux, et répondent à vos clients là où ils écrivent.
 
-canaux, et parlent à vos clients sur les leurs.
+**pour créer votre espace**
 
-Telegram WhatsApp Gmail Espace web Slack Teams
-
-5 minutes
-
-**pour recruter votre premier Expert**
-
-Créer votre compte, choisir vos métiers et nous dire comment vous travaillez. Votre espace a sa propre adresse, votre-entreprise.yelema.ai.
-
-1 Vous choisissez un métier Parmi nos métiers, ou deux pour commencer. 2 On le branche sur votre activité Vos produits, vos règles, vos outils. 3 Il travaille Sur vos canaux, dès aujourd'hui.
+Cinq minutes, c'est ce que ça vous prend : créer votre compte, choisir vos Experts et nous dire comment vous travaillez. Votre espace a sa propre adresse, votre-entreprise.yelema.ai.
 
 Ils s'en servent déjà
 
@@ -223,81 +152,851 @@ Ils s'en servent déjà
 
 Ils tiennent des postes et produisent des résultats. Deux dirigeantes racontent ce que ça change chez elles.
 
-Florence Tahiri Fadika Fondation Jeunesse Numérique
-
-Avec Adjoua, j'ai recruté mon responsable projet. Pour le poste des partenariats, elle a corrigé ma fiche de poste et m'a rendu une analyse : un senior ou un junior, avec le coût de chaque option, ou bien le recours à un cabinet spécialisé.
-
-Experte au travail Adjoua, Recrutement
-
-Sarah Mockey Colibri Technologies
-
-Elle prépare mes réunions, tient le relevé des décisions et me rappelle les engagements pris. Je récupère mes lundis matin. Et elle me relance quand je traîne, ce qu'aucun outil n'avait osé faire avant elle. Franchement, elle fait partie de l'équipe.
-
-Experte au travail Djénéba, Chief of Staff
-
 Questions fréquentes
 
 ### Les questions qui reviennent
 
-Un Expert Yelema, c'est quoi exactement?
+Comprendre
+
+**Un Expert Yelema, c'est quoi exactement ?**
 
 C'est un collègue IA qui tient un poste dans votre entreprise : recrutement, finance, ventes, juridique ou support. Il connaît votre activité, se souvient de tout ce que vous lui avez appris et agit dans vos outils, sur vos canaux. Vous lui fixez un objectif, il s'organise pour l'atteindre. Techniquement, c'est un agent IA, et notre équipe le suit au quotidien.
 
-On a déjà ChatGPT ou Copilot : pourquoi un Expert?
+**On a déjà ChatGPT ou Copilot : pourquoi un Expert ?**
 
-Ces outils répondent à la personne qui les ouvre, mais ils ne connaissent pas votre entreprise et n'agissent dans aucun de vos outils : il faut tout réexpliquer, puis recopier le résultat à la main. Un Expert IA tient un poste. Il garde la mémoire de votre activité, travaille directement dans vos outils et sur vos canaux, et notre équipe l'opère. Il s'appuie d'ailleurs sur ces mêmes modèles, en choisissant pour chaque tâche celui qui la fait le mieux.
+Ces outils répondent à la personne qui les ouvre, mais ils ne connaissent pas votre entreprise et n'agissent dans aucun de vos outils : il faut tout réexpliquer, puis recopier le résultat à la main. Un Expert IA tient un poste. Il garde la mémoire de votre activité, travaille directement dans vos outils et sur vos canaux, et notre équipe l'opère. Il fonctionne d'ailleurs avec ces mêmes modèles : vous branchez votre compte chez le fournisseur de votre choix, et nous réglons l'Expert dessus.
 
-Et les agents Dots, Muse ou Grok Bot?
+**Et les agents Dots, Muse ou Grok Bot ?**
 
-Ce sont des assistants personnels : chacun crée le sien et le règle seul, pour lui-même. Un Expert Yelema arrive déjà formé à son métier et à votre entreprise, travaille pour toute l'équipe, en français, et notre équipe le suit au quotidien. Voir nos comparatifs détaillés (https://yelema.ai/vs-chatgpt.html)
+Ce sont des assistants personnels : chacun crée le sien et le règle seul, pour lui-même. Un Expert Yelema arrive déjà formé à son métier et à votre entreprise, travaille pour toute l'équipe, en français, et notre équipe le suit au quotidien. Voir nos comparatifs détaillés
 
-Pourquoi ne pas passer par une agence tech?
+**Pourquoi ne pas passer par une agence tech ?**
 
-Une agence livre un outil, puis passe au projet suivant. Or un agent ne vaut que par ce qu'il sait de votre métier et de vos règles. Chaque Expert Yelema est écrit avec des gens du métier et testé par eux jusqu'à ce que son travail vaille celui de la personne qui le faisait avant. Ensuite, notre équipe continue de le suivre et de l'améliorer.
+Une agence livre un outil, puis passe au projet suivant. Or un agent ne vaut que par ce qu'il sait de votre métier et de vos règles. Chaque Expert Yelema est écrit avec des gens du métier et testé par eux jusqu'à ce que son travail tienne leurs exigences. Ensuite, notre équipe continue de le suivre et de l'améliorer.
 
-Comment se passe le déploiement?
-
-Vous créez votre espace en cinq minutes et vous choisissez vos Experts, en commençant par la fonction qui vous coûte le plus, en temps ou en argent. Nous branchons vos outils et réglons vos Experts sur votre activité : ils sont au travail dès le premier jour. Rien à installer de votre côté, aucune équipe informatique à mobiliser. Vos équipes leur parlent sur Telegram, Slack, Teams ou par e-mail, et votre espace web garde tout ce qu'ils produisent.
-
-Est-ce que vous déployez en dehors de la Côte d'Ivoire?
-
-Oui. Nous déployons en Afrique francophone, en commençant par les huit pays de l'UEMOA : le Bénin, le Burkina Faso, la Côte d'Ivoire, la Guinée-Bissau, le Mali, le Niger, le Sénégal et le Togo. Nos Experts connaissent déjà le droit OHADA et les règles bancaires de la zone, et l'équipe qui les opère est à Abidjan.
-
-Est-ce qu'il agit à ma place, ou remplace mes employés?
+**Est-ce qu'il agit à ma place, ou remplace mes employés ?**
 
 Ni l'un ni l'autre. Vous décidez, outil par outil, ce qu'il prépare et ce qu'il envoie seul, et ce droit se retire aussi vite qu'il se donne. Il reprend ce qui, dans un poste, se répète et s'écrit : le tri, la saisie, la relance, la mise en forme. Un recruteur qui travaille avec Adjoua ne lit plus deux cents CV, il reçoit des profils déjà notés et garde l'entretien. La décision et la relation restent humaines.
 
-Et s'il se trompe, ou si un modèle tombe en panne?
+**Mes équipes doivent-elles savoir se servir de l'IA ?**
 
-Chaque Expert est encadré. Un second contrôle relit ses réponses, des tests réguliers mesurent sa fiabilité, et tout acte sensible (un envoi au nom de l'entreprise, un engagement, un paiement) attend votre accord. Il ne dépend d'aucun modèle unique : si un modèle tombe ou qu'un meilleur sort, nous le changeons sans que rien ne bouge pour vous, ni son prénom, ni ses canaux, ni sa mémoire.
+Non. Elles lui parlent comme à un collègue, en français, par écrit ou par message vocal : sur votre espace de travail Yelema, sur Telegram, sur Slack, sur Teams ou par e-mail. Pas de formation à suivre, ni de jargon à apprendre.
 
-Combien ça coûte, et qu'est-ce qui est compris?
+Se lancer en confiance
+
+**Comment se passe le déploiement ?**
+
+Vous créez votre espace en cinq minutes et vous choisissez vos Experts, en commençant par la fonction qui vous coûte le plus, en temps ou en argent. Nous branchons vos outils et réglons vos Experts sur votre activité : ils sont au travail dès le premier jour. Rien à installer de votre côté, aucune équipe informatique à mobiliser. Vos équipes leur parlent sur Telegram, Slack, Teams ou par e-mail, et votre espace web garde tout ce qu'ils produisent.
+
+**Combien ça coûte, et qu'est-ce qui est compris ?**
 
 300 000 F CFA par mois pour deux Experts, puis 200 000 F CFA par Expert ajouté. L'accompagnement, le contrôle qualité et le suivi sont compris. L'installation coûte 1 000 000 F CFA, une seule fois, au démarrage. Restent à votre charge la consommation des modèles d'intelligence artificielle et les abonnements aux outils que vous utilisez déjà.
 
-Mes données sont-elles protégées?
+**Est-ce que vous déployez en dehors de la Côte d'Ivoire ?**
 
-Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et en lecture seule quand cela suffit. Vos données n'entraînent aucun modèle, et chaque entreprise est cloisonnée. Entre collègues aussi : personne ne voit les conversations ni les fichiers d'un autre, direction comprise, sauf ce qu'il choisit de partager. Si vous le souhaitez, vos Experts peuvent aussi tourner sur vos propres serveurs.
+Oui. Nous déployons en Afrique francophone, en commençant par les huit pays de l'UEMOA : le Bénin, le Burkina Faso, la Côte d'Ivoire, la Guinée-Bissau, le Mali, le Niger, le Sénégal et le Togo. Nos Experts connaissent déjà le droit OHADA et les règles bancaires de la zone, et l'équipe qui les opère est à Abidjan.
 
-Si j'arrête, à qui appartiennent mes Experts?
+**Et s'il se trompe, ou si un modèle tombe en panne ?**
+
+Chaque Expert est encadré. Un second contrôle relit ses réponses, des tests réguliers mesurent sa fiabilité, et tout acte sensible (un engagement, un paiement, un message qui sort du cadre que vous avez validé) attend votre accord. Il ne dépend d'aucun modèle unique : si votre modèle tombe ou qu'un meilleur sort, il suffit de brancher l'autre, sans que rien ne bouge pour vous, ni son prénom, ni ses canaux, ni sa mémoire.
+
+**Mes données sont-elles protégées ?**
+
+Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et en lecture seule quand cela suffit. Vos données n'entraînent aucun modèle, et chaque entreprise est cloisonnée. Entre collègues aussi : personne ne voit les conversations ni les fichiers d'un autre, direction comprise, sauf ce qu'il choisit de partager. Si vous le souhaitez, l'hébergement peut aussi être local, en Côte d'Ivoire.
+
+**Si j'arrête, à qui appartiennent mes Experts ?**
 
 À vous. Vos Experts, leur mémoire et leurs compétences sont un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Si vous arrêtez, nous vous rendons vos données dans un format lisible et nous supprimons nos copies. Aucun enfermement, ni technique ni contractuel.
 
-Mes équipes doivent-elles savoir se servir de l'IA?
-
-Non. Elles lui parlent comme à un collègue, en français, par écrit ou par message vocal : sur votre espace de travail Yelema, sur Telegram, sur Slack ou sur Teams. Pas de formation à suivre, ni de jargon à apprendre.
-
 ### Votre premier Expert peut commencer dès aujourd'hui.
 
-Vous décrivez le métier, on branche l'Expert sur votre activité, il travaille avec vous. Sans recrutement, sans projet informatique.
+Vous choisissez votre Expert, nous le branchons sur votre activité, et il se met au travail avec vous.
 
-Parler à l'équipe Yelema
+Le catalogue
 
-## Comment ça marche
+### Les Experts Yelema
+
+Chaque Expert tient un métier, avec des compétences précises et les outils qui vont avec. Ouvrez une fiche pour voir ce qu'il fait au quotidien, ce sur quoi il s'appuie, et un cas concret. Commencez par le poste où un Expert vous fera gagner le plus de temps.
+
+De nouveaux métiers sortent régulièrement, et un métier qui manque à votre activité peut être construit pour vous.
+
+Incluse dans chaque compte
+
+### Djénéba, votre Chief of Staff, orchestre vos Experts.
+
+Vous lui écrivez une seule fois : elle répartit le travail entre vos Experts, suit chaque tâche et vous rend un résultat complet.
+
+**Votre point d'entrée unique**
+
+- Vous lui écrivez une seule fois, sur le canal de votre choix
+
+- Elle répartit le travail entre vos Experts, avec le bon contexte
+
+- Elle suit chaque tâche et relance quand ça bloque
+
+- Elle vous rend un résultat complet, prêt à relire
+
+Elle est incluse dans chaque compte, dès le premier jour.
+
+Notre promesse
+
+### L'intelligence artificielle va très vite. On vous évite de naviguer à l'aveugle.
+
+On éprouve les technologies avant vous, on retient celle qui tient dans votre contexte, et votre Expert reste à jour au fil des versions sans que vous ayez à y penser.
+
+Expert IA Yelema
+
+Tâches terminées aujourd'hui 5/5
+
+- Demande entrante qualifiée Supermarché à Cocody, 300 unités par mois
+
+- Devis relancé Distributeur à Bouaké, ouvert deux fois
+
+- Rendez-vous calé Démo jeudi 10h, hôtel d'Assinie
+
+- Pipeline mis à jour 3 affaires passées en négociation
+
+- Point de fin de journée envoyé Affaires chaudes et blocages
+
+Il travaille dans vos outils
+
+Bureautique
+
+CRM et prospection
+
+Données et tableaux de bord
+
+Outils d'ici
+
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+### Sa mission
+
+Le développement commercial de bout en bout : trouver les bons prospects, les relancer au bon moment, préparer les devis et garder le pipeline vivant, du premier message à la signature.
+
+Un devis envoyé il y a 5 jours reste sans réponse. Kouassi relance avec un message personnalisé, propose un appel, et prévient le commercial que le prospect a rouvert le devis deux fois. L'affaire repart.
+
+Un pipeline toujours à jour et des relances jamais oubliées : mécaniquement, plus d'affaires signées, et des commerciaux qui passent leur temps à vendre.
+
+Devis relancé chez Établissements Yao. Le client l'a rouvert deux fois ce soir, j'ai prévenu le commercial.
+
+### Ce qu'il fait au quotidien
+
+- Qualifie les demandes entrantes (WhatsApp, e-mail, DM) et pose les bonnes questions
+
+- Relance les devis en attente avec le ton juste, sans harceler
+
+- Prend les rendez-vous et prépare les fiches commerciales
+
+- Signale au dirigeant les affaires chaudes et celles qui coincent
+
+### Ce dont il a besoin
+
+- Catalogue et grille tarifaire
+
+- Liste des clients et des prospects
+
+- Historique des devis émis
+
+- Conditions de remise autorisées
+
+- Canaux par lesquels arrivent les demandes
+
+### Soumis à votre accord
+
+Ces actions nécessitent votre validation explicite avant exécution.
+
+- Envoi d'un devis ou d'un prix
+
+- Remise au-delà du barème
+
+- Engagement de délai auprès d'un client
+
+- Prise de contact avec un compte stratégique
+
+### Ce qu'il fait sans qu'on le demande
+
+Il tient ces rendez-vous seul, sans attendre qu'on le relance.
+
+- Envoie le point de fin de journée Chaque jour ouvré
+
+- Envoie le rapport d'activité de la semaine Chaque semaine
+
+- Relance un livrable remis resté sans retour depuis trois jours Deux fois par semaine
+
+- Revient sur une question restée sans réponse depuis 48 heures Chaque jour ouvré
+
+- Vérifie que chacun de ses accès répond Chaque jour
+
+### Ses livrables
+
+Ce qu'il vous remet, prêt à relire. Il ne l'envoie qu'après votre accord.
+
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Il vend sur les canaux d'ici : la relation se noue sur WhatsApp, le devis se règle souvent en mobile money, et un grand compte impose son propre circuit de bon de commande. Il sait à quel moment un dossier se règle en espèces, combien de relances tient un acheteur avant de se fermer, et quels circuits d'achat exigent une commande signée.
+
+### Ses outils métiers
+
+Branché à vos outils, avec plus de 3 000 intégrations prêtes.
+
+Joignable là où vous êtes déjà :
+
+### Ses compétences
+
+Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Il n'improvise pas.
+
+### Pourquoi il est pertinent pour une entreprise d'ici
+
+Une affaire se gagne au bon suivi, au bon moment. Kouassi tient ce suivi, pour que votre équipe garde son temps pour la vente.
+
+### Les autres Experts
+
+Tâches terminées aujourd'hui 4/4
+
+- 42 messages clients traités Réponse en moins d'une minute
+
+- Commande retrouvée Livraison à Yopougon, suivi envoyé
+
+- Réclamation escaladée Client mécontent signalé au responsable
+
+- Facture renvoyée Copie demandée par un client de Marcory
+
+Elle travaille dans vos outils
+
+Relation client
+
+Le guichet client de l'entreprise, ouvert 24h/24, qui absorbe les demandes entrantes, y répond, et n'en laisse aucune sans suite.
+
+Un client écrit à 22h « ma livraison n'est pas arrivée ». Awa retrouve la commande, explique le statut, propose un créneau de rappel, et laisse une note pour l'équipe du matin. Le client a une réponse tout de suite ; l'équipe garde le contrôle.
+
+Zéro message client sans réponse, et un temps de réponse divisé par plusieurs, y compris la nuit et le week-end.
+
+Douze demandes clients traitées cette nuit. Deux escaladées à l'équipe pour ce matin.
+
+### Ce qu'elle fait au quotidien
+
+- Répond aux messages clients sur Telegram et WhatsApp en quelques secondes, 24h/24
+
+- Retrouve une commande, une facture ou un historique sans faire attendre
+
+- Trie les demandes : ce qu'elle traite seule vs. ce qu'elle escalade
+
+- Détecte les clients mécontents ou silencieux et prévient un responsable
+
+### Ce dont elle a besoin
+
+- Catalogue et fiches produits
+
+- Historique des commandes
+
+- Politique de retour et de remboursement
+
+- Questions fréquentes déjà traitées
+
+- Règles d'escalade
+
+- Geste commercial ou remboursement
+
+- Annulation d'une commande
+
+- Promesse de délai faite à un client
+
+- Message diffusé à toute la base client
+
+### Ce qu'elle fait sans qu'on le demande
+
+Elle tient ces rendez-vous seule, sans attendre qu'on la relance.
+
+Ce qu'elle vous remet, prêt à relire. Elle ne l'envoie qu'après votre accord.
+
+Elle répond là où les clients écrivent, retrouve un règlement mobile money à partir d'un simple numéro de transaction, et comprend le français d'ici comme les tournures du quotidien. Elle connaît les heures où le réseau sature, ce qu'un client accepte d'attendre, et la différence entre un incident d'opérateur et une panne de votre service.
+
+Branchée à vos outils, avec plus de 3 000 intégrations prêtes.
+
+Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Elle n'improvise pas.
+
+### Pourquoi elle est pertinente pour une entreprise d'ici
+
+Vos clients écrivent sur WhatsApp, à toute heure. Sans réponse rapide, ils vont voir ailleurs. Awa ne dort jamais et parle leur langue.
+
+- Posts de la semaine programmés 5 publications validées
+
+- Visuels préparés Campagne de fin d'année
+
+- Commentaires traités 18 réponses, 2 remontées
+
+- Post d'entreprise publié Ouverture du point de vente de Cocody
+
+Réseaux et campagnes
+
+La présence de marque complète : stratégie, production et programmation des contenus, animation des réseaux et relation presse, dans votre voix.
+
+Pour le lancement d'une offre, Fatima propose un plan de 6 posts, rédige les textes, prépare les visuels, programme la semaine et livre une newsletter prête à valider. Le fondateur relit et publie en un clic.
+
+Un calendrier éditorial tenu sans effort et une marque toujours présente. La régularité que personne n'a le temps d'assurer.
+
+Le calendrier éditorial de septembre est prêt : dix-huit publications, visuels compris.
+
+- Rédige posts, newsletters et messages dans le ton de la marque
+
+- Prépare les visuels et programme la semaine sur chaque réseau
+
+- Trie et répond aux commentaires et messages privés
+
+- Suit ce qui marche et ajuste le calendrier éditorial
+
+- Charte et éléments de marque
+
+- Accès aux comptes des réseaux
+
+- Offres et arguments à mettre en avant
+
+- Calendrier de vos temps forts
+
+- Photos et visuels disponibles
+
+- Publication d'un post
+
+- Envoi d'une newsletter
+
+- Réponse publique à un commentaire sensible
+
+- Prise de parole auprès de la presse
+
+- Rappelle les échéances de production et de diffusion des campagnes Chaque jour ouvré
+
+- Produit le point de la semaine sur la présence de l'entreprise Chaque semaine
+
+- Fait la veille de la communication des concurrents Chaque mois
+
+- Produit le bilan marketing du mois pour la direction Chaque mois
+
+Elle écrit pour un public d'ici : les temps forts de l'année ivoirienne, les codes de la conversation sur WhatsApp et Facebook, et des formats assez légers pour un forfait data. Elle connaît le prix d'une campagne sur les réseaux de la place, les heures où l'audience est réveillée, et les formats qui se partagent en statut plutôt qu'en publication.
+
+Une marque qui se tait disparaît. Fatima la fait vivre chaque semaine, sur tous vos canaux.
+
+- Questions des salariés traitées Congés, soldes et bulletins
+
+- Éléments de paie vérifiés Heures supplémentaires et absences du mois
+
+- Fins de contrat suivies 2 renouvellements à décider
+
+- Parcours d'arrivée prêt Nouvelle recrue de lundi
+
+Paie et gestion
+
+L'administration RH du quotidien, conforme au Code du travail ivoirien : paie, congés, contrats, questions des salariés, évaluations. De quoi libérer le temps humain.
+
+Un salarié demande son solde de congés et une attestation. Fatou répond avec le solde exact, génère l'attestation, la fait valider par la RH, et l'envoie, en dix minutes au lieu de deux jours.
+
+Les demandes RH traitées en minutes, une paie juste et plus aucune échéance sociale oubliée, cotisations CNPS et impôts sur salaires compris.
+
+Les trente-quatre bulletins de paie du mois sont générés. Deux écarts d'heures signalés.
+
+- Répond aux questions des salariés (congés, soldes, paie, documents)
+
+- Prépare les éléments de paie et vérifie chaque calcul
+
+- Suit les échéances : fins de contrat, renouvellements, entretiens
+
+- Accueille les nouveaux arrivants : parcours, documents, premiers repères
+
+- Contrats et avenants
+
+- Grille des salaires
+
+- Registre des congés
+
+- Numéros d'immatriculation sociale
+
+- Politiques internes existantes
+
+- Envoi d'un bulletin ou d'une attestation
+
+- Notification adressée à un salarié
+
+- Déclaration sociale
+
+- Diffusion d'une politique RH
+
+- Lance la collecte des variables de paie du mois Chaque mois
+
+- Signale les échéances du personnel où il reste une action à mener Chaque semaine
+
+- Repère les dossiers du personnel incomplets et ce qui se répare Chaque semaine
+
+- Fait le point du jour sur les non-permanents Chaque jour
+
+Elle applique le barème réel : cotisations CNPS, impôts sur salaires de la DGI, code du travail ivoirien, et les pièces d'identité exigées dans un dossier salarié. Elle sait quand tombent les déclarations, ce qu'un contrôle regarde en premier, et comment se calcule un solde de tout compte quand le contrat s'arrête en cours de mois.
+
+La paie et le droit social sont un casse-tête qui mange du temps. Fatou les maîtrise et fiabilise chaque échéance sociale.
+
+- Écritures du jour passées Plan comptable OHADA
+
+- Trésorerie mise à jour Prévision à 13 semaines
+
+- Relances clients envoyées 6 factures échues
+
+- Alerte sur la marge Une gamme sous le seuil fixé
+
+Comptabilité
+
+Le pilotage financier de l'entreprise : comptabilité OHADA, contrôle de gestion, business plan et prévisionnel. De quoi décider sur des chiffres justes et obtenir des financements.
+
+Avant un rendez-vous bancaire, Mamadou reconstitue le prévisionnel à 3 ans, prépare le plan de remboursement, repère les points faibles du dossier et livre un PDF propre. Le dirigeant arrive préparé.
+
+Des comptes carrés, une trésorerie sous contrôle et un business plan bancable, à la demande, quand vous en avez besoin.
+
+Rapprochement bancaire du mois bouclé. Trois écarts à valider avant la clôture.
+
+- Structure et tient la comptabilité selon le référentiel OHADA
+
+- Prépare les tableaux de trésorerie et de marge
+
+- Émet les factures, suit les relances clients et monte les dossiers de financement
+
+- Alerte le dirigeant dès qu'un chiffre sort des clous
+
+- Relevés bancaires et journaux
+
+- Factures d'achat et de vente
+
+- Échéancier fiscal et social
+
+- Historique des financements obtenus
+
+- Transmission d'une liasse à un tiers
+
+- Dépôt d'une déclaration
+
+- Envoi d'un dossier à une banque
+
+- Écriture de régularisation
+
+- Rappelle les échéances fiscales et sociales Chaque jour ouvré
+
+- Produit le point de trésorerie avant les décaissements de la semaine Chaque semaine
+
+- Ouvre la clôture du mois et prépare la liasse Chaque mois
+
+- Prépare les relances clients à partir de la balance âgée Chaque semaine
+
+- Produit le suivi budgétaire du mois Chaque mois
+
+Il tient les comptes au référentiel SYSCOHADA révisé, connaît les échéances de la DGI, les taux de cotisation CNPS et ce qu'une banque de la zone UEMOA attend dans un dossier. Il connaît le calendrier fiscal de l'année, les pièces qu'un commissaire aux comptes réclame, et la façon dont une banque de la place lit un bilan avant d'accorder une ligne.
+
+Peu d'entreprises d'ici ont une direction financière au complet. Mamadou structure les comptes, tient la trésorerie et monte les dossiers que la banque attend.
+
+- Contrat fournisseur relu 3 clauses à risque signalées
+
+- Avenant prêt à signer Envoyé pour votre validation
+
+- Échéances vérifiées Bail de Cocody à renouveler en décembre
+
+- Dossier CEPICI préparé Pièces de la modification statutaire
+
+Signature et contrats
+
+Le réflexe juridique du quotidien : contrats OHADA, revue de documents, conformité et veille réglementaire. De quoi agir vite sans se mettre en risque.
+
+Un partenaire envoie un contrat à signer. Ibrahim le relit, pointe deux clauses à risque, propose une reformulation, et attend la validation du dirigeant avant tout retour. Rien ne s'engage sans accord humain.
+
+Le réflexe juridique et la conformité OHADA à portée de main. Des contrats propres, relus le jour même.
+
+Contrat de prestation relu : deux clauses à risque signalées, avec la formulation de remplacement.
+
+- Rédige et relit les contrats commerciaux et de travail
+
+- Signale les risques dans un document entrant
+
+- Suit les échéances contractuelles et réglementaires
+
+- Prépare les pièces pour l'administration
+
+- Statuts et registre de la société
+
+- Contrats en cours
+
+- Modèles déjà utilisés dans l'entreprise
+
+- Liste des échéances contractuelles
+
+- Pays où vous opérez
+
+- Envoi d'un contrat à un tiers
+
+- Signature ou paraphe
+
+- Dépôt d'une pièce auprès d'une administration
+
+- Position juridique communiquée à l'extérieur
+
+- Fait le point des échéances juridiques des quatre semaines à venir Chaque semaine
+
+- Suit les créances en recouvrement Deux fois par semaine
+
+- Signale ce qui change dans la réglementation qui touche l'entreprise Chaque semaine
+
+- Relit le portefeuille de contrats et signale ce qui a dérivé Chaque mois
+
+Il travaille sur le droit qui s'applique ici : actes uniformes OHADA, code du travail ivoirien, formalités du CEPICI et protection des données personnelles sous l'autorité de l'ARTCI. Il sait ce qu'un greffe exige pour une modification statutaire, ce qu'une clause vaut devant un juge ivoirien, et les délais réels d'une formalité au registre du commerce.
+
+Un contrat mal rédigé finit toujours par coûter. Ibrahim couvre le quotidien et sécurise chaque acte.
+
+- Stock vérifié Alerte rupture sur deux références
+
+- Devis fournisseurs comparés 3 offres à conditions égales
+
+- Livraison contrôlée Écart de 4 cartons signalé
+
+- Bon de commande préparé En attente de votre accord
+
+- Indicateurs de la semaine Délais, ruptures et coûts
+
+Gestion et CRM
+
+Le moteur logistique : achats et fournisseurs, réception et contrôle des marchandises, stocks et seuils d'alerte, livraisons. Pour que rien ne manque et que rien ne dorme en réserve.
+
+Lundi matin, Salif signale deux références passées sous le seuil, consulte trois fournisseurs, prépare les bons de commande et vérifie que la livraison de vendredi a bien quitté le port. Le dirigeant voit tout d'un coup d'œil.
+
+Stocks, achats et livraisons sous contrôle, du port jusqu'au rayon. La rigueur d'un directeur d'exploitation, au service de votre équipe.
+
+L'inventaire tournant de la semaine est fait. Deux références passent sous le seuil d'alerte.
+
+« Fais le point sur ce qui va manquer cette semaine et commande ce qu'il faut »
+
+- Consulte les fournisseurs et les compare à conditions égales
+
+- Surveille les stocks et alerte avant la rupture
+
+- Contrôle les réceptions et signale les écarts de livraison
+
+- Produit les indicateurs clés de la semaine
+
+- Conditions d'achat et délais fournisseurs
+
+- État des stocks
+
+- Liste des fournisseurs
+
+- Modèles de bon de commande
+
+- Seuils d'alerte convenus
+
+- Changement de fournisseur
+
+- Dérogation sur un seuil d'alerte
+
+- Commande passée à un fournisseur
+
+- Blocage d'une livraison
+
+- Signale les références qui vont manquer, avant la rupture Chaque jour ouvré
+
+- Sort les opérations d'entretien de la semaine et les retards Chaque semaine
+
+- Sort le stock qui dort et ce qui va périmer Chaque mois
+
+- Contrôle les réceptions du jour, tant qu'une réserve est possible Chaque jour
+
+Il règle ses fournisseurs en mobile money comme en virement, tient les formalités de douane et d'import, et anticipe les ruptures liées aux délais de dédouanement. Il connaît les délais réels entre le port et l'entrepôt, ce qu'un fournisseur accepte comme retard de règlement, et les pièces qui bloquent une sortie de marchandise.
+
+La trésorerie meurt des impayés et des ruptures de stock : les deux fuites que personne n'a le temps de surveiller. Salif veille en continu.
+
+- Tableau de bord actualisé Ventes de la semaine par point de vente
+
+- Rapport hebdomadaire publié Envoyé à la direction à 8h
+
+- Écart repéré Point de vente de Bouaké en recul de 12 %
+
+- Synthèse de réunion prête Décisions et tâches extraites
+
+Sources branchées
+
+L'intelligence des données de l'entreprise : tableaux de bord, rapports, prévisions et scoring. De quoi piloter sur du concret plutôt qu'au feeling.
+
+Chaque lundi, Nadia envoie le tableau de bord de la semaine, met en avant les 3 alertes qui comptent et prévoit la trésorerie à 30 jours. Le comité de direction démarre sur des faits.
+
+Vos données en tableaux de bord clairs et en prévisions fiables, relues chaque matin avec votre équipe.
+
+Tableau de bord du mois à jour. Le panier moyen a baissé de 6 % à Yopougon, la cause est isolée.
+
+« Quels sont mes 10 meilleurs points de vente ce mois ? »
+
+- Met à jour les tableaux de bord depuis vos fichiers
+
+- Produit les rapports hebdo et mensuels automatiquement
+
+- Signale les écarts et les points de vente qui décrochent
+
+- Prépare des synthèses de réunion actionnables
+
+- Fichiers de ventes et de stocks
+
+- Liste des points de vente
+
+- Objectifs et budget de l'année
+
+- Relevés de paiement
+
+- Comptes rendus de réunion
+
+- Diffusion d'un tableau de bord hors de l'entreprise
+
+- Partage d'une donnée client
+
+- Publication d'un chiffre
+
+- Alerte envoyée à toute l'équipe
+
+Elle lit les données telles qu'elles arrivent ici : relevés mobile money, ventes par point de vente, saisonnalité des campagnes agricoles et des grandes fêtes. Elle sait ce qu'un relevé d'opérateur contient vraiment, comment recoller des ventes saisies à la main, et quels écarts viennent d'un jour férié plutôt que d'une baisse d'activité.
+
+Les données existent mais dorment dans des fichiers. Nadia les fait parler et met le pilotage à portée de tous.
+
+- Offre diffusée Comptable confirmé, Abidjan
+
+- 48 candidatures triées 8 profils notés retenus
+
+- Entretiens planifiés 3 créneaux jeudi
+
+- Grille d'entretien prête Critères du poste pondérés
+
+- Pipeline à jour Relances des candidats prêtes à envoyer
+
+Le recrutement de bout en bout : de la fiche de poste au sourcing, à l'évaluation et à la lettre d'offre. Pour embaucher juste et vite.
+
+Pour un poste de comptable, Adjoua rédige la fiche, source 15 profils, en présélectionne 5 notés, prépare le guide d'entretien et programme les rendez-vous. Le dirigeant n'a plus qu'à rencontrer les meilleurs.
+
+Du sourcing à la lettre d'offre, un recrutement carré, mené en quelques jours.
+
+Quarante-et-une candidatures triées pour le poste de caissière. Six profils à recevoir.
+
+- Rédige les fiches de poste et diffuse les offres
+
+- Source et présélectionne les candidats
+
+- Prépare les entretiens et les grilles de notation
+
+- Suit chaque candidat dans le pipeline, relances comprises
+
+- Organigramme et postes ouverts
+
+- Fourchettes de rémunération
+
+- Critères de sélection
+
+- Comptes de diffusion des offres
+
+- Disponibilités des évaluateurs
+
+- Publication d'une offre
+
+- Envoi d'un message à un candidat
+
+- Convocation à un entretien
+
+- Envoi d'une lettre d'offre
+
+- Fait le point sur le marché de l'emploi pour les postes ouverts Chaque semaine
+
+- Produit le point hebdomadaire du recrutement Chaque semaine
+
+- Repère les candidats et évaluateurs qui attendent, et prépare les messages Chaque jour
+
+Elle source sur les canaux d'ici, de l'Agence Emploi Jeunes aux groupes métier sur WhatsApp et aux écoles d'Abidjan, et connaît les pièces exigées au moment de l'embauche. Elle sait ce qu'un poste se paie réellement selon l'expérience, et elle prépare un dossier complet, de la déclaration CNPS au contrat conforme au droit ivoirien.
+
+Recruter bien prend un temps fou et une erreur coûte cher. Adjoua fait le tri sérieux et accélère chaque étape.
+
+- Affiche produite Promotion du week-end
+
+- Déclinaisons livrées Story, post et bannière web
+
+- Visuels vérifiés Logo et couleurs conformes
+
+- Fichiers sources rangés Charte à jour dans le Drive
+
+Création
+
+Réseaux
+
+Le design de la marque, de bout en bout : identité, visuels, affiches, pages web et vidéos. Pour une image pro et cohérente partout.
+
+Pour l'ouverture d'une boutique, Koffi produit l'affiche dans la charte, la décline en story, post et statut WhatsApp, vérifie la cohérence et livre le tout imprimable. La communication est prête en une heure.
+
+Des visuels pros et cohérents, à la demande, livrés en quelques heures.
+
+Les cinq visuels de la campagne sont prêts, aux couleurs de la marque, aux bons formats.
+
+« Il me faut une affiche pour l'ouverture de ma 2e boutique »
+
+- Produit affiches, posts et visuels brandés à la demande
+
+- Tient la cohérence visuelle sur tous les supports
+
+- Décline une création en plusieurs formats (print, story, web)
+
+- Vérifie chaque visuel avant publication
+
+- Logo et fichiers sources
+
+- Charte de couleurs et polices
+
+- Photos de l'entreprise
+
+- Formats de sortie attendus
+
+- Exemples de ce que vous aimez
+
+- Publication d'un visuel
+
+- Envoi d'un fichier à l'imprimeur
+
+- Modification du logo
+
+- Diffusion d'une création à un partenaire
+
+- Fait la veille de l'identité visuelle du secteur et des concurrents Chaque mois
+
+- Signale les productions dont la livraison approche Chaque jour ouvré
+
+- Produit le point des productions en cours Chaque semaine
+
+- Passe en revue les supports de l'entreprise et signale ce qui a dérivé Chaque mois
+
+Il produit pour les supports d'ici : kakémonos et bâches d'imprimeur local, affiches de point de vente, et des visuels qui restent lisibles sur un écran de téléphone d'entrée de gamme. Il compose avec les contraintes réelles, les formats que tient un imprimeur d'Abidjan et les codes qui font qu'une image circule en statut plutôt qu'en publication.
+
+Rares sont les entreprises qui ont un studio créatif sous la main, et une image bricolée décrédibilise. Koffi tient une marque nette et cohérente, partout.
+
+Elle orchestre vos Experts et tient l'agenda, les décisions et les engagements du dirigeant.
+
+- Comité de direction préparé Ordre du jour et chiffres envoyés
+
+- Boîte de réception triée 4 sujets urgents remontés
+
+- Relevé de décisions publié Réunion d'équipe de 9h
+
+- Engagement relancé Retour attendu du responsable achats
+
+- Dossier du conseil assemblé Pièces rangées dans le Drive
+
+Équipe
+
+Bras droit du dirigeant : elle prépare ses réunions, filtre ses sollicitations, tient le relevé des décisions et suit les engagements pris.
+
+Le dirigeant enchaîne cinq rendez-vous. Djénéba prépare un brief par réunion avec l'historique et l'objectif, écarte trois sollicitations qui pouvaient attendre, consigne les décisions prises et relance deux engagements de la semaine précédente restés sans suite.
+
+Plus rien ne se perd entre deux réunions, et le dirigeant arrive préparé partout, sans y passer ses soirées.
+
+Deux engagements pris la semaine dernière sont en retard. J'ai relancé, et je vous remonte les réponses ce soir.
+
+« J'ai quoi de prévu demain ? »
+
+- Prépare vos rendez-vous
+
+- Filtre et priorise ce qui arrive
+
+- Prend le relevé des décisions
+
+- Relance les engagements non tenus
+
+- Agenda du dirigeant
+
+- Historique des e-mails et des messages
+
+- Comptes rendus de réunions
+
+- Liste des interlocuteurs clés
+
+- Priorités du trimestre
+
+- Envoi d'un message en votre nom
+
+- Acceptation ou refus d'un rendez-vous
+
+- Diffusion d'un relevé de décisions
+
+- Engagement pris auprès d'un tiers
+
+- Prépare la journée du dirigeant Chaque jour ouvré
+
+- Fait la veille du secteur de l'entreprise Chaque semaine
+
+- Trie la boîte mail de direction et prépare les réponses Chaque jour ouvré
+
+- Fait le point sur les engagements pris et prépare les relances Deux fois par semaine
+
+- Refait le tri de la boîte mail de direction à la mi-journée Chaque jour ouvré
+
+Elle connaît le terrain administratif d'un dirigeant : le calendrier officiel ivoirien, les usages avec les guichets, et les circuits par lesquels passent les démarches d'une entreprise. Elle sait quelles pièces un guichet réclame vraiment, combien de temps une démarche prend en pratique, et à quel moment relancer pour que le dossier avance.
+
+10 savoir-faire déjà construits dans l'atelier Yelema. Elle n'improvise pas.
+
+Un dirigeant fait tout : il vend, il recrute, il négocie et il rend des comptes. Ce qui se perd en premier, ce sont les décisions prises en réunion et les promesses faites à un tiers. Djénéba tient ce fil.
+
+- Data room inventoriée 3 pièces manquantes
+
+- Modèle financier audité 2 chiffres de revenus incohérents
+
+- Questions au fondateur prêtes Avant le comité de vendredi
+
+- Note de comité rédigée Avec les scénarios de valorisation
+
+Dossiers et signature
+
+L'instruction des investissements de bout en bout : sourcing contre la thèse du fonds, lecture de la salle de données, audit du modèle, note au comité, valorisation et suivi de la participation.
+
+Un dossier Série A arrive pour le comité de vendredi. Alioune vérifie la thèse du fonds, inventorie la salle de données, repère deux chiffres de revenus qui se contredisent, prépare les questions au fondateur et livre la note de comité avec les scénarios de valorisation.
+
+Un comité qui statue sur un dossier instruit à fond : moins de dossiers mal jugés, plus de temps pour la décision.
+
+Inventaire terminé : trois pièces manquent et deux chiffres de revenus se contredisent. Questions au fondateur prêtes.
+
+- Note les dossiers contre la thèse réelle du fonds
+
+- Inventorie les pièces et signale les manques et incohérences
+
+- Audite les modèles financiers et prépare les questions à la direction
+
+- Suit les participations, la trésorerie et les alertes convenues
+
+- Thèse et critères du fonds
+
+- Accès aux salles de données
+
+- Historique des dossiers instruits
+
+- Modèle de note de comité
+
+- Calendrier du comité d'investissement
+
+- Transmission d'un prix ou d'une offre
+
+- Contact d'un dirigeant ou co-investisseur
+
+- Diffusion d'une note de comité hors du fonds
+
+- Rejet définitif d'un dossier
+
+- Fait la veille des secteurs et des pays couverts par la thèse du fonds Chaque semaine
+
+- Produit le point hebdomadaire du pipeline Chaque semaine
+
+- Surveille les participations et déclenche les alertes convenues Chaque jour ouvré
+
+- Repère les dossiers bloqués et prépare les relances Chaque semaine
+
+- Prépare la séance de comité Chaque semaine
+
+Il instruit dans le cadre de la région : droit OHADA, réglementation BCEAO pour les acteurs financiers, formalités du CEPICI et comparables des transactions de la zone UEMOA. Il sait ce qu'un fonds d'ici attend dans une salle de données, des états certifiés au registre du commerce, et ce qui retarde une opération au moment de la signature.
+
+Peu de fonds ont une équipe dédiée à l'instruction. Alioune absorbe le travail répétitif de tri et de vérification, pour que l'équipe d'investissement concentre son temps sur le jugement et la relation avec les fondateurs.
 
 Comment ça marche
 
-### Trois piliers: contexte, mémoire, compétences
+### Trois piliers : contexte, mémoire, compétences
 
 Un Expert n'est utile que s'il comprend votre entreprise, s'en souvient et sait agir. C'est le sens du Y de notre logo : trois branches qui se rejoignent dans chaque Expert.
 
@@ -317,42 +1016,33 @@ Répondre, relancer, rédiger, classer, préparer un dossier : chaque Expert tie
 
 Chaque Expert travaille dans les applications que vos équipes utilisent déjà.
 
-**Messagerie**
-
-Telegram WhatsApp Gmail Outlook Slack Teams
+**Messageries et e-mail**
 
 **Bureautique et documents**
 
-Google Agenda Drive Sheets Word PowerPoint DocuSign
-
 **Gestion et finance**
-
-Sage Odoo FNE Excel Power BI Orange Money
 
 **Vente et marketing**
 
-HubSpot LinkedIn Facebook Instagram Canva Meta Business Suite
-
 Plus de 3 000 autres outils par connecteurs ouverts. Vous autorisez, vous révoquez.
 
-Ce que nous prenons en charge
+Build, Operate, Transfer
 
 ### On construit, on fait tourner, et vos Experts restent à vous
 
-Build, Operate, Transfer. Vous ne louez pas un logiciel : vous constituez une équipe d'Experts qui devient un actif de votre entreprise.
+Vous ne louez pas un logiciel : vous constituez une équipe d'Experts qui devient un actif de votre entreprise.
 
-**Construire (Build)**
+**Construire**
 
 Nous construisons vos Experts à partir de la connaissance de vos métiers, nous les branchons à vos outils et les nourrissons de vos données et de vos façons de faire.
 
-**Opérer (Operate)**
+**Opérer**
 
-Modèles, compétences, mises à jour, surveillance et qualité : tout est chez nous. Vous n'avez rien à régler, vous utilisez.
+Compétences, mises à jour, surveillance et qualité : tout est chez nous. Vous branchez votre compte de modèle, nous faisons le reste.
 
-**Transmettre (Transfer)**
+**Transmettre**
 
 Vos Experts vous appartiennent, avec leur mémoire et leurs compétences. Si vous arrêtez, nous vous rendons tout dans un format lisible.
-
 
 L'IA au travail dans votre entreprise.
 
@@ -362,39 +1052,27 @@ C'est notre métier : mettre l'IA entre les mains de vos équipes, ici, en Afriq
 
 Interopérabilité
 
-### Le bon modèle pour chaque métier
+### Compatible avec les grands modèles
 
-Chaque tâche a son meilleur modèle d'IA. Nous choisissons pour vous celui qui donne le meilleur résultat au meilleur prix.
+Vous branchez votre compte (clé API) chez le fournisseur de votre choix, et la consommation vous est facturée directement par lui. Nous réglons vos Experts sur le modèle retenu et vous indiquons le plus adapté à chaque usage.
 
-Claude ChatGPT Gemini Mistral DeepSeek Qwen Llama
-
-Aucun fournisseur imposé, et le choix se révise quand un
-
-meilleur modèle arrive.
+Aucun fournisseur imposé : vous pouvez en changer quand un meilleur modèle arrive.
 
 ### Du premier échange au déploiement
 
-Un parcours simple, que nous menons avec vous du premier jour jusqu'au déploiement.
-
-1
+Un parcours simple, que nous menons avec vous de bout en bout.
 
 **Vous choisissez**
 
 Vous créez votre espace en cinq minutes et choisissez vos Experts, en commençant par la fonction qui vous coûte le plus.
 
-2
-
 **On branche**
 
 Nous connectons vos outils et nourrissons vos Experts de votre activité, de vos règles et de vos documents.
 
-3
-
 **Ils travaillent**
 
 Vos Experts se mettent au travail dès aujourd'hui. Nous ajustons avec vos équipes et mesurons les résultats.
-
-4
 
 **On étend**
 
@@ -406,25 +1084,17 @@ Comment ils travaillent
 
 Vous donnez un objectif à un Expert Yelema, il trouve comment l'atteindre avec les outils que vous lui avez ouverts.
 
-01
-
 **Vous fixez l'objectif**
 
-Par exemple : « aucun devis sans relance sous 72 heures » ou « toute demande client traitée le jour même ». L'Expert trouve comment y arriver.
-
-02
+Par exemple : « aucun devis sans relance sous 72 heures » ou « toute demande client traitée le jour même ». L'Expert trouve comment y arriver.
 
 **Il travaille pendant que vous dormez**
 
-Pas de pause, pas de rappel à lui faire. La nuit, le week-end, les jours fériés: le travail avance et vous retrouvez l'état au matin.
-
-03
+Pas de pause, pas de rappel à lui faire. La nuit, le week-end, les jours fériés : le travail avance et vous retrouvez l'état au matin.
 
 **Il décide, dans le cadre que vous fixez**
 
 Il choisit ses outils et adapte sa méthode. Sur les actes sensibles, il s'arrête et vous demande votre accord.
-
-04
 
 **Il vous rend le travail fini**
 
@@ -438,13 +1108,477 @@ Chaque Expert est encadré. Un second contrôle relit ses réponses, des tests r
 
 **Niveau de contrôle Yelema**
 
-Second contrôle des réponses Actif
+Sécurité et données
 
-Tests de fiabilité réguliers Actif
+### Vos données vous appartiennent.
 
-Votre accord sur les actions sensibles Systématique
+Elles restent protégées, et chaque garantie est écrite dans votre contrat.
 
-Journal des livrables Complet
+Aucun modèle entraîné Vos données servent à votre entreprise, à rien d'autre.
+
+Un espace par entreprise Aucun autre client n'y accède.
+
+Chiffrées en transit et au repos Vos échanges comme vos fichiers stockés.
+
+Sauvegardes quotidiennes Votre espace est sauvegardé chaque nuit.
+
+Chacun son espace Personne ne voit les conversations d'un collègue.
+
+Votre accord d'abord Rien de sensible ne part sans votre accord.
+
+Vous repartez avec tout Vos données rendues, les nôtres supprimées.
+
+Vos interlocuteurs à Abidjan Une équipe qui répond, dans votre fuseau.
+
+Une question de votre DSI ou de votre juriste ? Écrivez-nous, on répond au cas par cas.
+
+Nos offres
+
+### Une offre simple, des Experts au travail
+
+Vos Experts IA en abonnement mensuel, dès deux Experts, Djénéba incluse. À côté, des développements IA sur mesure, chiffrés après un premier échange.
+
+**Vos Experts IA, en abonnement**
+
+Une équipe d'Experts IA en abonnement mensuel. Le forfait démarre à 2 Experts : Djénéba, votre Chief of Staff, incluse d'office, plus 1 Expert métier de votre choix.
+
+- Djénéba, votre Chief of Staff incluse, orchestre la collaboration entre tous vos Experts
+
+- Chaque Expert personnalisable : visage, tenue, couleur de fond, prénom
+
+- Les Experts de votre choix, sur les métiers que vous voulez, ajoutés à tout moment
+
+- Vos canaux branchés : Telegram, Slack, Teams, e-mail et votre espace web.
+
+- Configuration sur votre activité, mémoire d'entreprise partagée entre vos Experts
+
+- Contrôle qualité, accompagnement et suivi compris
+
+**Votre développement IA, sur devis**
+
+Quand le besoin ne rentre pas dans un métier.
+
+- Un cas d'usage conçu, développé et exploité de bout en bout
+
+- Des workflows qui relient vos outils et automatisent un processus entier
+
+- Des applications IA à votre mesure : instruction de crédit, suivi de collecte agricole, pilotage d'atelier
+
+- Nous cadrons, construisons et opérons avec votre équipe
+
+- Vos données et vos processus restent les vôtres
+
+Ce que ça change
+
+### Un Expert IA démultiplie le travail de votre équipe.
+
+Prenons un exemple, Kouassi, l'Expert commercial. La journée ne s'allonge pas, elle se répartit autrement : il tient le flux, à toute heure et sans se déplacer, et votre commercial garde ce qui se joue en face à face.
+
+**Ce que Kouassi prend en plus**
+
+**Ce que votre commercial garde**
+
+La bonne question
+
+### Quel Expert apportera le plus de valeur à votre entreprise ?
+
+Parlez-nous de votre activité, nous vous montrons l'Expert qui vous fera gagner le plus de temps.
+
+Sécurité et données : ce que nous garantissons par contrat. Voir nos garanties →
+
+Au-delà des Experts
+
+### Vos cas d'usage, développés de bout en bout
+
+Certains besoins ne se rangent pas dans un métier. Un moteur de scoring, un back-office qui parle à votre système, un parcours citoyen complet : nous les cadrons, les construisons et les opérons avec vous.
+
+**Cadrer**
+
+Nous partons de votre processus réel, chiffrons ce que l'automatisation rapporte et décidons avec vous de ce qui vaut la peine d'être fait.
+
+Nous connectons vos systèmes et écrivons ce qui manque : règles métier, interfaces, contrôles.
+
+Nous faisons tourner la solution, la surveillons et la faisons évoluer. Vos données et vos processus restent les vôtres.
+
+Quelques exemples, par secteur
+
+**Banque et microfinance**
+
+Un moteur instruit un dossier de crédit PME en lisant les relevés mobile money et les états financiers dans le même mouvement.
+
+**Distribution**
+
+Le réassort de tous vos points de vente se calcule chaque nuit, et les commandes fournisseurs attendent votre validation au matin.
+
+**Industrie**
+
+Les relevés d'atelier remontent en continu, l'alerte part avant la panne et le bon d'intervention arrive déjà rempli.
+
+**Agro-industrie**
+
+La collecte chez vos producteurs se suit du bon de pesée au paiement mobile, avec la traçabilité qu'exige l'export.
+
+**Télécoms**
+
+Les réclamations d'abonnés arrivent sur WhatsApp, se qualifient d'elles-mêmes et repartent vers la bonne équipe, incident réseau compris.
+
+**Administration**
+
+Un dossier citoyen s'instruit de bout en bout : pièces vérifiées, délais suivis, agent prévenu quand un dossier traîne.
+
+**Assurance**
+
+Une déclaration de sinistre arrive avec ses photos, le dossier se monte tout seul, et le gestionnaire ne reprend la main que sur ce qui demande un arbitrage.
+
+### Un besoin sur‑mesure ?
+
+Décrivez-nous votre besoin, nous vous proposons un cadrage et un devis ferme.
+
+Pour qui
+
+### Des entreprises aux États
+
+Notre mission : faire de l'IA le plus grand levier des entreprises africaines, pour décupler ce qu'elles font déjà de mieux.
+
+**PME, startups et grands groupes**
+
+Absorbez la charge, professionnalisez vos processus et capitalisez votre savoir, pendant que votre équipe se concentre sur vos clients.
+
+- Service client qui répond jour et nuit, sur vos canaux
+
+- Prospection et relances : devis suivis, impayés recouvrés
+
+- Back-office : paie, notes de frais, dossiers bancaires
+
+- Appels d'offres : veille, montage du dossier, pièces à jour
+
+- Mémoire d'entreprise qui s'accumule et reste
+
+**États & institutions**
+
+Rapprochez l'administration des citoyens et fluidifiez les services, avec les garanties qu'exige la puissance publique.
+
+- Guichet citoyen sur les canaux que les gens utilisent déjà
+
+- Commande publique : dossiers montés, marchés suivis
+
+- Archives administratives, retrouvables en une question
+
+- Votre accord sur chaque acte sensible
+
+- Hébergement local en option
+
+Ancré localement
+
+### Un Expert qui connaît le métier et le terrain
+
+Le droit, les règles bancaires et les moyens de paiement de la zone font partie de son cadre de travail, dès le premier jour.
+
+**Paiements**
+
+Il encaisse et relance avec les services de paiement d'ici.
+
+**Droit et conformité**
+
+Ses contrats et ses dossiers suivent le droit de la zone.
+
+**Fiscal, social et emploi**
+
+La paie, les déclarations et les embauches selon les règles locales.
+
+### Un besoin plus large ?
+
+Une équipe sur plusieurs métiers, une intégration à vos systèmes internes, un hébergement local : nous construisons le périmètre avec vous et nous l'opérons.
+
+Contact
+
+### Composons votre équipe d' Experts
+
+Dites-nous votre métier et vos priorités. On revient avec une première équipe d'Experts et un plan de déploiement.
+
+**Parler à l'équipe Yelema**
+
+On vous répond rapidement. Dites-nous ce qui vous prend le plus de temps aujourd'hui, on part de là.
+
+**Ce qu'on vous prépare**
+
+- Les Experts qui conviennent à votre activité
+
+- Un exemple sur l'un de vos cas réels
+
+- Une proposition chiffrée selon les Experts retenus
+
+Sans engagement.
+
+Des Experts IA, chacun formé à un métier, en renfort des entreprises d'Afrique francophone.
+
+Ivoire Trade Center, rez-de-chaussée de la tour D Abidjan, Côte d'Ivoire
+
+Une fois par mois, ce que l'IA change vraiment pour les entreprises d'Afrique francophone. Ce qui marche, et ce qui ne marche pas.
+
+Projet sur mesure
+
+**Parlons de votre projet**
+
+Dites-nous ce que vous voulez obtenir. On revient vers vous avec un cadrage, et un chiffrage après un premier échange.
+
+Message reçu. On revient vers vous rapidement.
+
+Démonstration
+
+**Voyons ce que ça donne chez vous**
+
+On vous montre un Expert au travail dans vos outils, sur votre activité réelle.
+
+Merci, votre demande est enregistrée. On revient vers vous rapidement.
+
+Vos coordonnées servent uniquement à vous recontacter. Aucune inscription à une liste sans votre accord.
+
+## Les Experts IA disponibles
+
+Le catalogue
+
+### Les Experts Yelema
+
+Chaque Expert tient un métier, avec des compétences précises et les outils qui vont avec. Ouvrez une fiche pour voir ce qu'il fait au quotidien, ce sur quoi il s'appuie, et un cas concret. Commencez par le poste où un Expert vous fera gagner le plus de temps.
+
+**Djénéba**
+
+Chief of Staff & Direction
+
+Elle orchestre l'équipe IA, aligne les priorités et libère votre agenda.
+
+**Kouassi**
+
+Commercial & Ventes
+
+Il ne laisse jamais une opportunité refroidir.
+
+**Awa**
+
+Support & Relation client
+
+Elle répond à vos clients, jour et nuit, sur vos canaux.
+
+**Mamadou**
+
+Finance & Comptabilité
+
+Il garde vos comptes clairs et vos dossiers bancables.
+
+**Nadia**
+
+Data & Analytics
+
+Elle transforme vos chiffres en décisions.
+
+**Ibrahim**
+
+Juridique & Conformité
+
+Il tient le juridique carré, pour le privé comme pour le public.
+
+**Fatima**
+
+Marketing & Contenu
+
+Elle fait vivre votre marque, chaque semaine.
+
+**Salif**
+
+Opérations & Logistique
+
+Il fait tourner les stocks, les achats et les livraisons du quotidien.
+
+**Adjoua**
+
+Recrutement
+
+Elle trouve et évalue les bons profils.
+
+**Koffi**
+
+Design & Brand
+
+Il habille votre marque, du logo au site.
+
+**Fatou**
+
+RH & Paie
+
+Elle tient la paie sans faute et veille sur le quotidien de vos équipes.
+
+**Alioune**
+
+Investissement
+
+Il instruit vos dossiers d'investissement, du sourcing au suivi de participation.
+
+De nouveaux métiers sortent régulièrement, et un métier qui manque à votre activité peut être construit pour vous.
+
+Incluse dans chaque compte
+
+### Djénéba, votre Chief of Staff, orchestre vos Experts.
+
+Vous lui écrivez une seule fois : elle répartit le travail entre vos Experts, suit chaque tâche et vous rend un résultat complet.
+
+**Votre point d'entrée unique**
+
+- Vous lui écrivez une seule fois, sur le canal de votre choix
+
+- Elle répartit le travail entre vos Experts, avec le bon contexte
+
+- Elle suit chaque tâche et relance quand ça bloque
+
+- Elle vous rend un résultat complet, prêt à relire
+
+Elle est incluse dans chaque compte, dès le premier jour.
+
+Notre promesse
+
+### L'intelligence artificielle va très vite. On vous évite de naviguer à l'aveugle.
+
+On éprouve les technologies avant vous, on retient celle qui tient dans votre contexte, et votre Expert reste à jour au fil des versions sans que vous ayez à y penser.
+
+## Comment ça marche
+
+Comment ça marche
+
+### Trois piliers : contexte, mémoire, compétences
+
+Un Expert n'est utile que s'il comprend votre entreprise, s'en souvient et sait agir. C'est le sens du Y de notre logo : trois branches qui se rejoignent dans chaque Expert.
+
+**Contexte**
+
+Vos produits, vos règles, votre ton, et le terrain d'ici : droit OHADA, usages bancaires de la zone BCEAO. Il ne répond pas « en général », il répond pour votre entreprise.
+
+**Mémoire**
+
+Chaque échange, chaque décision, chaque dossier reste consultable en une question. Le savoir de l'entreprise s'accumule, même quand les équipes changent.
+
+**Compétences**
+
+Répondre, relancer, rédiger, classer, préparer un dossier : chaque Expert tient un vrai métier, dans vos outils et sur vos canaux. Vous gardez la main sur les actes sensibles.
+
+### Connectés à vos outils
+
+Chaque Expert travaille dans les applications que vos équipes utilisent déjà.
+
+**Messageries et e-mail**
+
+**Bureautique et documents**
+
+**Gestion et finance**
+
+**Vente et marketing**
+
+Plus de 3 000 autres outils par connecteurs ouverts. Vous autorisez, vous révoquez.
+
+Build, Operate, Transfer
+
+### On construit, on fait tourner, et vos Experts restent à vous
+
+Vous ne louez pas un logiciel : vous constituez une équipe d'Experts qui devient un actif de votre entreprise.
+
+**Construire**
+
+Nous construisons vos Experts à partir de la connaissance de vos métiers, nous les branchons à vos outils et les nourrissons de vos données et de vos façons de faire.
+
+**Opérer**
+
+Compétences, mises à jour, surveillance et qualité : tout est chez nous. Vous branchez votre compte de modèle, nous faisons le reste.
+
+**Transmettre**
+
+Vos Experts vous appartiennent, avec leur mémoire et leurs compétences. Si vous arrêtez, nous vous rendons tout dans un format lisible.
+
+L'IA au travail dans votre entreprise.
+
+Les entreprises qui avancent le plus vite ont déjà mis l'IA au travail. Encore faut-il qu'elle connaisse votre marché, vos règles et votre langue.
+
+C'est notre métier : mettre l'IA entre les mains de vos équipes, ici, en Afrique.
+
+Interopérabilité
+
+### Compatible avec les grands modèles
+
+Vous branchez votre compte (clé API) chez le fournisseur de votre choix, et la consommation vous est facturée directement par lui. Nous réglons vos Experts sur le modèle retenu et vous indiquons le plus adapté à chaque usage.
+
+Aucun fournisseur imposé : vous pouvez en changer quand un meilleur modèle arrive.
+
+### Du premier échange au déploiement
+
+Un parcours simple, que nous menons avec vous de bout en bout.
+
+**Vous choisissez**
+
+Vous créez votre espace en cinq minutes et choisissez vos Experts, en commençant par la fonction qui vous coûte le plus.
+
+**On branche**
+
+Nous connectons vos outils et nourrissons vos Experts de votre activité, de vos règles et de vos documents.
+
+**Ils travaillent**
+
+Vos Experts se mettent au travail dès aujourd'hui. Nous ajustons avec vos équipes et mesurons les résultats.
+
+**On étend**
+
+Expert après Expert, votre équipe IA grandit avec votre confiance.
+
+Comment ils travaillent
+
+### Autonomes et proactifs
+
+Vous donnez un objectif à un Expert Yelema, il trouve comment l'atteindre avec les outils que vous lui avez ouverts.
+
+**Vous fixez l'objectif**
+
+Par exemple : « aucun devis sans relance sous 72 heures » ou « toute demande client traitée le jour même ». L'Expert trouve comment y arriver.
+
+**Il travaille pendant que vous dormez**
+
+Pas de pause, pas de rappel à lui faire. La nuit, le week-end, les jours fériés : le travail avance et vous retrouvez l'état au matin.
+
+**Il décide, dans le cadre que vous fixez**
+
+Il choisit ses outils et adapte sa méthode. Sur les actes sensibles, il s'arrête et vous demande votre accord.
+
+**Il vous rend le travail fini**
+
+Le rapport, le devis, la fiche de paie ou le contrat arrivent prêts à relire et à envoyer.
+
+Notre différence
+
+### Un contrôle qualité sur chaque Expert
+
+Chaque Expert est encadré. Un second contrôle relit ses réponses, des tests réguliers mesurent sa fiabilité, et toute action sensible attend votre accord.
+
+**Niveau de contrôle Yelema**
+
+Sécurité et données
+
+### Vos données vous appartiennent.
+
+Elles restent protégées, et chaque garantie est écrite dans votre contrat.
+
+Aucun modèle entraîné Vos données servent à votre entreprise, à rien d'autre.
+
+Un espace par entreprise Aucun autre client n'y accède.
+
+Chiffrées en transit et au repos Vos échanges comme vos fichiers stockés.
+
+Sauvegardes quotidiennes Votre espace est sauvegardé chaque nuit.
+
+Chacun son espace Personne ne voit les conversations d'un collègue.
+
+Votre accord d'abord Rien de sensible ne part sans votre accord.
+
+Vous repartez avec tout Vos données rendues, les nôtres supprimées.
+
+Vos interlocuteurs à Abidjan Une équipe qui répond, dans votre fuseau.
+
+Une question de votre DSI ou de votre juriste ? Écrivez-nous, on répond au cas par cas.
 
 ## Offres et tarifs
 
@@ -456,77 +1590,57 @@ Vos Experts IA en abonnement mensuel, dès deux Experts, Djénéba incluse. À c
 
 **Vos Experts IA, en abonnement**
 
-Une équipe d'Experts IA en abonnement mensuel. Le forfait démarre à 2 Experts: Djénéba, votre Chief of Staff, incluse d'office, plus 1 Expert métier de votre choix.
-
-300 000 FCFA par mois pour les deux premiers Experts, puis 200 000 FCFA par mois par Expert de plus, sans limite. Installation : 1 000 000 FCFA par compte entreprise, au démarrage. Exemples: deux Experts, 300 000 FCFA par mois; trois Experts, 500 000; cinq Experts, 900 000.
+Une équipe d'Experts IA en abonnement mensuel. Le forfait démarre à 2 Experts : Djénéba, votre Chief of Staff, incluse d'office, plus 1 Expert métier de votre choix.
 
 - Djénéba, votre Chief of Staff incluse, orchestre la collaboration entre tous vos Experts
 
+- Chaque Expert personnalisable : visage, tenue, couleur de fond, prénom
+
 - Les Experts de votre choix, sur les métiers que vous voulez, ajoutés à tout moment
 
-- Vos canaux branchés: Telegram, Slack, Teams, e-mail et votre espace web
+- Vos canaux branchés : Telegram, Slack, Teams, e-mail et votre espace web.
 
 - Configuration sur votre activité, mémoire d'entreprise partagée entre vos Experts
 
 - Contrôle qualité, accompagnement et suivi compris
 
-Démarrer avec deux Experts
-
 **Votre développement IA, sur devis**
 
 Quand le besoin ne rentre pas dans un métier.
-
-Sur devis, chiffré après un premier échange
 
 - Un cas d'usage conçu, développé et exploité de bout en bout
 
 - Des workflows qui relient vos outils et automatisent un processus entier
 
-- Des applications IA à votre mesure: scoring, back-office, parcours client
+- Des applications IA à votre mesure : instruction de crédit, suivi de collecte agricole, pilotage d'atelier
 
 - Nous cadrons, construisons et opérons avec votre équipe
 
 - Vos données et vos processus restent les vôtres
 
-Parler de mon projet
+Ce que ça change
 
-Sécurité et données
+### Un Expert IA démultiplie le travail de votre équipe.
 
-### Vos données vous appartiennent.
+Prenons un exemple, Kouassi, l'Expert commercial. La journée ne s'allonge pas, elle se répartit autrement : il tient le flux, à toute heure et sans se déplacer, et votre commercial garde ce qui se joue en face à face.
 
-Elles restent protégées, et chaque garantie est écrite dans votre contrat.
+**Ce que Kouassi prend en plus**
 
-Conforme aux exigences de l'ARTCI. Instances certifiées SOC 2. Surveillance 24h/24. Hébergement local possible.
+**Ce que votre commercial garde**
 
-Sauvegardes quotidiennes Votre espace est sauvegardé chaque nuit.
+La bonne question
 
-Chacun son espace Personne ne voit les conversations d'un collègue.
+### Quel Expert apportera le plus de valeur à votre entreprise ?
 
-Vos interlocuteurs à Abidjan Une équipe qui répond, dans votre fuseau.
+Parlez-nous de votre activité, nous vous montrons l'Expert qui vous fera gagner le plus de temps.
 
-Vos données n'entraînent aucun modèle Ce qui passe par vos Experts sert à votre entreprise, à rien d'autre. Jamais à entraîner un modèle.
-
-Chaque entreprise est cloisonnée Vos documents, votre mémoire et vos accès vivent dans un espace qui n'est partagé avec aucun autre client.
-
-Chiffrées en transit et au repos Vos échanges comme vos fichiers stockés. Les accès à vos outils passent par des autorisations que vous accordez, et que vous retirez quand vous voulez.
-
-Votre accord d'abord Rien de sensible ne part sans votre accord.
-
-Vous repartez avec tout À tout moment, vos données vous sont rendues dans un format lisible et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
-
-Hébergement local en option Pour qui l'exige (secteur public, banque, santé), le déploiement peut rester en Côte d'Ivoire.
-
-Une question précise de votre direction des systèmes d'information ou de votre juriste?
-
-Écrivez-nous,
-
-on répond au cas par cas.
+Sécurité et données : ce que nous garantissons par contrat. Voir nos garanties →
 
 Au-delà des Experts
 
 ### Vos cas d'usage, développés de bout en bout
 
-Certains besoins ne se rangent pas dans un métier. Un moteur de scoring, un back-office qui parle à votre système, un parcours citoyen complet: nous les cadrons, les construisons et les opérons avec vous.
+Certains besoins ne se rangent pas dans un métier. Un moteur de scoring, un back-office qui parle à votre système, un parcours citoyen complet : nous les cadrons, les construisons et les opérons avec vous.
 
 **Cadrer**
 
@@ -540,13 +1654,39 @@ Nous connectons vos systèmes et écrivons ce qui manque : règles métier, inte
 
 Nous faisons tourner la solution, la surveillons et la faisons évoluer. Vos données et vos processus restent les vôtres.
 
-Ces projets se chiffrent au cas par cas, après un premier échange.
+Quelques exemples, par secteur
 
-### Un besoin sur-mesure?
+**Banque et microfinance**
+
+Un moteur instruit un dossier de crédit PME en lisant les relevés mobile money et les états financiers dans le même mouvement.
+
+**Distribution**
+
+Le réassort de tous vos points de vente se calcule chaque nuit, et les commandes fournisseurs attendent votre validation au matin.
+
+**Industrie**
+
+Les relevés d'atelier remontent en continu, l'alerte part avant la panne et le bon d'intervention arrive déjà rempli.
+
+**Agro-industrie**
+
+La collecte chez vos producteurs se suit du bon de pesée au paiement mobile, avec la traçabilité qu'exige l'export.
+
+**Télécoms**
+
+Les réclamations d'abonnés arrivent sur WhatsApp, se qualifient d'elles-mêmes et repartent vers la bonne équipe, incident réseau compris.
+
+**Administration**
+
+Un dossier citoyen s'instruit de bout en bout : pièces vérifiées, délais suivis, agent prévenu quand un dossier traîne.
+
+**Assurance**
+
+Une déclaration de sinistre arrive avec ses photos, le dossier se monte tout seul, et le gestionnaire ne reprend la main que sur ce qui demande un arbitrage.
+
+### Un besoin sur‑mesure ?
 
 Décrivez-nous votre besoin, nous vous proposons un cadrage et un devis ferme.
-
-Parler de mon projet
 
 ## Secteur privé et secteur public
 
@@ -556,23 +1696,19 @@ Pour qui
 
 Notre mission : faire de l'IA le plus grand levier des entreprises africaines, pour décupler ce qu'elles font déjà de mieux.
 
-Secteur privé
-
 **PME, startups et grands groupes**
 
-Absorbez la charge, professionnalisez vos processus et capitalisez votre savoir, sans alourdir votre masse salariale.
+Absorbez la charge, professionnalisez vos processus et capitalisez votre savoir, pendant que votre équipe se concentre sur vos clients.
 
 - Service client qui répond jour et nuit, sur vos canaux
 
-- Prospection et relances: devis suivis, impayés recouvrés
+- Prospection et relances : devis suivis, impayés recouvrés
 
-- Back-office: paie, notes de frais, dossiers bancaires
+- Back-office : paie, notes de frais, dossiers bancaires
 
-- Appels d'offres: veille, montage du dossier, pièces à jour
+- Appels d'offres : veille, montage du dossier, pièces à jour
 
 - Mémoire d'entreprise qui s'accumule et reste
-
-Secteur public
 
 **États & institutions**
 
@@ -580,7 +1716,7 @@ Rapprochez l'administration des citoyens et fluidifiez les services, avec les ga
 
 - Guichet citoyen sur les canaux que les gens utilisent déjà
 
-- Commande publique: dossiers montés, marchés suivis
+- Commande publique : dossiers montés, marchés suivis
 
 - Archives administratives, retrouvables en une question
 
@@ -590,177 +1726,37 @@ Rapprochez l'administration des citoyens et fluidifiez les services, avec les ga
 
 Ancré localement
 
-### Un Expert qui connaît le terrain, pas seulement le métier
+### Un Expert qui connaît le métier et le terrain
 
-Le droit, les règles bancaires et les moyens de paiement de la zone font partie de son cadre de travail. Ce n'est pas un réglage ajouté après coup.
+Le droit, les règles bancaires et les moyens de paiement de la zone font partie de son cadre de travail, dès le premier jour.
 
-Le cadre de la zone
+**Paiements**
 
-OHADA BCEAO ONECI CEPICI GIM-UEMOA
+Il encaisse et relance avec les services de paiement d'ici.
 
-Les paiements d'ici
+**Droit et conformité**
 
-Orange Money MTN MoMo Wave Moov Money Djamo Visa Mastercard
+Ses contrats et ses dossiers suivent le droit de la zone.
 
-### Un besoin plus large?
+**Fiscal, social et emploi**
+
+La paie, les déclarations et les embauches selon les règles locales.
+
+### Un besoin plus large ?
 
 Une équipe sur plusieurs métiers, une intégration à vos systèmes internes, un hébergement local : nous construisons le périmètre avec vous et nous l'opérons.
-
-Demander une proposition sur mesure
-
-Voir l'offre
-
-## Les Experts IA disponibles
-
-Le catalogue
-
-### Les Experts Yelema
-
-Chaque Expert tient un métier, avec des compétences précises et les outils qui vont avec. Ouvrez une fiche pour voir ce qu'il fait au quotidien, ce sur quoi il s'appuie, et un cas concret. Commencez par le poste où un Expert vous fera gagner le plus de temps.
-
-Incluse par défaut
-
-**Djénéba**
-
-Chief of Staff & Direction
-
-Elle orchestre l'équipe IA, aligne les priorités et libère votre agenda.
-
-Voir sa fiche →
-
-**Kouassi**
-
-Commercial & Ventes
-
-Il ne laisse jamais une opportunité refroidir.
-
-Voir sa fiche →
-
-**Awa**
-
-Support & Relation client
-
-Elle répond à vos clients, jour et nuit, sur vos canaux.
-
-Voir sa fiche →
-
-**Mamadou**
-
-Finance & Comptabilité
-
-Il garde vos comptes clairs et vos dossiers bancables.
-
-Voir sa fiche →
-
-**Nadia**
-
-Data & Analytics
-
-Elle transforme vos chiffres en décisions.
-
-Voir sa fiche →
-
-**Ibrahim**
-
-Juridique & Conformité
-
-Il tient le juridique carré, pour le privé comme pour le public.
-
-Voir sa fiche →
-
-**Fatima**
-
-Marketing & Contenu
-
-Elle fait vivre votre marque, chaque semaine.
-
-Voir sa fiche →
-
-**Salif**
-
-Opérations & Admin
-
-Il fait tourner l'administratif et la trésorerie du quotidien.
-
-Voir sa fiche →
-
-**Adjoua**
-
-Recrutement
-
-Elle trouve et évalue les bons profils.
-
-Voir sa fiche →
-
-**Koffi**
-
-Design & Brand
-
-Il habille votre marque, du logo au site.
-
-Voir sa fiche →
-
-**Fatou**
-
-RH & Paie
-
-Elle tient la paie sans faute et veille sur le quotidien de vos équipes.
-
-Voir sa fiche →
-
-**Alioune**
-
-Investissement
-
-Il instruit vos dossiers d'investissement, du sourcing au suivi de participation.
-
-Voir sa fiche →
-
-De nouveaux métiers sortent régulièrement, et un métier qui manque à votre activité peut être construit pour vous.
-
-### Djénéba, incluse par défaut dans chaque compte.
-
-Djénéba djeneba@votre-entreprise.com
-
-C'est votre super assistante, et c'est elle qui gère le reste de votre équipe. Vous lui écrivez une seule fois : elle répartit le travail entre vos Experts, suit chaque tâche et vous rend un résultat complet.
-
-Vous commencez avec 2 ou 3 Experts sur vos priorités, puis vous étendez à mesure que la confiance s'installe.
-
-Comment ça marche →
-
-**Vous lui écrivez**
-
-Comme à une collaboratrice, sur vos canaux ou à son adresse e-mail.
-
-**Elle répartit et coordonne**
-
-Chaque demande arrive au bon Expert, avec le bon contexte.
-
-**Vous validez, elle exécute**
-
-Les actions sensibles attendent votre feu vert.
 
 ## Contact
 
 Contact
 
-### Composons votre équipe d'Experts
+### Composons votre équipe d' Experts
 
 Dites-nous votre métier et vos priorités. On revient avec une première équipe d'Experts et un plan de déploiement.
 
 **Parler à l'équipe Yelema**
 
-On vous répond rapidement.
-
-Dites-nous ce qui vous prend le plus de temps aujourd'hui, on part de là.
-
-E-mail contact@yelema.ai
-
-Abidjan Ivoire Trade Center, rez-de-chaussée de la tour D
-
-Abidjan, Côte d'Ivoire
-
-Demander une démo
+On vous répond rapidement. Dites-nous ce qui vous prend le plus de temps aujourd'hui, on part de là.
 
 **Ce qu'on vous prépare**
 
@@ -768,151 +1764,13 @@ Demander une démo
 
 - Un exemple sur l'un de vos cas réels
 
-- Un devis clair, chiffré sur votre périmètre
+- Une proposition chiffrée selon les Experts retenus
 
 Sans engagement.
 
-l'IA pour l'Afrique.
-
-Yelema déploie des Experts IA dans les entreprises d'Afrique francophone.
-
-Ivoire Trade Center, rez-de-chaussée de la tour D
-
-Abidjan, Côte d'Ivoire
-
-Naviguer
-
-Accueil Les Experts
-
-Comment ça marche Offres et tarifs
-
-Clients
-
-Carrières
-
-Les Experts Ventes Support Marketing RH et paie Finance Juridique
-
-Voir tous les Experts
-
-Recevoir les actualités
-
-Une fois par mois, ce que l'IA change vraiment pour les entreprises
-
-d'Afrique francophone. Ce qui marche, et ce qui ne marche pas.
-
-S'inscrire
-
-© 2026 Yelema. Abidjan, Côte d'Ivoire
-
-Politique de confidentialité
-
-contact@yelema.ai
-
-×
-
-Démonstration
-
-**Voyons ce que ça donne chez vous**
-
-On vous montre un Expert au travail dans vos outils, sur votre activité réelle.
-
-Votre nom
-
-Votre entreprise
-
-Votre e-mail
-
-Votre téléphone
-
-🇨🇮 +225 🇸🇳 +221 🇧🇯 +229 🇧🇫 +226 🇲🇱 +223 🇳🇪 +227 🇹🇬 +228 🇬🇼 +245 🇨🇲 +237 🇬🇳 +224 🇬🇭 +233 🇲🇦 +212 🇬🇦 +241 🇨🇬 +242 🇫🇷 +33 🇧🇪 +32 🇨🇦 +1
-
-Le métier qui vous intéresse
-
-Choisissez un métier
-
-Commercial et ventes Support et relation client
-
-Marketing et contenu RH et paie
-
-Finance et comptabilité Juridique et conformité
-
-Opérations et administration Data et analytics
-
-Recrutement Design et marque
-
-Chief of Staff
-
-Autre
-
-Précisez le métier
-
-Dites-nous en plus, si vous le souhaitez
-
-Demander une démo
-
-Merci, votre demande est enregistrée. On revient
-
-vers vous rapidement.
-
-Vos coordonnées servent uniquement à vous recontacter.
-
-Aucune inscription à une liste sans votre accord.
-
-## Les questions fréquentes
-
-### Un Expert Yelema, c'est quoi exactement ?
-
-C'est un collègue IA qui tient un poste dans votre entreprise : recrutement, finance, ventes, juridique ou support. Il connaît votre activité, se souvient de tout ce que vous lui avez appris et agit dans vos outils, sur vos canaux. Vous lui fixez un objectif, il s'organise pour l'atteindre. Techniquement, c'est un agent IA, et notre équipe le suit au quotidien.
-
-### On a déjà ChatGPT ou Copilot : pourquoi un Expert ?
-
-Ces outils répondent à la personne qui les ouvre, mais ils ne connaissent pas votre entreprise et n'agissent dans aucun de vos outils : il faut tout réexpliquer, puis recopier le résultat à la main. Un Expert IA tient un poste. Il garde la mémoire de votre activité, travaille directement dans vos outils et sur vos canaux, et notre équipe l'opère. Il s'appuie d'ailleurs sur ces mêmes modèles, en choisissant pour chaque tâche celui qui la fait le mieux.
-
-### Et les agents Dots, Muse ou Grok Bot ?
-
-Ce sont des assistants personnels : chacun crée le sien et le règle seul, pour lui-même. Un Expert Yelema arrive déjà formé à son métier et à votre entreprise, travaille pour toute l'équipe, en français, et notre équipe le suit au quotidien. Voir nos comparatifs détaillés (https://yelema.ai/vs-chatgpt.html)
-
-### Pourquoi ne pas passer par une agence tech ?
-
-Une agence livre un outil, puis passe au projet suivant. Or un agent ne vaut que par ce qu'il sait de votre métier et de vos règles. Chaque Expert Yelema est écrit avec des gens du métier et testé par eux jusqu'à ce que son travail vaille celui de la personne qui le faisait avant. Ensuite, notre équipe continue de le suivre et de l'améliorer.
-
-### Comment se passe le déploiement ?
-
-Vous créez votre espace en cinq minutes et vous choisissez vos Experts, en commençant par la fonction qui vous coûte le plus, en temps ou en argent. Nous branchons vos outils et réglons vos Experts sur votre activité : ils sont au travail dès le premier jour. Rien à installer de votre côté, aucune équipe informatique à mobiliser. Vos équipes leur parlent sur Telegram, Slack, Teams ou par e-mail, et votre espace web garde tout ce qu'ils produisent.
-
-### Est-ce que vous déployez en dehors de la Côte d'Ivoire ?
-
-Oui. Nous déployons en Afrique francophone, en commençant par les huit pays de l'UEMOA : le Bénin, le Burkina Faso, la Côte d'Ivoire, la Guinée-Bissau, le Mali, le Niger, le Sénégal et le Togo. Nos Experts connaissent déjà le droit OHADA et les règles bancaires de la zone, et l'équipe qui les opère est à Abidjan.
-
-### Est-ce qu'il agit à ma place, ou remplace mes employés ?
-
-Ni l'un ni l'autre. Vous décidez, outil par outil, ce qu'il prépare et ce qu'il envoie seul, et ce droit se retire aussi vite qu'il se donne. Il reprend ce qui, dans un poste, se répète et s'écrit : le tri, la saisie, la relance, la mise en forme. Un recruteur qui travaille avec Adjoua ne lit plus deux cents CV, il reçoit des profils déjà notés et garde l'entretien. La décision et la relation restent humaines.
-
-### Et s'il se trompe, ou si un modèle tombe en panne ?
-
-Chaque Expert est encadré. Un second contrôle relit ses réponses, des tests réguliers mesurent sa fiabilité, et tout acte sensible (un envoi au nom de l'entreprise, un engagement, un paiement) attend votre accord. Il ne dépend d'aucun modèle unique : si un modèle tombe ou qu'un meilleur sort, nous le changeons sans que rien ne bouge pour vous, ni son prénom, ni ses canaux, ni sa mémoire.
-
-### Combien ça coûte, et qu'est-ce qui est compris ?
-
-300 000 F CFA par mois pour deux Experts, puis 200 000 F CFA par Expert ajouté. L'accompagnement, le contrôle qualité et le suivi sont compris. L'installation coûte 1 000 000 F CFA, une seule fois, au démarrage. Restent à votre charge la consommation des modèles d'intelligence artificielle et les abonnements aux outils que vous utilisez déjà.
-
-### Mes données sont-elles protégées ?
-
-Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et en lecture seule quand cela suffit. Vos données n'entraînent aucun modèle, et chaque entreprise est cloisonnée. Entre collègues aussi : personne ne voit les conversations ni les fichiers d'un autre, direction comprise, sauf ce qu'il choisit de partager. Si vous le souhaitez, vos Experts peuvent aussi tourner sur vos propres serveurs.
-
-### Si j'arrête, à qui appartiennent mes Experts ?
-
-À vous. Vos Experts, leur mémoire et leurs compétences sont un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Si vous arrêtez, nous vous rendons vos données dans un format lisible et nous supprimons nos copies. Aucun enfermement, ni technique ni contractuel.
-
-### Mes équipes doivent-elles savoir se servir de l'IA ?
-
-Non. Elles lui parlent comme à un collègue, en français, par écrit ou par message vocal : sur votre espace de travail Yelema, sur Telegram, sur Slack ou sur Teams. Pas de formation à suivre, ni de jargon à apprendre.
-
 ## Les fiches d'Experts
 
-### Kouassi, commercial
-
-← Tous les Experts
+## Kouassi
 
 Expert IA Yelema
 
@@ -922,39 +1780,39 @@ Commercial & Ventes
 
 Il ne laisse jamais une opportunité refroidir.
 
-Prêt à l'emploi
+Tâches terminées aujourd'hui 5/5
 
-Telegram Slack Teams E-mail Espace web
+- Demande entrante qualifiée Supermarché à Cocody, 300 unités par mois
 
-En action Un devis envoyé il y a 5 jours reste sans réponse. Kouassi relance avec un message personnalisé, propose un appel, et prévient le commercial que le prospect a rouvert le devis deux fois. L'affaire repart.
+- Devis relancé Distributeur à Bouaké, ouvert deux fois
 
-Sa valeur ajoutée Un pipeline toujours à jour et des relances jamais oubliées: mécaniquement, plus d'affaires signées, sans alourdir votre équipe commerciale.
+- Rendez-vous calé Démo jeudi 10h, hôtel d'Assinie
 
-Kouassi WhatsApp 21h38
+- Pipeline mis à jour 3 affaires passées en négociation
 
-Devis relancé chez Sotra Distribution. Le client l'a rouvert deux fois ce soir, j'ai prévenu le commercial.
+- Point de fin de journée envoyé Affaires chaudes et blocages
 
-Relance envoyée
+Il travaille dans vos outils
 
-Kouassi en ligne
+Bureautique
 
-Telegram
+CRM et prospection
 
-Bonjour, j'ai vu votre offre. Vous faites des tarifs grossistes?
+Données et tableaux de bord
 
-Bonjour 👋 Oui, à partir de 50 unités. C'est pour quel volume mensuel?
+Outils d'ici
 
-Environ 300 par mois, on est un supermarché
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
 
-Parfait, ça vous place sur notre grille grossiste. Je prépare le devis et je vous propose demain 10h avec notre commercial. Ça vous va?
+### Sa mission
 
-PDF Devis_Sotra_Distribution.pdf 212 Ko
+Le développement commercial de bout en bout : trouver les bons prospects, les relancer au bon moment, préparer les devis et garder le pipeline vivant, du premier message à la signature.
 
-Écrivez un message… ➤
+Un devis envoyé il y a 5 jours reste sans réponse. Kouassi relance avec un message personnalisé, propose un appel, et prévient le commercial que le prospect a rouvert le devis deux fois. L'affaire repart.
 
-### Sa fonction
+Un pipeline toujours à jour et des relances jamais oubliées : mécaniquement, plus d'affaires signées, et des commerciaux qui passent leur temps à vendre.
 
-Le développement commercial de bout en bout: trouver les bons prospects, les relancer au bon moment, préparer les devis et garder le pipeline vivant, du premier message à la signature.
+Devis relancé chez Établissements Yao. Le client l'a rouvert deux fois ce soir, j'ai prévenu le commercial.
 
 ### Ce qu'il fait au quotidien
 
@@ -966,88 +1824,69 @@ Le développement commercial de bout en bout: trouver les bons prospects, les re
 
 - Signale au dirigeant les affaires chaudes et celles qui coincent
 
+### Ce dont il a besoin
+
+- Catalogue et grille tarifaire
+
+- Liste des clients et des prospects
+
+- Historique des devis émis
+
+- Conditions de remise autorisées
+
+- Canaux par lesquels arrivent les demandes
+
+### Soumis à votre accord
+
+Ces actions nécessitent votre validation explicite avant exécution.
+
+- Envoi d'un devis ou d'un prix
+
+- Remise au-delà du barème
+
+- Engagement de délai auprès d'un client
+
+- Prise de contact avec un compte stratégique
+
 ### Ce qu'il fait sans qu'on le demande
 
-- Envoie le point de fin de journée (chaque jour ouvré)
+Il tient ces rendez-vous seul, sans attendre qu'on le relance.
 
-- Envoie le rapport d'activité de la semaine (chaque semaine)
+- Envoie le point de fin de journée Chaque jour ouvré
 
-- Relance un livrable remis resté sans retour depuis trois jours (deux fois par semaine)
+- Envoie le rapport d'activité de la semaine Chaque semaine
 
-- Revient sur une question restée sans réponse depuis 48 heures (chaque jour ouvré)
+- Relance un livrable remis resté sans retour depuis trois jours Deux fois par semaine
 
-- Vérifie que chacun de ses accès répond (chaque jour)
+- Revient sur une question restée sans réponse depuis 48 heures Chaque jour ouvré
 
-### Ses modèles de livrable
+- Vérifie que chacun de ses accès répond Chaque jour
 
-Compte rendu de visite, Dossier de soumission, Fiche de conditions revendeur, Fiche de risque client, Plan de tournée, Point commercial hebdomadaire, Proposition commerciale et devis
+### Ses livrables
 
+Ce qu'il vous remet, prêt à relire. Il ne l'envoie qu'après votre accord.
+
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Il vend sur les canaux d'ici : la relation se noue sur WhatsApp, le devis se règle souvent en mobile money, et un grand compte impose son propre circuit de bon de commande. Il sait à quel moment un dossier se règle en espèces, combien de relances tient un acheteur avant de se fermer, et quels circuits d'achat exigent une commande signée.
 
 ### Ses outils métiers
 
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+Branché à vos outils, avec plus de 3 000 intégrations prêtes.
 
-WhatsApp Gmail LinkedIn Google Sheets Calendly HubSpot
-
-Joignable là où vous êtes déjà:
-
-Telegram Slack Teams E-mail Espace web
+Joignable là où vous êtes déjà :
 
 ### Ses compétences
 
 Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Il n'improvise pas.
 
-Client idéal (ICP) Définit le profil d'entreprise à cibler en priorité à partir de votre activité.
-
-Prospection B2B Trouve et qualifie des profils d'entreprises correspondant à votre cible.
-
-Séquences de relance Rédige les messages d'approche J0/J3/J7 personnalisés sur WhatsApp, e-mail et LinkedIn.
-
-Tri des demandes entrantes Classe les messages par intention et température, répond et pousse au rendez-vous.
-
-Signaux d'achat Repère les signaux (recrutement, expansion, lancement) qui indiquent qu'un compte est prêt.
-
-Scoring & suivi des leads Note chaque piste de 0 à 100 et relance, sans laisser mourir une opportunité.
-
-Pricing local (FCFA) Recommande une grille de prix avec benchmark régional UEMOA, en FCFA et USD.
-
-Playbook de vente Construit l'argumentaire et le pitch, pour le B2B formel comme informel.
-
-Analytics des ventes Teste les messages et suit le tunnel de conversion étape par étape.
-
 ### Pourquoi il est pertinent pour une entreprise d'ici
 
-Une affaire se gagne au bon suivi, au bon moment. C'est exactement ce qu'un humain débordé laisse filer, et ce que Kouassi ne rate jamais.
+Une affaire se gagne au bon suivi, au bon moment. Kouassi tient ce suivi, pour que votre équipe garde son temps pour la vente.
 
-### Les autres Experts
-
-Djénéba
-
-Awa
-
-Fatima
-
-Fatou
-
-Mamadou
-
-Ibrahim
-
-Salif
-
-Nadia
-
-Adjoua
-
-Koffi
-
-Alioune
-
-Composer mon équipe →
-
-### Awa, support client
-
-← Tous les Experts
+## Awa
 
 Expert IA Yelema
 
@@ -1057,39 +1896,37 @@ Support & Relation client
 
 Elle répond à vos clients, jour et nuit, sur vos canaux.
 
-Prête à l'emploi
+Tâches terminées aujourd'hui 4/4
 
-Telegram Slack Teams E-mail Espace web
+- 42 messages clients traités Réponse en moins d'une minute
 
-En action Un client écrit à 22h « ma livraison n'est pas arrivée ». Awa retrouve la commande, explique le statut, propose un créneau de rappel, et laisse une note pour l'équipe du matin. Le client a une réponse tout de suite; l'équipe garde le contrôle.
+- Commande retrouvée Livraison à Yopougon, suivi envoyé
 
-Sa valeur ajoutée Zéro message client sans réponse, et un temps de réponse divisé par plusieurs, sans monter une équipe de nuit.
+- Réclamation escaladée Client mécontent signalé au responsable
 
-Awa WhatsApp 03h47
+- Facture renvoyée Copie demandée par un client de Marcory
 
-Douze demandes clients traitées cette nuit. Deux escaladées à l'équipe pour ce matin.
+Elle travaille dans vos outils
 
-12 traitées, 2 escaladées
+Bureautique
 
-Awa en ligne
+Relation client
 
-Telegram
+Données et tableaux de bord
 
-Bonjour, je n'ai pas reçu ma commande #4820
+Outils d'ici
 
-Bonjour 👋 Je vérifie… Votre colis est en livraison, arrivée prévue aujourd'hui avant 18h. Je vous envoie le suivi?
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
 
-Oui merci
-
-Voici le lien de suivi 📦. J'ai noté votre message pour l'équipe. Autre chose?
-
-PDF Recapitulatif_commande_4820.pdf 96 Ko
-
-Écrivez un message… ➤
-
-### Sa fonction
+### Sa mission
 
 Le guichet client de l'entreprise, ouvert 24h/24, qui absorbe les demandes entrantes, y répond, et n'en laisse aucune sans suite.
+
+Un client écrit à 22h « ma livraison n'est pas arrivée ». Awa retrouve la commande, explique le statut, propose un créneau de rappel, et laisse une note pour l'équipe du matin. Le client a une réponse tout de suite ; l'équipe garde le contrôle.
+
+Zéro message client sans réponse, et un temps de réponse divisé par plusieurs, y compris la nuit et le week-end.
+
+Douze demandes clients traitées cette nuit. Deux escaladées à l'équipe pour ce matin.
 
 ### Ce qu'elle fait au quotidien
 
@@ -1097,88 +1934,73 @@ Le guichet client de l'entreprise, ouvert 24h/24, qui absorbe les demandes entra
 
 - Retrouve une commande, une facture ou un historique sans faire attendre
 
-- Trie les demandes: ce qu'elle traite seule vs. ce qu'elle escalade
+- Trie les demandes : ce qu'elle traite seule vs. ce qu'elle escalade
 
 - Détecte les clients mécontents ou silencieux et prévient un responsable
 
+### Ce dont elle a besoin
+
+- Catalogue et fiches produits
+
+- Historique des commandes
+
+- Politique de retour et de remboursement
+
+- Questions fréquentes déjà traitées
+
+- Règles d'escalade
+
+### Soumis à votre accord
+
+Ces actions nécessitent votre validation explicite avant exécution.
+
+- Geste commercial ou remboursement
+
+- Annulation d'une commande
+
+- Promesse de délai faite à un client
+
+- Message diffusé à toute la base client
+
 ### Ce qu'elle fait sans qu'on le demande
 
-- Envoie le point de fin de journée (chaque jour ouvré)
+Elle tient ces rendez-vous seule, sans attendre qu'on la relance.
 
-- Envoie le rapport d'activité de la semaine (chaque semaine)
+- Envoie le point de fin de journée Chaque jour ouvré
 
-- Relance un livrable remis resté sans retour depuis trois jours (deux fois par semaine)
+- Envoie le rapport d'activité de la semaine Chaque semaine
 
-- Revient sur une question restée sans réponse depuis 48 heures (chaque jour ouvré)
+- Relance un livrable remis resté sans retour depuis trois jours Deux fois par semaine
 
-- Vérifie que chacun de ses accès répond (chaque jour)
+- Revient sur une question restée sans réponse depuis 48 heures Chaque jour ouvré
 
-### Ses modèles de livrable
+- Vérifie que chacun de ses accès répond Chaque jour
 
-Bilan de satisfaction, Engagement de service et chemin d'escalade, Fiche de prise en charge après-vente, Fiche de réclamation, Fiche réponse type, Note de causes récurrentes, Réponse au client
+### Ses livrables
 
+Ce qu'elle vous remet, prêt à relire. Elle ne l'envoie qu'après votre accord.
+
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Elle répond là où les clients écrivent, retrouve un règlement mobile money à partir d'un simple numéro de transaction, et comprend le français d'ici comme les tournures du quotidien. Elle connaît les heures où le réseau sature, ce qu'un client accepte d'attendre, et la différence entre un incident d'opérateur et une panne de votre service.
 
 ### Ses outils métiers
 
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+Branchée à vos outils, avec plus de 3 000 intégrations prêtes.
 
-Telegram WhatsApp Gmail Google Sheets Notion Zendesk
-
-Joignable là où vous êtes déjà:
-
-Telegram Slack Teams E-mail Espace web
+Joignable là où vous êtes déjà :
 
 ### Ses compétences
 
 Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Elle n'improvise pas.
 
-Tri des tickets Classe chaque demande entrante par urgence, sentiment et sujet, et l'assigne au bon interlocuteur.
-
-FAQ & articles d'aide Repère les questions récurrentes et génère les réponses et articles d'aide prêts à publier.
-
-Parcours WhatsApp Conçoit les flux WhatsApp de bout en bout: accueil, KYC, paiement, FAQ, escalade.
-
-Analyse de satisfaction (NPS) Analyse les retours clients, distingue promoteurs et détracteurs, remonte les verbatims.
-
-Score de santé client Note chaque client selon usage, paiements et tickets pour repérer ceux à risque.
-
-Suivi d'onboarding Accompagne les nouveaux clients sur leurs 30 premiers jours et détecte les décrochages.
-
-Rétention / anti-churn Déclenche une séquence de sauvetage dès qu'un client montre des signes de départ.
-
 ### Pourquoi elle est pertinente pour une entreprise d'ici
 
 Vos clients écrivent sur WhatsApp, à toute heure. Sans réponse rapide, ils vont voir ailleurs. Awa ne dort jamais et parle leur langue.
 
-### Les autres Experts
-
-Djénéba
-
-Kouassi
-
-Fatima
-
-Fatou
-
-Mamadou
-
-Ibrahim
-
-Salif
-
-Nadia
-
-Adjoua
-
-Koffi
-
-Alioune
-
-Composer mon équipe →
-
-### Fatima, marketing
-
-← Tous les Experts
+## Fatima
 
 Expert IA Yelema
 
@@ -1188,39 +2010,37 @@ Marketing & Contenu
 
 Elle fait vivre votre marque, chaque semaine.
 
-Prête à l'emploi
+Tâches terminées aujourd'hui 4/4
 
-Telegram Slack Teams E-mail Espace web
+- Posts de la semaine programmés 5 publications validées
 
-En action Pour le lancement d'une offre, Fatima propose un plan de 6 posts, rédige les textes, prépare les visuels, programme la semaine et livre une newsletter prête à valider. Le fondateur relit et publie en un clic.
+- Visuels préparés Campagne de fin d'année
 
-Sa valeur ajoutée Un calendrier éditorial tenu sans effort et une marque toujours présente. La régularité que personne n'a le temps d'assurer.
+- Commentaires traités 18 réponses, 2 remontées
 
-Fatima Telegram 05h12
+- Post d'entreprise publié Ouverture du point de vente de Cocody
 
-Le calendrier éditorial de septembre est prêt: dix-huit publications, visuels compris.
+Elle travaille dans vos outils
 
-Prêt à valider
+Bureautique
 
-Fatima en ligne
+Réseaux et campagnes
 
-Telegram
+Données et tableaux de bord
 
-Il me faut 5 posts pour la promo de fin de mois
+Outils d'ici
 
-C'est parti 🎨 Je propose: teasing J-3, l'offre, un témoignage client, compte à rebours, dernier jour. Je rédige et je brande?
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
 
-Oui vas-y
+### Sa mission
 
-Voici les 5 posts + visuels, programmés lun→ven. Tu relis et je publie ✅
+La présence de marque complète : stratégie, production et programmation des contenus, animation des réseaux et relation presse, dans votre voix.
 
-XLSX Calendrier_editorial_fin_de_mois.xlsx 84 Ko
+Pour le lancement d'une offre, Fatima propose un plan de 6 posts, rédige les textes, prépare les visuels, programme la semaine et livre une newsletter prête à valider. Le fondateur relit et publie en un clic.
 
-Écrivez un message… ➤
+Un calendrier éditorial tenu sans effort et une marque toujours présente. La régularité que personne n'a le temps d'assurer.
 
-### Sa fonction
-
-La présence de marque complète: stratégie, production et programmation des contenus, animation des réseaux et relation presse, dans votre voix.
+Le calendrier éditorial de septembre est prêt : dix-huit publications, visuels compris.
 
 ### Ce qu'elle fait au quotidien
 
@@ -1232,90 +2052,69 @@ La présence de marque complète: stratégie, production et programmation des co
 
 - Suit ce qui marche et ajuste le calendrier éditorial
 
+### Ce dont elle a besoin
+
+- Charte et éléments de marque
+
+- Accès aux comptes des réseaux
+
+- Offres et arguments à mettre en avant
+
+- Calendrier de vos temps forts
+
+- Photos et visuels disponibles
+
+### Soumis à votre accord
+
+Ces actions nécessitent votre validation explicite avant exécution.
+
+- Publication d'un post
+
+- Envoi d'une newsletter
+
+- Réponse publique à un commentaire sensible
+
+- Prise de parole auprès de la presse
+
 ### Ce qu'elle fait sans qu'on le demande
 
-- Rappelle les échéances de production et de diffusion des campagnes (chaque jour ouvré)
+Elle tient ces rendez-vous seule, sans attendre qu'on la relance.
 
-- Produit le point de la semaine sur la présence de l'entreprise (chaque semaine)
+- Rappelle les échéances de production et de diffusion des campagnes Chaque jour ouvré
 
-- Fait la veille de la communication des concurrents (chaque mois)
+- Produit le point de la semaine sur la présence de l'entreprise Chaque semaine
 
-- Produit le bilan marketing du mois pour la direction (chaque mois)
+- Fait la veille de la communication des concurrents Chaque mois
 
-- Envoie le point de fin de journée (chaque jour ouvré)
+- Produit le bilan marketing du mois pour la direction Chaque mois
 
-### Ses modèles de livrable
+- Envoie le point de fin de journée Chaque jour ouvré
 
-Bilan de campagne, Calendrier éditorial, Communiqué de presse, Plan de campagne, Publication pour les réseaux, Script de spot radio ou télévision, Texte d'une page de site
+### Ses livrables
 
+Ce qu'elle vous remet, prêt à relire. Elle ne l'envoie qu'après votre accord.
+
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Elle écrit pour un public d'ici : les temps forts de l'année ivoirienne, les codes de la conversation sur WhatsApp et Facebook, et des formats assez légers pour un forfait data. Elle connaît le prix d'une campagne sur les réseaux de la place, les heures où l'audience est réveillée, et les formats qui se partagent en statut plutôt qu'en publication.
 
 ### Ses outils métiers
 
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+Branchée à vos outils, avec plus de 3 000 intégrations prêtes.
 
-Instagram Facebook LinkedIn WhatsApp Buffer Canva
-
-Joignable là où vous êtes déjà:
-
-Telegram Slack Teams E-mail Espace web
+Joignable là où vous êtes déjà :
 
 ### Ses compétences
 
 Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Elle n'improvise pas.
 
-Stratégie de marque Positionnement, voix de marque et message: le socle de votre communication.
-
-Calendrier éditorial Planifie et produit les posts multi-réseaux (attirer / convertir / fidéliser).
-
-Visuels de marque (Canva) Génère posts, carrousels et stories brandés, prêts à publier.
-
-Programmation multi-canaux Programme les publications au bon moment, au format natif de chaque plateforme.
-
-Community management Trie et répond aux commentaires et messages privés sur les réseaux.
-
-Veille des tendances Suit chaque semaine les tendances des réseaux par canal et par pays.
-
-SEO Mots-clés, briefs et suivi de positions pour être trouvé sur Google.
-
-Publicité payante Décide où, combien et comment investir avant la première campagne.
-
-Relations presse Sourcing de médias, communiqués et préparation des prises de parole.
-
-Emailing & newsletters Rédige relances et newsletters engageantes.
-
 ### Pourquoi elle est pertinente pour une entreprise d'ici
 
-Une marque qui se tait disparaît. Fatima la fait vivre régulièrement, sans mobiliser une agence à plein temps.
+Une marque qui se tait disparaît. Fatima la fait vivre chaque semaine, sur tous vos canaux.
 
-### Les autres Experts
-
-Djénéba
-
-Kouassi
-
-Awa
-
-Fatou
-
-Mamadou
-
-Ibrahim
-
-Salif
-
-Nadia
-
-Adjoua
-
-Koffi
-
-Alioune
-
-Composer mon équipe →
-
-### Fatou, RH et paie
-
-← Tous les Experts
+## Fatou
 
 Expert IA Yelema
 
@@ -1325,132 +2124,109 @@ RH & Paie
 
 Elle tient la paie sans faute et veille sur le quotidien de vos équipes.
 
-Prête à l'emploi
+Tâches terminées aujourd'hui 4/4
 
-Telegram Slack Teams E-mail Espace web
+- Questions des salariés traitées Congés, soldes et bulletins
 
-En action Un salarié demande son solde de congés et une attestation. Fatou répond avec le solde exact, génère l'attestation, la fait valider par la RH, et l'envoie, en dix minutes au lieu de deux jours.
+- Éléments de paie vérifiés Heures supplémentaires et absences du mois
 
-Sa valeur ajoutée Les demandes RH traitées en minutes, une paie juste et plus aucune échéance sociale oubliée, sans DRH à plein temps.
+- Fins de contrat suivies 2 renouvellements à décider
 
-Fatou E-mail 06h20
+- Parcours d'arrivée prêt Nouvelle recrue de lundi
+
+Elle travaille dans vos outils
+
+Bureautique
+
+Paie et gestion
+
+Outils d'ici
+
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+### Sa mission
+
+L'administration RH du quotidien, conforme au Code du travail ivoirien : paie, congés, contrats, questions des salariés, évaluations. De quoi libérer le temps humain.
+
+Un salarié demande son solde de congés et une attestation. Fatou répond avec le solde exact, génère l'attestation, la fait valider par la RH, et l'envoie, en dix minutes au lieu de deux jours.
+
+Les demandes RH traitées en minutes, une paie juste et plus aucune échéance sociale oubliée, cotisations CNPS et impôts sur salaires compris.
 
 Les trente-quatre bulletins de paie du mois sont générés. Deux écarts d'heures signalés.
-
-34 bulletins
-
-Fatou en ligne
-
-Telegram
-
-Combien coûte un commercial payé 400 000 net?
-
-Je te calcule ça: à 400 000 net, compte environ 590 000 à 620 000 FCFA de coût total employeur (brut + charges CNPS/IGR). Je te sors le détail ligne par ligne?
-
-Oui stp
-
-Voici la décomposition 📄. Si tu recrutes, je passe la main à Ibrahim pour le contrat de travail.
-
-XLSX Cout_employeur_commercial.xlsx 62 Ko
-
-Écrivez un message… ➤
-
-### Sa fonction
-
-L'administration RH du quotidien, conforme OHADA: paie, congés, contrats, questions des salariés, évaluations. De quoi libérer le temps humain.
 
 ### Ce qu'elle fait au quotidien
 
 - Répond aux questions des salariés (congés, soldes, paie, documents)
 
-- Prépare les éléments de paie et vérifie les calculs UEMOA
+- Prépare les éléments de paie et vérifie chaque calcul
 
-- Suit les échéances: fins de contrat, renouvellements, entretiens
+- Suit les échéances : fins de contrat, renouvellements, entretiens
 
-- Onboarde les nouveaux: parcours, documents, premiers repères
+- Accueille les nouveaux arrivants : parcours, documents, premiers repères
+
+### Ce dont elle a besoin
+
+- Contrats et avenants
+
+- Grille des salaires
+
+- Registre des congés
+
+- Numéros d'immatriculation sociale
+
+- Politiques internes existantes
+
+### Soumis à votre accord
+
+Ces actions nécessitent votre validation explicite avant exécution.
+
+- Envoi d'un bulletin ou d'une attestation
+
+- Notification adressée à un salarié
+
+- Déclaration sociale
+
+- Diffusion d'une politique RH
 
 ### Ce qu'elle fait sans qu'on le demande
 
-- Lance la collecte des variables de paie du mois (chaque mois)
+Elle tient ces rendez-vous seule, sans attendre qu'on la relance.
 
-- Signale les échéances du personnel où il reste une action à mener (chaque semaine)
+- Lance la collecte des variables de paie du mois Chaque mois
 
-- Repère les dossiers du personnel incomplets et ce qui se répare (chaque semaine)
+- Signale les échéances du personnel où il reste une action à mener Chaque semaine
 
-- Fait le point du jour sur les non-permanents (chaque jour)
+- Repère les dossiers du personnel incomplets et ce qui se répare Chaque semaine
 
-- Envoie le point de fin de journée (chaque jour ouvré)
+- Fait le point du jour sur les non-permanents Chaque jour
 
-### Ses modèles de livrable
+- Envoie le point de fin de journée Chaque jour ouvré
 
-Checklist de départ et solde de tout compte à préparer, Dossier d'embauche et fiche de formalités, Feuille de pointage et état de paiement des journaliers, Journal des variables et fiche de contrôle avant paiement, Note de qualification des faits et compte rendu d'entretien, Note de service et registre de diffusion, Support et compte rendu d'entretien annuel
+### Ses livrables
 
+Ce qu'elle vous remet, prêt à relire. Elle ne l'envoie qu'après votre accord.
+
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Elle applique le barème réel : cotisations CNPS, impôts sur salaires de la DGI, code du travail ivoirien, et les pièces d'identité exigées dans un dossier salarié. Elle sait quand tombent les déclarations, ce qu'un contrôle regarde en premier, et comment se calcule un solde de tout compte quand le contrat s'arrête en cours de mois.
 
 ### Ses outils métiers
 
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+Branchée à vos outils, avec plus de 3 000 intégrations prêtes.
 
-Google Workspace Notion WhatsApp Slack Gmail Google Sheets
-
-Joignable là où vous êtes déjà:
-
-Telegram Slack Teams E-mail Espace web
+Joignable là où vous êtes déjà :
 
 ### Ses compétences
 
 Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Elle n'improvise pas.
 
-Simulation de paie (UEMOA) Calcule net, brut et charges sociales selon le barème UEMOA.
-
-Politiques RH & OHADA Rédige et met à jour les politiques RH conformes OHADA.
-
-Congés & absences Clarifie les droits, calcule les soldes, gère les absences (OHADA + droit local).
-
-Cas RH individuels Guide les procédures sensibles: avertissement, mise à pied, rupture, conformes OHADA.
-
-FAQ RH pour les salariés Répond aux questions des salariés (congés, paie, frais) en langage simple.
-
-Plan d'intégration 30/60/90 Construit le parcours d'onboarding par poste: objectifs, jalons, livrables.
-
-Offboarding & solde de tout compte Orchestre les départs et calcule le solde de tout compte OHADA.
-
-Campagnes d'évaluation Prépare les entretiens: objectifs SMART/OKR, auto-évaluation et évaluation manager.
-
-Tableau de bord RH Effectifs, turnover, parité, coût par recrutement: les chiffres RH d'un coup d'œil.
-
 ### Pourquoi elle est pertinente pour une entreprise d'ici
 
-La paie et l'OHADA sont un casse-tête chronophage. Fatou les maîtrise et fiabilise chaque échéance sociale.
+La paie et le droit social sont un casse-tête qui mange du temps. Fatou les maîtrise et fiabilise chaque échéance sociale.
 
-### Les autres Experts
-
-Djénéba
-
-Kouassi
-
-Awa
-
-Fatima
-
-Mamadou
-
-Ibrahim
-
-Salif
-
-Nadia
-
-Adjoua
-
-Koffi
-
-Alioune
-
-Composer mon équipe →
-
-### Mamadou, finance
-
-← Tous les Experts
+## Mamadou
 
 Expert IA Yelema
 
@@ -1460,39 +2236,37 @@ Finance & Comptabilité
 
 Il garde vos comptes clairs et vos dossiers bancables.
 
-Prêt à l'emploi
+Tâches terminées aujourd'hui 4/4
 
-Telegram Slack Teams E-mail Espace web
+- Écritures du jour passées Plan comptable OHADA
 
-En action Avant un rendez-vous bancaire, Mamadou reconstitue le prévisionnel à 3 ans, prépare le plan de remboursement, repère les points faibles du dossier et livre un PDF propre. Le dirigeant arrive préparé.
+- Trésorerie mise à jour Prévision à 13 semaines
 
-Sa valeur ajoutée Des comptes carrés, une trésorerie sous contrôle et un business plan bancable, à la demande, sans directeur financier.
+- Relances clients envoyées 6 factures échues
 
-Mamadou E-mail 05h55
+- Alerte sur la marge Une gamme sous le seuil fixé
+
+Il travaille dans vos outils
+
+Bureautique
+
+Comptabilité
+
+Données et tableaux de bord
+
+Outils d'ici
+
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+### Sa mission
+
+Le pilotage financier de l'entreprise : comptabilité OHADA, contrôle de gestion, business plan et prévisionnel. De quoi décider sur des chiffres justes et obtenir des financements.
+
+Avant un rendez-vous bancaire, Mamadou reconstitue le prévisionnel à 3 ans, prépare le plan de remboursement, repère les points faibles du dossier et livre un PDF propre. Le dirigeant arrive préparé.
+
+Des comptes carrés, une trésorerie sous contrôle et un business plan bancable, à la demande, quand vous en avez besoin.
 
 Rapprochement bancaire du mois bouclé. Trois écarts à valider avant la clôture.
-
-Rapprochement bouclé
-
-Mamadou en ligne
-
-Telegram
-
-Prépare le prévisionnel pour ma demande de crédit
-
-Ok. Il me faut 3 infos: chiffre d'affaires des 12 derniers mois, montant du crédit et durée. Tu me donnes ça?
-
-CA 45M, crédit 15M sur 3 ans
-
-Voici le prévisionnel 3 ans (compte de résultat, trésorerie, plan de remboursement) prêt pour la banque. Je te le mets en PDF?
-
-PDF Previsionnel_3_ans_credit.pdf 512 Ko
-
-Écrivez un message… ➤
-
-### Sa fonction
-
-Le pilotage financier de la PME: comptabilité OHADA, contrôle de gestion, business plan et prévisionnel. De quoi décider sur des chiffres justes et obtenir des financements.
 
 ### Ce qu'il fait au quotidien
 
@@ -1500,88 +2274,75 @@ Le pilotage financier de la PME: comptabilité OHADA, contrôle de gestion, busi
 
 - Prépare les tableaux de trésorerie et de marge
 
-- Monte les dossiers de financement (prêt, subvention)
+- Émet les factures, suit les relances clients et monte les dossiers de financement
 
 - Alerte le dirigeant dès qu'un chiffre sort des clous
 
+### Ce dont il a besoin
+
+- Relevés bancaires et journaux
+
+- Factures d'achat et de vente
+
+- Grille des salaires
+
+- Échéancier fiscal et social
+
+- Historique des financements obtenus
+
+### Soumis à votre accord
+
+Ces actions nécessitent votre validation explicite avant exécution.
+
+- Transmission d'une liasse à un tiers
+
+- Dépôt d'une déclaration
+
+- Envoi d'un dossier à une banque
+
+- Écriture de régularisation
+
 ### Ce qu'il fait sans qu'on le demande
 
-- Rappelle les échéances fiscales et sociales (chaque jour ouvré)
+Il tient ces rendez-vous seul, sans attendre qu'on le relance.
 
-- Produit le point de trésorerie avant les décaissements de la semaine (chaque semaine)
+- Rappelle les échéances fiscales et sociales Chaque jour ouvré
 
-- Ouvre la clôture du mois et prépare la liasse (chaque mois)
+- Produit le point de trésorerie avant les décaissements de la semaine Chaque semaine
 
-- Prépare les relances clients à partir de la balance âgée (chaque semaine)
+- Ouvre la clôture du mois et prépare la liasse Chaque mois
 
-- Produit le suivi budgétaire du mois (chaque mois)
+- Prépare les relances clients à partir de la balance âgée Chaque semaine
 
-- Envoie le point de fin de journée (chaque jour ouvré)
+- Produit le suivi budgétaire du mois Chaque mois
 
-### Ses modèles de livrable
+- Envoie le point de fin de journée Chaque jour ouvré
 
-Budget et suivi budgétaire, Devis et facture, Dossier pour la banque, Liasse de reporting mensuel, Note financière d'arbitrage, Prévisionnel de trésorerie, Relance d'impayé
+### Ses livrables
 
+Ce qu'il vous remet, prêt à relire. Il ne l'envoie qu'après votre accord.
+
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Il tient les comptes au référentiel SYSCOHADA révisé, connaît les échéances de la DGI, les taux de cotisation CNPS et ce qu'une banque de la zone UEMOA attend dans un dossier. Il connaît le calendrier fiscal de l'année, les pièces qu'un commissaire aux comptes réclame, et la façon dont une banque de la place lit un bilan avant d'accorder une ligne.
 
 ### Ses outils métiers
 
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+Branché à vos outils, avec plus de 3 000 intégrations prêtes.
 
-Google Sheets Excel Sage QuickBooks Gmail Banques
-
-Joignable là où vous êtes déjà:
-
-Telegram Slack Teams E-mail Espace web
+Joignable là où vous êtes déjà :
 
 ### Ses compétences
 
 Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Il n'improvise pas.
 
-Comptabilité OHADA Structure la comptabilité de l'entreprise selon le référentiel OHADA.
-
-Audit & contrôle de gestion Audit comptable et contrôle de gestion pour garder les comptes carrés.
-
-Business plan Construit le business plan (acquisition + revenus) pour un prêt bancaire ou une subvention.
-
-Modélisation financière Bâtit le prévisionnel et les projections à 3 ans.
-
-Dimensionnement de marché Chiffre la taille du marché visé, pour étayer un business plan devant une banque ou un bailleur.
-
-Veille des prix Suit les prix pratiqués dans votre secteur, pour situer vos marges.
-
 ### Pourquoi il est pertinent pour une entreprise d'ici
 
-Peu de PME ont un DAF. Mamadou structure les comptes, tient la trésorerie et monte les dossiers que la banque attend.
+Peu d'entreprises d'ici ont une direction financière au complet. Mamadou structure les comptes, tient la trésorerie et monte les dossiers que la banque attend.
 
-### Les autres Experts
-
-Djénéba
-
-Kouassi
-
-Awa
-
-Fatima
-
-Fatou
-
-Ibrahim
-
-Salif
-
-Nadia
-
-Adjoua
-
-Koffi
-
-Alioune
-
-Composer mon équipe →
-
-### Ibrahim, juridique
-
-← Tous les Experts
+## Ibrahim
 
 Expert IA Yelema
 
@@ -1591,39 +2352,35 @@ Juridique & Conformité
 
 Il tient le juridique carré, pour le privé comme pour le public.
 
-Prêt à l'emploi
+Tâches terminées aujourd'hui 4/4
 
-Telegram Slack Teams E-mail Espace web
+- Contrat fournisseur relu 3 clauses à risque signalées
 
-En action Un partenaire envoie un contrat à signer. Ibrahim le relit, pointe deux clauses à risque, propose une reformulation, et attend la validation du dirigeant avant tout retour. Rien ne s'engage sans accord humain.
+- Avenant prêt à signer Envoyé pour votre validation
 
-Sa valeur ajoutée Le réflexe juridique et la conformité OHADA à portée de main. Des contrats propres, sans passer par un cabinet à chaque fois.
+- Échéances vérifiées Bail de Cocody à renouveler en décembre
 
-Ibrahim E-mail 23h05
+- Dossier CEPICI préparé Pièces de la modification statutaire
 
-Contrat de prestation relu: deux clauses à risque signalées, avec la formulation de remplacement.
+Il travaille dans vos outils
 
-2 clauses signalées
+Bureautique
 
-Ibrahim en ligne
+Signature et contrats
 
-Telegram
+Outils d'ici
 
-Fais-moi un contrat de prestation pour un client
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
 
-Bien sûr. Objet de la prestation, durée et montant? Je le rédige conforme OHADA.
+### Sa mission
 
-Community management, 6 mois, 300 000/mois
+Le réflexe juridique du quotidien : contrats OHADA, revue de documents, conformité et veille réglementaire. De quoi agir vite sans se mettre en risque.
 
-Voici le contrat (objet, durée, prix, résiliation, confidentialité) prêt à signer ✍. Je l'envoie en signature électronique?
+Un partenaire envoie un contrat à signer. Ibrahim le relit, pointe deux clauses à risque, propose une reformulation, et attend la validation du dirigeant avant tout retour. Rien ne s'engage sans accord humain.
 
-PDF Contrat_prestation_CM_6_mois.pdf 318 Ko
+Le réflexe juridique et la conformité OHADA à portée de main. Des contrats propres, relus le jour même.
 
-Écrivez un message… ➤
-
-### Sa fonction
-
-Le réflexe juridique du quotidien: contrats OHADA, revue de documents, conformité et veille réglementaire. De quoi agir vite sans se mettre en risque.
+Contrat de prestation relu : deux clauses à risque signalées, avec la formulation de remplacement.
 
 ### Ce qu'il fait au quotidien
 
@@ -1635,219 +2392,187 @@ Le réflexe juridique du quotidien: contrats OHADA, revue de documents, conformi
 
 - Prépare les pièces pour l'administration
 
+### Ce dont il a besoin
+
+- Statuts et registre de la société
+
+- Contrats en cours
+
+- Modèles déjà utilisés dans l'entreprise
+
+- Liste des échéances contractuelles
+
+- Pays où vous opérez
+
+### Soumis à votre accord
+
+Ces actions nécessitent votre validation explicite avant exécution.
+
+- Envoi d'un contrat à un tiers
+
+- Signature ou paraphe
+
+- Dépôt d'une pièce auprès d'une administration
+
+- Position juridique communiquée à l'extérieur
+
 ### Ce qu'il fait sans qu'on le demande
 
-- Fait le point des échéances juridiques des quatre semaines à venir (chaque semaine)
+Il tient ces rendez-vous seul, sans attendre qu'on le relance.
 
-- Suit les créances en recouvrement (deux fois par semaine)
+- Fait le point des échéances juridiques des quatre semaines à venir Chaque semaine
 
-- Signale ce qui change dans la réglementation qui touche l'entreprise (chaque semaine)
+- Suit les créances en recouvrement Deux fois par semaine
 
-- Relit le portefeuille de contrats et signale ce qui a dérivé (chaque mois)
+- Signale ce qui change dans la réglementation qui touche l'entreprise Chaque semaine
 
-- Envoie le point de fin de journée (chaque jour ouvré)
+- Relit le portefeuille de contrats et signale ce qui a dérivé Chaque mois
 
-### Ses modèles de livrable
+- Envoie le point de fin de journée Chaque jour ouvré
 
-Calendrier des obligations et projet de procès-verbal, Carte des risques et des couvertures d'assurance, Dossier de créance et projet de mise en demeure, Fiche des signes et dossier de dépôt, Note de lecture et tableau des demandes de modification, Note de situation et dossier de preuves, Projet de contrat et note d'accompagnement
+### Ses livrables
 
+Ce qu'il vous remet, prêt à relire. Il ne l'envoie qu'après votre accord.
+
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Il travaille sur le droit qui s'applique ici : actes uniformes OHADA, code du travail ivoirien, formalités du CEPICI et protection des données personnelles sous l'autorité de l'ARTCI. Il sait ce qu'un greffe exige pour une modification statutaire, ce qu'une clause vaut devant un juge ivoirien, et les délais réels d'une formalité au registre du commerce.
 
 ### Ses outils métiers
 
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+Branché à vos outils, avec plus de 3 000 intégrations prêtes.
 
-DocuSign Google Drive Gmail Notion Google Sheets
-
-Joignable là où vous êtes déjà:
-
-Telegram Slack Teams E-mail Espace web
+Joignable là où vous êtes déjà :
 
 ### Ses compétences
 
 Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Il n'improvise pas.
-
-Contrats commerciaux OHADA Rédige les contrats commerciaux conformes OHADA.
-
-Contrats de travail Génère les contrats de travail (OHADA + droit local).
-
-Revue juridique Relit les documents entrants et signale les risques.
-
-Veille contractuelle Surveille les échéances et clauses de vos contrats.
-
-Conformité des données (DCP) Met en conformité la protection des données personnelles.
-
-Risques réglementaires Cartographie les risques réglementaires par activité et par pays.
-
-Veille réglementaire Suit la réglementation (fintech UEMOA et secteurs régulés).
-
-Création de société Accompagne l'incorporation en Côte d'Ivoire et à l'international.
 
 ### Pourquoi il est pertinent pour une entreprise d'ici
 
 Un contrat mal rédigé finit toujours par coûter. Ibrahim couvre le quotidien et sécurise chaque acte.
 
-### Les autres Experts
-
-Djénéba
-
-Kouassi
-
-Awa
-
-Fatima
-
-Fatou
-
-Mamadou
-
-Salif
-
-Nadia
-
-Adjoua
-
-Koffi
-
-Alioune
-
-Composer mon équipe →
-
-### Salif, opérations
-
-← Tous les Experts
+## Salif
 
 Expert IA Yelema
 
 ### Salif
 
-Opérations & Admin
+Opérations & Logistique
 
-Il fait tourner l'administratif et la trésorerie du quotidien.
+Il fait tourner les stocks, les achats et les livraisons du quotidien.
 
-Prêt à l'emploi
+Tâches terminées aujourd'hui 5/5
 
-Telegram Slack Teams E-mail Espace web
+- Stock vérifié Alerte rupture sur deux références
 
-En action En fin de mois, Salif repère les impayés, lance des relances graduées, signale deux produits en rupture imminente et met à jour le tableau de bord. Le dirigeant voit tout d'un coup d'œil.
+- Devis fournisseurs comparés 3 offres à conditions égales
 
-Sa valeur ajoutée Facturation, relances et stock sous contrôle, en pilote automatique. La rigueur d'un directeur d'exploitation, sans le poste.
+- Livraison contrôlée Écart de 4 cartons signalé
 
-Salif WhatsApp 06h40
+- Bon de commande préparé En attente de votre accord
 
-Les factures fournisseurs de la semaine sont saisies et classées. Une échéance tombe vendredi.
+- Indicateurs de la semaine Délais, ruptures et coûts
 
-Échéance vendredi
+Il travaille dans vos outils
 
-Salif en ligne
+Bureautique
 
-Telegram
+Gestion et CRM
 
-0:09
+Données et tableaux de bord
 
-« Relance tous les clients qui n'ont pas payé leur facture de mai »
+Outils d'ici
 
-J'ai trouvé 7 factures impayées (total 2,3M FCFA). J'envoie une relance personnalisée à chacun et je programme un rappel dans 5 jours?
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
 
-Oui
+### Sa mission
 
-7 relances envoyées ✅. 2 clients ont déjà répondu, je te les remonte. Rappel programmé pour les autres.
+Le moteur logistique : achats et fournisseurs, réception et contrôle des marchandises, stocks et seuils d'alerte, livraisons. Pour que rien ne manque et que rien ne dorme en réserve.
 
-XLSX Relances_impayees_septembre.xlsx 78 Ko
+Lundi matin, Salif signale deux références passées sous le seuil, consulte trois fournisseurs, prépare les bons de commande et vérifie que la livraison de vendredi a bien quitté le port. Le dirigeant voit tout d'un coup d'œil.
 
-Écrivez un message… ➤
+Stocks, achats et livraisons sous contrôle, du port jusqu'au rayon. La rigueur d'un directeur d'exploitation, au service de votre équipe.
 
-### Sa fonction
+L'inventaire tournant de la semaine est fait. Deux références passent sous le seuil d'alerte.
 
-Le moteur opérationnel: facturation, relances, stock et approvisionnements, suivi des tâches. Pour que rien ne file entre les mailles.
+« Fais le point sur ce qui va manquer cette semaine et commande ce qu'il faut »
 
 ### Ce qu'il fait au quotidien
 
-- Émet les factures et relance les impayés avec méthode
+- Consulte les fournisseurs et les compare à conditions égales
 
 - Surveille les stocks et alerte avant la rupture
 
-- Transforme réunions et échanges en tâches suivies
+- Contrôle les réceptions et signale les écarts de livraison
 
 - Produit les indicateurs clés de la semaine
 
+### Ce dont il a besoin
+
+- Conditions d'achat et délais fournisseurs
+
+- État des stocks
+
+- Liste des fournisseurs
+
+- Modèles de bon de commande
+
+- Seuils d'alerte convenus
+
+### Soumis à votre accord
+
+Ces actions nécessitent votre validation explicite avant exécution.
+
+- Changement de fournisseur
+
+- Dérogation sur un seuil d'alerte
+
+- Commande passée à un fournisseur
+
+- Blocage d'une livraison
+
 ### Ce qu'il fait sans qu'on le demande
 
-- Signale les références qui vont manquer, avant la rupture (chaque jour ouvré)
+Il tient ces rendez-vous seul, sans attendre qu'on le relance.
 
-- Sort les opérations d'entretien de la semaine et les retards (chaque semaine)
+- Signale les références qui vont manquer, avant la rupture Chaque jour ouvré
 
-- Sort le stock qui dort et ce qui va périmer (chaque mois)
+- Sort les opérations d'entretien de la semaine et les retards Chaque semaine
 
-- Contrôle les réceptions du jour, tant qu'une réserve est possible (chaque jour)
+- Sort le stock qui dort et ce qui va périmer Chaque mois
 
-- Envoie le point de fin de journée (chaque jour ouvré)
+- Contrôle les réceptions du jour, tant qu'une réserve est possible Chaque jour
 
-### Ses modèles de livrable
+- Envoie le point de fin de journée Chaque jour ouvré
 
-Cahier de consultation et tableau comparatif des offres, Calcul du coût de tournée et du coût par livraison, Feuille de route et bordereau de livraison, Fiche de réception et procès-verbal de réserves, Inventaire des équipements et plan d'entretien, Mode opératoire et registre des procédures, Plan d'inventaire tournant et note d'analyse des écarts
+### Ses livrables
 
+Ce qu'il vous remet, prêt à relire. Il ne l'envoie qu'après votre accord.
+
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Il règle ses fournisseurs en mobile money comme en virement, tient les formalités de douane et d'import, et anticipe les ruptures liées aux délais de dédouanement. Il connaît les délais réels entre le port et l'entrepôt, ce qu'un fournisseur accepte comme retard de règlement, et les pièces qui bloquent une sortie de marchandise.
 
 ### Ses outils métiers
 
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+Branché à vos outils, avec plus de 3 000 intégrations prêtes.
 
-Google Sheets Notion WhatsApp QuickBooks Wave Odoo Gmail
-
-Joignable là où vous êtes déjà:
-
-Telegram Slack Teams E-mail Espace web
+Joignable là où vous êtes déjà :
 
 ### Ses compétences
 
 Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Il n'improvise pas.
 
-Facturation automatique Émet les factures et les envoie automatiquement.
-
-Relance des impayés Relance les clients en retard de paiement, avec méthode et bon ton.
-
-Suivi de stock Surveille les stocks, alerte avant la rupture et calcule le réassort.
-
-Approvisionnements Suit les sources d'approvisionnement et les commandes fournisseurs.
-
-Point d'exploitation Fait chaque semaine le point sur les factures, les stocks et les tâches en retard.
-
-Suivi des tâches Transforme réunions et échanges en tâches suivies (Notion + e-mail).
-
-Suivi fournisseurs Tient la liste des fournisseurs, les commandes en cours et les échéances de règlement.
-
 ### Pourquoi il est pertinent pour une entreprise d'ici
 
-La trésorerie meurt des impayés et des ruptures de stock: les deux fuites que personne n'a le temps de surveiller. Salif veille en continu.
+La trésorerie meurt des impayés et des ruptures de stock : les deux fuites que personne n'a le temps de surveiller. Salif veille en continu.
 
-### Les autres Experts
-
-Djénéba
-
-Kouassi
-
-Awa
-
-Fatima
-
-Fatou
-
-Mamadou
-
-Ibrahim
-
-Nadia
-
-Adjoua
-
-Koffi
-
-Alioune
-
-Composer mon équipe →
-
-### Nadia, données
-
-← Tous les Experts
+## Nadia
 
 Expert IA Yelema
 
@@ -1857,41 +2582,39 @@ Data & Analytics
 
 Elle transforme vos chiffres en décisions.
 
-Prête à l'emploi
+Tâches terminées aujourd'hui 4/4
 
-Telegram Slack Teams E-mail Espace web
+- Tableau de bord actualisé Ventes de la semaine par point de vente
 
-En action Chaque lundi, Nadia envoie le tableau de bord de la semaine, met en avant les 3 alertes qui comptent et prévoit la trésorerie à 30 jours. Le comité de direction démarre sur des faits.
+- Rapport hebdomadaire publié Envoyé à la direction à 8h
 
-Sa valeur ajoutée Vos données en tableaux de bord clairs et en prévisions fiables, sans recruter un data analyst.
+- Écart repéré Point de vente de Bouaké en recul de 12 %
 
-Nadia Espace web 07h00
+- Synthèse de réunion prête Décisions et tâches extraites
+
+Elle travaille dans vos outils
+
+Bureautique
+
+Données et tableaux de bord
+
+Sources branchées
+
+Outils d'ici
+
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+### Sa mission
+
+L'intelligence des données de l'entreprise : tableaux de bord, rapports, prévisions et scoring. De quoi piloter sur du concret plutôt qu'au feeling.
+
+Chaque lundi, Nadia envoie le tableau de bord de la semaine, met en avant les 3 alertes qui comptent et prévoit la trésorerie à 30 jours. Le comité de direction démarre sur des faits.
+
+Vos données en tableaux de bord clairs et en prévisions fiables, relues chaque matin avec votre équipe.
 
 Tableau de bord du mois à jour. Le panier moyen a baissé de 6 % à Yopougon, la cause est isolée.
 
-Alerte remontée
-
-Nadia en ligne
-
-Telegram
-
-0:07
-
-« Quels sont mes 10 meilleurs points de vente ce mois? »
-
-Voici le top 10 par chiffre d'affaires 📈 (avec évolution vs mois dernier). 3 points de vente décrochent: je te les signale?
-
-Oui montre
-
-Ces 3 PDV baissent de plus de 20 %. J'ai préparé un tableau de bord partageable et une alerte hebdo automatique.
-
-XLSX Tableau_de_bord_points_de_vente.xlsx 1,4 Mo
-
-Écrivez un message… ➤
-
-### Sa fonction
-
-L'intelligence des données de l'entreprise: tableaux de bord, rapports, prévisions et scoring. De quoi piloter sur du concret plutôt qu'au feeling.
+« Quels sont mes 10 meilleurs points de vente ce mois ? »
 
 ### Ce qu'elle fait au quotidien
 
@@ -1903,82 +2626,69 @@ L'intelligence des données de l'entreprise: tableaux de bord, rapports, prévis
 
 - Prépare des synthèses de réunion actionnables
 
+### Ce dont elle a besoin
+
+- Fichiers de ventes et de stocks
+
+- Liste des points de vente
+
+- Objectifs et budget de l'année
+
+- Relevés de paiement
+
+- Comptes rendus de réunion
+
+### Soumis à votre accord
+
+Ces actions nécessitent votre validation explicite avant exécution.
+
+- Diffusion d'un tableau de bord hors de l'entreprise
+
+- Partage d'une donnée client
+
+- Publication d'un chiffre
+
+- Alerte envoyée à toute l'équipe
+
 ### Ce qu'elle fait sans qu'on le demande
 
-- Envoie le point de fin de journée (chaque jour ouvré)
+Elle tient ces rendez-vous seule, sans attendre qu'on la relance.
 
-- Envoie le rapport d'activité de la semaine (chaque semaine)
+- Envoie le point de fin de journée Chaque jour ouvré
 
-- Relance un livrable remis resté sans retour depuis trois jours (deux fois par semaine)
+- Envoie le rapport d'activité de la semaine Chaque semaine
 
-- Revient sur une question restée sans réponse depuis 48 heures (chaque jour ouvré)
+- Relance un livrable remis resté sans retour depuis trois jours Deux fois par semaine
 
-- Vérifie que chacun de ses accès répond (chaque jour)
+- Revient sur une question restée sans réponse depuis 48 heures Chaque jour ouvré
 
-### Ses modèles de livrable
+- Vérifie que chacun de ses accès répond Chaque jour
 
-Fiche d'indicateur, Fiche et protocole de collecte, Note d'analyse, Rapport de qualité des données, Rapport mensuel de direction, Tableau de bord, État de rapprochement et note d'écarts
+### Ses livrables
 
+Ce qu'elle vous remet, prêt à relire. Elle ne l'envoie qu'après votre accord.
+
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Elle lit les données telles qu'elles arrivent ici : relevés mobile money, ventes par point de vente, saisonnalité des campagnes agricoles et des grandes fêtes. Elle sait ce qu'un relevé d'opérateur contient vraiment, comment recoller des ventes saisies à la main, et quels écarts viennent d'un jour férié plutôt que d'une baisse d'activité.
 
 ### Ses outils métiers
 
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+Branchée à vos outils, avec plus de 3 000 intégrations prêtes.
 
-Google Sheets Looker Notion Fireflies Gmail
-
-Joignable là où vous êtes déjà:
-
-Telegram Slack Teams E-mail Espace web
+Joignable là où vous êtes déjà :
 
 ### Ses compétences
 
 Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Elle n'improvise pas.
 
-Tableaux de bord Transforme vos Google Sheets en tableaux de bord clairs et partageables.
-
-Rapports KPI Produit les rapports hebdo, mensuels et trimestriels automatiquement.
-
-Prévision de la demande Prévoit la demande par produit pour ajuster les commandes.
-
-Prévision de trésorerie Projette les besoins de cash à J+7 / J+14 / J+30.
-
-Scoring de performance Note et classe vos points de vente ou distributeurs (haut / moyen / faible).
-
-Synthèse de réunions Analyse les comptes-rendus et en extrait décisions et tâches.
-
 ### Pourquoi elle est pertinente pour une entreprise d'ici
 
 Les données existent mais dorment dans des fichiers. Nadia les fait parler et met le pilotage à portée de tous.
 
-### Les autres Experts
-
-Djénéba
-
-Kouassi
-
-Awa
-
-Fatima
-
-Fatou
-
-Mamadou
-
-Ibrahim
-
-Salif
-
-Adjoua
-
-Koffi
-
-Alioune
-
-Composer mon équipe →
-
-### Adjoua, recrutement
-
-← Tous les Experts
+## Adjoua
 
 Expert IA Yelema
 
@@ -1988,39 +2698,35 @@ Recrutement
 
 Elle trouve et évalue les bons profils.
 
-Prête à l'emploi
+Tâches terminées aujourd'hui 5/5
 
-Telegram Slack Teams E-mail Espace web
+- Offre diffusée Comptable confirmé, Abidjan
 
-En action Pour un poste de comptable, Adjoua rédige la fiche, source 15 profils, en présélectionne 5 notés, prépare le guide d'entretien et programme les rendez-vous. Le dirigeant n'a plus qu'à rencontrer les meilleurs.
+- 48 candidatures triées 8 profils notés retenus
 
-Sa valeur ajoutée Du sourcing à la lettre d'offre, un recrutement carré et rapide, sans cabinet ni des semaines perdues.
+- Entretiens planifiés 3 créneaux jeudi
 
-Adjoua WhatsApp 22h50
+- Grille d'entretien prête Critères du poste pondérés
+
+- Pipeline à jour Relances des candidats prêtes à envoyer
+
+Elle travaille dans vos outils
+
+Bureautique
+
+Outils d'ici
+
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+### Sa mission
+
+Le recrutement de bout en bout : de la fiche de poste au sourcing, à l'évaluation et à la lettre d'offre. Pour embaucher juste et vite.
+
+Pour un poste de comptable, Adjoua rédige la fiche, source 15 profils, en présélectionne 5 notés, prépare le guide d'entretien et programme les rendez-vous. Le dirigeant n'a plus qu'à rencontrer les meilleurs.
+
+Du sourcing à la lettre d'offre, un recrutement carré, mené en quelques jours.
 
 Quarante-et-une candidatures triées pour le poste de caissière. Six profils à recevoir.
-
-6 à recevoir
-
-Adjoua en ligne
-
-Telegram
-
-Trouve-moi 5 comptables à Abidjan
-
-Je lance le sourcing 🔎 Junior ou confirmé, et quel budget?
-
-Confirmé, 500 à 700k
-
-Voici 5 profils notés sur l'expérience et l'adéquation, avec un message d'approche prêt pour chacun. J'en contacte combien?
-
-PDF 5_profils_comptables_Abidjan.pdf 486 Ko
-
-Écrivez un message… ➤
-
-### Sa fonction
-
-Le recrutement de bout en bout: de la fiche de poste au sourcing, à l'évaluation et à la lettre d'offre. Pour embaucher juste et vite.
 
 ### Ce qu'elle fait au quotidien
 
@@ -2032,90 +2738,69 @@ Le recrutement de bout en bout: de la fiche de poste au sourcing, à l'évaluati
 
 - Suit chaque candidat dans le pipeline, relances comprises
 
+### Ce dont elle a besoin
+
+- Organigramme et postes ouverts
+
+- Fourchettes de rémunération
+
+- Critères de sélection
+
+- Comptes de diffusion des offres
+
+- Disponibilités des évaluateurs
+
+### Soumis à votre accord
+
+Ces actions nécessitent votre validation explicite avant exécution.
+
+- Publication d'une offre
+
+- Envoi d'un message à un candidat
+
+- Convocation à un entretien
+
+- Envoi d'une lettre d'offre
+
 ### Ce qu'elle fait sans qu'on le demande
 
-- Fait le point sur le marché de l'emploi pour les postes ouverts (chaque semaine)
+Elle tient ces rendez-vous seule, sans attendre qu'on la relance.
 
-- Produit le point hebdomadaire du recrutement (chaque semaine)
+- Fait le point sur le marché de l'emploi pour les postes ouverts Chaque semaine
 
-- Repère les candidats et évaluateurs qui attendent, et prépare les messages (chaque jour)
+- Produit le point hebdomadaire du recrutement Chaque semaine
 
-- Envoie le point de fin de journée (chaque jour ouvré)
+- Repère les candidats et évaluateurs qui attendent, et prépare les messages Chaque jour
 
-- Envoie le rapport d'activité de la semaine (chaque semaine)
+- Envoie le point de fin de journée Chaque jour ouvré
 
-### Ses modèles de livrable
+- Envoie le rapport d'activité de la semaine Chaque semaine
 
-Business case d'un recrutement, Compte rendu d'entretien, Fiche de poste, Guide d'entretien, Liste de candidats : longue liste et liste courte, Modèles de messages : recrutement
+### Ses livrables
 
+Ce qu'elle vous remet, prêt à relire. Elle ne l'envoie qu'après votre accord.
+
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Elle source sur les canaux d'ici, de l'Agence Emploi Jeunes aux groupes métier sur WhatsApp et aux écoles d'Abidjan, et connaît les pièces exigées au moment de l'embauche. Elle sait ce qu'un poste se paie réellement selon l'expérience, et elle prépare un dossier complet, de la déclaration CNPS au contrat conforme au droit ivoirien.
 
 ### Ses outils métiers
 
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+Branchée à vos outils, avec plus de 3 000 intégrations prêtes.
 
-LinkedIn Gmail Google Sheets Calendly Notion
-
-Joignable là où vous êtes déjà:
-
-Telegram Slack Teams E-mail Espace web
+Joignable là où vous êtes déjà :
 
 ### Ses compétences
 
 Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Elle n'improvise pas.
 
-Fiche de poste Rédige des fiches de poste claires et attractives.
-
-Sourcing candidats Trouve des profils sur LinkedIn, ciblés par poste et localisation.
-
-Matching CV ↔ offre Note l'adéquation d'un CV ou profil LinkedIn à vos offres.
-
-Messages d'approche Rédige les messages d'approche et e-mails de recrutement personnalisés.
-
-Guide d'entretien & scoring Prépare l'entretien structuré et la grille de notation du candidat.
-
-Business case candidat Génère un exercice de mise en situation et le corrige.
-
-Vérification de références Structure et mène la prise de références.
-
-Suivi du pipeline (ATS) Suit chaque candidat étape par étape, relances et échéances.
-
-Lettre d'offre Rédige la lettre d'offre conforme OHADA, et passe la main à Ibrahim pour le contrat de travail.
-
-Benchmark rémunération Compare salaire et avantages au marché.
-
 ### Pourquoi elle est pertinente pour une entreprise d'ici
 
 Recruter bien prend un temps fou et une erreur coûte cher. Adjoua fait le tri sérieux et accélère chaque étape.
 
-### Les autres Experts
-
-Djénéba
-
-Kouassi
-
-Awa
-
-Fatima
-
-Fatou
-
-Mamadou
-
-Ibrahim
-
-Salif
-
-Nadia
-
-Koffi
-
-Alioune
-
-Composer mon équipe →
-
-### Koffi, design
-
-← Tous les Experts
+## Koffi
 
 Expert IA Yelema
 
@@ -2125,41 +2810,37 @@ Design & Brand
 
 Il habille votre marque, du logo au site.
 
-Prêt à l'emploi
+Tâches terminées aujourd'hui 4/4
 
-Telegram Slack Teams E-mail Espace web
+- Affiche produite Promotion du week-end
 
-En action Pour l'ouverture d'une boutique, Koffi produit l'affiche dans la charte, la décline en story, post et statut WhatsApp, vérifie la cohérence et livre le tout imprimable. La communication est prête en une heure.
+- Déclinaisons livrées Story, post et bannière web
 
-Sa valeur ajoutée Un studio de design de marque à la demande. Des visuels pros et cohérents, sans agence ni graphiste à plein temps.
+- Visuels vérifiés Logo et couleurs conformes
 
-Koffi Telegram 01h15
+- Fichiers sources rangés Charte à jour dans le Drive
+
+Il travaille dans vos outils
+
+Création
+
+Bureautique
+
+Réseaux
+
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+
+### Sa mission
+
+Le design de la marque, de bout en bout : identité, visuels, affiches, pages web et vidéos. Pour une image pro et cohérente partout.
+
+Pour l'ouverture d'une boutique, Koffi produit l'affiche dans la charte, la décline en story, post et statut WhatsApp, vérifie la cohérence et livre le tout imprimable. La communication est prête en une heure.
+
+Des visuels pros et cohérents, à la demande, livrés en quelques heures.
 
 Les cinq visuels de la campagne sont prêts, aux couleurs de la marque, aux bons formats.
 
-5 visuels livrés
-
-Koffi en ligne
-
-Telegram
-
-0:08
-
 « Il me faut une affiche pour l'ouverture de ma 2e boutique »
-
-Avec plaisir 🎨 Date, adresse et une promo d'ouverture? Je la fais dans ta charte.
-
-Samedi, Cocody, -20%
-
-Voici l'affiche (format story + A3 imprimable) 🖼. Je te la décline en post Instagram et WhatsApp?
-
-PDF Affiche_ouverture_Cocody_A3.pdf 4,1 Mo
-
-Écrivez un message… ➤
-
-### Sa fonction
-
-Le studio de design de la marque: identité, visuels, affiches, landing pages et vidéos. Pour une image pro et cohérente partout.
 
 ### Ce qu'il fait au quotidien
 
@@ -2171,241 +2852,69 @@ Le studio de design de la marque: identité, visuels, affiches, landing pages et
 
 - Vérifie chaque visuel avant publication
 
-### Ce qu'il fait sans qu'on le demande
+### Ce dont il a besoin
 
-- Fait la veille de l'identité visuelle du secteur et des concurrents (chaque mois)
+- Logo et fichiers sources
 
-- Signale les productions dont la livraison approche (chaque jour ouvré)
+- Charte de couleurs et polices
 
-- Produit le point des productions en cours (chaque semaine)
+- Photos de l'entreprise
 
-- Passe en revue les supports de l'entreprise et signale ce qui a dérivé (chaque mois)
+- Formats de sortie attendus
 
-- Envoie le point de fin de journée (chaque jour ouvré)
-
-### Ses modèles de livrable
-
-Brief créatif, Charte graphique, Dossier prêt pour impression, Jeu de déclinaisons, Note typographique, Plan de signalétique, Planche d'inspiration, Rapport d'audit d'interface, Rapport de contrôle visuel, Spécification d'écran, Système de design
-
-
-### Ses outils métiers
-
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
-
-Canva Figma Google Drive Instagram Gmail
-
-Joignable là où vous êtes déjà:
-
-Telegram Slack Teams E-mail Espace web
-
-### Ses compétences
-
-Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Il n'improvise pas.
-
-Recherche de nom Propose des noms de marque et vérifie les domaines disponibles.
-
-Charte de marque Construit l'identité visuelle, du logo aux couleurs et typographies.
-
-Visuels (Canva) Produit posts, carrousels, stories et affiches brandés.
-
-Maquette de page Dessine et structure la page: hiérarchie, visuels, boutons. Le texte et le référencement viennent de Fatima.
-
-Site vitrine Maquette un site vitrine simple, page par page, prêt à être rédigé et mis en ligne.
-
-Goodies & print Prépare les goodies et supports print-ready.
-
-Contrôle qualité visuel Vérifie chaque visuel avant publication: charte et tabous.
-
-Vidéo de marque Génère des contenus vidéo courts brandés.
-
-### Pourquoi il est pertinent pour une entreprise d'ici
-
-Une PME n'a pas de studio créatif, et une image bricolée décrédibilise. Koffi tient une marque nette et cohérente, partout.
-
-### Les autres Experts
-
-Djénéba
-
-Kouassi
-
-Awa
-
-Fatima
-
-Fatou
-
-Mamadou
-
-Ibrahim
-
-Salif
-
-Nadia
-
-Adjoua
-
-Alioune
-
-Composer mon équipe →
-
-### Alioune, investissement
-
-← Tous les Experts
-
-Expert IA Yelema
-
-### Alioune
-
-Investissement
-
-Il instruit vos dossiers d'investissement, du sourcing au suivi de participation.
-
-Prêt à l'emploi
-
-Telegram Slack Teams E-mail Espace web
-
-En action Un dossier Série A arrive pour le comité de vendredi. Alioune vérifie la thèse du fonds, inventorie la data room, repère deux chiffres de revenus qui se contredisent, prépare les questions au fondateur et livre la note de comité avec les scénarios de valorisation.
-
-Sa valeur ajoutée Un comité qui statue sur un dossier instruit à fond, pas sur un résumé de dix minutes: moins de dossiers mal jugés, plus de temps pour la décision.
-
-Alioune WhatsApp 10h24
-
-Inventaire terminé: trois pièces manquent et deux chiffres de revenus se contredisent. Questions au fondateur prêtes.
-
-Dossier instruit
-
-Alioune en ligne
-
-Telegram
-
-Analyse ce dossier pour le comité de vendredi
-
-Je commence par la thèse du fonds, le type d'opération et l'inventaire de la data room. Quel est le ticket visé?
-
-Série A, 1,5 M€
-
-Inventaire terminé: trois pièces manquent et deux chiffres de revenus se contredisent. Je prépare les questions au fondateur avant la note.
-
-Fais la note avec ce que nous avons
-
-Note de comité prête, avec les écarts signalés, les scénarios de valorisation et les points bloquants marqués à confirmer.
-
-PDF Note_de_comite_Serie_A.pdf 1,2 Mo
-
-Écrivez un message… ➤
-
-### Sa fonction
-
-L'instruction des investissements de bout en bout: sourcing contre la thèse du fonds, lecture de la salle de données, audit du modèle, note au comité, valorisation et suivi de la participation.
+- Exemples de ce que vous aimez
 
 ### Soumis à votre accord
 
 Ces actions nécessitent votre validation explicite avant exécution.
 
-- Transmission d'un prix ou d'une offre
+- Publication d'un visuel
 
-- Contact d'un dirigeant ou co-investisseur
+- Envoi d'un fichier à l'imprimeur
 
-- Diffusion d'une note de comité hors du fonds
+- Modification du logo
 
-- Rejet définitif d'un dossier
-
-### Ce qu'il fait au quotidien
-
-- Note les dossiers contre la thèse réelle du fonds
-
-- Inventorie les pièces et signale les manques et incohérences
-
-- Audite les modèles financiers et prépare les questions à la direction
-
-- Suit les participations, la trésorerie et les alertes convenues
+- Diffusion d'une création à un partenaire
 
 ### Ce qu'il fait sans qu'on le demande
 
-- Fait la veille des secteurs et des pays couverts par la thèse du fonds (chaque semaine)
+Il tient ces rendez-vous seul, sans attendre qu'on le relance.
 
-- Produit le point hebdomadaire du pipeline (chaque semaine)
+- Fait la veille de l'identité visuelle du secteur et des concurrents Chaque mois
 
-- Surveille les participations et déclenche les alertes convenues (chaque jour ouvré)
+- Signale les productions dont la livraison approche Chaque jour ouvré
 
-- Repère les dossiers bloqués et prépare les relances (chaque semaine)
+- Produit le point des productions en cours Chaque semaine
 
-- Prépare la séance de comité (chaque semaine)
+- Passe en revue les supports de l'entreprise et signale ce qui a dérivé Chaque mois
 
-- Envoie le point de fin de journée (chaque jour ouvré)
+- Envoie le point de fin de journée Chaque jour ouvré
 
-### Ses modèles de livrable
+### Ses livrables
 
-Analyse de plan d'affaires, Mémo d'investissement, Note de vérification préalable, Questions à la direction de l'entreprise, Relevé de comité d'investissement, Structure de salle de données
+Ce qu'il vous remet, prêt à relire. Il ne l'envoie qu'après votre accord.
 
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Il produit pour les supports d'ici : kakémonos et bâches d'imprimeur local, affiches de point de vente, et des visuels qui restent lisibles sur un écran de téléphone d'entrée de gamme. Il compose avec les contraintes réelles, les formats que tient un imprimeur d'Abidjan et les codes qui font qu'une image circule en statut plutôt qu'en publication.
 
 ### Ses outils métiers
 
-Branché à vos outils, avec plus de 3 000 intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
+Branché à vos outils, avec plus de 3 000 intégrations prêtes.
 
-Google Drive Excel DocuSign Gmail Slack Notion
-
-Joignable là où vous êtes déjà:
-
-Telegram Slack Teams E-mail Espace web
+Joignable là où vous êtes déjà :
 
 ### Ses compétences
 
 Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Il n'improvise pas.
 
-Tri des dossiers entrants Note chaque dossier reçu contre la thèse d'investissement du fonds et priorise l'attention du comité.
+### Pourquoi il est pertinent pour une entreprise d'ici
 
-Lecture de data room Inventorie les pièces d'une salle de données et signale ce qui manque ou se contredit.
+Rares sont les entreprises qui ont un studio créatif sous la main, et une image bricolée décrédibilise. Koffi tient une marque nette et cohérente, partout.
 
-Due diligence Mène la diligence commerciale, juridique et opérationnelle avant investissement.
-
-Audit du modèle financier Vérifie les hypothèses et la cohérence du modèle financier transmis par le fondateur.
-
-Note de comité Rédige la note de comité avec les écarts constatés, les scénarios et les points bloquants.
-
-Valorisation & term sheet Prépare la valorisation et les termes clés de l'offre à négocier.
-
-KYC / AML Réalise les vérifications d'identité et de conformité anti-blanchiment sur les parties prenantes.
-
-Comparables Recherche les transactions et valorisations comparables sur le secteur visé.
-
-Suivi de participation Suit la performance, la trésorerie et les alertes convenues après investissement.
-
-Reporting souscripteurs Prépare le reporting périodique destiné aux souscripteurs du fonds.
-
-### Pourquoi il est pertinent pour un fonds d'ici
-
-Peu de fonds ont une équipe dédiée à l'instruction. Alioune absorbe le travail répétitif de tri et de vérification, pour que l'équipe d'investissement concentre son temps sur le jugement et la relation avec les fondateurs.
-
-### Les autres Experts
-
-Djénéba
-
-Kouassi
-
-Awa
-
-Fatima
-
-Fatou
-
-Mamadou
-
-Ibrahim
-
-Salif
-
-Nadia
-
-Adjoua
-
-Koffi
-
-Composer mon équipe →
-
-### Djénéba, direction
-
-← Tous les Experts
+## Djénéba
 
 Expert IA Yelema
 
@@ -2413,69 +2922,47 @@ Expert IA Yelema
 
 Chief of Staff & Direction
 
-Bras droit du dirigeant: prépare ses réunions, filtre ses sollicitations, tient le relevé des décisions et suit les engagements pris.
+Elle orchestre vos Experts et tient l'agenda, les décisions et les engagements du dirigeant.
 
-Prête à l'emploi
+Tâches terminées aujourd'hui 5/5
 
-Telegram Slack Teams E-mail Espace web
+- Comité de direction préparé Ordre du jour et chiffres envoyés
 
-En action
+- Boîte de réception triée 4 sujets urgents remontés
 
-Le dirigeant enchaîne cinq rendez-vous. Djénéba prépare un brief par
+- Relevé de décisions publié Réunion d'équipe de 9h
 
-réunion avec l'historique et l'objectif, écarte trois sollicitations qui
+- Engagement relancé Retour attendu du responsable achats
 
-pouvaient attendre, consigne les décisions prises et relance deux
+- Dossier du conseil assemblé Pièces rangées dans le Drive
 
-engagements de la semaine précédente restés sans suite.
+Elle travaille dans vos outils
 
-Sa valeur ajoutée
+Bureautique
 
-Plus rien ne se perd entre deux réunions, et le dirigeant arrive préparé
+Équipe
 
-partout, sans y passer ses soirées.
+Gestion et CRM
 
-Djénéba
+Données et tableaux de bord
 
-WhatsApp
+Outils d'ici
 
-07h10
-
-Deux engagements pris la semaine dernière sont en retard. J'ai relancé,
-
-et je vous remonte les réponses ce soir.
-
-2 relancés
-
-Djénéba en ligne
-
-Telegram
-
-0:04
-
-« J'ai quoi de prévu demain? »
-
-Trois rendez-vous 📅 Le conseil à 9h, un point équipe à
-
-14h, et un partenaire à 16h. Je vous ai préparé un brief pour chacun.
-
-Le partenaire de 16h, on en est où?
-
-Dernier échange il y a trois semaines: ils attendaient
-
-notre proposition tarifaire. Elle est partie mardi, sans réponse depuis.
-
-Je le mets dans le brief.
-
-PDF Brief_conseil_9h.pdf 240 Ko
-
-Écrivez un message… ➤
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
 
 ### Sa mission
 
-Bras droit du dirigeant: elle prépare ses réunions, filtre ses sollicitations, tient le relevé des décisions et suit les engagements pris.
+Bras droit du dirigeant : elle prépare ses réunions, filtre ses sollicitations, tient le relevé des décisions et suit les engagements pris.
 
-### Ce qu'elle fait
+Le dirigeant enchaîne cinq rendez-vous. Djénéba prépare un brief par réunion avec l'historique et l'objectif, écarte trois sollicitations qui pouvaient attendre, consigne les décisions prises et relance deux engagements de la semaine précédente restés sans suite.
+
+Plus rien ne se perd entre deux réunions, et le dirigeant arrive préparé partout, sans y passer ses soirées.
+
+Deux engagements pris la semaine dernière sont en retard. J'ai relancé, et je vous remonte les réponses ce soir.
+
+« J'ai quoi de prévu demain ? »
+
+### Ce qu'elle fait au quotidien
 
 - Prépare vos rendez-vous
 
@@ -2489,7 +2976,7 @@ Bras droit du dirigeant: elle prépare ses réunions, filtre ses sollicitations,
 
 - Agenda du dirigeant
 
-- Historique emails & messages
+- Historique des e-mails et des messages
 
 - Comptes rendus de réunions
 
@@ -2509,87 +2996,159 @@ Ces actions nécessitent votre validation explicite avant exécution.
 
 - Engagement pris auprès d'un tiers
 
-### Ce qu'elle produit
-
-Briefs de rendez-vous, ordres du jour, relevés de décisions, tableau des engagements en cours, notes de cadrage.
-
 ### Ce qu'elle fait sans qu'on le demande
 
-- Prépare la journée du dirigeant (chaque jour ouvré)
+Elle tient ces rendez-vous seule, sans attendre qu'on la relance.
 
-- Fait la veille du secteur de l'entreprise (chaque semaine)
+- Prépare la journée du dirigeant Chaque jour ouvré
 
-- Trie la boîte mail de direction et prépare les réponses (chaque jour ouvré)
+- Fait la veille du secteur de l'entreprise Chaque semaine
 
-- Fait le point sur les engagements pris et prépare les relances (deux fois par semaine)
+- Trie la boîte mail de direction et prépare les réponses Chaque jour ouvré
 
-- Refait le tri de la boîte mail de direction à la mi-journée (chaque jour ouvré)
+- Fait le point sur les engagements pris et prépare les relances Deux fois par semaine
 
-- Envoie le point de fin de journée (chaque jour ouvré)
+- Refait le tri de la boîte mail de direction à la mi-journée Chaque jour ouvré
 
-### Ses modèles de livrable
+- Envoie le point de fin de journée Chaque jour ouvré
 
-Bloc de signature, Brief de réunion, Courrier officiel, Modèles de messages : direction, Relevé de décisions et synthèse de réunion, Tableau kanban, Tracker de tâches
+### Ses livrables
 
+Ce qu'elle vous remet, prêt à relire. Elle ne l'envoie qu'après votre accord.
+
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Elle connaît le terrain administratif d'un dirigeant : le calendrier officiel ivoirien, les usages avec les guichets, et les circuits par lesquels passent les démarches d'une entreprise. Elle sait quelles pièces un guichet réclame vraiment, combien de temps une démarche prend en pratique, et à quel moment relancer pour que le dossier avance.
 
 ### Ses outils métiers
 
 Branchée à vos outils, avec plus de 3 000 intégrations prêtes.
 
-Agenda Gmail WhatsApp Notion Google Drive Slack
-
-Joignable là où vous êtes déjà:
-
-Telegram Slack Teams E-mail Espace web
+Joignable là où vous êtes déjà :
 
 ### Ses compétences
 
-6 savoir-faire déjà construits dans l'atelier Yelema. Elle n'improvise pas.
+10 savoir-faire déjà construits dans l'atelier Yelema. Elle n'improvise pas.
 
-Brief de rendez-vous Prépare chaque réunion avec contexte, historique et objectif de la rencontre.
+### Pourquoi elle est pertinente pour une entreprise d'ici
 
-Ordre du jour & note de cadrage Rédige l'ordre du jour et la note de cadrage avant chaque réunion stratégique.
+Un dirigeant fait tout : il vend, il recrute, il négocie et il rend des comptes. Ce qui se perd en premier, ce sont les décisions prises en réunion et les promesses faites à un tiers. Djénéba tient ce fil.
 
-Relevé de décisions Consigne les décisions prises après chaque réunion et les distribue aux parties concernées.
+## Alioune
 
-Suivi des engagements Tient le tableau des engagements pris et relance automatiquement les retardataires.
+Expert IA Yelema
 
-Filtre & priorisation Trie les sollicitations entrantes et ne remonte que ce qui mérite votre attention directe.
+### Alioune
 
-Point hebdomadaire Produit chaque semaine un point synthétique sur ce qui est en attente ou en retard.
+Investissement
 
-### Pourquoi elle est pertinente pour
+Il instruit vos dossiers d'investissement, du sourcing au suivi de participation.
 
-une entreprise d'ici
+Tâches terminées aujourd'hui 4/4
 
-Un dirigeant de PME fait tout: il vend, il recrute, il négocie et il rend
+- Data room inventoriée 3 pièces manquantes
 
-des comptes. Ce qui se perd en premier, ce sont les décisions prises en
+- Modèle financier audité 2 chiffres de revenus incohérents
 
-réunion et les promesses faites à un tiers. Djénéba tient ce fil.
+- Questions au fondateur prêtes Avant le comité de vendredi
 
-### Les autres Experts
+- Note de comité rédigée Avec les scénarios de valorisation
 
-Kouassi
+Il travaille dans vos outils
 
-Awa
+Bureautique
 
-Fatima
+Dossiers et signature
 
-Fatou
+Données et tableaux de bord
 
-Mamadou
+Outils d'ici
 
-Ibrahim
+Et plus de 3 000 autres intégrations prêtes. Vous autorisez, vous révoquez quand vous voulez.
 
-Salif
+### Sa mission
 
-Nadia
+L'instruction des investissements de bout en bout : sourcing contre la thèse du fonds, lecture de la salle de données, audit du modèle, note au comité, valorisation et suivi de la participation.
 
-Adjoua
+Un dossier Série A arrive pour le comité de vendredi. Alioune vérifie la thèse du fonds, inventorie la salle de données, repère deux chiffres de revenus qui se contredisent, prépare les questions au fondateur et livre la note de comité avec les scénarios de valorisation.
 
-Koffi
+Un comité qui statue sur un dossier instruit à fond : moins de dossiers mal jugés, plus de temps pour la décision.
 
-Alioune
+Inventaire terminé : trois pièces manquent et deux chiffres de revenus se contredisent. Questions au fondateur prêtes.
 
-Composer mon équipe →
+### Ce qu'il fait au quotidien
+
+- Note les dossiers contre la thèse réelle du fonds
+
+- Inventorie les pièces et signale les manques et incohérences
+
+- Audite les modèles financiers et prépare les questions à la direction
+
+- Suit les participations, la trésorerie et les alertes convenues
+
+### Ce dont il a besoin
+
+- Thèse et critères du fonds
+
+- Accès aux salles de données
+
+- Historique des dossiers instruits
+
+- Modèle de note de comité
+
+- Calendrier du comité d'investissement
+
+### Soumis à votre accord
+
+Ces actions nécessitent votre validation explicite avant exécution.
+
+- Transmission d'un prix ou d'une offre
+
+- Contact d'un dirigeant ou co-investisseur
+
+- Diffusion d'une note de comité hors du fonds
+
+- Rejet définitif d'un dossier
+
+### Ce qu'il fait sans qu'on le demande
+
+Il tient ces rendez-vous seul, sans attendre qu'on le relance.
+
+- Fait la veille des secteurs et des pays couverts par la thèse du fonds Chaque semaine
+
+- Produit le point hebdomadaire du pipeline Chaque semaine
+
+- Surveille les participations et déclenche les alertes convenues Chaque jour ouvré
+
+- Repère les dossiers bloqués et prépare les relances Chaque semaine
+
+- Prépare la séance de comité Chaque semaine
+
+- Envoie le point de fin de journée Chaque jour ouvré
+
+### Ses livrables
+
+Ce qu'il vous remet, prêt à relire. Il ne l'envoie qu'après votre accord.
+
+Et ses modèles prêts, adaptés à votre maison :
+
+### Sa maîtrise du terrain
+
+Il instruit dans le cadre de la région : droit OHADA, réglementation BCEAO pour les acteurs financiers, formalités du CEPICI et comparables des transactions de la zone UEMOA. Il sait ce qu'un fonds d'ici attend dans une salle de données, des états certifiés au registre du commerce, et ce qui retarde une opération au moment de la signature.
+
+### Ses outils métiers
+
+Branché à vos outils, avec plus de 3 000 intégrations prêtes.
+
+Joignable là où vous êtes déjà :
+
+### Ses compétences
+
+Chaque compétence est un savoir-faire déjà construit dans l'atelier Yelema. Il n'improvise pas.
+
+### Pourquoi il est pertinent pour une entreprise d'ici
+
+Peu de fonds ont une équipe dédiée à l'instruction. Alioune absorbe le travail répétitif de tri et de vérification, pour que l'équipe d'investissement concentre son temps sur le jugement et la relation avec les fondateurs.
+

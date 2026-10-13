@@ -1,6 +1,6 @@
 # Yelema
 
-> Yelema met des experts IA au travail dans les entreprises d'Afrique francophone : chaque expert prend un métier, travaille dans vos outils et reste opéré de bout en bout par nos équipes, depuis Abidjan.
+> Yelema met des Experts IA au travail dans les entreprises d'Afrique francophone : chaque Expert prend un métier, travaille dans vos outils et reste opéré de bout en bout par nos équipes, depuis Abidjan.
 
 Yelema est basé à Abidjan, en Côte d'Ivoire, et travaille pour les entreprises
 et les administrations d'Afrique francophone. Le service est opéré : Yelema
@@ -8,27 +8,35 @@ branche, configure, surveille et corrige, le client garde la main sur ce que
 l'expert a le droit de faire.
 
 ## Les pages qui font autorité
-- [Accueil](https://yelema.ai/) : ce qu'est un expert IA Yelema et à qui il s'adresse, avec les questions fréquentes.
-- [Les experts](https://yelema.ai/experts.html) : les métiers disponibles.
-- [Comment ça marche](https://yelema.ai/comment-ca-marche.html) : contexte, mémoire, compétences, outils branchés, couche qualité.
-- [Offres et tarifs](https://yelema.ai/#offres) : 300 000 F CFA par mois pour un compte de deux experts, puis 200 000 F CFA par expert ajouté, installation 1 000 000 F CFA au démarrage.
-- [Secteur privé, secteur public](https://yelema.ai/clients.html) : cas d'usage nommés par secteur.
-- [Contact](https://yelema.ai/contact.html) : demander une démonstration.
-- [Politique de confidentialité](https://yelema.ai/confidentialite.html) : ce que deviennent les données confiées à un expert.
+- [Accueil](https://yelema.ai/) : ce qu'est un Expert IA Yelema et à qui il s'adresse, avec les questions fréquentes.
+- [Les Experts](https://yelema.ai/#experts) : les métiers disponibles.
+- [Comment ça marche](https://yelema.ai/#fonctionnement) : contexte, mémoire, compétences, outils branchés, contrôle qualité.
+- [Offres et tarifs](https://yelema.ai/#offres) : 300 000 F CFA par mois pour un compte de deux Experts, puis 200 000 F CFA par Expert ajouté, installation 1 000 000 F CFA au démarrage.
+- [Secteur privé, secteur public](https://yelema.ai/#entreprises) : cas d'usage nommés par secteur.
+- [Contact](https://yelema.ai/#contact) : demander une démonstration.
+- [Politique de confidentialité](https://yelema.ai/confidentialite.html) : ce que deviennent les données confiées à un Expert.
 
-## Les fiches d'experts
-- [Kouassi, commercial](https://yelema.ai/experts/kouassi.html)
-- [Awa, support client](https://yelema.ai/experts/awa.html)
-- [Fatima, marketing](https://yelema.ai/experts/fatima.html)
-- [Fatou, RH et paie](https://yelema.ai/experts/fatou.html)
-- [Mamadou, finance](https://yelema.ai/experts/mamadou.html)
-- [Ibrahim, juridique](https://yelema.ai/experts/ibrahim.html)
-- [Salif, opérations](https://yelema.ai/experts/salif.html)
-- [Nadia, données](https://yelema.ai/experts/nadia.html)
-- [Adjoua, recrutement](https://yelema.ai/experts/adjoua.html)
-- [Koffi, design](https://yelema.ai/experts/koffi.html)
-- [Alioune, investissement](https://yelema.ai/experts/alioune.html)
-- [Djénéba, direction](https://yelema.ai/experts/chiefofstaff.html)
+## Les fiches d'Experts
+- [Kouassi, commercial](https://yelema.ai/#expert-kouassi)
+- [Awa, support client](https://yelema.ai/#expert-awa)
+- [Fatima, marketing](https://yelema.ai/#expert-fatima)
+- [Fatou, RH et paie](https://yelema.ai/#expert-fatou)
+- [Mamadou, finance](https://yelema.ai/#expert-mamadou)
+- [Ibrahim, juridique](https://yelema.ai/#expert-ibrahim)
+- [Salif, opérations](https://yelema.ai/#expert-salif)
+- [Nadia, données](https://yelema.ai/#expert-nadia)
+- [Adjoua, recrutement](https://yelema.ai/#expert-adjoua)
+- [Koffi, design](https://yelema.ai/#expert-koffi)
+- [Alioune, investissement](https://yelema.ai/#expert-alioune)
+- [Djénéba, direction](https://yelema.ai/#expert-chiefofstaff)
+
+## Les comparatifs
+- [Yelema vs ChatGPT](https://yelema.ai/vs-chatgpt.html)
+- [Yelema vs Claude](https://yelema.ai/vs-claude.html)
+- [Yelema vs Gemini](https://yelema.ai/vs-gemini.html)
+- [Yelema vs Microsoft Copilot](https://yelema.ai/vs-copilot.html)
+- [Yelema vs OpenAI Dots](https://yelema.ai/vs-openai-dots.html)
+- [Yelema vs Muse](https://yelema.ai/vs-muse.html)
 
 ## Le contenu complet
 - [llms-full.txt](https://yelema.ai/llms-full.txt) : tout le texte du site en un fichier, questions fréquentes et fiches d'Experts comprises.
