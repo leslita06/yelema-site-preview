@@ -494,7 +494,7 @@ Sécurité et données
 
 ### Vos données vous appartiennent.
 
-Vos données restent les vôtres, protégées, et chaque garantie est écrite dans votre contrat.
+Elles restent protégées, et chaque garantie est écrite dans votre contrat.
 
 Conforme aux exigences de l'ARTCI. Instances certifiées SOC 2. Surveillance 24h/24. On-premise possible.
 
