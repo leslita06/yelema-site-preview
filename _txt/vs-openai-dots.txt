@@ -1,0 +1,47 @@
+Yelema vs OpenAI Dots
+OpenAI a présenté les dots le 29 septembre 2026 : des agents personnels qui vivent dans ChatGPT, disposent de leur propre ordinateur dans le cloud et continuent d'avancer entre deux conversations. Yelema déploie des Experts IA qui tiennent un métier pour toute votre équipe, et notre équipe les opère depuis Abidjan. Les deux approches se ressemblent sur le papier ; cette page montre où elles divergent.
+Ce que fait chacun
+La différence décisive : un agent personnel ou un collègue opéré
+Vos données et votre souveraineté
+Ce qu'en disent celles qui s'en servent
+Un dot est l'agent d'une personne. Il poursuit les objectifs que son propriétaire lui fixe, fait des recherches en arrière-plan avec des accès en lecture seule, et demande une approbation avant certaines actions. On le joint dans ChatGPT, et dans Slack ou Microsoft Teams quand l'administrateur l'a permis.
+Un **Expert Yelema** tient un poste dans votre entreprise. Comme un collègue, il a son ordinateur, son numéro, son e-mail et ses accès, que vous ouvrez et fermez vous-même, et il travaille pour toute l'équipe sur le métier qui lui est confié.
+Chaque personne crée son dot, le règle et lui donne le contexte de l'entreprise. Le résultat dépend donc beaucoup de qui s'en occupe, et du temps que chacun y consacre.
+Un Expert Yelema arrive déjà formé à son métier et réglé sur votre activité. Notre équipe le suit au quotidien, et une couche qualité l'encadre : des juges indépendants vérifient ses réponses, des jeux de tests mesurent sa fiabilité, et tout acte sensible attend votre validation. Djénéba, la Chief of Staff incluse dans chaque compte, coordonne les autres Experts. Et vos équipes leur écrivent aussi sur WhatsApp, Telegram ou par e-mail, ou les appellent.
+OpenAI indique que le contenu des espaces Business et Enterprise ne sert pas à entraîner ses modèles par défaut. Les dots tournent sur le cloud d'OpenAI et sur ses propres modèles, et leur ouverture se fait marché par marché.
+Chez Yelema, vos données n'entraînent aucun modèle, chaque entreprise est cloisonnée, et tout est chiffré en transit et au repos. Le déploiement peut se faire entièrement on-premise, sur vos serveurs ou chez un hébergeur en Côte d'Ivoire. Nous combinons plusieurs fournisseurs de modèles et des briques open source, si bien qu'un changement de modèle ne change rien de votre côté, ni le prénom de l'Expert, ni ses canaux, ni sa mémoire.
+Sarah Mockey, de Colibri Technologies, parle de Djénéba en ces termes : « Elle me relance quand je traîne, ce qu'aucun outil n'avait osé faire avant elle. Franchement, elle fait partie de l'équipe. »
+Ce que c'est
+Des Experts IA qui tiennent chacun un métier, pour toute l'équipe
+Un agent personnel toujours actif, propre à chaque utilisateur de ChatGPT
+Mise en place
+Configurée et opérée par l'équipe Yelema à Abidjan
+Chaque personne crée et règle son dot
+Où on lui parle
+WhatsApp, Telegram, e-mail, téléphone, Slack, Teams et web
+ChatGPT, et Slack ou Teams si l'administrateur l'active
+Son poste de travail
+Son ordinateur, son numéro, son e-mail et ses accès
+Son propre ordinateur dans le cloud
+Modèles
+Plusieurs fournisseurs et des briques open source
+Modèles d'OpenAI
+Entraînement sur vos données
+Jamais, par engagement contractuel
+Non par défaut pour les espaces Business et Enterprise
+Hébergement
+On-premise possible, sur vos serveurs ou chez un hébergeur en Côte d'Ivoire
+Cloud d'OpenAI
+Disponibilité
+Afrique francophone, en commençant par l'UEMOA
+Ouverture progressive selon l'offre et le marché
+Les dots sont sortis fin septembre 2026 et évoluent vite. Les informations ci-dessus viennent des annonces d'OpenAI et de la presse spécialisée ; nous corrigeons cette page sur simple signalement.
+Quelle est la différence entre Yelema et OpenAI Dots ?
+Un dot est l'agent personnel d'un utilisateur de ChatGPT, qu'il crée et règle lui-même. Un Expert Yelema tient un métier pour toute l'équipe, arrive réglé sur votre entreprise et reste opéré par notre équipe à Abidjan.
+Yelema est-il une alternative à OpenAI Dots pour l'Afrique francophone ?
+Oui. Nos Experts travaillent en français, connaissent le droit OHADA et les usages bancaires de la zone BCEAO, se joignent sur WhatsApp et peuvent être hébergés en Côte d'Ivoire ou chez vous.
+Yelema utilise-t-il uniquement les modèles d'OpenAI ?
+Non. Nous choisissons pour chaque tâche le modèle qui la tient le mieux, parmi plusieurs fournisseurs, et nous en changeons quand un meilleur arrive, sans rien changer de votre côté.
+Yelema est-il déjà déployé en entreprise ?
+Oui. Des dirigeantes comme Sarah Mockey, de Colibri Technologies, et Florence Tahiri Fadika, de la Fondation Jeunesse Numérique, travaillent déjà avec nos Experts.
+Un dot travaille pour une personne. Un Expert Yelema travaille pour toute l'équipe, et notre équipe l'opère depuis Abidjan.
