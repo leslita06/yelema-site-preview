@@ -432,23 +432,19 @@ Le rapport, le devis, la fiche de paie ou le contrat arrivent prêts à relire e
 
 Notre différence
 
-### La couche qualité que les autres n'ont pas
+### Un contrôle qualité sur chaque Expert
 
-Un Expert autonome sans contrôle, c'est un risque. Yelema encadre chaque Expert par un système qualité: des juges indépendants vérifient les réponses, des jeux de tests mesurent la fiabilité, et chaque action sensible passe par une validation humaine.
-
-Résultat: l'efficacité de l'autonomie, sans le danger de l'autonomie aveugle.
-
-Et aucun enfermement. Yelema est interopérable par conception: on branche le meilleur modèle pour chaque tâche, et on en change sans rien casser. Vous ne dépendez d'aucun fournisseur, ni du nôtre.
+Chaque Expert est encadré. Un second contrôle relit ses réponses, des tests réguliers mesurent sa fiabilité, et toute action sensible attend votre accord.
 
 **Niveau de contrôle Yelema**
 
-Juges indépendants sur les réponses Actif
+Second contrôle des réponses Actif
 
-Jeux de tests de fiabilité Actif
+Tests de fiabilité réguliers Actif
 
-Validation humaine sur actions sensibles Systématique
+Votre accord sur les actions sensibles Systématique
 
-Journal auditable des actions Complet
+Journal des livrables Complet
 
 ## Offres et tarifs
 
