@@ -283,6 +283,10 @@ Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et 
 
 À vous. Vos Experts, leur mémoire et leurs compétences sont un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Si vous arrêtez, nous vous rendons vos données dans un format lisible et nous supprimons nos copies. Aucun enfermement, ni technique ni contractuel.
 
+Mes équipes doivent-elles savoir se servir de l'IA?
+
+Non. Elles lui parlent comme à un collègue, en français, par écrit ou par message vocal : sur votre espace de travail Yelema, sur Telegram, sur Slack ou sur Teams. Pas de formation à suivre, ni de jargon à apprendre.
+
 ### Votre premier Expert peut commencer dès aujourd'hui.
 
 Vous décrivez le métier, on branche l'Expert sur votre activité, il travaille avec vous. Sans recrutement, sans projet informatique.
@@ -949,6 +953,10 @@ Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et 
 ### À qui appartient ce que mes Experts apprennent, et si j'arrête ?
 
 À vous. Vos Experts, leur mémoire et leurs compétences sont un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Si vous arrêtez, nous vous rendons vos données dans un format lisible et nous supprimons nos copies. Aucun enfermement, ni technique ni contractuel.
+
+### Mes équipes doivent-elles savoir se servir de l'IA ?
+
+Non. Elles lui parlent comme à un collègue, en français, par écrit ou par message vocal : sur votre espace de travail Yelema, sur Telegram, sur Slack ou sur Teams. Pas de formation à suivre, ni de jargon à apprendre.
 
 ## Les fiches d'Experts
 
