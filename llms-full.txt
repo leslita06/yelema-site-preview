@@ -584,9 +584,9 @@ Rapprochez l'administration des citoyens et fluidifiez les services, avec les ga
 
 - Archives administratives, retrouvables en une question
 
-- Traçabilité: journal auditable, validation humaine
+- Votre accord sur chaque acte sensible
 
-- Hébergement souverain en option
+- Hébergement local en option
 
 Ancré localement
 
