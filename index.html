@@ -180,10 +180,12 @@ a.uc-n:hover .uc-go{text-decoration:underline}
 </style>
 <script id="p161-js">document.addEventListener("click",function(e){var b=e.target.closest&&e.target.closest(".ds-x");if(!b)return;var sec=b.closest(".ds-perso");if(!sec)return;var c=sec.querySelector("[data-ds]");
 Array.prototype.forEach.call(sec.querySelectorAll(".ds-x"),function(x){x.setAttribute("aria-pressed",x===b?"true":"false")});
-var big=c.querySelector("[data-ds-img]"),nm=c.querySelector(".ds-name"),s=b.getAttribute("data-src");
-c.classList.toggle("ds-x-on",!!s);if(s){c.classList.add("ds-autre","ds-photo");big.src=s;Array.prototype.forEach.call(c.querySelectorAll(".ds-t,.ds-f"),function(x){x.setAttribute("aria-pressed","false")})}
-else{c.classList.remove("ds-autre","ds-photo");var t0=c.querySelector(".ds-t");if(t0)t0.click()}
-if(nm){nm.value=b.getAttribute("data-n");nm.dispatchEvent(new Event("input"))}});</script><style id="p162-css">
+var F=b.getAttribute("data-f").split("|"),T=b.getAttribute("data-t").split("|"),L=b.getAttribute("data-tl").split("|");
+c.classList.remove("ds-x-on","ds-photo","ds-autre");
+Array.prototype.forEach.call(c.querySelectorAll(".ds-f"),function(x,i){if(i<F.length){x.hidden=false;x.setAttribute("data-src",F[i]);x.querySelector("img").src=F[i]}else{x.hidden=true}});
+Array.prototype.forEach.call(c.querySelectorAll(".ds-t"),function(x,i){x.setAttribute("data-src",T[i]);x.textContent=L[i]});
+var nm=c.querySelector(".ds-name");if(nm){nm.value=b.getAttribute("data-n");nm.dispatchEvent(new Event("input"))}
+c.querySelector(".ds-t").click()});</script><style id="p162-css">
 .ds-pick{max-width:1100px;margin:0 auto 18px;display:flex;flex-direction:column;align-items:center;gap:10px}
 .ds-step{display:flex;align-items:center;gap:0;font:700 15px var(--title);color:var(--indigo);margin:0}
 .ds-step b{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:#8D68FA;color:#fff;font-size:13px;flex:none;margin-right:10px}
@@ -219,6 +221,9 @@ h1 .sh-acc,h2 .sh-acc{color:#E4765A}
 @media(min-width:1081px){.yl-f5 .yl-fnews{margin-top:-24px}}
 </style><style id="p176-css">
 [data-ds].ds-autre .ds-t{pointer-events:auto!important;opacity:1!important;cursor:pointer}
+</style><style id="p182-css">
+.ds-perso .ds-f[hidden]{display:none!important}
+.ds-perso .ds-big{transition:opacity .2s}
 </style></head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><symbol id="ymark" viewBox="0 0 99.11 99.28"><defs><radialGradient id="yg" cx="49.56" cy="49.73" fx="1.84" fy="-10.48" r="76.82" gradientUnits="userSpaceOnUse">
@@ -582,7 +587,7 @@ h1 .sh-acc,h2 .sh-acc{color:#E4765A}
 <section class="pad ds-sec ds-perso"><div class="wrap">
   <div class="section-h"><p class="eyebrow">Personnalisation</p><h2>Chaque <span class="sh-acc">Expert</span>, à votre image.</h2></div>
   <p class="ds-intro">Visage, tenue, couleur de fond, prénom : vous choisissez l'identité de chacun de vos Experts. Leur métier, lui, ne change pas.</p>
-  <div class="ds-pick"><p class="ds-step"><b>1</b>Choisissez un Expert</p><div class="ds-row ds-who"><button type="button" class="ds-x" data-n="Djénéba" aria-pressed="true"><img src="images/djeneba/dj-tailleur.webp" alt="" loading="lazy"><span>Djénéba</span></button><button type="button" class="ds-x" data-n="Kouassi" data-src="images/experts/av-kouassi-sq.jpg" aria-pressed="false"><img src="images/experts/av-kouassi-sq.jpg" alt="" loading="lazy"><span>Kouassi</span></button><button type="button" class="ds-x" data-n="Awa" data-src="images/experts/av-awa-sq.jpg" aria-pressed="false"><img src="images/experts/av-awa-sq.jpg" alt="" loading="lazy"><span>Awa</span></button><button type="button" class="ds-x" data-n="Mamadou" data-src="images/experts/av-mamadou-sq.jpg" aria-pressed="false"><img src="images/experts/av-mamadou-sq.jpg" alt="" loading="lazy"><span>Mamadou</span></button><button type="button" class="ds-x" data-n="Adjoua" data-src="images/experts/av-adjoua-sq.jpg" aria-pressed="false"><img src="images/experts/av-adjoua-sq.jpg" alt="" loading="lazy"><span>Adjoua</span></button><button type="button" class="ds-x" data-n="Fatou" data-src="images/experts/av-fatou-sq.jpg" aria-pressed="false"><img src="images/experts/av-fatou-sq.jpg" alt="" loading="lazy"><span>Fatou</span></button></div></div>
+  <div class="ds-pick"><p class="ds-step"><b>1</b>Choisissez un Expert</p><div class="ds-row ds-who"><button type="button" class="ds-x" data-n="Djénéba" data-f="images/djeneba/dj-tailleur.webp|images/djeneba/detoure-1.webp|images/djeneba/detoure-2.webp|images/djeneba/detoure-3.webp|images/djeneba/detoure-4.webp" data-t="images/djeneba/dj-tailleur.webp|images/djeneba/dj-wax.webp|images/djeneba/dj-chemise.webp" data-tl="Tailleur|Wax|Chemise" aria-pressed="true"><img src="images/djeneba/dj-tailleur.webp" alt="" loading="lazy"><span>Djénéba</span></button><button type="button" class="ds-x" data-n="Kouassi" data-f="images/experts/perso/kouassi-t1.webp|images/experts/perso/kouassi-v2.webp|images/experts/perso/kouassi-v3.webp" data-t="images/experts/perso/kouassi-t1.webp|images/experts/perso/kouassi-t2.webp|images/experts/perso/kouassi-t3.webp" data-tl="Chemise et cravate|Chemise wax|Costume" aria-pressed="false"><img src="images/experts/perso/kouassi-t1.webp" alt="" loading="lazy"><span>Kouassi</span></button><button type="button" class="ds-x" data-n="Awa" data-f="images/experts/perso/awa-t1.webp|images/experts/perso/awa-v2.webp|images/experts/perso/awa-v3.webp" data-t="images/experts/perso/awa-t1.webp|images/experts/perso/awa-t2.webp|images/experts/perso/awa-t3.webp" data-tl="Décontractée|Blazer|T-shirt noir" aria-pressed="false"><img src="images/experts/perso/awa-t1.webp" alt="" loading="lazy"><span>Awa</span></button><button type="button" class="ds-x" data-n="Mamadou" data-f="images/experts/perso/mamadou-t1.webp|images/experts/perso/mamadou-v2.webp|images/experts/perso/mamadou-v3.webp" data-t="images/experts/perso/mamadou-t1.webp|images/experts/perso/mamadou-t2.webp|images/experts/perso/mamadou-t3.webp" data-tl="Veste|Chemise|Boubou" aria-pressed="false"><img src="images/experts/perso/mamadou-t1.webp" alt="" loading="lazy"><span>Mamadou</span></button></div></div>
   <div class="ds-stage" data-ds>
     <div class="ds-left">
       <img class="ds-big" data-ds-img src="images/djeneba/dj-tailleur.webp" alt="Djénéba, Chief of Staff">
