@@ -243,15 +243,15 @@ Un Expert Yelema, c'est quoi exactement?
 
 C'est un collègue IA qui tient un poste dans votre entreprise : recrutement, finance, ventes, juridique ou support. Il connaît votre activité, se souvient de tout ce que vous lui avez appris et agit dans vos outils, sur vos canaux. Vous lui fixez un objectif, il s'organise pour l'atteindre. Techniquement, c'est un agent IA, et notre équipe le suit au quotidien.
 
-Nous utilisons déjà ChatGPT, Claude ou Copilot. Pourquoi un Expert IA?
+On a déjà ChatGPT ou Copilot : pourquoi un Expert?
 
 Ces outils répondent à la personne qui les ouvre, mais ils ne connaissent pas votre entreprise et n'agissent dans aucun de vos outils : il faut tout réexpliquer, puis recopier le résultat à la main. Un Expert IA tient un poste. Il garde la mémoire de votre activité, travaille directement dans vos outils et sur vos canaux, et notre équipe l'opère. Il s'appuie d'ailleurs sur ces mêmes modèles, en choisissant pour chaque tâche celui qui la fait le mieux.
 
-Et les agents d'OpenAI, de Meta et de xAI (Dots, Muse, Grok Bot)?
+Et les agents Dots, Muse ou Grok Bot?
 
 Ce sont des assistants personnels : chacun crée le sien et le règle seul, pour lui-même. Un Expert Yelema arrive déjà formé à son métier et à votre entreprise, travaille pour toute l'équipe, en français, et notre équipe le suit au quotidien. Voir nos comparatifs détaillés (https://yelema.ai/vs-chatgpt.html)
 
-Pourquoi ne pas faire construire un agent par une agence tech?
+Pourquoi ne pas passer par une agence tech?
 
 Une agence livre un outil, puis passe au projet suivant. Or un agent ne vaut que par ce qu'il sait de votre métier et de vos règles. Chaque Expert Yelema est écrit avec des gens du métier et testé par eux jusqu'à ce que son travail vaille celui de la personne qui le faisait avant. Ensuite, notre équipe continue de le suivre et de l'améliorer.
 
@@ -279,7 +279,7 @@ Mes données sont-elles protégées?
 
 Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et en lecture seule quand cela suffit. Vos données n'entraînent aucun modèle, et chaque entreprise est cloisonnée. Entre collègues aussi : personne ne voit les conversations ni les fichiers d'un autre, direction comprise, sauf ce qu'il choisit de partager. Si vous le souhaitez, vos Experts peuvent aussi tourner sur vos propres serveurs.
 
-À qui appartient ce que mes Experts apprennent, et si j'arrête?
+Si j'arrête, à qui appartiennent mes Experts?
 
 À vous. Vos Experts, leur mémoire et leurs compétences sont un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Si vous arrêtez, nous vous rendons vos données dans un format lisible et nous supprimons nos copies. Aucun enfermement, ni technique ni contractuel.
 
@@ -914,15 +914,15 @@ Aucune inscription à une liste sans votre accord.
 
 C'est un collègue IA qui tient un poste dans votre entreprise : recrutement, finance, ventes, juridique ou support. Il connaît votre activité, se souvient de tout ce que vous lui avez appris et agit dans vos outils, sur vos canaux. Vous lui fixez un objectif, il s'organise pour l'atteindre. Techniquement, c'est un agent IA, et notre équipe le suit au quotidien.
 
-### Nous utilisons déjà ChatGPT, Claude ou Copilot. Pourquoi un Expert IA ?
+### On a déjà ChatGPT ou Copilot : pourquoi un Expert ?
 
 Ces outils répondent à la personne qui les ouvre, mais ils ne connaissent pas votre entreprise et n'agissent dans aucun de vos outils : il faut tout réexpliquer, puis recopier le résultat à la main. Un Expert IA tient un poste. Il garde la mémoire de votre activité, travaille directement dans vos outils et sur vos canaux, et notre équipe l'opère. Il s'appuie d'ailleurs sur ces mêmes modèles, en choisissant pour chaque tâche celui qui la fait le mieux.
 
-### Et les agents d'OpenAI, de Meta et de xAI (Dots, Muse, Grok Bot) ?
+### Et les agents Dots, Muse ou Grok Bot ?
 
 Ce sont des assistants personnels : chacun crée le sien et le règle seul, pour lui-même. Un Expert Yelema arrive déjà formé à son métier et à votre entreprise, travaille pour toute l'équipe, en français, et notre équipe le suit au quotidien. Voir nos comparatifs détaillés (https://yelema.ai/vs-chatgpt.html)
 
-### Pourquoi ne pas faire construire un agent par une agence tech ?
+### Pourquoi ne pas passer par une agence tech ?
 
 Une agence livre un outil, puis passe au projet suivant. Or un agent ne vaut que par ce qu'il sait de votre métier et de vos règles. Chaque Expert Yelema est écrit avec des gens du métier et testé par eux jusqu'à ce que son travail vaille celui de la personne qui le faisait avant. Ensuite, notre équipe continue de le suivre et de l'améliorer.
 
@@ -950,7 +950,7 @@ Chaque Expert est encadré. Un second contrôle relit ses réponses, des tests r
 
 Oui. Votre Expert ne voit que ce que vous lui ouvrez, fonction par fonction, et en lecture seule quand cela suffit. Vos données n'entraînent aucun modèle, et chaque entreprise est cloisonnée. Entre collègues aussi : personne ne voit les conversations ni les fichiers d'un autre, direction comprise, sauf ce qu'il choisit de partager. Si vous le souhaitez, vos Experts peuvent aussi tourner sur vos propres serveurs.
 
-### À qui appartient ce que mes Experts apprennent, et si j'arrête ?
+### Si j'arrête, à qui appartiennent mes Experts ?
 
 À vous. Vos Experts, leur mémoire et leurs compétences sont un actif de votre entreprise : nous construisons, nous opérons, et vous gardez tout. Si vous arrêtez, nous vous rendons vos données dans un format lisible et nous supprimons nos copies. Aucun enfermement, ni technique ni contractuel.
 
