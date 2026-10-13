@@ -311,31 +311,27 @@ Chaque échange, chaque décision, chaque dossier reste consultable en une quest
 
 **Compétences**
 
-Répondre, relancer, rédiger, classer, alerter, préparer un
-
-dossier: chaque Expert tient un métier concret et le rend, jour après jour,
-
-dans vos outils et sur vos canaux, avec votre validation sur les actes sensibles.
+Répondre, relancer, rédiger, classer, préparer un dossier : chaque Expert tient un vrai métier, dans vos outils et sur vos canaux. Vous gardez la main sur les actes sensibles.
 
 ### Connectés à vos outils
 
-Chaque Expert se branche à vos applications, avec plus de 3 000 intégrations prêtes.
+Chaque Expert travaille dans les applications que vos équipes utilisent déjà.
 
 **Messagerie**
 
-Telegram WhatsApp Gmail Slack Teams
+Telegram WhatsApp Gmail Outlook Slack Teams
 
-**Agenda et documents**
+**Bureautique et documents**
 
-Google Agenda Drive Sheets Notion DocuSign
+Google Agenda Drive Sheets Word PowerPoint DocuSign
 
 **Gestion et finance**
 
-Sage Odoo QuickBooks Excel Looker
+Sage Odoo FNE Excel Power BI Orange Money
 
 **Vente et marketing**
 
-HubSpot LinkedIn Instagram Canva PhantomBuster
+HubSpot LinkedIn Facebook Instagram Canva Meta Business Suite
 
 Plus de 3 000 autres outils par connecteurs ouverts. Vous autorisez, vous révoquez.
 
