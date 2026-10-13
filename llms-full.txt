@@ -484,7 +484,7 @@ Sur devis, chiffré après un premier échange
 
 - Des applications IA à votre mesure: scoring, back-office, parcours client
 
-- On cadre, on développe, on exploite, avec votre équipe
+- Nous cadrons, construisons et opérons avec votre équipe
 
 - Vos données et vos processus restent les vôtres
 
@@ -526,19 +526,19 @@ Au-delà des Experts
 
 ### Vos cas d'usage, développés de bout en bout
 
-Certains besoins ne se rangent pas dans un métier. Un moteur de scoring, un back-office qui parle à votre système, un parcours citoyen complet: on les conçoit, on les développe et on les exploite avec vous.
+Certains besoins ne se rangent pas dans un métier. Un moteur de scoring, un back-office qui parle à votre système, un parcours citoyen complet: nous les cadrons, les construisons et les opérons avec vous.
 
-**On cadre**
+**Cadrer**
 
-On part de votre processus réel, on chiffre ce que l'automatisation rapporte, et on décide ensemble de ce qui vaut la peine d'être fait.
+Nous partons de votre processus réel, chiffrons ce que l'automatisation rapporte et décidons avec vous de ce qui vaut la peine d'être fait.
 
-**On développe**
+**Construire**
 
-Connexions à vos systèmes, règles métier, interfaces, contrôles. Ce qui n'existe pas encore, on l'écrit.
+Nous connectons vos systèmes et écrivons ce qui manque : règles métier, interfaces, contrôles.
 
-**On exploite**
+**Opérer**
 
-On opère la solution, on la surveille et on la fait évoluer. Vos données et vos processus restent les vôtres.
+Nous faisons tourner la solution, la surveillons et la faisons évoluer. Vos données et vos processus restent les vôtres.
 
 Ces projets se chiffrent au cas par cas, après un premier échange.
 
