@@ -926,7 +926,7 @@ Il ne laisse jamais une opportunité refroidir.
 
 Prêt à l'emploi
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 En action Un devis envoyé il y a 5 jours reste sans réponse. Kouassi relance avec un message personnalisé, propose un appel, et prévient le commercial que le prospect a rouvert le devis deux fois. L'affaire repart.
 
@@ -993,7 +993,7 @@ WhatsApp Gmail LinkedIn Google Sheets Calendly HubSpot
 
 Joignable là où vous êtes déjà:
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 ### Ses compétences
 
@@ -1061,7 +1061,7 @@ Elle répond à vos clients, jour et nuit, sur vos canaux.
 
 Prête à l'emploi
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 En action Un client écrit à 22h « ma livraison n'est pas arrivée ». Awa retrouve la commande, explique le statut, propose un créneau de rappel, et laisse une note pour l'équipe du matin. Le client a une réponse tout de suite; l'équipe garde le contrôle.
 
@@ -1128,7 +1128,7 @@ Telegram WhatsApp Gmail Google Sheets Notion Zendesk
 
 Joignable là où vous êtes déjà:
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 ### Ses compétences
 
@@ -1192,7 +1192,7 @@ Elle fait vivre votre marque, chaque semaine.
 
 Prête à l'emploi
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 En action Pour le lancement d'une offre, Fatima propose un plan de 6 posts, rédige les textes, prépare les visuels, programme la semaine et livre une newsletter prête à valider. Le fondateur relit et publie en un clic.
 
@@ -1259,7 +1259,7 @@ Instagram Facebook LinkedIn WhatsApp Buffer Canva
 
 Joignable là où vous êtes déjà:
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 ### Ses compétences
 
@@ -1329,7 +1329,7 @@ Elle tient la paie sans faute et veille sur le quotidien de vos équipes.
 
 Prête à l'emploi
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 En action Un salarié demande son solde de congés et une attestation. Fatou répond avec le solde exact, génère l'attestation, la fait valider par la RH, et l'envoie, en dix minutes au lieu de deux jours.
 
@@ -1396,7 +1396,7 @@ Google Workspace Notion WhatsApp Slack Gmail Google Sheets
 
 Joignable là où vous êtes déjà:
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 ### Ses compétences
 
@@ -1464,7 +1464,7 @@ Il garde vos comptes clairs et vos dossiers bancables.
 
 Prêt à l'emploi
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 En action Avant un rendez-vous bancaire, Mamadou reconstitue le prévisionnel à 3 ans, prépare le plan de remboursement, repère les points faibles du dossier et livre un PDF propre. Le dirigeant arrive préparé.
 
@@ -1533,7 +1533,7 @@ Google Sheets Excel Sage QuickBooks Gmail Banques
 
 Joignable là où vous êtes déjà:
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 ### Ses compétences
 
@@ -1595,7 +1595,7 @@ Il tient le juridique carré, pour le privé comme pour le public.
 
 Prêt à l'emploi
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 En action Un partenaire envoie un contrat à signer. Ibrahim le relit, pointe deux clauses à risque, propose une reformulation, et attend la validation du dirigeant avant tout retour. Rien ne s'engage sans accord humain.
 
@@ -1662,7 +1662,7 @@ DocuSign Google Drive Gmail Notion Google Sheets
 
 Joignable là où vous êtes déjà:
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 ### Ses compétences
 
@@ -1728,7 +1728,7 @@ Il fait tourner l'administratif et la trésorerie du quotidien.
 
 Prêt à l'emploi
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 En action En fin de mois, Salif repère les impayés, lance des relances graduées, signale deux produits en rupture imminente et met à jour le tableau de bord. Le dirigeant voit tout d'un coup d'œil.
 
@@ -1797,7 +1797,7 @@ Google Sheets Notion WhatsApp QuickBooks Wave Odoo Gmail
 
 Joignable là où vous êtes déjà:
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 ### Ses compétences
 
@@ -1861,7 +1861,7 @@ Elle transforme vos chiffres en décisions.
 
 Prête à l'emploi
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 En action Chaque lundi, Nadia envoie le tableau de bord de la semaine, met en avant les 3 alertes qui comptent et prévoit la trésorerie à 30 jours. Le comité de direction démarre sur des faits.
 
@@ -1930,7 +1930,7 @@ Google Sheets Looker Notion Fireflies Gmail
 
 Joignable là où vous êtes déjà:
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 ### Ses compétences
 
@@ -1992,7 +1992,7 @@ Elle trouve et évalue les bons profils.
 
 Prête à l'emploi
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 En action Pour un poste de comptable, Adjoua rédige la fiche, source 15 profils, en présélectionne 5 notés, prépare le guide d'entretien et programme les rendez-vous. Le dirigeant n'a plus qu'à rencontrer les meilleurs.
 
@@ -2059,7 +2059,7 @@ LinkedIn Gmail Google Sheets Calendly Notion
 
 Joignable là où vous êtes déjà:
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 ### Ses compétences
 
@@ -2129,7 +2129,7 @@ Il habille votre marque, du logo au site.
 
 Prêt à l'emploi
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 En action Pour l'ouverture d'une boutique, Koffi produit l'affiche dans la charte, la décline en story, post et statut WhatsApp, vérifie la cohérence et livre le tout imprimable. La communication est prête en une heure.
 
@@ -2198,7 +2198,7 @@ Canva Figma Google Drive Instagram Gmail
 
 Joignable là où vous êtes déjà:
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 ### Ses compétences
 
@@ -2264,7 +2264,7 @@ Il instruit vos dossiers d'investissement, du sourcing au suivi de participation
 
 Prêt à l'emploi
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 En action Un dossier Série A arrive pour le comité de vendredi. Alioune vérifie la thèse du fonds, inventorie la data room, repère deux chiffres de revenus qui se contredisent, prépare les questions au fondateur et livre la note de comité avec les scénarios de valorisation.
 
@@ -2349,7 +2349,7 @@ Google Drive Excel DocuSign Gmail Slack Notion
 
 Joignable là où vous êtes déjà:
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 ### Ses compétences
 
@@ -2419,7 +2419,7 @@ Bras droit du dirigeant: prépare ses réunions, filtre ses sollicitations, tien
 
 Prête à l'emploi
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 En action
 
@@ -2542,7 +2542,7 @@ Agenda Gmail WhatsApp Notion Google Drive Slack
 
 Joignable là où vous êtes déjà:
 
-Telegram WhatsApp E-mail Espace web
+Telegram Slack Teams E-mail Espace web
 
 ### Ses compétences
 
