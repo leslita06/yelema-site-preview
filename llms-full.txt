@@ -496,7 +496,7 @@ Sécurité et données
 
 Elles restent protégées, et chaque garantie est écrite dans votre contrat.
 
-Conforme aux exigences de l'ARTCI. Instances certifiées SOC 2. Surveillance 24h/24. On-premise possible.
+Conforme aux exigences de l'ARTCI. Instances certifiées SOC 2. Surveillance 24h/24. Hébergement local possible.
 
 Sauvegardes quotidiennes Votre espace est sauvegardé chaque nuit.
 
@@ -510,7 +510,7 @@ Chaque entreprise est cloisonnée Vos documents, votre mémoire et vos accès vi
 
 Chiffrées en transit et au repos Vos échanges comme vos fichiers stockés. Les accès à vos outils passent par des autorisations que vous accordez, et que vous retirez quand vous voulez.
 
-Chaque action est tracée Journal auditable complet: qui a fait quoi, quand, à la demande de qui. Et une validation humaine obligatoire sur tout acte sensible.
+Votre accord d'abord Rien de sensible ne part sans votre accord.
 
 Vous repartez avec tout À tout moment, vos données vous sont rendues dans un format lisible et les nôtres sont supprimées. Aucun enfermement, ni technique ni contractuel.
 
