@@ -31,6 +31,8 @@ function route(){
  let id=(location.hash.replace('#','')||'accueil');
  /* #demo ouvre le formulaire par-dessus la page contact, depuis n'importe quelle page. */
  if(id==='demo') id='contact';
+ /* #projet ouvre sa fenêtre par-dessus la page en cours (p189). */
+ if(id==='projet'){ if(window.ylVu) return; id='offres'; }
  if(!document.getElementById('view-'+id)) id='accueil';
  document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
  document.getElementById('view-'+id).classList.add('active');
@@ -40,6 +42,7 @@ function route(){
  burger.classList.remove('open');
  burger.setAttribute('aria-expanded','false');
  window.scrollTo({top:0,behavior:'auto'});
+ window.ylVu=1;
 }
 document.addEventListener('click',function(e){
  const a=e.target.closest('a[href^="#"]');
