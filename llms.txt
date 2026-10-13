@@ -17,18 +17,18 @@ l'expert a le droit de faire.
 - [Politique de confidentialité](https://yelema.ai/confidentialite.html) : ce que deviennent les données confiées à un Expert.
 
 ## Les fiches d'Experts
-- [Kouassi, commercial](https://yelema.ai/#expert-kouassi)
-- [Awa, support client](https://yelema.ai/#expert-awa)
-- [Fatima, marketing](https://yelema.ai/#expert-fatima)
-- [Fatou, RH et paie](https://yelema.ai/#expert-fatou)
-- [Mamadou, finance](https://yelema.ai/#expert-mamadou)
-- [Ibrahim, juridique](https://yelema.ai/#expert-ibrahim)
-- [Salif, opérations](https://yelema.ai/#expert-salif)
-- [Nadia, données](https://yelema.ai/#expert-nadia)
-- [Adjoua, recrutement](https://yelema.ai/#expert-adjoua)
-- [Koffi, design](https://yelema.ai/#expert-koffi)
-- [Alioune, investissement](https://yelema.ai/#expert-alioune)
-- [Djénéba, direction](https://yelema.ai/#expert-chiefofstaff)
+- [Kouassi, commercial](https://yelema.ai/experts/expert-ia-commercial-kouassi.html)
+- [Awa, support client](https://yelema.ai/experts/expert-ia-support-client-awa.html)
+- [Fatima, marketing](https://yelema.ai/experts/expert-ia-marketing-fatima.html)
+- [Fatou, RH et paie](https://yelema.ai/experts/expert-ia-rh-paie-fatou.html)
+- [Mamadou, finance](https://yelema.ai/experts/expert-ia-finance-mamadou.html)
+- [Ibrahim, juridique](https://yelema.ai/experts/expert-ia-juridique-ibrahim.html)
+- [Salif, opérations](https://yelema.ai/experts/expert-ia-operations-salif.html)
+- [Nadia, données](https://yelema.ai/experts/expert-ia-donnees-nadia.html)
+- [Adjoua, recrutement](https://yelema.ai/experts/expert-ia-recrutement-adjoua.html)
+- [Koffi, design](https://yelema.ai/experts/expert-ia-design-koffi.html)
+- [Alioune, investissement](https://yelema.ai/experts/expert-ia-investissement-alioune.html)
+- [Djénéba, direction](https://yelema.ai/experts/expert-ia-direction-djeneba.html)
 
 ## Les comparatifs
 - [Yelema vs ChatGPT](https://yelema.ai/vs-chatgpt.html)

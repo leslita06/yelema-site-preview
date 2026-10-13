@@ -33,7 +33,8 @@ function route(){
  if(id==='demo') id='contact';
  /* #projet ouvre sa fenêtre par-dessus la page en cours (p189). */
  if(id==='projet'){ if(window.ylVu) return; id='offres'; }
- if(!document.getElementById('view-'+id)) id='accueil';
+ if(!document.getElementById('view-'+id)) id=document.getElementById('view-accueil')?'accueil':((document.querySelector('.view.active')||document.querySelector('.view')||{id:'view-'}).id.slice(5));
+ if(!document.getElementById('view-'+id)) return;
  document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
  document.getElementById('view-'+id).classList.add('active');
  let t=topRoute(id);
