@@ -27,7 +27,20 @@
 .fil a{color:#6a5f8c}.fil span{color:var(--indigo)}
 .view{display:block}
 </style>
-</head>
+<style id="fxt-css">
+.pv-hero{display:flex;width:fit-content;align-items:center;gap:8px;margin:10px 0 4px;padding:5px 12px 5px 6px;border-radius:999px;background:#f3effe;color:#301667;font:600 13px var(--title);vertical-align:middle}
+.pv-hero svg{width:13px;height:13px;color:#8D68FA}
+.pv-hero .pv-f{display:flex}.pv-hero .pv-f img{width:24px;height:24px;border-radius:50%;object-fit:cover;object-position:top;border:2px solid #f3effe;margin-left:-8px;background:#C5C4FF}
+.pv-hero .pv-f img:first-child{margin-left:0}
+@media(max-width:620px){.pv-hero{margin:8px 0 0}}
+.fxt-bar{grid-column:1/-1;display:flex;gap:8px;flex-wrap:wrap;padding:6px;background:#f3effe;border-radius:18px;margin:6px 0 2px}
+.fxt-bar button{flex:1 1 auto;border:0;background:transparent;border-radius:13px;padding:12px 16px;font:600 14.5px var(--title);color:#5d5675;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:8px}
+.fxt-bar button em{font-style:normal;font-size:12px;background:#fff;color:#8D68FA;border-radius:999px;padding:1px 8px}
+.fxt-bar button[aria-selected=true]{background:#301667;color:#fff;box-shadow:0 6px 16px rgba(48,22,103,.22)}
+.fxt-bar button[aria-selected=true] em{background:rgba(255,255,255,.18);color:#fff}
+.agent-grid .fxt-off{display:none}
+@media(max-width:620px){.fxt-bar{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch}.fxt-bar button{flex:0 0 auto;padding:10px 12px;font-size:13.5px}}
+</style></head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><symbol id="ymark" viewBox="0 0 99.11 99.28"><defs><radialGradient id="yg" cx="49.56" cy="49.73" fx="1.84" fy="-10.48" r="76.82" gradientUnits="userSpaceOnUse">
 <stop offset="0" stop-color="#0084f5"/><stop offset=".35" stop-color="#5670ff"/><stop offset=".53" stop-color="#636dff"/><stop offset=".71" stop-color="#6b58fb"/><stop offset="1" stop-color="#213d7a"/></radialGradient></defs>
@@ -203,5 +216,24 @@
    <span class="yl-fbl"><a href="../confidentialite.html">Politique de confidentialité</a>
    <a href="mailto:contact@yelema.ai">contact@yelema.ai</a></span></div>
 </div></footer>
-</body>
+<script id="fxt-js">(function(){
+var TABS=[["Son quotidien",/au quotidien|sans qu.on le demande/i,"li"],["Ses livrables",/^Ses livrables/i,".spec"],["Ses compétences",/^Ses compétences/i,".skill"],["Votre cadre",/Soumis à votre accord|Ce dont (il|elle) a besoin/i,null],["Terrain et outils",/maîtrise du terrain|outils métiers/i,null]];
+function go(){Array.prototype.forEach.call(document.querySelectorAll(".agent-grid"),function(g){
+ var ps=Array.prototype.slice.call(g.children).filter(function(p){return p.classList.contains("panel")});
+ var groups=TABS.map(function(T){return ps.filter(function(p){var h=p.querySelector("h2");return h&&T[1].test(h.textContent.trim())})});
+ var first=null;groups.forEach(function(gr){gr.forEach(function(p){if(!first||ps.indexOf(p)<ps.indexOf(first))first=p})});
+ if(!first||groups.filter(function(x){return x.length}).length<3)return;
+ var bar=document.createElement("div");bar.className="fxt-bar";bar.setAttribute("role","tablist");
+ function show(n){groups.forEach(function(gr,k){gr.forEach(function(p){p.classList.toggle("fxt-off",k!==n)})});
+  Array.prototype.forEach.call(bar.children,function(b,k){b.setAttribute("aria-selected",k===n?"true":"false")})}
+ TABS.forEach(function(T,k){if(!groups[k].length)return;var b=document.createElement("button");b.type="button";b.setAttribute("role","tab");
+  var n=T[2]?groups[k].reduce(function(s,p){return s+p.querySelectorAll(T[2]).length},0):0;
+  b.innerHTML=T[0]+(n?"<em>"+n+"</em>":"");b.addEventListener("click",function(){show(k)});b.dataset.k=k;bar.appendChild(b)});
+ g.insertBefore(bar,first);
+ // tous les panneaux d'onglets passent après la barre, dans l'ordre des onglets
+ var mk=document.createComment("fxt");g.insertBefore(mk,bar.nextSibling);groups.forEach(function(gr){gr.forEach(function(p){g.insertBefore(p,mk)})});g.removeChild(mk);
+ var bs=bar.children;function showK(k){for(var i=0;i<bs.length;i++)bs[i].setAttribute("aria-selected",+bs[i].dataset.k===k?"true":"false");groups.forEach(function(gr,j){gr.forEach(function(p){p.classList.toggle("fxt-off",j!==k)})})}
+ Array.prototype.forEach.call(bs,function(b){b.onclick=function(){showK(+b.dataset.k)}});showK(+bs[0].dataset.k);
+})}
+if(document.readyState!="loading")go();else document.addEventListener("DOMContentLoaded",go)})();</script></body>
 </html>

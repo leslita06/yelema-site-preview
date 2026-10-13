@@ -44,7 +44,24 @@
 
 
 <link rel="stylesheet" href="css/style.css?v=1210h">
-</head>
+<style id="pv-a-css">
+.pv-a{position:absolute;top:12px;right:12px;z-index:3;display:inline-flex;align-items:center;gap:6px;padding:6px 12px 6px 9px;border-radius:999px;background:rgba(255,255,255,.88);backdrop-filter:blur(6px);color:#301667;font:600 12px var(--title);box-shadow:0 6px 16px rgba(20,8,60,.18)}
+.pv-a svg{width:13px;height:13px;color:#8D68FA}
+@media(max-width:620px){.pv-a{top:8px;right:8px;padding:6px}.pv-a .pv-t{display:none}.pv-a svg{width:12px;height:12px}}
+</style><style id="fxt-css">
+.pv-hero{display:flex;width:fit-content;align-items:center;gap:8px;margin:10px 0 4px;padding:5px 12px 5px 6px;border-radius:999px;background:#f3effe;color:#301667;font:600 13px var(--title);vertical-align:middle}
+.pv-hero svg{width:13px;height:13px;color:#8D68FA}
+.pv-hero .pv-f{display:flex}.pv-hero .pv-f img{width:24px;height:24px;border-radius:50%;object-fit:cover;object-position:top;border:2px solid #f3effe;margin-left:-8px;background:#C5C4FF}
+.pv-hero .pv-f img:first-child{margin-left:0}
+@media(max-width:620px){.pv-hero{margin:8px 0 0}}
+.fxt-bar{grid-column:1/-1;display:flex;gap:8px;flex-wrap:wrap;padding:6px;background:#f3effe;border-radius:18px;margin:6px 0 2px}
+.fxt-bar button{flex:1 1 auto;border:0;background:transparent;border-radius:13px;padding:12px 16px;font:600 14.5px var(--title);color:#5d5675;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:8px}
+.fxt-bar button em{font-style:normal;font-size:12px;background:#fff;color:#8D68FA;border-radius:999px;padding:1px 8px}
+.fxt-bar button[aria-selected=true]{background:#301667;color:#fff;box-shadow:0 6px 16px rgba(48,22,103,.22)}
+.fxt-bar button[aria-selected=true] em{background:rgba(255,255,255,.18);color:#fff}
+.agent-grid .fxt-off{display:none}
+@media(max-width:620px){.fxt-bar{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch}.fxt-bar button{flex:0 0 auto;padding:10px 12px;font-size:13.5px}}
+</style></head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><symbol id="ymark" viewBox="0 0 99.11 99.28"><defs><radialGradient id="yg" cx="49.56" cy="49.73" fx="1.84" fy="-10.48" r="76.82" gradientUnits="userSpaceOnUse">
 <stop offset="0" stop-color="#0084f5"/><stop offset=".35" stop-color="#5670ff"/><stop offset=".53" stop-color="#636dff"/><stop offset=".71" stop-color="#6b58fb"/><stop offset="1" stop-color="#213d7a"/></radialGradient></defs>
@@ -177,7 +194,7 @@
  </section><section class="pad soft"><div class="wrap">
    <div class="section-h"><h2>Rencontrez vos futurs <span class="sh-acc">Experts</span></h2>
      <p>Chaque Expert maîtrise un métier et est prêt à l'emploi. Composez votre équipe à partir de deux Experts : ils commencent dès aujourd'hui.</p></div>
-   <div class="agrid catalog-agrid"><a class="acard" href="#expert-chiefofstaff">
+   <div class="agrid catalog-agrid"><a class="acard" href="#expert-chiefofstaff"><span class="pv-a"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18.4 2.6a2 2 0 0 1 2.9 2.9L11 15.8 8.2 13z"/><path d="M7 14.6c-1.7 0-3 1.4-3 3 0 1.4-.6 2.2-2 2.9 1 .5 2.4 1 4 1a4 4 0 0 0 4-4c0-1.6-1.3-2.9-3-2.9z"/></svg><span class="pv-t">Personnalisable</span></span>
   <span class="acard-badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l2.1 4.6 5 .6-3.7 3.4 1 4.9L12 14.1 7.6 16.5l1-4.9L4.9 8.2l5-.6z"/></svg>Incluse par défaut</span><div class="acard-av has-vid"><video class="av-vid" loop muted playsinline preload="none" poster="images/posters/video-djeneba.webp" data-src="videos/video-djeneba.mp4"></video></div>
   <div class="acard-b"><h3>Djénéba</h3><p class="role">Chief of Staff & Direction</p><p class="tl">Elle orchestre l'équipe IA, aligne les priorités et libère votre agenda.</p><span class="acard-link">Voir sa fiche →</span></div>
 </a><a class="acard" href="#expert-kouassi">
@@ -351,7 +368,7 @@
    <div class="section-h"><p class="eyebrow">Le catalogue</p><h2 class="h1x">Les Experts Yelema</h2>
      <p>Chaque Expert tient un métier, avec des compétences précises et les outils qui vont avec. Ouvrez une fiche pour voir ce qu'il fait au quotidien, ce sur quoi il s'appuie, et un cas concret. Commencez par le poste où un Expert vous fera gagner le plus de temps.</p></div>
    
-   <div class="agrid catalog-agrid"><a class="acard" href="#expert-chiefofstaff">
+   <div class="agrid catalog-agrid"><a class="acard" href="#expert-chiefofstaff"><span class="pv-a"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18.4 2.6a2 2 0 0 1 2.9 2.9L11 15.8 8.2 13z"/><path d="M7 14.6c-1.7 0-3 1.4-3 3 0 1.4-.6 2.2-2 2.9 1 .5 2.4 1 4 1a4 4 0 0 0 4-4c0-1.6-1.3-2.9-3-2.9z"/></svg><span class="pv-t">Personnalisable</span></span>
   <span class="acard-badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l2.1 4.6 5 .6-3.7 3.4 1 4.9L12 14.1 7.6 16.5l1-4.9L4.9 8.2l5-.6z"/></svg>Incluse par défaut</span><div class="acard-av has-vid"><video class="av-vid" loop muted playsinline preload="none" poster="images/posters/video-djeneba.webp" data-src="videos/video-djeneba.mp4"></video></div>
   <div class="acard-b"><h3>Djénéba</h3><p class="role">Chief of Staff & Direction</p><p class="tl">Elle orchestre l'équipe IA, aligne les priorités et libère votre agenda.</p><span class="acard-link">Voir sa fiche →</span></div>
 </a><a class="acard" href="#expert-kouassi">
@@ -861,7 +878,7 @@
         <p class="eyebrow">Expert IA Yelema</p>
         <h2 class="h1x">Djénéba</h2>
         <p class="agent-role">Chief of Staff & Direction</p>
-        <p class="agent-tl">Bras droit du dirigeant : prépare ses réunions, filtre ses sollicitations, tient le relevé des décisions et suit les engagements pris.</p><span class="badge dispo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5.2l3.4 2"/></svg>Prête à l'emploi</span>
+        <p class="agent-tl">Bras droit du dirigeant : prépare ses réunions, filtre ses sollicitations, tient le relevé des décisions et suit les engagements pris.</p><span class="badge dispo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5.2l3.4 2"/></svg>Prête à l'emploi</span><span class="pv-hero"><span class="pv-f"><img src="images/djeneba/dj-tailleur.webp" alt=""><img src="images/djeneba/detoure-1.webp" alt=""><img src="images/djeneba/detoure-2.webp" alt=""><img src="images/djeneba/detoure-3.webp" alt=""></span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18.4 2.6a2 2 0 0 1 2.9 2.9L11 15.8 8.2 13z"/><path d="M7 14.6c-1.7 0-3 1.4-3 3 0 1.4-.6 2.2-2 2.9 1 .5 2.4 1 4 1a4 4 0 0 0 4-4c0-1.6-1.3-2.9-3-2.9z"/></svg>Personnalisable : visage, tenue, fond et prénom</span>
         <span class="fx-lab">Parlez-lui via</span><div class="chips"><span class="chip chan"><i class="chip-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg></i>Appel</span><span class="chip chan"><i class="chip-lg lg-telegram"></i>Telegram</span><span class="chip chan"><i class="chip-lg lg-whatsapp"></i>WhatsApp</span><span class="chip chan"><i class="chip-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="M3.5 7l8.5 6 8.5-6"/></svg></i>E-mail</span><span class="chip chan"><i class="chip-lg lg-slack"></i>Slack</span></div><div class="fx-acc"><span class="fx-lab">Elle a accès à</span><span class="fx-lgs"><span title="Agenda"><i class="chip-lg lg-agenda"></i></span><span title="Gmail"><i class="chip-lg lg-gmail"></i></span><span title="WhatsApp"><i class="chip-lg lg-whatsapp"></i></span><span title="Notion"><i class="chip-lg lg-notion"></i></span><span title="Google Drive"><i class="chip-lg lg-drive"></i></span><span title="Slack"><i class="chip-lg lg-slack"></i></span></span></div>
       </div>
       <div class="fx-today" aria-label="Tâches terminées aujourd'hui"><p class="fx-th"><span>Tâches terminées aujourd'hui</span><em>5/5</em></p><ul><li style="--d:0.9s"><span class="fx-st"><i class="fx-sp"></i><i class="fx-ok"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i></span><i class="chip-lg lg-agenda"></i><span class="fx-tx"><b>Comité de direction préparé</b><small>Ordre du jour et chiffres envoyés</small></span></li><li style="--d:2.0s"><span class="fx-st"><i class="fx-sp"></i><i class="fx-ok"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i></span><i class="chip-lg lg-gmail"></i><span class="fx-tx"><b>Boîte de réception triée</b><small>4 sujets urgents remontés</small></span></li><li style="--d:3.1s"><span class="fx-st"><i class="fx-sp"></i><i class="fx-ok"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i></span><i class="chip-lg lg-notion"></i><span class="fx-tx"><b>Relevé de décisions publié</b><small>Réunion d'équipe de 9h</small></span></li><li style="--d:4.2s"><span class="fx-st"><i class="fx-sp"></i><i class="fx-ok"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i></span><i class="chip-lg lg-whatsapp"></i><span class="fx-tx"><b>Engagement relancé</b><small>Retour attendu du responsable achats</small></span></li><li style="--d:5.3s"><span class="fx-st"><i class="fx-sp"></i><i class="fx-ok"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i></span><i class="chip-lg lg-drive"></i><span class="fx-tx"><b>Dossier du conseil assemblé</b><small>Pièces rangées dans le Drive</small></span></li></ul></div>
@@ -869,23 +886,6 @@
   </div>
   <div class="wrap agent-grid">
     <div class="panel span2 accent"><h2><span class="h2-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l2.4 5 5.6.8-4 3.9 1 5.6-5-2.6-5 2.6 1-5.6-4-3.9 5.6-.8z"/></svg></span>Sa mission</h2><p class="lead">Bras droit du dirigeant : elle prépare ses réunions, filtre ses sollicitations, tient le relevé des décisions et suit les engagements pris.</p></div>
-    <div class="panel span2 ds-panel"><h2><span class="h2-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 21v-7M4 10V3M12 21v-9M12 8V3M20 21v-5M20 12V3M1 14h6M9 8h6M17 16h6"/></svg></span>À votre image</h2>
-    <div class="ds-stage" data-ds>
-    <div class="ds-left">
-      <img class="ds-big" data-ds-img src="images/djeneba/dj-tailleur.webp" alt="Djénéba, Chief of Staff">
-      <div class="ds-bub ds-you"><small>Vous, 08:02</small>Prépare le comité de direction de jeudi.</div>
-      <div class="ds-bub ds-back"><small><span data-ds-n>Djénéba</span>, 11:40</small>Tout est prêt ! Mamadou, Kouassi et Adjoua ont rendu leur partie.
-        <span class="ds-team"><img src="images/experts/av-mamadou-sq.jpg" alt=""><img src="images/experts/av-kouassi-sq.jpg" alt=""><img src="images/experts/av-adjoua-sq.jpg" alt=""><em>✓ 3 sur 3</em></span></div>
-    </div>
-    <div class="ds-card">
-      <h3>Un visage, un prénom, un style : les vôtres.</h3>
-      <p>Elle coordonne toute votre équipe d'Experts. Vous lui donnez l'allure qui vous ressemble.</p>
-      <p class="ds-lab">Son visage</p><div class="ds-row"><button type="button" class="ds-f" data-src="images/djeneba/dj-tailleur.webp" aria-pressed="true" aria-label="Visage 1"><img src="images/djeneba/dj-tailleur.webp" alt="" loading="lazy"></button><button type="button" class="ds-f" data-src="images/djeneba/detoure-1.webp" aria-pressed="false" aria-label="Visage 2"><img src="images/djeneba/detoure-1.webp" alt="" loading="lazy"></button><button type="button" class="ds-f" data-src="images/djeneba/detoure-2.webp" aria-pressed="false" aria-label="Visage 3"><img src="images/djeneba/detoure-2.webp" alt="" loading="lazy"></button><button type="button" class="ds-f" data-src="images/djeneba/detoure-3.webp" aria-pressed="false" aria-label="Visage 4"><img src="images/djeneba/detoure-3.webp" alt="" loading="lazy"></button><button type="button" class="ds-f" data-src="images/djeneba/detoure-4.webp" aria-pressed="false" aria-label="Visage 5"><img src="images/djeneba/detoure-4.webp" alt="" loading="lazy"></button><label class="ds-plus" title="Votre photo">+<input type="file" accept="image/*" class="ds-fin" aria-label="Importer une photo"></label></div>
-      <p class="ds-lab">Sa tenue</p><div class="ds-row"><button type="button" class="ds-t" data-src="images/djeneba/dj-tailleur.webp" aria-pressed="true">Tailleur</button><button type="button" class="ds-t" data-src="images/djeneba/dj-wax.webp" aria-pressed="false">Wax</button><button type="button" class="ds-t" data-src="images/djeneba/dj-chemise.webp" aria-pressed="false">Chemise</button></div>
-      <p class="ds-lab">Le fond</p><div class="ds-row"><button type="button" class="ds-c" data-bg="#C5C4FF" style="background:#C5C4FF" aria-pressed="true" aria-label="Lavande"></button><button type="button" class="ds-c" data-bg="#E0E1FF" style="background:#E0E1FF" aria-pressed="false" aria-label="Brume"></button><button type="button" class="ds-c" data-bg="#8D68FA" style="background:#8D68FA" aria-pressed="false" aria-label="Violet"></button><button type="button" class="ds-c" data-bg="#6b58fb" style="background:#6b58fb" aria-pressed="false" aria-label="Bleu violet"></button><button type="button" class="ds-c" data-bg="#301667" style="background:#301667" aria-pressed="false" aria-label="Indigo"></button><label class="ds-plus ds-plus-c" title="Votre couleur">+<input type="color" class="ds-cin" value="#8D68FA" aria-label="Votre couleur"></label></div>
-      <p class="ds-lab">Son prénom</p><input class="ds-name" type="text" value="Djénéba" maxlength="24" aria-label="Son prénom">
-    </div>
-  </div></div>
     <div class="panel span2 usecase">
     <div class="uc-txt"><span class="tag">En action</span>
       <p>Le dirigeant enchaîne cinq rendez-vous. Djénéba prépare un brief par
@@ -1417,5 +1417,24 @@ var fi=c.querySelector(".ds-fin"),ci=c.querySelector(".ds-cin"),nm=c.querySelect
 if(fi)fi.onchange=function(){var f=fi.files&&fi.files[0];if(!f)return;sel(".ds-f",null);sel(".ds-t",null);c.classList.add("ds-autre","ds-photo");big.src=URL.createObjectURL(f)};
 if(ci)ci.oninput=function(){sel(".ds-c",null);c.style.setProperty("--dsbg",ci.value)};
 if(nm)nm.oninput=function(){var v=nm.value.trim()||"Djénéba";each(c.querySelectorAll("[data-ds-n]"),function(n){n.textContent=v})}}
-function go(){each(document.querySelectorAll("[data-ds]"),init)}if(document.readyState!="loading")go();else document.addEventListener("DOMContentLoaded",go)})();</script><script>(function(){document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("[data-goto]");if(!a)return;setTimeout(function(){var x=document.getElementById(a.getAttribute("data-goto"));if(x)x.scrollIntoView({behavior:"smooth"})},350)})})();</script></body>
+function go(){each(document.querySelectorAll("[data-ds]"),init)}if(document.readyState!="loading")go();else document.addEventListener("DOMContentLoaded",go)})();</script><script>(function(){document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("[data-goto]");if(!a)return;setTimeout(function(){var x=document.getElementById(a.getAttribute("data-goto"));if(x)x.scrollIntoView({behavior:"smooth"})},350)})})();</script><script id="fxt-js">(function(){
+var TABS=[["Son quotidien",/au quotidien|sans qu.on le demande/i,"li"],["Ses livrables",/^Ses livrables/i,".spec"],["Ses compétences",/^Ses compétences/i,".skill"],["Votre cadre",/Soumis à votre accord|Ce dont (il|elle) a besoin/i,null],["Terrain et outils",/maîtrise du terrain|outils métiers/i,null]];
+function go(){Array.prototype.forEach.call(document.querySelectorAll(".agent-grid"),function(g){
+ var ps=Array.prototype.slice.call(g.children).filter(function(p){return p.classList.contains("panel")});
+ var groups=TABS.map(function(T){return ps.filter(function(p){var h=p.querySelector("h2");return h&&T[1].test(h.textContent.trim())})});
+ var first=null;groups.forEach(function(gr){gr.forEach(function(p){if(!first||ps.indexOf(p)<ps.indexOf(first))first=p})});
+ if(!first||groups.filter(function(x){return x.length}).length<3)return;
+ var bar=document.createElement("div");bar.className="fxt-bar";bar.setAttribute("role","tablist");
+ function show(n){groups.forEach(function(gr,k){gr.forEach(function(p){p.classList.toggle("fxt-off",k!==n)})});
+  Array.prototype.forEach.call(bar.children,function(b,k){b.setAttribute("aria-selected",k===n?"true":"false")})}
+ TABS.forEach(function(T,k){if(!groups[k].length)return;var b=document.createElement("button");b.type="button";b.setAttribute("role","tab");
+  var n=T[2]?groups[k].reduce(function(s,p){return s+p.querySelectorAll(T[2]).length},0):0;
+  b.innerHTML=T[0]+(n?"<em>"+n+"</em>":"");b.addEventListener("click",function(){show(k)});b.dataset.k=k;bar.appendChild(b)});
+ g.insertBefore(bar,first);
+ // tous les panneaux d'onglets passent après la barre, dans l'ordre des onglets
+ var mk=document.createComment("fxt");g.insertBefore(mk,bar.nextSibling);groups.forEach(function(gr){gr.forEach(function(p){g.insertBefore(p,mk)})});g.removeChild(mk);
+ var bs=bar.children;function showK(k){for(var i=0;i<bs.length;i++)bs[i].setAttribute("aria-selected",+bs[i].dataset.k===k?"true":"false");groups.forEach(function(gr,j){gr.forEach(function(p){p.classList.toggle("fxt-off",j!==k)})})}
+ Array.prototype.forEach.call(bs,function(b){b.onclick=function(){showK(+b.dataset.k)}});showK(+bs[0].dataset.k);
+})}
+if(document.readyState!="loading")go();else document.addEventListener("DOMContentLoaded",go)})();</script></body>
 </html>
