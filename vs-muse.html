@@ -220,7 +220,70 @@ h1 .sh-acc,h2 .sh-acc{color:#E4765A}
 if(!m||!b)return;b.addEventListener('click',function(){m.classList.toggle('open');
 b.classList.toggle('open');b.setAttribute('aria-expanded',m.classList.contains('open'));});})();
 </script>
-</body>
+<!--p212--><style id="p212-css">
+.p212{position:fixed;inset:0;z-index:9999;display:flex;align-items:center;justify-content:center;padding:16px}
+.p212[hidden]{display:none}
+.p212 .p212-bg{position:absolute;inset:0;background:rgba(28,15,61,.55)}
+.p212 .p212-box{position:relative;background:#fff;border-radius:22px;padding:28px 26px 22px;width:100%;max-width:440px;
+ box-shadow:0 30px 60px -20px rgba(28,15,61,.5);font-family:inherit;color:#1C0F3D;max-height:92vh;overflow:auto}
+.p212 h3{margin:0 0 4px;font:700 22px/1.2 'Space Grotesk',system-ui,sans-serif;color:#2B1366}
+.p212 .p212-sub{margin:0 0 16px;color:#6b6580;font-size:14px}
+.p212 label{display:block;font:600 12px/1.3 'Space Grotesk',system-ui,sans-serif;color:#6b6580;margin:0 0 12px;text-transform:uppercase;letter-spacing:.04em}
+.p212 input,.p212 textarea{display:block;width:100%;box-sizing:border-box;margin-top:6px;border:1px solid #e3def7;border-radius:12px;
+ padding:11px 13px;font:400 15px/1.4 inherit;color:#1C0F3D;background:#faf8ff;text-transform:none;letter-spacing:0}
+.p212 input:focus,.p212 textarea:focus{outline:2px solid #8D68FA;border-color:#8D68FA}
+.p212 .p212-go{width:100%;border:0;border-radius:999px;padding:13px 18px;background:#8D68FA;color:#fff;font:700 15px 'Space Grotesk',system-ui,sans-serif;cursor:pointer}
+.p212 .p212-go[disabled]{opacity:.6;cursor:default}
+.p212 .p212-x{position:absolute;top:10px;right:14px;border:0;background:none;font-size:26px;line-height:1;color:#6b6580;cursor:pointer}
+.p212 .p212-adr{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-top:14px;padding:10px 12px;border-radius:12px;background:#f1ecff;font-size:14px}
+.p212 .p212-adr a{color:#5939A6;font-weight:700;text-decoration:none}
+.p212 .p212-cp{border:1px solid #8D68FA;background:#fff;color:#5939A6;border-radius:999px;padding:5px 12px;font:600 12px 'Space Grotesk',system-ui,sans-serif;cursor:pointer}
+.p212 .p212-msg{margin:10px 0 0;font-size:14px;color:#2B1366;min-height:1em}
+</style>
+<div class="p212" id="p212" role="dialog" aria-modal="true" aria-labelledby="p212t" hidden>
+ <div class="p212-bg" data-p212-close></div>
+ <div class="p212-box">
+  <button class="p212-x" type="button" data-p212-close aria-label="Fermer">&times;</button>
+  <h3 id="p212t">Nous écrire</h3>
+  <p class="p212-sub">Une question, une idée, une demande : on vous répond par e-mail.</p>
+  <form id="p212f" novalidate>
+   <label>Votre nom<input name="nom" required autocomplete="name"></label>
+   <label>Votre e-mail<input name="email" type="email" required autocomplete="email" placeholder="vous@entreprise.ci"></label>
+   <label>Votre message<textarea name="message" rows="4" required></textarea></label>
+   <button class="p212-go" type="submit">Envoyer</button>
+   <p class="p212-msg" id="p212m" role="status"></p>
+  </form>
+  <div class="p212-adr"><span>Ou directement : <a href="mailto:contact@yelema.ai">contact@yelema.ai</a></span>
+   <button class="p212-cp" type="button" id="p212c">Copier</button></div>
+ </div>
+</div>
+<script id="p212-js">(function(){
+ var m=document.getElementById('p212'); if(!m) return;
+ var f=document.getElementById('p212f'), z=document.getElementById('p212m'), dernier=null;
+ function ouvrir(e){ e.preventDefault(); dernier=document.activeElement; m.hidden=false;
+  document.body.style.overflow='hidden'; var i=f.querySelector('input'); if(i) i.focus(); }
+ function fermer(){ m.hidden=true; document.body.style.overflow=''; if(dernier&&dernier.focus) dernier.focus(); }
+ document.querySelectorAll('footer a[aria-label="Nous écrire"]').forEach(function(a){ a.addEventListener('click',ouvrir); });
+ m.querySelectorAll('[data-p212-close]').forEach(function(b){ b.addEventListener('click',fermer); });
+ document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!m.hidden) fermer(); });
+ document.getElementById('p212c').addEventListener('click',function(){ var b=this;
+  function ok(){ b.textContent='Copié ✓'; setTimeout(function(){ b.textContent='Copier'; },1800); }
+  if(navigator.clipboard){ navigator.clipboard.writeText('contact@yelema.ai').then(ok,function(){}); } });
+ f.addEventListener('submit',function(e){ e.preventDefault();
+  var d={}; new FormData(f).forEach(function(v,k){ d[k]=String(v).trim(); });
+  if(!d.nom||!d.message||!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(d.email)){ z.textContent='Il manque votre nom, une adresse valide ou le message.'; return; }
+  var b=f.querySelector('button[type=submit]'); b.disabled=true; b.textContent='Envoi en cours…'; z.textContent='';
+  var c={_subject:'Message depuis le site Yelema', Nom:d.nom, email:d.email, Message:d.message,
+   Page:location.pathname.split('/').pop()||'index.html', _captcha:'false', _template:'table'};
+  fetch('https://formsubmit.co/ajax/contact@yelema.ai',{method:'POST',
+   headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(c)})
+  .then(function(r){ return r.json(); })
+  .then(function(r){ if(r&&String(r.success)==='true'){ f.reset(); z.textContent='Message envoyé. On vous répond rapidement.'; }
+   else { z.textContent="L'envoi n'a pas abouti. Écrivez-nous à contact@yelema.ai."; } })
+  .catch(function(){ z.textContent="L'envoi n'a pas abouti. Écrivez-nous à contact@yelema.ai."; })
+  .then(function(){ b.disabled=false; b.textContent='Envoyer'; });
+ });
+})();</script><!--/p212--></body>
 <!--
 Sources des affirmations sur Muse (consultées le 12/10/2026) :
   - IDENTITÉ : Muse = l'agent personnel de Meta (confiance moyenne : aucune page Delos « vs Muse » n'existe, delos.so/fr/vs-muse et delos.so/vs-muse en 404 ; c'est le seul « Muse » agent IA trouvé, et le site Yelema le nomme déjà « Muse (Meta) »).
